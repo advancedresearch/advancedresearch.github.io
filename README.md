@@ -1,7 +1,8 @@
 # advancedresearch.github.io
 The website for the AdvancedResearch community
 
-[List of Repositories](https://github.com/advancedresearch)
+[List of Repositories](https://github.com/advancedresearch)  
+[How to Contribute](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/CONTRIBUTING.md)
 
 ### About the AdvancedResearch community
 
