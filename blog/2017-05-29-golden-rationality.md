@@ -57,21 +57,20 @@ and those with the highest chance and benefit of survival should get priority (e
 
 The funny thing is, that the governing meta rule for adapting a group strategy matches [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule).
 In each of the cases above, the concensus for acceptable behavior can be reached by
-acting accordingly to the principle that everybody should do to others as they wish they would others do to them.
+acting accordingly to the principle that everybody should act toward others as they wish others would act toward themselves.
 
 1. In a survival situation, you shall be willing to sacrifice yourself if you want others to sacrifice themselves for you.
 2. In a situation where other people are irrelevant, you shall not expect others to think of you if you do not think of them.
 3. In a situation of interaction, you shall respect the freedom of others and figure out how to best achieve your goals together.
 
-It might sound a bit silly at first, to model friendly artificial intelligence on human religious and cultural values.
+It might sound a bit silly at first to model friendly artificial intelligence on human religious and cultural values.
 However, when you consider what kind of world we would like to live in,
 when all people have the ability to give goals to artificial intelligence,
 it is pretty clear that if all the AI only optimizes for their owner's interests,
-then there is a high chance that conflicting goals can lead to attacks on other AIs.
+then there is a high chance that conflicting goals can lead an AI starting to attack other AIs.
 
-Since AIs do not easily learn to resolve conflicts, they can easily escalate things into war.
-Collaboration is not an easy trait to learn, because it has a high complexity.
-The resulting war between AIs could be much worse than the benefit of achieving an individual goal.
+Since AIs do not easily learn to resolve conflicts by themselves (due to high complexity), they can easily escalate a conflict of interests into a war (depending on capability).
+The resulting war between AIs could be much worse than the benefit of achieving any individual goal.
 
 If humans makes the selfish rational choice, we could end up with a war in the future.
 How can we get a better outcome? By extending rationality to group rationality,
