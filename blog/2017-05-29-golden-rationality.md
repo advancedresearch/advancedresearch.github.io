@@ -14,7 +14,7 @@ then they will both get a reward that is less than optimal.
 
 At first this seems counter-intuitive, because rationality is supposed to be optimal for decision making.
 This intuition comes from the cognitive bias that humans have toward cooperation.
-However, despite this bias not being rational, humans can sometimes achieve better rewards than rational agents!
+However, despite this bias not being rational for an individual, humans can sometimes achieve better rewards than rational agents!
 
 Collaboration is the concept used in everyday language about group rationality.
 For 2 people, this long term strategy corresponds to the boolean function AND.
