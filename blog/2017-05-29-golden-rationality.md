@@ -33,7 +33,7 @@ The smallest information required to make the group strategy non-ambiguous is eq
 
 1. Communication about group strategy (requires only a few sentences at maximum efficiency)
 2. Each agent can internally transform the group strategy to actions by using common sense
-3. Measuring of progress to evaluate actions according to the agreed upon group strategy
+3. Measuring of progress to evaluate actions according to the agreed uppon group strategy
 
 For rational agents that are not specifically programmed to collaborate with others,
 they would have to learn the benefit of collaborating,
