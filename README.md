@@ -4,6 +4,10 @@ The website for the AdvancedResearch community
 [List of Repositories](https://github.com/advancedresearch)  
 [How to Contribute](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/CONTRIBUTING.md)
 
+### Blog posts
+
+- [2017-05-29 Golden Rationality](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-05-29-golden-rationality.md)
+
 ### About the AdvancedResearch community
 
 We use the programming languages [Rust](https://www.rust-lang.org/en-US/) and [Dyon](https://github.com/pistondevelopers/dyon) to develop and maintain programs, libraries and tools for idea breakthroughs in systems thinking.
