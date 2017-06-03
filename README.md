@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2017-06-03](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-03-perfect-intelligence.md)
 - [2017-05-29 Golden Rationality](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-05-29-golden-rationality.md)
 
 ### Old blog posts under the Piston project
