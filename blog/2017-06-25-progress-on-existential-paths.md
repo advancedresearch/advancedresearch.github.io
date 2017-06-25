@@ -19,7 +19,7 @@ f: A -> A
 If I ask you "what do you know about `f`?" or "how do you measure what you know about `f`?",
 most people can not give me an answer, because the standard toolbox of type theory and logic
 does not give you hints of what to look for.
-In other to understand what mathematicians are doing, you need to observe what mathematicians do and imitate them.
+In order to understand what mathematicians are doing, you need to observe what mathematicians do and imitate them.
 This problem, that there is no way to express where such ideas come from,
 makes it very hard to learn mathematics, because you need to spend a lot of time reading and learning.
 
