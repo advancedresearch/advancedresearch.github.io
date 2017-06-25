@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2017-06-25 Progress on Existential Paths](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-25-progress-on-existential-paths.md)
 - [2017-06-17 Does Nature Have Intelligence and Can We Harvest It?](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-16-does-nature-have-intelligence-and-can-we-harvest-it.md)
 - [2017-06-12 Constraints on Self Replicating Robots to Solve Climate Change](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-12-constraints-on-self-replicating-robots-to-solve-climate-change.md)
 - [2017-06-03 Perfect Intelligence](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-03-perfect-intelligence.md)
