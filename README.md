@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2017-07-20 Generalizing Path Semantics to Probability Theory](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-07-20-generalizing-path-semantics-to-probability-theory.md)
 - [2017-06-28 Standardizing Path Semantics](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-28-standardizing-path-semantics.md)
 - [2017-06-25 Progress on Existential Paths](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-25-progress-on-existential-paths.md)
 - [2017-06-17 Does Nature Have Intelligence and Can We Harvest It?](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-16-does-nature-have-intelligence-and-can-we-harvest-it.md)
