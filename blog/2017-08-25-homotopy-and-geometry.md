@@ -54,7 +54,7 @@ This information can be used for theorem proving.
 
 This means that a homotopy, from a path semantics perspective, is really about a particular kind of functions.
 
-For example, a line can be thought of a higher order function that constructs a function of type `Real -> Point`:
+For example, a line can be thought of as a higher order function that constructs a function of type `Real -> Point`:
 
 ```
 line : (Point, Point) -> (Real -> Point)
