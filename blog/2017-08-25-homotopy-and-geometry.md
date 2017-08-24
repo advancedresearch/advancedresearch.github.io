@@ -115,7 +115,7 @@ the neighbor input values give neighbor output values.
 This means between any two points on a circle, there exists a continuous deformation.
 So, the algorithm encodes a "secret homotopy" that feel natural to use.
 
-One can normalize the input such that it is between 0 and 1, such that 360 degrees is angle 1 (normalized).
+I normalized the input such that it is between 0 (0 degrees rotation) and 1 (360 degrees rotation).
 The output does not need to be normalized; it keeps the geometric shape.
 Input is normalized only to make it easier to reason about the function.
 
