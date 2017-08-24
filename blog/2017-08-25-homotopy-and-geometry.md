@@ -21,7 +21,7 @@ There is a reason many people are not good at drawing or designing.
 One obvious thing is that since we live in a complex and colorful world,
 the things we find interesting are also complex.
 Nobody wants to just create a circle, because a circle does not resemble many things in our environment.
-We want to create things that are close enough to real world objects to serve as substitute in communication.
+We want to create things that are close enough to real world objects to serve as a substitute in communication.
 
 The part of the brain that processes geometry is not good at verbalizing the geometric ideas.
 To do this we use rulers and circles, but there is almost none bidirectional feedback between the intuition we use
