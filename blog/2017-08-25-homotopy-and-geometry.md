@@ -93,7 +93,7 @@ The problem of constructing a flower is reduced to constructing a function with 
 
 A flower is not a homotopy, unless it is drawn without lifting the pencil from the paper.
 This means that homotopy only plays a significant role in constructing the building blocks for geometry,
-and this restrictuion is relaxed for complex objects.
+and this restriction is relaxed for complex objects.
 
 Still, the connection between homotopy and basic geometric shapes is very important.
 
