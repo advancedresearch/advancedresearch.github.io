@@ -60,7 +60,7 @@ For example, a line can be thought of as a higher order function that constructs
 line : (Point, Point) -> (Real -> Point)
 ```
 
-One can think of a line as a deformation of one point onto another.
+One can think of a line as a deformation of one point onto another point.
 
 ```
 line(a, b)(0) = a
@@ -70,7 +70,7 @@ line(a, b)(1) = b
 When looking up values of `line(a, b)(x)` where `x` is between 0 and 1, one gets all points that are at the line.
 
 It turns out that these functions have very nice properties that makes geometrical ideas easier to express.
-More, it fits together with Rust dynamic trait model such that one can create high performance dynamic behavior.
+More, it fits together with the Rust dynamic trait model such that one can create high performance dynamic behavior.
 
 OK, so one might think this is quite obvious that such functions can be constructed,
 and hard to understand why this form is interesting.
