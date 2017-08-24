@@ -48,7 +48,7 @@ The concept of [homotopy](https://en.wikipedia.org/wiki/Homotopy) is about defor
 using the intuition behind such deformations to reason about topological problems and theorem proving.
 One fundamental idea is the connection between type theory and spaces.
 
-In path semantics, I study sub-types defined by functions, such that even functions can have sub-types.
+In [path semantics](https://github.com/advancedresearch/path_semantics), I study sub-types defined by functions, such that even functions can have sub-types.
 These sub-types describe how functions behave.
 This information can be used for theorem proving.
 
