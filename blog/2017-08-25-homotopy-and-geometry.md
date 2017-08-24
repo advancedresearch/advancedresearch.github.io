@@ -117,7 +117,8 @@ So, the algorithm encodes a "secret homotopy" that feel natural to use.
 
 I normalized the input such that it is between 0 (0 degrees rotation) and 1 (360 degrees rotation).
 The output does not need to be normalized; it keeps the geometric shape.
-Input is normalized only to make it easier to reason about the function.
+Input is normalized to make it easier to reason about the function.
+With normalized input the construction of the shape is a no-brainer.
 
 Therefore, one can really say that such functions are constructions of the geometry they describe.
 Instead of thinking "the natural algorithm of a basic geometric object is a homotopy" one starts to think
@@ -137,7 +138,7 @@ In path semantics this is written `∃circle` for the function `circle`.
 ∃circle := \([x, y]: Point) = x^2 + y^2 <= radius^2
 ```
 
-This is the inequality describing a circle that everybody learns in math classes!
+This is the inequality describing a circle that everybody learn in math classes!
 
 What I did above is to prove that the homotopy algorithm constructs a circle using path semantics.
 No matter how big computer you build, you can never prove this point by point.
