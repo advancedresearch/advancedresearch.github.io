@@ -178,7 +178,7 @@ For example, similar types to these might be sufficient:
 
 ```rust
 Arc<Fn([f64; 2]) -> [f64; 3]> // processes a single point at a time
-Arc<Fn(&[[f64; 2]], &mut [[f64; 3]]> // built-in parallelism
+Arc<Fn(&[[f64; 2]], &mut [[f64; 3]])> // built-in parallelism
 ```
 
 Such types can be constructed from an AST (e.g. using enums).
