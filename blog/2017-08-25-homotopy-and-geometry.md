@@ -107,11 +107,12 @@ In practice it is common to generate a circle using homotopy,
 because the code is naturally easier to express when the homotopy constraint is satisfied:
 
 ```
-circle := \(t: [Real; 2) = [radius * t[1] * cos(t[0] * PI2), radius * t[1] * sin(t[0] * PI2)]
+circle := \(t: [Real; 2]) = [radius * t[1] * cos(t[0] * PI2), radius * t[1] * sin(t[0] * PI2)]
 ```
 
 Notice that when using this algorithm to generate a circle,
 the neighbor input values give neighbor output values.
+This means between any two points on a circle, there exists a continuous deformation.
 So, the algorithm encodes a "secret homotopy" that feel natural to use.
 
 One can normalize the input such that it is between 0 and 1, such that 360 degrees is angle 1 (normalized).
