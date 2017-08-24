@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2017-08-25 Homotopy and Geometry](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-08-25-homotopy-and-geometry.md)
 - [2017-08-09 Quickbacktrack 0.3 Released](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-08-09-quickbacktrack-0.3-released.md)
 - [2017-07-25 New Library for Automated Monotonic Theorem Proving](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-07-25-new-library-for-automated-monotonic-theorem-proving.md)
 - [2017-07-20 Generalizing Path Semantics to Probability Theory](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-07-20-generalizing-path-semantics-to-probability-theory.md)
