@@ -34,7 +34,7 @@ In practice, it is much harder to define both numbers and reality as functions,
 so one must not take this relation literally,
 but rather use one's imagination and think of these symbols as a more abstract concept.
 
-However, my intuition about thinking how the worlds tell me that the same way functions of particular
+However, my intuition about thinking how the world works tells me that the same way functions of particular
 kinds can be related to each other this way, is analogously similar to how e.g. reality and numbers are related.
 
 The question is then: What is reality?
