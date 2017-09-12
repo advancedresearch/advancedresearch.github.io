@@ -227,7 +227,7 @@ For example, you get born as a human baby, and slowly grows into an adult brain,
 then you gradually merge with a newly discovered information technology,
 until you become part of an ever-growing complex network!
 
-Or, perhaps all incredibly unlikely technological race we observe today is just a coincidence?
+Or, perhaps the incredibly unlikely technological race we observe today is just a coincidence?
 
 ### Going Deeper and More Serious About an Even More "Real" Reality
 
