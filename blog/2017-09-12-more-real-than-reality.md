@@ -82,7 +82,7 @@ it is merely a consequence of the following pieces:
 3. The order of input arguments does not matter
 
 For all we know there could be a world for every way of ordering the input arguments,
-but right now we have no way to test this, so we have to leave this topic too and continue.
+but right now we have no way to test this, so we have to leave this topic too for discussion and continue.
 
 ### The Reality Beneath Reality
 
