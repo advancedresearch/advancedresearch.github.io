@@ -182,7 +182,7 @@ came in super-position, where one version of yourself thinks "yes!" and the othe
 As these two versions of yourself started interacting with the world,
 they caused the environment to enter in a similar super-position state.
 Slowly, at the speed of light, the world starts to branch off in two major directions,
-one where you believe in more than copies and one where you believe in a single copy of yourself.
+one where you believe in more copies and one where you believe in a single copy of yourself.
 
 The brain processes information, and this has a lot in common with the nature of functions.
 Some people believe you can measure how much a network of information processing mechanism will generate consciousness.
