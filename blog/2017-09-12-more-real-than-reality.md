@@ -110,7 +110,7 @@ It takes a totally different way of thinking about the world than the way we are
 However, it seems that the ingredients for justifying such extraordinary claims are justifiable:
 
 1. The universe could undergo a rapid, eternal cosmic inflation
-2. The observer selection effects, by simply existing inside the unverse, could be extreme
+2. The observer selection effects, by simply existing inside the universe, could be extreme
 
 The problem with calculating such predictions is that they are very sensitive to
 how you compute the limits. If you make a small mistake, you could end up with a complete different world.
