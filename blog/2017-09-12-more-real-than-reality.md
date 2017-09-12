@@ -168,7 +168,7 @@ This is a pretty weird idea, but the question is: Do we have the right ingredien
 
 ### Everett Branches of Yourself
 
-*Notice: The follow is not how the Everett interpretation of quantum mechanics works,
+*Notice: The following is not how the Everett interpretation of quantum mechanics works,
 but let us assume something similar happens for the sake of the thought experiment.*
 
 Imagine that for a few moment ago, there was just a single copy of yourself in the entire universe.
