@@ -87,7 +87,7 @@ but right now we have no way to test this, so we have to leave this topic too fo
 ### The Reality Beneath Reality
 
 Once upon a time, some people on a small planet called "earth" discovered the laws of light and electricity.
-One of was [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) who did a lot of experiments and
+One of them was [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) who did a lot of experiments and another was
 [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) who formulated the theory of classical electromagnetism.
 
 It took a while from that point in history before some other people discovered that the laws of electromagnetism
