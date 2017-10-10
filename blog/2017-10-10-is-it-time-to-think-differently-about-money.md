@@ -15,7 +15,7 @@ Then, I realized some important things:
 I think the time is ready for thinking closer about a such change:
 
 1. The environmental destruction caused by humans is now increasing the probability of causing our own extinction
-2. We have all the ingredients needed for a such change, all is left is finding the right receipt
+2. We have all the ingredients needed for a such change, all left to do is finding the right receipt
 
 Sometimes it feels like we are making new discoveries and inventions, but we are not moving forward.
 It is not like I want a such change in itself, but I am still waiting for the current system to do something significant,
