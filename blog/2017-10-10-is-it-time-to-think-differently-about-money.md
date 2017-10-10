@@ -48,7 +48,7 @@ Of course, because these goals are so complex, it is very hard just sit down and
 
 A Gini solver is an algorithm that balances an economy to a target level of economic inequality.
 When tested under random transactions, it is capable of doing this near perfectly for the whole range
-of Gini indices measured in countries across the world, from Skandinavian countries where inequality is lowest,
+of [Gini coefficients](https://en.wikipedia.org/wiki/Gini_coefficient) measured in countries across the world, from Skandinavian countries where inequality is lowest,
 to the most corrupt countries where inequality is highest.
 
 With other words, if you're a person who wants to live in a society with opportunities,
