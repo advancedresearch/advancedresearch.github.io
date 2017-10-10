@@ -43,6 +43,7 @@ Properties I think an ideal economic system should have:
 4. It should motivate people to use their talents and learn new skills
 
 Of course, because these goals are so complex, it is very hard just sit down and design the perfect system.
+The thing I am thinking about is a way to improve the current state significantly for a lot of people, not solving the whole problem.
 
 ### What is a Gini solver?
 
