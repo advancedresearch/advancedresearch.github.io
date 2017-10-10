@@ -148,7 +148,7 @@ The result is that as soon the software is working properly,
 people will switch at the maximum rate society is capable of changing mentally.
 Which is the best we can hope for!
 
-The same motivation people have to switch, is the same they will have to work:
+The same motivation people have to switch, is the same they have will to work:
 By getting more money, they get more money in the future, so they will try to find ways to get more money.
 
 ### What happens if things go wrong?
