@@ -12,7 +12,7 @@ Then, I realized some important things:
 1. Money systems are not really this giant monolithic system, but a web of smaller networks
 2. The change only needs to happen gradually and influence new ideas to take it to the next step
 
-I think the time is up for thinking closer about a such change:
+I think the time is ready for thinking closer about a such change:
 
 1. The environmental destruction caused by humans is now increasing the probability of causing our own extinction
 2. We have all the ingredients needed for a such change, all is left is finding the right receipt
