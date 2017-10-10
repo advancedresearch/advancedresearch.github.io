@@ -19,7 +19,7 @@ I think the time is up for thinking closer about a such change:
 
 Sometimes it feels like we are making new discoveries and inventions, but we are not moving forward.
 It is not like I want a such change in itself, but I am still waiting for the current system to do something significant,
-and despite large efforts, it has not happened yet, like getting some of those greenhouse gases out.
+and despite large efforts, it has not happened yet, like getting some of those greenhouse gases out of the air.
 
 What if I told you that there might be a relatively easy way to fix economic inequality,
 and increasing efforts to solving climate change at the same time?
