@@ -56,7 +56,7 @@ and those with the highest chance and benefit of survival should get priority (e
 3. In a situation where agents are interacting, they should collaborate (logical AND).
 
 The funny thing is, that the governing meta rule for adapting a group strategy matches [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule).
-In each of the cases above, the concensus for acceptable behavior can be reached by
+In each of the cases above, the consensus for acceptable behavior can be reached by
 acting accordingly to the principle that everybody should act toward others as they wish others would act toward themselves.
 
 1. In a survival situation, you shall be willing to sacrifice yourself if you want others to sacrifice themselves for you.
