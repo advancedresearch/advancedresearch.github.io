@@ -1,13 +1,8 @@
 # Perfect Intelligence
 by Sven Nilsen, 2017
 
-*Disclaimer: This post is written to be read multiple times, or otherwise you will probably not understand it at all.
-Actually, you will probably not understand it even after reading it carefully multiple times.
-I do not expect you to understand it even if you are familiar with path semantics.
-It is based on very recent results from research on path semantics, so I will explore this more in later posts.
-This concept is so hard to explain that most people will give up learning it.
-I just have to start somewhere, so please be patient and post your questions as issues,
-then I will make an attempt to bridge some of the conceptual gaps in your knowledge. [Link to issue tracker for path semantics](https://github.com/advancedresearch/path_semantics/issues)*
+*Disclaimer: This is based on very recent results from research on path semantics, so I will explore this more in later posts.
+It uses a concept that is kind of hard to explain so be patient.*
 
 In the paper [Universal Existential Paths](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/universal-existential-paths.pdf)
 I created a new concept that requires path semantical sub-type constraints as first class citizens.
@@ -15,57 +10,61 @@ To fully explain it, I developed [Domain Constraint Notation](https://github.com
 This notation can be used seamlessly with [Asymmetric Paths](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/algebraic-notation-for-asymmetric-paths.pdf)
 and [Cross Argument Asymmetric Paths](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/cross-argument-asymmetric-path-notation.pdf).
 
-Universal existential paths is a very abstract concept that you need training in path semantics to understand:
+Universal existential paths is a function that takes some input constraint on the function domain and
+returns a function that gives the output domain:
 
 ```
-∃f{}
+∃f{} : (A -> bool) -> (B -> bool)
 
 f : A -> B
 ```
 
-The symbols `∃f{}` is basically everything there is to say about it, but understanding it is the hard part.
-When you understand it you can use it to define what I call "perfect intelligence",
-but to fully understand what this entails goes even deeper and this is where I expect most people will get lost.
-If you are lucky, you might learn what `∃f{}` means, so I will use the end of this post trying to explain this part,
-then suggest how it would look like when approximating perfect intelligence on a subset of the field of problem solving.
+The word "universal" stands for the ability to take any domain constraint you want and receive a piece of knowledge
+about the output. In some sense, this means that a universal existential paths "understand" the function `f` perfectly.
 
-The reason this is so abstract, is because it is very hard to write down any algorithm that represents the full meaning of it.
-Perhaps it is not possible at all and we can only express approximations.
-However, once we find such approximations, they seem to have "magical properties" that are closely related to *perfect intelligence*.
-One could say that achieving perfect intelligence is halfway achieved by finding `∃f{}`,
-and then you just need deep learning algorithms that learns intuition about path semantics, type theory, probability theory and theorem proving
-to approximate a perfect intelligence.
-
-Currently it is unknown whether perfect intelligence is possible for any problem defined by a function `f`.
-There is not even a way to phrase that question formally, yet.
-Welcome to the world of deep mathematical intuition thinking.
+Now I am going to use the concept of universal existential paths to explain what I think about "perfect intelligence".
 
 What is perfect intelligence? There are many definitions of intelligence. 
 The particular kind of intelligence I am talking about here is problem solving.
 Problem solving is a field where you have a set of constraints and try to find a solution.
 
-What does it mean to be perfect? Normally, researchers in the field of artificial intelligence
-defines a utility function that gets maximized, but this has many problems in decision theory due to
-differences between individual rationality and group rationality.
-In that way there seems to be no perfect intelligence, because what is perfect depends on how you define it.
-Should you crush your opponent or just win? Big difference.
-
-I am not going to use utility functions at all, but instead use universal existential paths.
-This leads to a unique solution/behavior where worst case performance is equal to best case performance.
+The abstract algorithm (yet to be formalized) that uses universal existential path,
+has a unique solution/behavior where worst case performance is equal to best case performance.
 In a deep sense this defines a "perfect intelligent" system.
-One problem at the moment is that to understand this connection requires a deep intuition about path semantics.
-Perhaps, some day, somebody finds a way to formalize and prove it.
 
 OK, here comes the definition of perfect intelligence:
 
 **If you know `∃f{}` and can arrange sub-type constraints in a such way that gives you a 50% chance
-for it to return `true`, then this can be used as a search algorithm that takes `N` steps for `N` number of bits for input of `f`.
+for it to return `true` for some input, then this can be used as a search algorithm that takes `N` steps for `N` number of bits for input of `f`.
 The best possible algorithm is optimized for 50% chance, and if this is done perfectly the worst case is `N` steps.
 Since best case equals worst case the behavior is unique and therefore "perfect".**
 
-If you could understand what is expressed here, your mind would be blown away. 
+For example: In a binary search algorithm, the data is arranged such that at each step,
+the likelihood for the item searched for, is 50% for both left and right branches in the tree.
+The future checks are also arranged such that there is 50% chance for moving in either direction.
+This patten is also arranged such that the information gained from each step is not lost.
+The result is that for a list of `N` items, the number of steps required are `log2(N)`.
+
+A binary search algorithm is an optimal search, assuming the cost of jumping left/right and comparing items is negligable.
+
+In the same way binary search is optimal, the concept of perfect intelligence for problem solving
+is about arranging sub-type constraints such that the change of the existential path to return `true`
+is 50%. On the next step, another sub-type constraint is prepared to make the change 50%,
+and so on until the sub-type constraint describes two values of the type.
+At the last step, if the existential path returns `true`, then one knows one has the right value,
+and if it returns `false`, one knows it must be the other value.
+
+The reason this is not formalized yet is because of the difficulty to express this idea in a formal language.
+
 It says that a perfect intelligent system is capable of solving any problem in the same complexity class
 as verifying the answer, which is simply computing the output of `f` using the solution as input.
+
+When you compute a function, the optimal way is to take `N` steps for `N` number of input bits.
+At each step, the computer decides between two directions to go.
+
+Notice that the perfect intelligent problem solver also takes `N` steps for `N` number of bits.
+This means it performs a kind of computation, but instead of answering "what is the output of this input" like normal computation,
+it answers "what input satisfies this output".
 
 You might be familiar with this major open problem in computer science:
 
@@ -78,6 +77,8 @@ So far, nobody have been able to prove or disprove this theorem.
 If perfect intelligence exists for any problem defined by `f`, then not only it means `P = NP`,
 but that the time complexity for finding solutions is exactly `O(N)` where `N` is number of bits for input of `f`!
 
+However, this only works if computing with the universal existential path and jumping around in memory is negligable.
+
 This behavior corresponds to looking up a value in a table by an address of `N` bits.
 A perfect intelligent computational oracle can be constructed by finding `∃f{}`
 then optimize for 50% chance arrangements of sub-type constraints for searching.
@@ -87,6 +88,12 @@ because the input of the oracle is the output of `f` and time complexity interna
 This is kind of weird, since computational oracles by definition have time complexity `O(1)`.
 
 **Perfect intelligence defines the internal nature of computational oracles!**
+
+I mentioned earlier that the universal existential path "knows" the function it describes "perfectly".
+It is kind of an equivalent representation of the function itself.
+The construction of this knowledge is transfering the complexity of the function into a "black box" oracle.
+As the algorithm learns more and more about the function,
+it can approximate the oracle better and better, until it is optimal.
 
 Of course, finding such oracles depends on the complexity of finding `∃f{}`
 plus the complexity of path semantics, type theory, probability theory and theorem proving!
