@@ -79,7 +79,7 @@ using the golden rule as a meta-rule for achieving consensus. I call it *golden 
 So, how do we achieve this?
 
 1. Once artificial intelligence reaches human level, we standardize it with golden rationality.
-2. All use of artificial intelligence that does have golden rationality is banned.
+2. All use of artificial intelligence that does not have golden rationality is banned.
 3. We distribute the AI standard for free, because it pays for itself.
 4. All people can use the standard AI to accomplish any tasks, but now we are more confident it will be better for everyone.
 
