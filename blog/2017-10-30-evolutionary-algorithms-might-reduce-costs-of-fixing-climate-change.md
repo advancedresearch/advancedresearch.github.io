@@ -20,7 +20,7 @@ The rain is collected by rivers into dams of water and then falls through turbin
 
 In the end, only a fraction of the original source of energy (the sun) is utilized (electricity).
 When using a general ability to solve problems, such as electricity and computers,
-it creates a frame of mindset limited by how the electricity is generated and how computers are design,
+it creates a frame of mindset limited by how the electricity is generated and how computers are designed,
 which in turn leads to a *cognitive bias* (a bottleneck in the brain) for addressing the problem.
 
 It is no wonder that when people look at climate change the problems that follow,
