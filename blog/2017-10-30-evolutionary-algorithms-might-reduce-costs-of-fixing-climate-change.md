@@ -56,7 +56,7 @@ but rather is piggy-backing a much larger system, which one might call "the plan
 A temperature gradient that is capable of driving the weather, is equally able to drive engines and chemical processes.
 It is a matter of repurposing some of this available energy into fixing the problem.
 
-The landmasses and most land based life is importing their energy from the ocean.
+Most land based life is importing a lot of their energy from the ocean.
 If we want to get close to the source of this energy, we need to go to the ocean.
 This is how we get rid of the energy bottleneck.
 
