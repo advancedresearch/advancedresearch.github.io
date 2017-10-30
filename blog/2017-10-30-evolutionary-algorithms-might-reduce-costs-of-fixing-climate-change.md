@@ -104,7 +104,7 @@ without needing the surface area required to absorb CO2 efficiently.
 The ocean itself does half the work!
 
 Basically, you need lots of lots of lots plants growing down from floating devices,
-which are produced by material produces by the plants, using energy sources available everywhere for assembly.
+which are produced by material produced by the plants, using energy sources available everywhere for assembly.
 
 After enough plant material is collected, it can be compressed and sunk to the bottom of the ocean,
 or utilized for economic benefits.
