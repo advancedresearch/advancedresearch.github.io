@@ -156,8 +156,8 @@ that is able to perform efficiently under a large variety of weather, waves and 
 by utilizing local energy sources and then grow materials needed for tasks/construction,
 without posing any danger to humans, and with proper precaution, have little effect on the environment.
 
-If one was to produce a single, centralized device to fix climate change,
-it would need to be extremely complex and hard to optimize.
+If one produces a single, centralized device to fix climate change,
+it would need to be extremely complex and therefore hard to optimize.
 
 On the other hand, a distributed system consisting of many units that learns from each other,
 self-optimizes faster the more units there are, so choosing the right architecture in the beginning
