@@ -58,7 +58,7 @@ It is a matter of repurposing some of this available energy into fixing the prob
 
 Most land based life is importing a lot of their energy from the ocean.
 If we want to get close to the source of this energy, we need to go to the ocean.
-This is how we get rid of the energy bottleneck.
+This is how we get rid of the energy source bottleneck.
 
 ### 2) The material bottleneck
 
