@@ -9,7 +9,7 @@ The basic problem of fixing climate change is the following:
 2. Store the gases safely
 3. Do so on a super-scale at extremely low cost
 
-Mankind is not currently suffering from a cognitive bias that follows with how we spend energy:
+Mankind is currently suffering from a cognitive bias that follows with how we spend energy:
 
 - The energy infrastructure is centralized
 - Only a fraction of the available energy is utilized
