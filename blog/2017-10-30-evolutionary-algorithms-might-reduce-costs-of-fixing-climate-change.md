@@ -32,7 +32,7 @@ In this post I will address the 3 main bottlenecks to fix climate change.
 
 1. The energy source bottleneck
 2. The material bottleneck
-3. The algoritmic complexity bottleneck
+3. The algorithmic complexity bottleneck
 
 I will first put some effort to explain the 2 first ones, because the 3rd is building on top of the two.
 
