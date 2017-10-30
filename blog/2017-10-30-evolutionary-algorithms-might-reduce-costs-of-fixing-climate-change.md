@@ -86,21 +86,22 @@ so it might be possible to increase the energy efficiency a lot.
 When humans visualize plants, they think of some structure growing up, against the force of gravity.
 Still, every boat owner knows, learned through lot of frustration,
 that plants are affecting their floating transporting device
-in the opposite direction. In the ocean, plants grows *down* instead of up.
+in the opposite direction. In the ocean, plants grow *down* instead of up.
 What the plants need is a surface to grow on, sunlight, and nutritions from the sea water.
 
 This is a source of material that can be utilized at relatively low level of energy.
 Instead of trying to defeat gravity by growing up toward the source of light, which requires extra energy,
 the plants are able to grow down from a surface held up by water pressure.
-The reason plants grow up on land is because they compete against other plants for light,
+The reason plants grow upward on land is because they compete against other plants for light,
 but this is not needed on the ocean where there is plenty of space.
 
-This is another way of demonstrating how energy processes that people are accustomed to shape their thinking.
+This is also a demonstration of how energy processes that people are accustomed to, shapes their thinking.
 A simple thing like "plants grow up" must be changed to "plants grow down".
 
-When plants grow in the ocean, they extract CO2 from sea water.
+When plants grow down in the ocean, they extract CO2 from sea water.
 Since sea water is capable of absorbing CO2, one can indirectly extract CO2 from the air,
 without needing the surface area required to absorb CO2 efficiently.
+The ocean itself does half the work!
 
 Basically, you need lots of lots of lots plants growing down from floating devices,
 which are produced by material produces by the plants, using energy sources available everywhere for assembly.
@@ -136,12 +137,14 @@ This means the same network could be used in a system with many units of relativ
 
 The bottleneck is the scale of the total complexity, not the complexity of each individual part.
 
-Regarding the issue of the safety, a such system will not pose any danger to humans or the environment,
+For safety concerns, a such system will not pose any danger to humans or the environment,
 as long the hardware does not allow it to make actions that go undetected and which have not shown up under testing.
 Without evolutionary pressure that favors dangerous behavior, an evolved population of algorithms will not evolve dangerous behavior.
+Also, reduced complexity restricts the range of theoretically possible dangerous behavior.
 
 A system designed to fix climate change does not need to evolve its hardware,
 but only the software that controls the hardware.
+If one unit displays undesirable behavior, it can swap its software from a unit that displays desirable behavior.
 
 In nature, evolution happens by random mutations and cell mechanisms for turning genes on/off.
 This requires many generations before an adoptive behavior emerges across the population.
@@ -160,5 +163,9 @@ On the other hand, a distributed system consisting of many units that learns fro
 self-optimizes faster the more units there are, so choosing the right architecture in the beginning
 yields larger returns on investment in the end.
 
-This means evolutionary algorithms might vastly reduce the cost of fixing climate change,
-because of the reduced complexity within each unit, and the increasing optimizations with scale.
+This means evolutionary algorithms might reduce the cost of fixing climate change,
+because of the reduced complexity within each unit, and the optimization benefits increasing with scale.
+
+Another benefit is that one does not need to design the whole system upfront.
+Just give it general abilities for input/output to perform the tasks that are needed.
+This reduces cost in the planning and prototyping phase, which allows more planning and prototyping for the same amount of investment, enabling a more secure and capable system.
