@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2017-11-28 The Stone and the Glass House](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-11-28-the-stone-and-the-glass-house.md)
 - [2017-10-30 Evolutionary Algorithms Might Reduce Costs of Fixing Climate Change](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-10-30-evolutionary-algorithms-might-reduce-costs-of-fixing-climate-change.md)      
 - [2017-10-11 Is it time to think differently about money?](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-10-10-is-it-time-to-think-differently-about-money.md)  
 - [2017-09-12 More Real Than Reality](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-09-12-more-real-than-reality.md)
