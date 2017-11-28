@@ -23,7 +23,7 @@ A lot of traits that human have, such as desire to make more money, is a benchma
 to fit the human genetic makeup and culture, and completely irrelevant for most other life forms.
 An AI would only think of making more money if it operated under similar constraints that humans have.
 Most of the things we do would be completely meaningless, when it could survive million of years all by itself.
-It is only when AI is programmed to solve humans problems it becomes meaningful to us.
+It is only when AI is programmed to solve human problems it becomes meaningful to us.
 
 It is better to think of the phrase "super-biological intelligence" rather than mere super-human intelligence.
 
