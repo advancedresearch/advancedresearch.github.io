@@ -24,9 +24,9 @@ The absence of progress in the 70's was probably caused by a simple reason:
 
 *The technology to fix the problems did not exist.*
 
-I think Alan Watts understood this and was intellectual honest about it,
+I think Alan Watts understood this and was intellectually honest about it,
 so the best idea he could come up with was trying to educate people about the relationships
-of the biological existence of humans and the world, in order to encourage them to take on a passive role.
+of the biological existence of humans and the world, which he empathized as a spiritual realization, in order to encourage them to take on a passive role.
 
 Using the benefit of hindsight since then and combining it with new knowledge, I will claim the following:
 
