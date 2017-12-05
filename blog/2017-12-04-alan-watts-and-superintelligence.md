@@ -61,7 +61,7 @@ One issue is that tiny mistakes can have catastrophic outcomes, another issue is
 
 Even when thinking about such machines that are perfectly safe, they seem to have an intrinsic property of "scariness".
 For example, by trying to fix climate change, a such machine could become more powerful than the whole of humanity.
-There is a different between being "clever" (the usual way we think about intelligence) and "powerful" (what intelligent systems become when confronted with a difficult problem).
+There is a difference between being "clever" (the usual way we think about intelligence) and "powerful" (what intelligent systems become when confronted with a difficult problem).
 A universally intelligent machine will be able to scale up arbitrary in power within physical constraints.
 
 A narrow AI, despite being pretty sophisticated, will not pose the same danger as it is much more constrained.
