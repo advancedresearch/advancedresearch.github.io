@@ -252,3 +252,5 @@ Me: Teach me zen!
 Alan: Fix climate change. You can do it.  
 Me: Aaarrgghh!!  
 Alan: As predicted.  
+
+[Second Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-20-second-conversation-with-the-first-zen-robot-in-2050.md)
