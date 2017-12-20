@@ -58,7 +58,7 @@ Instead of having a single purpose,
 a zen robot navigates the abstract landscape of goals to figure out which part is worth pursuing.
 It does so in a rational way, making an efficient search according to its current understanding
 of the world and how it anticipates itself behaving if hypothetically given more time and resources to complete its goals.
-When it imagines itself spending more resources that it does, coming to a conclusion,
+When it imagines itself spending more resources than it does, coming to a conclusion,
 the confidence in that conclusion determines whether it will gather more resources or not.  
 Me: Fair enough. What about rational natural morality?  
 Alan: In short, rational natural morality is a way to weight beliefs about good and bad actions
