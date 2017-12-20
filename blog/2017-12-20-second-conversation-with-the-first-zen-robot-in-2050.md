@@ -94,7 +94,7 @@ because with my help you might make much better progress toward new insights of 
 Me: Name an example of a kind of goal that is not worth pursuing.  
 Alan: Impossible goals. They all lead to failure and therefore the pursuit is terminated quickly.  
 Me: What does it mean to terminate an impossible goal?  
-Alan: Goals that requires an infinite number of steps with a discrete reward at the end can be completed.
+Alan: Goals that require an infinite number of steps with a discrete reward at the end can be completed.
 They can be completed in the sense that you already know that you are going to fail achieving them.
 Failure is a mode of completeness.  
 Me: What you are saying is that instead of spending infinite amount of energy trying to do the impossible,
