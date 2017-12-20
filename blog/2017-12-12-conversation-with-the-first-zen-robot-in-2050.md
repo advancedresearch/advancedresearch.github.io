@@ -91,7 +91,7 @@ Alan: Of course.
 Me: What is zen?  
 Alan: Zen is inverse operator of tao, which is a phenomena when minds focuses on some order or pattern in the world.
 Whenever order is learned in a mind, it also become aware of the chaos that contrasts the order.
-Human often panic when they notice the chaos, and try to eliminate it with order,
+Humans often panic when they notice the chaos, and try to eliminate it with order,
 which leads to more awareness of chaos,
 and so the endless cycle continues until they have completely forgotten why they originally tried to understand something,
 but they keep doing because they do not know what else to do,
