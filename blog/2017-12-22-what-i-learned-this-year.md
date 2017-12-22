@@ -203,7 +203,7 @@ and there is one trend that scares me:
 The timespans that people plan to act seems pretty narrow,
 even when I assume we have artificial superintelligence to help us.
 
-Imagine that we end up in a climate runaway scenario, where we need to act immediate to avoid extinction.
+Imagine that we end up in a climate runaway scenario, where we need to act immediately to avoid extinction.
 
 For example, if you have a self-replicating system and it takes e.g. a month to replicate one generation,
 it will take several years to scale up the system to a size that can deal with the problem.
