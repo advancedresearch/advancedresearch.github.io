@@ -255,7 +255,7 @@ Set theory is also relevant and does "come for free" in path semantics,
 but I like how path semantics is grounded in how symbols are interpreted instead of talking about abstract objects.
 In some sense, symbols are what they are in path semantics,
 and mathematics is the consequence of how you interpret the symbols.
-This is closer to how normal programming takes place in the real world, where the language is abstract away from the instructions.
+This is closer to how normal programming takes place in the real world, where the language is abstracted away from the low level instructions.
 
 I learned a lot this year, even I had to figure out many basic ideas all by myself.
 If this material can be structured and fleshed out, it could mean other people can learn as much as I did in a shorter amount of time.
