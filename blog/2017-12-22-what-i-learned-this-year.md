@@ -247,7 +247,7 @@ While working on this, I also understood more about what other people were doing
 Without learning path semantics first, I doubt that I would be able to understand more.
 This is my goal, to make path semantics a way for programmers to get familiar with ideas from advanced mathematics.
 
-Some people pointed out that path semantics looks a like computational type theory,
+Some people pointed out that path semantics looks like computational type theory,
 and I think it is true that all mathematical ideas are connected.
 I read some computational type theory, but I think path semantics is better a communicating the prediction aspects of computation.
 
