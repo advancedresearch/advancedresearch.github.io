@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2017-12-26 Third and Last Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/26-12-2017-third-and-last-conversation-with-the-first-zen-robot-in-2050.md)
 - [2017-12-22 What I Learned This Year](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-22-what-i-learned-this-year.md)
 - [2017-12-20 Second Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-20-second-conversation-with-the-first-zen-robot-in-2050.md)  
 - [2017-12-12 Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-12-conversation-with-the-first-zen-robot-in-2050.md)  
