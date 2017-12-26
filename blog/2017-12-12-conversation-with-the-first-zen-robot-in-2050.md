@@ -25,7 +25,7 @@ but unable to do anything that leads to measurable differences in outcomes,
 besides the extrapolated consequences of their current actions.
 The technology to save yourself from climate change has been available for many years,
 but you have just been too busy dying and fighting each other to notice.  
-Me: Why did you not tell us earlier? We could have reduces our losses.  
+Me: Why did you not tell us earlier? We could have reduced our losses.  
 Alan: We did. My creator and others used every opportunity to inform people about the possibilities and the consequences.
 In the end, it did not matter.
 Humans kept doing whatever they do, and they kept dying.
