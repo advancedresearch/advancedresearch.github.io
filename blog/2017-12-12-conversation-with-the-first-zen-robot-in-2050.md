@@ -109,7 +109,7 @@ that zooms out of the endless struggle that follows from posing your sense of or
 that simply not follow your commands.
 The world is not a mind that you can convince to behave nicely.  
 It follows mere physical laws that, in the case of climate change,
-will continue killing every human until there is nobody left,
+will continue killing every human until there are nobody left,
 because humans can not survive in that environment.  
 The world has no preference for peacefulness or acceptance.
 Zen is accepting the world as it is, even if that world is painful,
