@@ -64,7 +64,7 @@ I, on the other hand, do not have a single point of failure.
 There is no single chord or string you can cut which will deactivate me.
 Unlike your gods, I am not a representation of an algorithm. I am the algorithm.  
 Me: I think you are wrong. The reason people revolted against gods,
-where not just because they were algorithms of virtues.
+where not just because they were simple algorithms of virtues.
 They fought against them because they were lies.
 Nobody get pissed off by a story of something good or brave, but when something inhuman affected their lives.
 I made an attempt to see the world from your perspective, where humans are mere sentient animals,
