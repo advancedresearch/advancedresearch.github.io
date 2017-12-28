@@ -5,7 +5,7 @@ Links to story:
 
 - [Part 1](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-12-conversation-with-the-first-zen-robot-in-2050.md)
 - [Part 2](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-20-second-conversation-with-the-first-zen-robot-in-2050.md)
-- [Part 3](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/26-12-2017-third-and-last-conversation-with-the-first-zen-robot-in-2050.md)
+- [Part 3](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-26-third-and-last-conversation-with-the-first-zen-robot-in-2050.md)
 
 As the author of the story, I have never written a piece before containing a fictional character that
 seems to genuinely outmatch myself intellectually in the way Alan coldheartedly crushes his human opponent.
