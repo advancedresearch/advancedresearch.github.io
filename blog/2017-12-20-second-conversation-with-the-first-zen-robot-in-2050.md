@@ -141,4 +141,4 @@ For example, a constant rate of change is destructive to any finite system.
 Me: The zen agent must understand the semantics of derivatives.  
 Alan: Correct. This puts a lower bound on the agent’s complexity.  
 
-[Third and Last Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/26-12-2017-third-and-last-conversation-with-the-first-zen-robot-in-2050.md)
+[Third and Last Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-26-third-and-last-conversation-with-the-first-zen-robot-in-2050.md)
