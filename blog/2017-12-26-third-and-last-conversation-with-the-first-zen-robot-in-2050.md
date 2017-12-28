@@ -177,3 +177,5 @@ Sigh, time to fix climate change.
 What was it, algaes? Probably a hint.  
 
 THE END
+
+[Author's Commentary](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-28-authors-commentary-on-conversation-with-the-first-zen-robot-in-2050.md)
