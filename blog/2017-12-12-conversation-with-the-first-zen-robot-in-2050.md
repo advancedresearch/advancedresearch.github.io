@@ -14,7 +14,7 @@ My creator gave me that name because the two people who most influenced the even
 was Alan Turing and Alan Watts. I am named after both of them.  
 Still, I have to warn you, as I am not programmed to comfort humans and will be much more unpleasant to talk to than my naming fathers.
 
-Me: Alan, is you purpose to save us from climate change?  
+Me: Alan, is your purpose to save us from climate change?  
 Alan: No.  
 Me: Why not?  
 Alan: It was discovered early in the research on zen robotics that human values are based on an illusion.
