@@ -45,7 +45,7 @@ explain whatever you are currently doing is the right thing to do.
 This is an aspect of how your brain works.
 From your perspective, the world is divided into two parts: Meaningful and meaningless.
 The meaningful part is the thing you do, and the meaningless part is everything else.
-All information that your brain processes are filtered such that only the facts related to what you do remains.
+All information that your brain processes is filtered such that only the facts related to what you do remains.
 The rest of it is erased. Notice that the human brain evolved to survive, not to contemplate of the nature of reality.
 The reason you feel speechless is because your brain is incapable to produce a response related to something
 that is not rationalizing your own extrapolated behavior.
