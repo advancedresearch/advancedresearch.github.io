@@ -230,7 +230,7 @@ For example, it could be extremely unlikely that a paperclip maximizer would des
 or it could also be extremely likely!
 
 Imagine that creating a paperclip maximizer is very easy,
-and creating one with goals that humans goals find useful is nearly impossible.
+and creating one with goals that humans find useful is nearly impossible.
 Perhaps we are just living in an illusion about our goals,
 so we are not really maximizing them like we think we do,
 not because we are not behaving rationality,
