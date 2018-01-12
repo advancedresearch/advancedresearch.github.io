@@ -244,7 +244,7 @@ Mathematically, this would imply that the two axes are not orthogonal.
 I believe the overall problem is that we can not sample this landscape enough
 to make a confident claim in either direction.
 We do not have time machines or a way to transport ourselves to parallel timelines,
-where could conduct experiments using different configurations.
+to could conduct experiments using different configurations.
 There is maximum one earth observed from any given location in space-time.
 
 However, I think that higher order reasoning could be a sort of mathematics
