@@ -59,7 +59,7 @@ I did not expect any response, because Nick Bostrom is superfamous, and he even 
 until he suddenly dropped me down a rabbit hole! :)
 
 From my perspective, Nick's view seems to be that in an argument about reality
-(which is has many number of bits and therefore a complex proof in logic),
+(which has many number of bits and therefore a complex proof in logic),
 an assumption should be only taken into account if you can assign it at least a reasonable threshold of confidence.
 I agree with that position.
 
