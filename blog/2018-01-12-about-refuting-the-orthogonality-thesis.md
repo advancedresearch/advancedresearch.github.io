@@ -119,7 +119,7 @@ Yes, there have been people like that.
 Would people discover complex numbers if they only could work with natural numbers? Probably not.
 
 However, there is some truth to the idea that only natural number exists.
-Computers uses bits to store information, which are equivalent to natural numbers,
+Computers use bits to store information, which are equivalent to natural numbers,
 so one can think of everything being based on natural numbers.
 
 Except, when you start using quantum computers, you might want to use complex numbers for efficiency.
