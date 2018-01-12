@@ -4,8 +4,8 @@ by Sven Nilsen, 2017
 A few people who are skeptical toward The Orthogonality Thesis are ridiculed by a few AI enthusiasts,
 because it is seen as those who are skeptical are lacking education in logic and mathematics to understand the topic.
 It can be difficult to construct arguments when the other opponent has better background in logic and philosophy.
-The median AI enthusiasts is probably better at math than the median person on earth,
-but they are likely not better at math than e.g. the average statistics enthusiats,
+The median AI enthusiast is probably better at math than the median person on earth,
+but they are likely not better at math than e.g. the average statistics enthusiat,
 and often missing the details and sometimes communicate their own black/white understanding instead of opening for philosophical discussion.
 
 For example, [this video](https://www.youtube.com/watch?v=hEUO6pjwFOo) does make a good argument for The Orthogonality Thesis,
