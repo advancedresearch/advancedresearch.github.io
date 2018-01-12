@@ -23,7 +23,7 @@ to avoid cognitive overload.
 My reaction would not be that strong had it not happen before.
 It even happens around theories of the same philosopher!
 Somehow Nick Bostrom has a talent for promoting these ideas that themselves might seem wrong on the surface to some people,
-but which points to something more profound undernearth.
+but which points to something more profound underneath.
 He has done some stand-ups as a comedian, so it would not surprise me that some deliberate provocation is baked into his theories.
 
 This post is about trying to fix some of this misunderstood black/white arguments,
