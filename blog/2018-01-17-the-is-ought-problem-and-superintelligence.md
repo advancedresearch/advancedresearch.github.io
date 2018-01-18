@@ -19,13 +19,11 @@ but they can depend on statements in a language capable of expressing infinite n
 For example, an "ought" proof:
 
 ```
-∀ a, b : u8 {
-    ( should(a) -> should(b) ) ∧ should(a)
-    --------------------------------------
-    should(b)
+∀ a, should_b : bool {
+    ( a -> should_b ) ∧ a
+    ---------------------
+    should_b
 }
-
-should : u8 -> bool
 ```
 
 The above example is just as valid as the "is" proof:
@@ -38,17 +36,8 @@ The above example is just as valid as the "is" proof:
 }
 ```
 
-And we can combine them (deriving an "ought" statement from an "is" statement):
-
-```
-∀ a : bool, b : u8 {
-    ( a -> should(b) ) ∧ a
-    --------------------------------------
-    should(b)
-}
-
-should : u8 -> bool
-```
+Both "is" and "ought" statements are sentences that can be `true` or `false`.
+For logical proofs, it does not matter whether one kind of sentence feels qualitatively different than another.
 
 To a computer that brute forces through all values and evaluates the expressions,
 the proofs above all result in the same thing: `true` for all inputs.
@@ -64,7 +53,7 @@ Notice that the distinction between "is" and "ought" is useful, but it is pretty
 The same could be said about the difference between emotions and logic.
 In the platonic world of mathematical proofs, there is no distinction between emotions and logic!
 
-- Logic is follows from axioms derivable from the computational properties of boolean algebra
+- Logic follows from axioms derivable from the computational properties of boolean algebra
 - Emotions follows from the function of the human brain
 
 If you had a fast enough computer, you could derive the "axioms of emotions" from a description of a human brain.
@@ -74,7 +63,7 @@ Even the human brain is much more complex than the axioms of logic,
 neither is more or less real than the other.
 When logic is embodied in the world, it uses the same physical particles as embodied emotions.
 You can scan the human brain and store it inside a computer,
-and you can store the axioms of logic and store it inside a computer.
+and you can type in the axioms of logic and store them inside a computer.
 Both systems have a platonic side and a embodied side of semantics.
 It is just that we are used to think about the platonic side of logic, and the embodied side of emotions.
 This results in a lot of confusion.
@@ -120,7 +109,7 @@ Morality reasoning is a kind of intelligence, just like computing with numbers.
 It is not guaranteed that an AI will be able to compute with numbers,
 and it is not guaranteed that it will develop some sort of morality reasoning.
 Even without these abilities, the AI might still do a lot of damage, or being observed as very competent at solving some tasks.
-Perhaps it manages fine by memoizationing some numbers and approximate guesses and heuristics?
+Perhaps it manages fine by memoizationing some numbers and using approximate guesses and heuristics?
 
 Mathematics and values are likely not cleanly separated in an arbitrary mind, unless it was designed that way.
 Humans have a messy view of logic and reasoning, where morality and facts are mixed up.
