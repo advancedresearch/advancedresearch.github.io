@@ -18,7 +18,7 @@ Some problems we are working on:
 
 - [2018-01-17 The Is-Ought Problem and Superintelligence](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-01-17-the-is-ought-problem-and-superintelligence.md)
 - [2018-01-12 About Refuting the Orthogonality Thesis](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-01-12-about-refuting-the-orthogonality-thesis.md)
-- [2017-12-28 Author's Commentary on "Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-28-authors-commentary-on-conversation-with-the-first-zen-robot-in-2050.md)
+- [2017-12-28 Author's Commentary on "Conversation With the First Zen Robot in 2050"](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-28-authors-commentary-on-conversation-with-the-first-zen-robot-in-2050.md)
 - [2017-12-26 Third and Last Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-26-third-and-last-conversation-with-the-first-zen-robot-in-2050.md)
 - [2017-12-22 What I Learned This Year](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-22-what-i-learned-this-year.md)
 - [2017-12-20 Second Conversation With the First Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-12-20-second-conversation-with-the-first-zen-robot-in-2050.md)  
