@@ -103,7 +103,8 @@ It is still **unknown** whether faster algorithms exists that are more beneficia
 Only because a prediction heuristics algorithm exist, does not imply that there exists an efficient algorithm.  
 However, it is still a possibility...
 
-Here is the Dyon source code (`cargo install piston-dyon_interactive --example dyongame`, to run `dyongame <file.dyon>`):
+Here is the Dyon source code  
+(`cargo install piston-dyon_interactive --example dyongame`, to run `dyongame <file.dyon>`):
 
 ```rust
 fn main() {
