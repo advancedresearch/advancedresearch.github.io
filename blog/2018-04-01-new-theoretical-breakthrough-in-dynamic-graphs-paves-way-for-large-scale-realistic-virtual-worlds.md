@@ -62,7 +62,7 @@ The problem with incremental algorithms on such graphs is that you have no 100% 
 This is unlike an oct-tree where you know for certain that the content is optimized.  
 Basically, the problem is to predict when the graph is "good enough" for interactive use.
 
-Using a simple, un-optimized algorithm, I found out was that there is a way to predict how many iterations it take to optimize the network.
+Using a simple, un-optimized algorithm, I found out was that there is a way to predict how many iterations it takes to optimize the network.
 
 For a network of `N` nodes and `4` links per node,  
 the steps requires is approximately `2 * N * ln(N)`.
