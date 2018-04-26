@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2018-04-26 Artificial Super-Intelligence Master Plan](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-04-26-artificial-super-intelligence-master-plan.md)
 - [2018-04-01 New Theoretical Breakthrough in Dynamic Graphs Paves Way for Large Scale Realistic Virtual Worlds](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-04-01-new-theoretical-breakthrough-in-dynamic-graphs-paves-way-for-large-scale-realistic-virtual-worlds.md)
 - [2018-01-17 The Is-Ought Problem and Superintelligence](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-01-17-the-is-ought-problem-and-superintelligence.md)
 - [2018-01-12 About Refuting the Orthogonality Thesis](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-01-12-about-refuting-the-orthogonality-thesis.md)
