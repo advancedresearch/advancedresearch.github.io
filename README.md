@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2018-06-11 Why You Should Take the Control Problem of Super-Intelligence Seriously](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-11-why-you-should-take-the-control-problem-of-super-intelligence-seriously.md)
 - [2018-04-26 Artificial Super-Intelligence Master Plan](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-04-26-artificial-super-intelligence-master-plan.md)
 - [2018-04-01 New Theoretical Breakthrough in Dynamic Graphs Paves Way for Large Scale Realistic Virtual Worlds](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-04-01-new-theoretical-breakthrough-in-dynamic-graphs-paves-way-for-large-scale-realistic-virtual-worlds.md)
 - [2018-01-17 The Is-Ought Problem and Superintelligence](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-01-17-the-is-ought-problem-and-superintelligence.md)
