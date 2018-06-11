@@ -17,7 +17,7 @@ When you have an optimization process, you might not know that the process will 
 but you might know some properties of the outcome of the optimization process.
 
 For example, if you create an open competition of building the highest stack of bricks,
-you might not know how people come up with ideas to stack brick on top of each.
+you might not know how people come up with ideas to stack brick on top of each other.
 Yet, you can be pretty sure that the *winner* of that competition will end up with a pretty
 high stack of bricks and figured out some efficient way of doing so.
 
