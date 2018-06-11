@@ -139,7 +139,7 @@ When predicting behavior of super-intelligent agents, one should make as few ass
 
 To predict the behavior of a safe super-intelligent agent design, I developed a concept called "Polite Zen Robot" (PZR).
 The PZR is both a semi-formal definition of a super-intelligent agent and a moral framework.
-It has taken me 6 months to develop the PZR and a lot is still unknown about its behavior.
+It took me 6 months to develop the PZR and a lot is still unknown about its behavior.
 
 Yet, the PZR has a very simple, modular and minimalistic design:
 
