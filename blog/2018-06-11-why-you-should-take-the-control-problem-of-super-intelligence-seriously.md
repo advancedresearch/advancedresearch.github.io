@@ -29,7 +29,7 @@ The Control Problem can then be summarized as the following:
 2. How can we ensure that the *winner* does not produce severe side effects?
 3. How can we create a *winner* that is more powerful than human beings while staying aligned to our goals?
 
-Much of these questions are still unanswered, but I can contine telling about some of the stuff we have figured out.
+Much of these questions are still unanswered, but I can continue telling about some of the stuff we have figured out.
 
 ### Mathematics of Prediction
 
