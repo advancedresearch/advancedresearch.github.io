@@ -76,7 +76,7 @@ It means that there are limits to predictions, but it is only limited relative t
 
 For super-intelligence, the consequence is that *limits to making predictions is not that much of an obstacle*.
 It will not be able to break secure encryption algorithms,
-but it is will be pretty good at common pattern in the world.
+but it will be pretty good at common patterns in the world.
 
 ### Better at Predicting the Future Than Humans
 
