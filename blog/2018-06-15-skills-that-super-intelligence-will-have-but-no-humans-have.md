@@ -41,7 +41,7 @@ such that this ability is carefully analyzed before we create a super-intelligen
 ### 2. Exploring Vast Amounts of Possibilities
 
 Humans have cognitive biases.
-One of the reason for these biases is that humans processes limited amounts of data.
+One of the reason for these biases is that humans process limited amounts of data.
 
 For example, most people do not realize how big the Earth is.
 
