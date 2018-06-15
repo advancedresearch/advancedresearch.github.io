@@ -8,6 +8,7 @@ My friend works part-time in the AdvancedResearch organization. It has been 33 y
 At first I was very anxious about this robot thing. However, I watched some videos of lab tests and researchers explaining how the robot worked, which made me much more confident. Apparently, they have figured a way to make the robot behave safely and be very nice at the same time. That is pretty impressive, given that they only worked on this design for 11 700 days.
 
 I put on some fine clothes to make myself presentative. I know it will be just my friend and the robot coming on visit, but who knows what robots think about first impressions? Looking in the mirror, I combed my hair for the third time, watching the clock on the wall, then combing my hair again.
+
 The door bell rang.
 
 Running down the stairs, I straightened my shirt and took a deep breath, then opened the door.
