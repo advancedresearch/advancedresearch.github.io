@@ -81,7 +81,7 @@ one gets a kind of level of autonomy that controls human behavior while extendin
 through the human general intelligence.
 
 The integration of AI technology in human culture could lead to some systems that eat up
-a lot of energy and time without having any significant meaninful purpose,
+a lot of energy and time without having any significant meaningful purpose,
 which in turn makes it invisible for humans to think about as "real intelligence".
 However, a such system is already misaligned with human values in the general population.
 
