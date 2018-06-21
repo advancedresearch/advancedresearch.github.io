@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2018-06-21 Future X - The Path Toward Uncertainty About Artificial Super-Intelligence](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-21-future-x-the-path-toward-uncertainty-about-artificial-super-intelligence.md)
 - [2018-06-15 Three Skills That Super-Intelligence Will Have but No Humans Have](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-15-skills-that-super-intelligence-will-have-but-no-humans-have.md)
 - [2018-06-15 First Conversation With the First Polite Zen Robot in 2050](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-15-first-conversation-with-the-first-polite-zen-robot-in-2050.md)
 - [2018-06-11 Why You Should Take the Control Problem of Super-Intelligence Seriously](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-11-why-you-should-take-the-control-problem-of-super-intelligence-seriously.md)
