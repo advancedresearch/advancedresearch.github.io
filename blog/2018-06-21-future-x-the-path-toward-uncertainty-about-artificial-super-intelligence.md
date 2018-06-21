@@ -19,7 +19,7 @@ When you look at the AI debate from a meta-perspective,
 it seems that lack of good definitions and rigorious treatment of the subject
 fuels the different opinions against each other.
 
-Before anyone have made up their mind, the technology is already a part of human culture.
+Before anyone has made up their mind, the technology is already a part of human culture.
 The way AI is depicted in science fiction movies, as an "alien mind influencing your behavior",
 seems no longer true, because people do not see themselves as aliens (AI technology becoming
 like a part of their body or mind).
