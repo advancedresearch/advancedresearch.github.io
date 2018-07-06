@@ -118,7 +118,7 @@ Second, the pragmatist orders the goals that seem useful and practical.
 
 In order for a zen rationalist to be philosophically consistent,
 the platonist would demand that if there exists a smarter version of the zen rationalist,
-then what one knows about the smarter version should be exploited not out-perform the zen rationalist.
+then what one knows about the smarter version should not be possible to exploit in advance, out-performing the zen rationalist.
 
 A pragmatist might help the platonist to build a way for the zen rationalist to imagine smarter versions of itself.
 It is not possible to simulate a more complex version in real-time,
