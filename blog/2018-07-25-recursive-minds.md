@@ -21,7 +21,7 @@ How could the person in the front see the shoulders of the person in the back?
 ```
 
 One solution suggested was that the men were standing on a very tiny planet.
-The line curved around there sphere such that the person in the front had
+The line curved around the sphere such that the person in the front had
 the backmost person in front of him.
 
 Another solution suggested was the men bent forward looking at the person
