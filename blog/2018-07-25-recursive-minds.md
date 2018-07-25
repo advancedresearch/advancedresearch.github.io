@@ -164,3 +164,7 @@ but that the higher order concepts required, builds on *some* grounding of truth
 
 Therefore, it might be necessary to accelerate AI safety research rapidly
 in the time period shortly after the Recursive Minds stage is reached.
+To deal with the dependency problem efficiently, one could coordinate the research on AI safety
+by planning in advance what to do in the event of a such tipping point.
+This could be a way to avoid scenarios like [Future-X](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-21-future-x-the-path-toward-uncertainty-about-artificial-super-intelligence.md),
+where lack of rigoruous definitions of AGI leads to a dangerous slippery slope.
