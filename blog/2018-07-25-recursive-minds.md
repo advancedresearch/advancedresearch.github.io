@@ -71,7 +71,9 @@ This is where the phenomena of recursive minds come from.
 ### Truth is an Ambient Concept of Common Knowledge Among Recursive Minds
 
 If two rational system gains the ability to model recursive minds,
-it is believed that they will learn the concept of truth and arrive at similar definitions.
+it is believed that they will learn the concept of truth and arrive at similar definitions,
+because, from a path semantical perspective, the things that can be said about these systems are the same and therefore identical. Everything possible to say about truth might be possible to say upon reflecting of recursive mind modeling,
+therefore this provides an anchor for rational agents to infer how they should agree about the nature of truth.
 
 For example, Alice believes Bob is taking a bath.
 Alice also believes that she believes Bob is taking a bath.
@@ -86,21 +88,31 @@ In [Naive Zen Logic](https://github.com/advancedresearch/path_semantics/blob/mas
 
 The `?` operator means `X is belived by Y` written as `X ? Y`.
 
-When Alice reflects on what she believes,
-the concept of truth is embodied in the statements of what she believes.
-
-With other words, truth is a kind of projection of a general understanding
-that the sentences we interpret are indeed interpreted.
-It is sufficient to learn the concept of truth that the sentences are interpreted, and the mind interpreting is
-able to reflect on recursive minds interpreting sentences.
-
 So, how can a mind learn the concept of truth? From the sentences themselves!
 
 The concept of truth is not about any particular fact, but about a reflective state of mind.
 Any fact is a specific instance of truth, while the concept of truth itself is "outside" the realms of facts.
 
+Reflection in this case means: Interpreting Naive Zen Logic the way it is meant to be interpreted (how it is defined and used).
+
 This does not mean that the concept of truth is arbitrary,
 but rather that the concept is *ambient*: It is learned through examples using a general capability of modeling minds.
+
+The reason to believe this is grounded in [path semantics](https://github.com/advancedresearch/path_semantics), that connects the things said about an mathematical object
+to the identity of the mathematical object and vice versa.
+It is not necessary to show what the definition of truth is,
+only that there exists a way to figure out what it is that is common for all agents.
+
+When Alice reflects on what she believes,
+the concept of truth is embodied in the statements of what she believes.
+Naive Zen Logic can not express the nature of truth directly,
+but an agent playing with it can learn how it works implicitly.
+However, this happens at a very deep level of intelligence (one not currently reached by AI technology).
+
+With other words, truth is a kind of projection of a general understanding
+that the sentences we interpret are indeed interpreted.
+It is sufficient to learn the concept of truth that the sentences are interpreted, and the mind interpreting is
+able to reflect on recursive minds interpreting sentences.
 
 The result is a shared common knowledge among recursive minds.
 
