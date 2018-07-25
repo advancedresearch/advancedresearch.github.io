@@ -123,3 +123,43 @@ we justifiably think of the AI technology we have as lacking some sort of "effec
 
 It prevents us from calling the current state-of-the-art as "true intelligence",
 since when "true" has no meaning, there can of course be no "true intelligence".
+
+### Implications for AI Safety Strategies
+
+So far in this post, I argued that Recursive Minds is a milestone in AGI technology.
+This is some way one can measure the progress on AI besides it just improving on various benchmarks.
+However, I also believe that Recursive Minds is a *easily noticeable tipping point*,
+not just some minor improvement in the overall state of AI technology.
+This has implications for AI safety strategies.
+
+The reason for this is that, since higher order concepts through reflection requires the grounding of the concept of truth,
+I predict that no significant progress on higher order concepts (relative to super-intelligence)
+will come before the ability to ground truth using Recursive Minds is achieved.
+
+This does not mean that grounding of truth using Recursive Minds will happen directly,
+but that the ability to do it will roughly coincide in time with an easily noticeable tipping point of AGI.
+The kind of AI safety technology that is needed to deal with AI control problems
+changes in nature before and after this tipping point.
+Before this point in time, AI control problems will have a character of localized semantics.
+After this point in time, AI control problems will take on a more globalized semantical character.
+
+For example, the bias of training data is a localized kind of control problem,
+because it is a grounding problem of semantics relative to some specific data set.
+By fixing the data set or the algorithms, this problem can be solved (locally).
+
+A control problem of globalized semantical character means that e.g. machine learning
+faces problems that are not related to some specific data set or training environment.
+This could be e.g. definitions of goals that are interpreted differently across various contexts.
+Such kind of problems are unsolved globally as long they remain unsolved,
+but once a technique to solve them exists, it might be relatively easy to fix them (globally).
+E.g. most implementations of similar AI technology is tested against some safety standard.
+
+A problem could be that various safety solutions could depend on the approximate stage of Recursive Minds being reached.
+
+For example, an AGI equiped with the ability to test other AGI implementations for some
+specific error, is not expected to be functional before passing the Recursive Minds tipping point.
+This is not because a such AGI requires grounding the concept of truth directly,
+but that the higher order concepts required, builds on *some* grounding of truth.
+
+Therefore, it might be necessary to accelerate AI safety research rapidly
+in the time period shortly after the Recursive Minds stage is reached.
