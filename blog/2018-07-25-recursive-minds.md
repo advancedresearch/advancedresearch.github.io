@@ -45,12 +45,15 @@ Otherwise, it would not be a riddle, but just a joke.
 Which was the precise intention of the story teller.
 
 What makes this riddle/joke interesting is that it points out some deep intuition we have
-about recursive minds.
+about recursive minds:
+
+- The person's lie in the riddle is identified with the lie of the story teller
+- It is necessary to reflect on the rules of telling riddles when it breaks expectations
+- A modeled mind is not necessary executing (it is projected by the interpreter of the riddle)
 
 ### The Ability to Model Minds is Essential for Reflecting on the Nature of Truth
 
 In philosophy it is common to use assigned truth values to sentences according to some language.
-
 However, this practice tend to mask the fact that in order for sentences to have meaning,
 they must be interpreted by some sort of mind or physical process.
 
