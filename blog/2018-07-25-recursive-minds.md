@@ -180,7 +180,7 @@ A problem could be that various safety solutions could depend on the approximate
 For example, an AGI equiped with the ability to test other AGI implementations for some
 specific error, is not expected to be functional before passing the Recursive Minds tipping point.
 This is not because a such AGI requires grounding the concept of truth directly,
-but that the higher order concepts required, builds on *some* grounding of truth.
+but that the higher order concepts required builds on *some* grounding of truth.
 
 Therefore, it might be necessary to accelerate AI safety research rapidly
 in the time period shortly after the Recursive Minds stage is reached.
