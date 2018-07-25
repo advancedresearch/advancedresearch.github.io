@@ -101,7 +101,7 @@ but rather that the concept is *ambient*: It is learned through examples using a
 The reason to believe this is grounded in [path semantics](https://github.com/advancedresearch/path_semantics), that connects the things said about an mathematical object
 to the identity of the mathematical object and vice versa.
 It is not necessary to show what the definition of truth is,
-only that there exists a way to figure out what it is that is common for all agents.
+only that there exists a way to figure out what it is, that is common for all agents.
 
 When Alice reflects on what she believes,
 the concept of truth is embodied in the statements of what she believes.
