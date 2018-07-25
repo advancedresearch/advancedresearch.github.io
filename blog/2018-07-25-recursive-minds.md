@@ -162,7 +162,15 @@ By fixing the data set or the algorithms, this problem can be solved (locally).
 
 A control problem of globalized semantical character means that e.g. machine learning
 faces problems that are not related to some specific data set or training environment.
-This could be e.g. definitions of goals that are interpreted differently across various contexts.
+This could be e.g. definitions of goals that are interpreted differently across various contexts:
+
+```
+Put this box on the top shelf.
+
+What is the box? What is the top shelf?
+It depends on what the speaker is referring to.
+```
+
 Such kind of problems are unsolved globally as long they remain unsolved,
 but once a technique to solve them exists, it might be relatively easy to fix them (globally).
 E.g. most implementations of similar AI technology is tested against some safety standard.
