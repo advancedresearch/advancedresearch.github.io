@@ -130,7 +130,7 @@ AGI requires higher order concepts to perform efficiently in the real world,
 which is not possible without some sort of grounding the concept of truth.
 E.g. it would be trivial to trick an AI without this kind of grounding to believe anything.
 
-The primary obstacle for achieving AGI is the milestone of modeling minds.
+A primary obstacle for achieving AGI is the milestone of modeling minds.
 Since we have not reached this milestone yet at sufficient level,
 we justifiably think of the AI technology we have as lacking some sort of "effective intelligence".
 
