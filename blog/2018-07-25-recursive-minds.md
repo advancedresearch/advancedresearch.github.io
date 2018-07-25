@@ -108,10 +108,11 @@ The result is a shared common knowledge among recursive minds.
 
 Without the ability to model minds, there can be no AGI,
 since otherwise something as essential as "truth" has no meaning.
-It has meaning to humans, but not relative to the mind representng the AGI.
+It has meaning to humans, but not relative to the mind representing the AGI.
 
 I believe there is no other way to ground the concept of truth.
-It is a necessary building block to build higher order concepts upon it.
+At least, it is the only way I know so far how two agents can converge on the same concept.
+It seems to be a necessary building block to build higher order concepts upon it.
 
 AGI requires higher order concepts to perform efficiently in the real world,
 which is not possible without some sort of grounding the concept of truth.
