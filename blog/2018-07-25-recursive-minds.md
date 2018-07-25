@@ -160,7 +160,7 @@ For example, the bias of training data is a localized kind of control problem,
 because it is a grounding problem of semantics relative to some specific data set.
 By fixing the data set or the algorithms, this problem can be solved (locally).
 
-A control problem of globalized semantical character means that e.g. machine learning
+A control problem of globalized semantical character means that e.g. Machine Learning
 faces problems that are not related to some specific data set or training environment.
 This could be e.g. definitions of goals that are interpreted differently across various contexts:
 
