@@ -61,7 +61,7 @@ Your own mind does not affect the meaning of the sentences,
 e.g. you could mutter some words in your sleep and the water would form a shape anyway.
 
 Normally when we speak to water, nothing happens.
-What we say have no meaning for the water, because there is no behavior to be determined.
+What we say has no meaning for the water, because there is no behavior to be determined.
 With other words, the water is not interpreting our sentences.
 
 In order to reflect on the nature of truth, one must not only have the ability to interpret sentences,
