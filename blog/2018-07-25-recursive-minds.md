@@ -75,7 +75,7 @@ This is where the phenomena of recursive minds come from.
 
 If two rational system gains the ability to model recursive minds,
 it is believed that they will learn the concept of truth and arrive at similar definitions,
-because, from a path semantical perspective, the things that can be said about these systems are the same and therefore identical. Everything possible to say about truth might be possible to say upon reflecting of recursive mind modeling,
+because the things that can be said about these systems are the same and therefore identical. Everything possible to say about truth might be possible to say upon reflecting of recursive mind modeling,
 therefore this provides an anchor for rational agents to infer how they should agree about the nature of truth.
 
 For example, Alice believes Bob is taking a bath.
