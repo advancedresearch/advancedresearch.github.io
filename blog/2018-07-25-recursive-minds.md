@@ -29,7 +29,7 @@ behind through their legs.
 This required that the men were allowed to move their upper bodies,
 without turning around.
 
-After lot of discussion, the story teller were revealing the answer: The person in the front lied.
+After lot of discussion, the story teller revealed the answer: The person in the front lied.
 
 This caused even more heated discussion, because the people around the table felt they had been misled.
 
