@@ -123,7 +123,11 @@ The result is a shared common knowledge among recursive minds.
 
 Without the ability to model minds, there can be no AGI,
 since otherwise something as essential as "truth" has no meaning.
-It has meaning to humans, but not relative to the mind representing the AGI.
+It has meaning to humans, but not relative to the mind representing the AGI:
+
+- A computer program does not have any intrinsic concept of truth
+- The ability of general computing is weaker than general theorem proving
+- Comprehending the concept of truth is a statement about a reflective ability of modeling recursive minds
 
 I believe there is no other way to ground the concept of truth.
 At least, it is the only way I know so far how two agents can converge on the same concept.
@@ -138,7 +142,9 @@ Since we have not reached this milestone yet at sufficient level,
 we justifiably think of the AI technology we have as lacking some sort of "effective intelligence".
 
 It prevents us from calling the current state-of-the-art as "true intelligence",
-since when "true" has no meaning, there can of course be no "true intelligence".
+since when "true" has no meaning as in "truth", there can of course be no "true intelligence".
+The concept might be meaningful to humans, but not to the computer program
+and it is therefore not an AGI.
 
 ### Implications for AI Safety Strategies
 
@@ -174,9 +180,12 @@ What is the box? What is the top shelf?
 It depends on what the speaker is referring to.
 ```
 
+This is an example demonstrating what it means to understand a goal at high level of thinking,
+not just a hard-coded way that fits a specific situation.
+
 Such kind of problems are unsolved globally as long they remain unsolved,
 but once a technique to solve them exists, it might be relatively easy to fix them (globally).
-E.g. most implementations of similar AI technology is tested against some safety standard.
+E.g. most implementations of similar AI technology being tested against some safety standard.
 
 A problem could be that various safety solutions could depend on the approximate stage of Recursive Minds being reached.
 
@@ -191,3 +200,25 @@ To deal with the dependency problem efficiently, one could coordinate the resear
 by planning in advance what to do in the event of a such tipping point.
 This could be a way to avoid scenarios like [Future-X](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-21-future-x-the-path-toward-uncertainty-about-artificial-super-intelligence.md),
 where lack of rigorous definitions of AGI leads to a dangerous slippery slope.
+
+### Alternative Approaches Are Likely to Fail
+
+It might be possible to hard-code the concept of truth in a computer program,
+but it requires extensively elaboration to cover the practical use cases of truth.
+
+I find it easier to believe that a program capable of pursuing the things that can be said about truth
+will be able to invent concepts that are useful but coherent.
+A neural network that learns to think about truth might perform better than any hard-coded program.
+
+My argument can be broken down into three parts:
+
+1. Reflecting on the nature of truth is possible by reflecting on modeling Recursive Minds
+2. Higher order concepts require some sort of ability that "looks like" reflecting on the nature of truth
+3. AGI ability of 2) is likely to coincide with the ability of 1) from similar problem complexity
+
+While I do not have a name or concept for this general ability,
+I would like to point out Recursive Minds as a useful target ability.
+
+It might be possible work around this issue, but I think seems a bit "we hope it will eventually develop understanding"
+of things that are relatively easily comprehensible by humans.
+I believe such approaches just never reaches reaches sufficient level of intelligence.
