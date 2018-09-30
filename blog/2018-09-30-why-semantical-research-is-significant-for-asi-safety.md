@@ -39,7 +39,7 @@ This abstract algorithm is the "golden standard" for what it means to identify t
 However, in a complex world where an ASI operates, this algorithm does not exist.
 
 Even if you just wanted to prove that two sets are not identical,
-you still have to find one member of each set that are not equal to another.
+you still have to find one member of one set that is not equal to any other member of the other set.
 In the complex world we live in, *this might be impossible*.
 
 This poses a serious problem, because if the algorithm does not exist, then what the heck is the ASI doing?
