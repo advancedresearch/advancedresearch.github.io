@@ -25,7 +25,7 @@ On what basis can we justify the belief that we will understand ASI so far? *Non
 So, you need to start over and check the concepts that one uses to think about ASI,
 which is the *semantics of the language* used to talk about ASI.
 This is why semantical research is significant for ASI safety,
-because all our assumptions rely on them.
+because all our assumptions rely on that research.
 
 Now, to the details.
 
