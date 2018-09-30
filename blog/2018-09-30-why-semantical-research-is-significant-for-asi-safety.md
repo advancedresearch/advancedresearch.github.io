@@ -149,7 +149,7 @@ Then, I used these ways, of talking about things, to talk about the human mind.
 Next, I extracted some ideas from the human mind and generalized it (IDTs).
 This new concept was then applied to ASI Safety.
 
-With other words, I have proven: **Semantical research is Significant for ASI Safety**.
+With other words, I have proven: **Semantical Research is Significant for ASI Safety**.
 
 ### Interested in More?
 
