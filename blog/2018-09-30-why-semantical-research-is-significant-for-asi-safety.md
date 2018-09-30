@@ -63,7 +63,7 @@ because of the way it is constructed, there is no accidental mix-up of these con
 
 Then, it is assumed that an ASI understands path semantics, and is *able to create new ways to talk about things*.
 
-### Questions Leads to Answers in The Same Language That Asks Them
+### Questions Lead to Answers in The Same Language That Asks Them
 
 The scientific method permits any way of talking about objects, as long as those ways are making falsifiable predictions.
 
