@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2018-12-09 Five Things You Should Learn About Path Semantics](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-12-09-five-things-you-should-know-about-path-semantics.md)
 - [2018-09-30 Why Semantical Research is Significant for ASI Safety](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-09-30-why-semantical-research-is-significant-for-asi-safety.md)
 - [2018-07-25 Recursive Minds](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-07-25-recursive-minds.md)  
 - [2018-06-21 Future X - The Path Toward Uncertainty About Artificial Super-Intelligence](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-06-21-future-x-the-path-toward-uncertainty-about-artificial-super-intelligence.md)
