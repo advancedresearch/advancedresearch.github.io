@@ -127,7 +127,7 @@ and the path semantical notation makes it easy to use it in proofs.
 ### 3. Understand that normal paths don't appear arbitrarily
  
 All functions of finite types `A -> B` can be enumerated.
-This means, that you can list them.
+This means that you can list them.
 
 Since every function might have normal paths, they can't go and come as you like.
 
