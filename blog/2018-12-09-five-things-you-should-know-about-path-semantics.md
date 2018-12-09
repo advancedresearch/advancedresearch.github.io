@@ -2,7 +2,7 @@
 by Sven Nilsen, 2018
 
 Recently I realized it is common for people who get curious about [path semantics](https://github.com/advancedresearch/path_semantics),
-to overlook the basics in a hurry and perhaps missing the very thing they are looking for.
+to overlook the basics in a hurry and perhaps miss the very thing they are looking for.
 
 So, I made list of five things that you should learn, before you make choices what to study next:
 
