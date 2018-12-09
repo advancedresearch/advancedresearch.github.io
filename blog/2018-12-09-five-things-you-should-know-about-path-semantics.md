@@ -75,13 +75,13 @@ Many equations that people learn are just parts of a normal path.
  
 For example, the determinant of a triangular matrix is the product of the elements on the diagonal:
  
-    det{triangular}[id] => \(m) = prod i {m[i][i]}
+    determinant{triangular}[id] => \(m) = prod i {m[i][i]}
      
 This can be reduced to:
  
-    det{triangular} => \(m) = prod i {m[i][i]}
+    determinant{triangular} => \(m) = prod i {m[i][i]}
      
-I just found this example by looking something random at a mathematical wikipedia page.
+I just found this example by looking up something random at a mathematical wikipedia page.
  
 Normal paths are everywhere. Go look for them.
  
