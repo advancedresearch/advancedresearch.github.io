@@ -26,13 +26,13 @@ Which can be written in equational form:
     
 People get this reaction: "Isn't this just De Morgan's law?" and then lose attention, because they think they know this stuff already.
 
-Then, I show them this another example:
+Then, I show them this example:
 
     concat[len] <=> add
 
 People tend to think: "Isn't this just dependently types?"
 
-Then, I show them this example:
+Then, I show them another example:
 
     mul_mat[determinant] <=> mul
 
