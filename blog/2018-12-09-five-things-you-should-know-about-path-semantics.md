@@ -99,7 +99,7 @@ What about this:
      
 Usually, I might prefer to express this as a sub-type:
  
-    (σ_x, σ_p) : (>= ħ / 2)
+    (σ_x, σ_p) : [mul] (>= ħ / 2)
      
 However, my point is that *anything* that can be perfectly predicted, can be expressed as a normal path.
  
