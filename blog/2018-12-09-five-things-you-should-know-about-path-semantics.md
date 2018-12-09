@@ -54,7 +54,7 @@ If you have this reaction, don't give into that feeling and think that "the secr
 Really, THE SECRET of math is just right of front of you, waiting for you to make the connection.
 It is much closer and easier to learn than you think.
 
-You can either learn this basic step, or you can go waste years looking for your "magical secret".
+You can either learn this basic step, or you can go waste years looking for "the magical secret".
 All the time you have spent looking, it has been here, waiting for you to find it.
 
 In general, what I mean about normal paths, are equations of the form:
@@ -93,7 +93,7 @@ For example, the famous Heisenberg's uncertainty principle:
      
 How would you express this as a normal path?
  
-What about this:
+How about this:
  
     ge{(= σ_x * σ_p), (= ħ / 2)}[id] => true_2
      
@@ -131,7 +131,7 @@ This means that you can list them.
 
 Since every function might have normal paths, they can't go and come as you like.
 
-If something is perfectly predictable, then it's perfect predictable. There is no magic.
+If something is perfectly predictable, then it's always perfect predictable. There is no magic.
 
 Normal paths don't appear arbitrarily. They are either there or not.
 
@@ -155,8 +155,8 @@ However, it's true.
 
 Things do not have to be very deep to be useful, but they seem deeper than necessary if you don't know how normal paths work.
 
-You don't have to learn Category Theory or other complicated things to learn about normal paths.
-They are very easy to learn compared to most of mathematics, still, they are probably the most useful to learn about.
+You don't have to learn Category Theory or other complicated stuff to learn about normal paths.
+They are very easy to learn compared to most of mathematics, still, they are probably the most useful topic to learn about.
 
 ### 5. Memorize a few standard functions and their normal paths
 
