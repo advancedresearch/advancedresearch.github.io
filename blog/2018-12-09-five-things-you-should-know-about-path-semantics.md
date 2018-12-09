@@ -101,7 +101,7 @@ Usually, I might prefer to express this as a sub-type:
  
     (σ_x, σ_p) : (>= ħ / 2)
      
-However, my point is that *anything* that might be perfectly predicted, can be expressed as a normal path.
+However, my point is that *anything* that can be perfectly predicted, can be expressed as a normal path.
  
 It doesn't matter that quantum mechanics has uncertainty built into it,
 because you can still make the *perfect prediction* about it that you can't predict some things perfectly.
@@ -118,8 +118,8 @@ This can also be written:
 
     population(Y, X) >= population(scotland, X)
 
-Finding normal paths this way helps practicing the understanding of how they relate to path semantics.
- 
+Finding normal paths this way helps practicing the understanding of how they relate to path semantics and equations.
+
 You get better at expressing your thoughts in a very concise and formal way.
 Equations are easier to understand when there are multiple ways of expressing them,
 and the path semantical notation makes it easy to use it in proofs.
