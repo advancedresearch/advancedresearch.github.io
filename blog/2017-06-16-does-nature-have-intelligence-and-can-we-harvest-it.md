@@ -143,7 +143,7 @@ Can we construct a mind that is a more plausible observer than our own mind?
 When encountering such scenarios, which seem very real and plausible given more research in this direction,
 we have to take into account selection effects that interacts with the complex systems that make up observers,
 and also the effects on seemingly paradoxes that must be resolved in some way,
-due to existing a lower level systems described by physical laws.
+due to existing of lower level systems described by physical laws.
 This can put us in a situation where we are unable to comprehend the complexity of the effects,
 since we can create arbitrary computationally hard problems.
 On the other hand, this could be exploited to narrow down the search for the correct physical theory of observers.
