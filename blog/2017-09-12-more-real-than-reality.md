@@ -4,7 +4,7 @@ by Sven Nilsen, 2017
 This post is about an idea continuing from the line of research described in the post
 [Does Nature Have Intelligence and Can We Harvest It?](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2017-06-16-does-nature-have-intelligence-and-can-we-harvest-it.md)
 
-One of the greatest invention done by mankind is the number system.
+One of the greatest inventions done by mankind is the number system.
 The benefit of numbers is that they are not real - they are used to predict some aspect of reality.
 Being non-real makes numbers very cheap: You just need a bit of constructive imagination.
 
