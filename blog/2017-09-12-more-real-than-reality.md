@@ -118,8 +118,8 @@ how you compute the limits. If you make a small mistake, you could end up with a
 For example, one reason some people think this idea of an inflating universe might be wrong,
 is because they expect a higher temperature compared to the one we are seeing.
 
-Other people think along the lines "there are more chineese people, so I would expect to be born chineese".
-Well, this might seems strange for non-chineese people, and more right for chineese people.
+Other people think along the lines "there are more chinese people, so I would expect to be born chinese".
+Well, this might seems strange for non-chinese people, and more right for chinese people.
 
 Perhaps such predictions are not that helpful because they are very sensitive to small underlying assumptions.
 So, what kind of predictions could be more robust?
