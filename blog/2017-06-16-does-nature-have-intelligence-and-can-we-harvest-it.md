@@ -108,7 +108,7 @@ A high risk of nuclear war could lead to less war overall,
 but in the event it breaks out it could be catastrophic.
 It is imaginable that some "sweet spot" is located near a high risk of catastrophe,
 so observers get more likely to be located in a time where they are on the edge of extinction.
-This is also a studied phenomena in flat reference classes, called [Antrohopic Shadow](http://www.nickbostrom.com/papers/anthropicshadow.pdf).
+This is also a studied phenomena in flat reference classes, called [Antropic Shadow](http://www.nickbostrom.com/papers/anthropicshadow.pdf).
 
 ### Communication problems due to selection effects
 
