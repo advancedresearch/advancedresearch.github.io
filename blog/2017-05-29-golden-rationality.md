@@ -51,7 +51,7 @@ I believe in the importance of communicating and committing to flexible group st
 
 1. In a survival situation some group members must sacrifice themselves for the others,
 everybody should wish that somebody survives rather than nobody survives (logical OR),
-and those with the highest chance and benefit of survival should get priority (e.g. woman and children).
+and those with the highest chance and benefit of survival should get priority.
 2. In a situation where other agents are irrelevant, an agent should not spend energy planning for the group (logical ID).
 3. In a situation where agents are interacting, they should collaborate (logical AND).
 
