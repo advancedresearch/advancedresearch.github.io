@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2020-01-09 Bits Are Bullshit](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-01-09-bits-are-bullshit.md)
 - [2018-12-09 Five Things You Should Learn About Path Semantics](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-12-09-five-things-you-should-know-about-path-semantics.md)
 - [2018-09-30 Why Semantical Research is Significant for ASI Safety](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-09-30-why-semantical-research-is-significant-for-asi-safety.md)
 - [2018-07-25 Recursive Minds](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-07-25-recursive-minds.md)  
