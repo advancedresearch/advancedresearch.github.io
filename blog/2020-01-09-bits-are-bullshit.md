@@ -29,7 +29,7 @@ So, when I say that bits are bullshit, I mean all isomorphic structures to bits.
 
 What is interesting about bullshit is that there are very few words in the english language
 that describes precisely what we mean about it.
-Another words that one can use are "nonsense" or "noise", but I find these terminologies misleading.
+Other words that one can use are "nonsense" or "noise", but I find these a bit misleading.
 
 Bullshit is not like noise, because noise can be useful, while bullshit can be harmful.
 
