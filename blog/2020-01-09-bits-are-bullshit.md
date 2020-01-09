@@ -91,7 +91,7 @@ Mathematically, the definition of bits is not necessary to achieve any goal we w
 Hence, bits are bullshit. Each bit is a waste of resources.
 
 However, a such jump to conclusion assumes that we can predict what a Turing machine will do, which we can't.
-Neither does it take into account a quantum point of view of the universe.
+Neither does it take into account a quantum view of the universe.
 
 One would think that the argument goes away, but the problem is much deeper:
 
@@ -100,8 +100,9 @@ One would think that the argument goes away, but the problem is much deeper:
 - We build philosophy around ideas that assumes e.g. infinite amount of memory (for example: natural numbers)
 
 With other words, we often treat bits as an required resource and as the smallest building block of computer science.
+The danger is that such hidden false assumptions can carry over to real systems.
 
-This way of thinking makes us blind to the actual smallest building block of computer science: Actions.
+A naive thinking about bits makes us blind to the actual smallest building block of computer science: Actions.
 
 Actions are much harder to reason about than bits, because they deal with the real world.
 A characteristic of our time is that it is convenient for people to ignore the real world, pretending it is not there.
