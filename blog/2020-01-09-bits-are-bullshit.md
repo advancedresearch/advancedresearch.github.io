@@ -87,7 +87,7 @@ In order for us to reason about programming,
 we use programming languages which builds on bits as the fundamental building block,
 but the end result we want to generate, is the side effects from executing or compiling the code.
 
-Mathematically, the definition of bits is not necessary to achieve any goal we would a Turing machine to do.
+Mathematically, the definition of bits is not necessary to achieve any goal we would like a Turing machine to do.
 Hence, bits are bullshit. Each bit is a waste of resources.
 
 However, a such jump to conclusion assumes that we can predict what a Turing machine will do, which we can't.
