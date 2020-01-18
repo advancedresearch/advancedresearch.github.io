@@ -12,7 +12,7 @@ there are two likely possibilities:
 2. The person understand it more than everyone else
 
 This is because the position is so extreme, very few people holds it,
-but it does not mean it necessarily wrong.
+but it does not mean it is necessarily wrong.
 
 It just happens that very few people have thought deeply about this topic yet.
 
