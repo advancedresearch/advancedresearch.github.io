@@ -112,7 +112,7 @@ However, when the 2-bits are encoded with [little-endianness](https://en.wikiped
 
 `RB, LB, RT, LT`
 
-For example: `0b11001001` tells `11 (RB), 00 (LB), 10 (RT), 01 (LT).
+For example: `0b11001001` tells `11 (RB), 00 (LB), 10 (RT), 01 (LT)`.
 
 ### Hypothesis 4: Codes
 
