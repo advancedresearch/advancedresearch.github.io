@@ -194,7 +194,7 @@ Since one can just use `00` for no-fill, the non-trivial contradictions are not 
 
 ### Summary This Far
 
-This relatively simple idea represents three sophisticated mathematical ideas:
+This relatively simple setup represents three sophisticated mathematical ideas:
 
 - Construction of rational shapes using fractals
 - Playing with context-sensitive grammar
