@@ -186,7 +186,7 @@ In general, one can use these two tricks in codes for recursive sets:
 - Codes that result in undefined behavior can be interpreted as something else
 - Codes that are non-trivial tautologies or contradictions can be interpreted as something else
 
-A non-trivial tautology is something that equal "fill" but has a more complex construction.
+A non-trivial tautology is something that equals "fill" but has a more complex construction.
 Since one can just use `11` for fill, the non-trivial tautologies are not needed and might be used for other stuff.
 
 A non-trivial contradiction is something that equals "no-fill" but has a more complex construction.
