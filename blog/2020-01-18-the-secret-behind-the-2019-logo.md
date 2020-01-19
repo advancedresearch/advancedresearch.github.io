@@ -204,7 +204,7 @@ Fast forward in time, using these tricks over and over, I have ventured into the
 
 ### The Monster Algorithm: Exploring the Depths of Undecidability
 
-This algorithm can do everything what the solution to the puzzle can, but also much more:
+This algorithm can do everything that the solution to the puzzle can, but also much more:
 
 - a cache that speeds up performance on large sets
 - repeat parent
