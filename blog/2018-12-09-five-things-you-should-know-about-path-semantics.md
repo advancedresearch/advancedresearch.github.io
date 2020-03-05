@@ -49,7 +49,7 @@ Then, I tell people the following:
 
 People still seem to not understand what is being shown to them.
 
-If you have this reaction, don't give into that feeling and think that "the secret of math I'm looking is *out there*".
+If you have this reaction, don't give into that feeling and think that "the secret of math I'm looking for is *out there*".
 
 Really, THE SECRET of math is just right of front of you, waiting for you to make the connection.
 It is much closer and easier to learn than you think.
