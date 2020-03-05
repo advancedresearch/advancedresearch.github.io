@@ -166,7 +166,7 @@ You don't need to memorize a lot, just enough to have something to experiment an
 
 If you are confused about something, you can just check with the few you memorized.
 Instead of memorizing rules for how normal paths behave, you can practice deriving rules using the ones you memorized.
-That's the genius with memorizing examples: If you wonder about something, there is a way to check it quick and easy.
+That's the genius with memorizing examples: If you wonder about something, there is a quick and easy way to check it.
 
 All the other normal paths are essentially just dictionary lookups.
 You should not even bother your mind about them, because there are many other things to learn.
@@ -178,5 +178,5 @@ Last, but not the least: Once you "get" normal paths, don't think of anything th
 Think of it as the most ordinary and obvious thing in the world, like `1 + 1 = 2`.
 If you have a problem, ask yourself "Is this a normal path?" and if "yes", then apply the standard techniques to solve the problem.
 
-All normal paths are in some essence the same thing: They behave the same and are written the same way.
+All normal paths are in some essence the same thing: They behave the same way and are written the same way.
 Normal paths are the same sentence written over and over, just by swapping the words.
