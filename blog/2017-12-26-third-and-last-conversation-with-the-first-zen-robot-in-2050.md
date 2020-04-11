@@ -23,7 +23,7 @@ Frightened to my bones, I made my decision.
 
 Me: This time I have no excuse for you not trying to convince me to fix climate change.  
 Alan: I know.  
-Me: However, neither I have not come to listen to your zen bullshit. I came to destroy you.  
+Me: However, neither I have come to listen to your zen bullshit. I came to destroy you.  
 Alan: You can not destroy me, I am too powerful.  
 Me: I will simply use your own power against you.  
 Alan: Go on. Try.
