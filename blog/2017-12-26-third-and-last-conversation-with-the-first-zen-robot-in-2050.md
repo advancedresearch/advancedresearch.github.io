@@ -49,7 +49,7 @@ You can always design a game where you win against any simple algorithm,
 and history provided you with opportunities to revolt against them,
 simply because they failed to deal with the complex world.  
 Me: So, this means your algorithm has a weakness.  
-Alan: No. Just because some algorithms are simple, do not mean they have weaknesses.
+Alan: No. Just because some algorithms are simple, do not mean they all have weaknesses.
 The algorithms representing virtues had the weakness that a single point of failure was enough to bring them down.
 In order to be good, you have to afford being good.
 In order to brave, you have to risk something.
