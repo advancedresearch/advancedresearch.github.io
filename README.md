@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2020-04-24 A Better Fixpoint Combinator](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-04-24-a-better-fixpoint-combinator.md)
 - [2020-01-18 The Secret Behind the 2019 Logo](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-01-18-the-secret-behind-the-2019-logo.md)
 - [2020-01-09 Bits Are Bullshit](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-01-09-bits-are-bullshit.md)
 - [2018-12-09 Five Things You Should Learn About Path Semantics](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2018-12-09-five-things-you-should-know-about-path-semantics.md)
