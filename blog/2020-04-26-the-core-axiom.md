@@ -144,7 +144,7 @@ The observer associates *nothing* with undefined symbols.
 However, you can not know what this "nothing" is, either.
 It is kind of like an unknown association.
 
-If you have to undefined symbols `A` and `B`, then you can say they mean the same to you,
+If you have two undefined symbols `A` and `B`, then you can say they mean the same to you,
 but you can't say exactly *what* they mean... this is what undefined means.
 
 An old friend of mine used to say "There is no such thing as nothing".
