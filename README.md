@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2020-08-05 The Hobbyist Survivors and The Magical Factory](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-08-05-the-hobbyist-survivors-and-the-magical-factory.md)
 - [2020-04-26 The Core Axiom](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-04-26-the-core-axiom.md)
 - [2020-04-24 A Better Fixpoint Combinator](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-04-24-a-better-fixpoint-combinator.md)
 - [2020-01-18 The Secret Behind the 2019 Logo](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-01-18-the-secret-behind-the-2019-logo.md)
