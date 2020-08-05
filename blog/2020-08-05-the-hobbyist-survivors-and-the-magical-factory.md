@@ -102,7 +102,7 @@ Imagine a factory, which floats in the ocean:
 1. The factory is capable of producing a copy of itself
 2. The factory is capable of using local energy sources
 
-Since the copy of the factor is also capable of using local energy sources,
+Since the copy of the factory is also capable of using local energy sources,
 it too can create a copy of itself, and so on.
 
 You scale this up until you reach the scale where these factories suck up greenhouse gases from the atmosphere,
