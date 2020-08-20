@@ -161,7 +161,7 @@ then one can brute force check both groups within reasonable time.
 
 ### Conclusion
 
-Path Semantical Logic contributes to the field of logic in the following ways:
+[Path Semantical Logic](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#path-semantical-logic) contributes to the field of logic in the following ways:
 
 - Speed up of brute force checking
 - Reduction in axioms to model a type hierarchy
