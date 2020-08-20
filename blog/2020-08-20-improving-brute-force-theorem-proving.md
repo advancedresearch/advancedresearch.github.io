@@ -42,7 +42,7 @@ This is because one would like to prove properties of computer programs.
 [Type Theory](https://en.wikipedia.org/wiki/Type_theory) is the foundation of many general purpose programming languages.
 It is also the foundation for formal checking of theorems in pure mathematics, e.g. [Homotopy Type Theory](https://en.wikipedia.org/wiki/Homotopy_type_theory).
 
-However, Propositional Calculus is too unrestricted to model Type Theory very well.
+However, Propositional Calculus is to unrestricted to model Type Theory very well.
 
 ### Dependent Types
 
