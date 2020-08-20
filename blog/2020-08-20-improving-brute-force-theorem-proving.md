@@ -15,7 +15,7 @@ there is [Propositional Calculus](https://en.wikipedia.org/wiki/Propositional_ca
 
 ### Time Complexity
 
-A proof in Propositional Calculus of `N` arguments has worst-case time complexity is `O(2^N)`.
+A proof in Propositional Calculus of `N` arguments has worst-case time complexity `O(2^N)`.
 For First-Order Logic, the worst-case time complexity is even worse.
 This means it is impractical to use brute force for automatic theorem proving.
 
