@@ -94,7 +94,7 @@ and(
 
 - The proposition `one` has level 1
 - The proposition `two` has level 1
-- The propsoition `nat` has level 0
+- The proposition `nat` has level 0
 
 In normal Propositional Calculus, the same would be expressed as:
 
