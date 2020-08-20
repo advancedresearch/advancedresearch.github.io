@@ -1,7 +1,7 @@
 # Improving Brute Force Theorem Proving
 by Sven Nilsen, 2020
 
-In this blog post I explain the recent breakthrough in Path Semantical Logic.
+In this blog post I explain the recent breakthrough in [Path Semantical Logic](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#path-semantical-logic).
 
 ### Background
 
