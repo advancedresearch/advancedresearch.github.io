@@ -34,7 +34,7 @@ The algorithm works like this:
 3. Constraints are propagated from the cell to other cells, updating their measure of entropy
 4. Repeat 1).
 
-The `EntropyBacktracSolver` generalizes the WaveFunctionCollapse algorithm to any puzzle that can be solved with backtracking.
+The `EntropyBacktrackSolver` generalizes the WaveFunctionCollapse algorithm to any puzzle that can be solved with backtracking.
 
 - The `SolveSettings::max_iterations` controls how deep the solver should try before making new attempt
 - The experience from previous attempts is transferred to new attempts by reusing weights
