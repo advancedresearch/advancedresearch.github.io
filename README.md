@@ -16,6 +16,7 @@ Some problems we are working on:
 
 ### Blog posts
 
+- [2020-10-16 Quickbacktrack 0.7 Released](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-10-16-quickbacktrack-0.7-released.md)
 - [2020-08-20 Improving Brute Force Theorem Proving](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-08-20-improving-brute-force-theorem-proving.md)
 - [2020-08-05 The Hobbyist Survivors and The Magical Factory](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-08-05-the-hobbyist-survivors-and-the-magical-factory.md)
 - [2020-04-26 The Core Axiom](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-04-26-the-core-axiom.md)
