@@ -6,6 +6,8 @@ This page is for organizing all important ideas about Avatar Extension in one pl
 
 ### Avatar Logic
 
+For an experimental implementation, see [Avalog](https://github.com/advancedresearch/avalog).
+
 Avatar Logic replaces predicates with binary relations with some additional axioms:
 
 ```text
@@ -19,3 +21,5 @@ This means that `(a, b)` contains all information needed to represent a labeled 
 p(a) = q'(b)      the `p` property of `a` is `b`
 p(a) => q'(b)     the `p` property of `a` has `b`
 ```
+
+The directive `uniq q` adds the axiom `p(a) = q'(b)`.
