@@ -6,9 +6,7 @@ This page is for organizing all important ideas about Avatar Extension in one pl
 
 ### Avatar Logic
 
-Avatar Logic replaces predicates with binary relations with some additional axioms.
-
-Axioms:
+Avatar Logic replaces predicates with binary relations with some additional axioms:
 
 ```text
 p(a, b)         b : p           p(a) = b
