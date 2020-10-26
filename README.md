@@ -6,13 +6,19 @@ The results are often about finding equations and algorithms with desirable prop
 
 Some problems we are working on:
 
+- Work on Mathematical Foundations of Artificial Intelligence (e.g. by studying path semantics)
 - Solving Economic Inequality (e.g. by studying Gini solvers)
 - Mitigate Climate Change (e.g. by working with scientists and engineers)
-- Work on Mathematical Foundations of Artificial Intelligence (e.g. by studying path semantics)
-
 
 [List of Repositories](https://github.com/advancedresearch)  
 [How to Contribute](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/CONTRIBUTING.md)
+
+### Avatar Extensions
+
+Avatar Extensions is a popular research subject about abstract generalization of mathematics.
+
+You can find a summary about Avatar Extensions [here](
+- Work on Mathematical Foundations of Artificial Intelligence (e.g. by studying path semantics)).
 
 ### Blog posts
 
