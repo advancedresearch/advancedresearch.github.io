@@ -17,8 +17,7 @@ Some problems we are working on:
 
 Avatar Extensions is a popular research subject about abstract generalization of mathematics.
 
-You can find a summary about Avatar Extensions [here](
-- Work on Mathematical Foundations of Artificial Intelligence (e.g. by studying path semantics)).
+You can find a summary about Avatar Extensions [here](./avatar-extensions/summary.md).
 
 ### Blog posts
 
