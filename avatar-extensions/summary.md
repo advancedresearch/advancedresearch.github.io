@@ -45,3 +45,15 @@ a * 1 = 1 * a = a                       introduction of new 1->1 avatar
 -(a * b) = (-a) * b = a * (-b)          coverage of symmetries using 1->1 avatar involutions
 (a + b) * f(x) = a * f(x) + b * f(x)    superposition of mathematical objects related to 1-avatar symmetry
 ```
+
+### Avatar Graphs
+
+The "core self" is an object which has no internal relations for introspection.
+Avatars are created to model relations.
+
+- A 1-avatar is directly communicating with the core, but can not communicate with each other
+- A 2-avatar integrates information between two 1-avatars
+- A 3-avatar integrates information between three 1-avatars, or one 2-avatar plus one 1-avatar
+- An n-avatar integrates information between a partition of lower avatars
+
+Information must be passed down from higher avatars in the direction of the core.
