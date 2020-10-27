@@ -41,10 +41,11 @@ Avatar Algebra relates theorems in algebra to theorems about Avatar Extensions.
 Theorems:
 
 ```
-a * 1 = 1 * a = a                       introduction of new 1->1 avatar
+a * 1 = 1 * a = a                       introduction of new 1 avatar
 -(a * b) = (-a) * b = a * (-b)          coverage of symmetries using 1->1 avatar involutions
 (a + b) * f(x) = a * f(x) + b * f(x)    superposition of mathematical objects related to 1-avatar symmetry
 (a * b) * c = a * (b * c)               associativity is a 6-avatar of a 9-vertex filled avatar graph
+a + b = b + a                           symmetry between 1-avatars
 ```
 
 ### Avatar Graphs
