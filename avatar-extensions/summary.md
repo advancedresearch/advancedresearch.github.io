@@ -64,6 +64,6 @@ An Avatar Graph "forget" which node is the core.
 - A black edge connects two avatars
 - A gray/dashed edge identifies a unique highest N-avatar per core
 
-![square](https://raw.githubusercontent.com/advancedresearch/avatar_graph/master/images/avatar4-01.png)
+![square](./images/avatar4-01.png)
 
 ![5-avatar](https://raw.githubusercontent.com/advancedresearch/avatar_graph/master/images/avatar5-01.png)
