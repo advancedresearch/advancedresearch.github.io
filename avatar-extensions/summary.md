@@ -115,3 +115,12 @@ which can be interpreted as the smallest reduction of an inconsistent theory to 
 For example, Giard's paradox is avoided in type systems by using cumulative universes or types.
 The highest N-avatars in this context are morphisms between type levels, which are just type memberships.
 Therefore, Type Theory is essentially a highest N-avatar reduction to make modeling of mathematics consistent.
+
+The diagonals on a cube can be thought of as swap operations,
+which generates all permutations by selecting a face + rotation in the plane:
+
+![swap-cube](./images/cube-swap.png)
+
+This interpretation is the only one that preserves structure.
+
+Group Theory might be thought of as operations on highest N-avatars satisfying the notion of "resources" in linear logic.
