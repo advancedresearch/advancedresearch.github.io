@@ -57,7 +57,7 @@ Avatars are created to model relations.
 - An N-avatar integrates information between a partition of lower avatars
 
 Information must be passed down from higher avatars in the direction of the core.
-An Avatar Graph "forget" which node is the core.
+An Avatar Graph "forgets" which node is the core.
 
 - A black node represents a core candidates
 - A white node represents an N-avatar with smalles N larger than zero
