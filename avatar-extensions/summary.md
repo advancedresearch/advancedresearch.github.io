@@ -95,7 +95,7 @@ The [core axiom](https://github.com/advancedresearch/path_semantics/blob/master/
 This propagates products from every identity morphisms using outgoing arrows.
 Adding this axiom to Category Theory collapses a category into a partial groupoid.
 It is kind of like extending a square matrix.
-Can also be thought of as a compact representation of an equivalent class.
+Can also be thought of as a compact representation of an equivalence class.
 
 The analogue for isomorphisms (without identity morphisms) constructs the following way:
 
