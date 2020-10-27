@@ -81,3 +81,22 @@ A filled Avatar Graph consists only of core candidates.
 A reflection witnessed by a product `(x, x)` is impossible to model in an Avatar Graph.
 This means that a "copy" of `x` must be constructed, which eventually requires copies of 1-avatars.
 Translated into a theorem about Avatar Extensions, this means 1->1 avatars "covers" products.
+
+### Avatar Semantics
+
+The [core axiom](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#foundation) of [Path Semantics](https://github.com/advancedresearch/path_semantics) can be naively modeled in Avatar Logic as following:
+
+```
+(C, D) :- (A, B), (B, A), (A, C), (B, D).
+```
+
+This propagates products from every identity morphisms using outgoing arrows.
+Adding this axiom to Category Theory collapses a category into a partial groupoid.
+It is kind of like extending a square matrix.
+Can also be thought of as a compact representation of an equivalent class.
+
+The analogue for isomorphisms (without identity morphisms) constructs the following way:
+
+![step1](./images/iso-step1.png)
+![step2](./images/iso-step2.png)
+![step3](./images/iso-step3.png)
