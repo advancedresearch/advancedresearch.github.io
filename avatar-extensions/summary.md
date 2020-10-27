@@ -70,6 +70,7 @@ An Avatar Graph "forgets" which node is the core.
 ![5-avatar](./images/avatar5-01.png)
 ![wagner](./images/wagner.png)
 ![wagner-mobius](./images/wagner-mobius.png)
+![counter example to 2^n conjecture](./images/avatar6-03.png)
 
 A filled Avatar Graph consists only of core candidates.
 
