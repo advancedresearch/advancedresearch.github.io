@@ -68,6 +68,7 @@ An Avatar Graph "forgets" which node is the core.
 
 ![square](./images/avatar4-01.png)
 ![5-avatar](./images/avatar5-01.png)
+![wagner](./images/wagner.png)
 
 A filled Avatar Graph consists only of core candidates.
 
