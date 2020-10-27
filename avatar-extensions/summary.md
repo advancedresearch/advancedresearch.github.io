@@ -60,6 +60,8 @@ Information must be passed down from higher avatars in the direction of the core
 An Avatar Graph "forget" which node is the core.
 
 - A black node represents a core candidates
-- A white node represents an n-avatar with smalles n larger than zero
+- A white node represents an N-avatar with smalles N larger than zero
+- A black edge connects two avatars
+- A gray/dashed edge identifies a unique highest N-avatar per core
 
 ![square](https://raw.githubusercontent.com/advancedresearch/avatar_graph/master/images/avatar4-01.png)
