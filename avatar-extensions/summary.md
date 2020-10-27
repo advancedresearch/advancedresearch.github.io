@@ -72,3 +72,7 @@ A filled Avatar Graph consists only of core candidates.
 - Every hypercube is a filled Avatar Graph
 - Wagner graph is a filled Avatar Graph with Möbius topology
 - Filled Avatar Graphs are bases for groupoid self-similarity
+
+A reflection witnessed by a product `(x, x)` is impossible to model in an Avatar Graph.
+This means that a "copy" of `x` must be constructed, which eventually requires copies of 1-avatars.
+Translated into a theorem about Avatar Extensions, this means 1->1 avatars "covers" products.
