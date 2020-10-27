@@ -107,7 +107,8 @@ Step 1 is the smallest possible example of a Möbius topology.
 
 In [Path Semantical Logic](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#path-semantical-logic),
 propositions are separated by levels, which gets rid of Möbius topology.
-Applying the core axiom to a single level would contract all propositions, because of reflexivity `x = x` is a tautology.
+Applying the core axiom to a single level would contract all propositions along implications,
+because of reflexivity `x = x` is a tautology.
 
 In the language of graphs, it is possible to avoid contraction in a single level since identity morphisms are not necessary.
 
