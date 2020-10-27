@@ -54,7 +54,7 @@ Avatars are created to model relations.
 - A 1-avatar is directly communicating with the core, but can not communicate with each other
 - A 2-avatar integrates information between two 1-avatars
 - A 3-avatar integrates information between three 1-avatars, or one 2-avatar plus one 1-avatar
-- An n-avatar integrates information between a partition of lower avatars
+- An N-avatar integrates information between a partition of lower avatars
 
 Information must be passed down from higher avatars in the direction of the core.
 An Avatar Graph "forget" which node is the core.
@@ -66,3 +66,9 @@ An Avatar Graph "forget" which node is the core.
 
 ![square](./images/avatar4-01.png)
 ![5-avatar](./images/avatar5-01.png)
+
+A filled Avatar Graph consists only of core candidates.
+
+- Every hypercube is a filled Avatar Graph
+- Wagner graph is a filled Avatar Graph with Möbius topology
+- Filled Avatar Graphs are bases for groupoid self-similarity
