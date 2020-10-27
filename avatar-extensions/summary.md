@@ -100,3 +100,18 @@ The analogue for isomorphisms (without identity morphisms) constructs the follow
 ![step1](./images/iso-step1.png)
 ![step2](./images/iso-step2.png)
 ![step3](./images/iso-step3.png)
+
+Step 1 is the smallest possible example of a Möbius topology.
+
+In [Path Semantical Logic](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#path-semantical-logic),
+propositions are separated by levels, which gets rid of Möbius topology.
+Applying the core axiom to a single level would contract all propositions, because of reflexivity `x = x` is a tautology.
+
+In the language of graphs, it is possible to avoid contraction in a single level since identity morphisms are not necessary.
+
+The diagonals corresponds to highest N-avatars in hypercubes,
+which can be interpreted as the smallest reduction of an inconsistent theory to a consistent theory.
+
+For example, Giard's paradox is avoided in type systems by using cumulative universes or types.
+The highest N-avatars in this context are morphisms between type levels, which are just type memberships.
+Therefore, Type Theory is essentially a highest N-avatar reduction to make modeling of mathematics consistent.
