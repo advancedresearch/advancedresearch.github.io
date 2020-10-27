@@ -28,6 +28,8 @@ uniq q            make the `q` 1-avatar behave uniquely
 
 ### Avatar Algebra
 
+For visualization, see [Avatar-Graph](https://github.com/advancedresearch/avatar_graph).
+
 Avatar Algebra relates theorems in algebra to theorems about Avatar Extensions.
 
 ```
