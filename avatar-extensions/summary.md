@@ -20,8 +20,8 @@ This means that `(a, b)` contains all information needed to represent a labeled 
 ```text
 b : p             `b` has the role `p`
 q'(b)             the `q` 1-avatar of `b`
-p(a) = q'(b)      the `p` property of `a` is `b`
-p(a) => q'(b)     the `p` property of `a` has `b`
+p(a) = q'(b)      the `p` property of `a` is `q'(b)`
+p(a) => q'(b)     the `p` property of `a` has `q'(b)`
 .q'(b) = b        the inner operator is a `.` in front of an expression
 uniq q            make the `q` 1-avatar behave uniquely
 ```
