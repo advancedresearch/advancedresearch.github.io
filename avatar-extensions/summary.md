@@ -63,7 +63,7 @@ Avatars are created to model relations.
 Information must be passed down from higher avatars in the direction of the core.
 An Avatar Graph "forgets" which node is the core.
 
-- A black node represents a core candidates
+- A black node represents a core candidate
 - A white node represents an N-avatar with smallest N greater than zero
 - A black edge connects two avatars
 - A gray/dashed edge identifies a unique highest N-avatar per core
