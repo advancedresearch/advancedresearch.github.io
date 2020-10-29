@@ -93,7 +93,7 @@ The [core axiom](https://github.com/advancedresearch/path_semantics/blob/master/
 (C, D) :- (A, B), (B, A), (A, C), (B, D).
 ```
 
-This propagates products from every identity morphisms using outgoing arrows.
+This propagates products from every identity morphism using outgoing arrows.
 Adding this axiom to Category Theory collapses a category into a partial groupoid.
 It is kind of like extending a square matrix.
 Can also be thought of as a compact representation of an equivalence class.
