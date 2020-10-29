@@ -91,7 +91,7 @@ for e1 in facts {
 }
 ```
 
-An index of sub-expressions reduces this to `O(N * M + M)` where `M << N` (`M` is much smaller than `N`).
+An index of sub-expressions reduces this to `O(N * M + N)` where `M << N` (`M` is much smaller than `N`).
 
 ```rust
 build_index(); // <--- builds index before inference rules
@@ -113,14 +113,14 @@ There are many variants of expressions in Avalog, so using a common index simpli
 However, there is an easy way to make this *even faster*:
 Building the index requires iterating through all facts (`O(N)`).
 
-Here, one can exploit the property of a monotonic solvers.
-Since no facts are deleted, it means only new facts needs to be iterated through when building the index.
+Here, one can exploit the property of monotonic solvers.
+Since no facts are deleted, it means only new facts need to be iterated through when building the index.
 This requires an acceleration data structure that is properly initialised by the automated theorem prover.
 
 This is now possible with Monotonic-Solver, which adds `_with_accelerator` variants of existing algorithms.
 Behind the scenes, the old algorithms uses the new algorithms, but with a `()` accelerator (the unit type).
 
 The interface for inference rules has also been redesigned.
-`HashSet` cache and cache_filter arguments are now replaced with a `Solver<T, A = ()>`.
+`HashSet` cache and cache_filter arguments are now replaced with a `solver: Solver<T, A = ()>`.
 
 The accelerator is accessed using `solver.accelerator`.
