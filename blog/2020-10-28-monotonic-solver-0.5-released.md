@@ -107,7 +107,7 @@ for e1 in facts {
 }
 ```
 
-Using an index of sub-expression is a trade-off between flexibility and performance.
+Using an index of sub-expressions is a trade-off between flexibility and performance.
 There are many variants of expressions in Avalog, so using a common index simplifies maintenance.
 
 However, there is an easy way to make this *even faster*:
