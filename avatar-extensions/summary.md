@@ -116,7 +116,7 @@ In the language of graphs, it is possible to avoid contraction in a single level
 The diagonals corresponds to highest N-avatars in hypercubes,
 which can be interpreted as the smallest reduction of an inconsistent theory to a consistent theory.
 
-For example, Giard's paradox is avoided in type systems by using cumulative universes or types.
+For example, Girard's paradox is avoided in type systems by using cumulative universes or types.
 The highest N-avatars in this context are morphisms between type levels, which are just type memberships.
 Therefore, Type Theory is essentially a highest N-avatar reduction to make modeling of mathematics consistent.
 
