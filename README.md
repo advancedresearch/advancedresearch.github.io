@@ -1,6 +1,8 @@
 # advancedresearch.github.io
 The website for the AdvancedResearch community
 
+[Join us on Discord!](https://discord.gg/Uhrtfk)
+
 AdvancedResearch is an open source organization dedicated to make conceptual breakthroughs in system thinking.
 The results are often about finding equations and algorithms with desirable properties.
 
