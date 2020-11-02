@@ -149,5 +149,5 @@ The analogue of the Univalence Axiom says that Witness Duality can only be witne
 (A = B) ~= (A ~= B)
 ```
 
-Symmetry Forcing, a property where proofs of reflexivity requires an isomorphism reconstruction,
+Symmetry Forcing, a property where proofs of reflexivity requires an isomorphic reconstruction,
 is related to the Product Witness.
