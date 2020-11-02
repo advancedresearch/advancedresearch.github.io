@@ -135,7 +135,7 @@ Group Theory might be thought of as operations on highest N-avatars satisfying t
 
 Witness Duality can be thought of as two different models of equivalence.
 
-- Product Witness (`=`) has its origin in the treatmenet of equivalence as a binary relation
+- Product Witness (`=`) has its origin in the treatment of equivalence as a binary relation
 - Loop Witness (`~=`) has its origin in the treatment of equivalence as an identity morphism
 
 Normally, `=` is used for equality and `~=` for existence of isomorphisms,
