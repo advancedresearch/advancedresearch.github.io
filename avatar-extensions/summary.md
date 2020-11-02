@@ -128,3 +128,26 @@ which generates all permutations by selecting a face + rotation in the plane:
 This interpretation is the only one that preserves structure.
 
 Group Theory might be thought of as operations on highest N-avatars satisfying the notion of "resources" in linear logic.
+
+### Avatar Witness Theory
+
+![witness-duality](./images/witness-duality.png)
+
+Witness Duality can be thought of as two different models of equivalence.
+
+- Product Witness (`=`) has its origin in the treatmenet of equivalence as a binary relation
+- Loop Witness (`~=`) has its origin in the treatment of equivalence as an identity morphism
+
+Normally, `=` is used for equality and `~=` for existence of isomorphisms,
+but for Witness Duality this depends on the interpretation.
+However, the Product Witness can not distinguish between multiple isomorphisms,
+while the Loop Witness can not express the global constraint of an equivalence relation.
+
+The analogue of the Univalence Axiom says that Witness Duality can only be witnessed with a Loop Witness:
+
+```text
+(A = B) ~= (A ~= B)
+```
+
+Symmetry Forcing, a property where proofs of reflexivity requires an isomorphism reconstruction,
+is related to the Product Witness.
