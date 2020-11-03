@@ -151,3 +151,18 @@ The analogue of the Univalence Axiom says that Witness Duality can only be witne
 
 Symmetry Forcing, a property where proofs of reflexivity requires an isomorphic reconstruction,
 is related to the Product Witness.
+
+There are two consistent type theories that interprets [Path Semantical Logic](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#path-semantical-logic):
+
+- Curry-Horward Correspondence, `a : A <=> A(a)`
+- Arbirary equivalences between programs with equality types as existence proofs, `a : A <=> a(A)`
+
+These two theories are cocategory of each other, where morphisms are type memberships.
+
+The first theory satisfies univalence, while the second does not.
+However, by applying avatar extensions using univalence, one can solve this problem,
+by introducing a "special type membership" for which univalence holds,
+as a kind of proof of transitivity.
+
+An example is Cubical Type Theory, where this special type membership are parameterised by the unit interval,
+with end points `0` and `1`.
