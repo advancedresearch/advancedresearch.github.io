@@ -160,7 +160,7 @@ There are two consistent type theories that interprets [Path Semantical Logic](h
 These two theories are cocategory of each other, where morphisms are type memberships.
 
 The first theory satisfies univalence, while the second does not.
-However, by applying avatar extensions using univalence, one can solve this problem,
+However, by applying avatar extensions using univalence, one can unify these two theories,
 by introducing a "special type membership" for which univalence holds,
 as a kind of proof of transitivity.
 
