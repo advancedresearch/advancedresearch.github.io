@@ -164,5 +164,13 @@ However, by applying avatar extensions using univalence, one can unify these two
 by introducing a "special type membership" for which univalence holds,
 as a kind of proof of transitivity.
 
-An example is Cubical Type Theory, where this special type membership are parameterised by the unit interval,
-with end points `0` and `1`.
+An example is Cubical Type Theory, where this special type membership is parameterised by the unit interval.
+The end points of the unit interval are `0` and `1`.
+
+#### Interior vs Exterior
+
+The Interior is constructed using a core with an identity morphism as a "ground state",
+getting topological properties via Product Witness (due to Symmetry Forcing).
+
+The Exterior is constructed using a loop onto the identity morphism with a 1-avatar extension as the Loop Witness.
+This is related to exterior algebra.
