@@ -121,7 +121,7 @@ Keeping the left-most term fixed on both sides makes it possible to manipulate t
 instead of manipulating only at the leafs.
 
 This is important when there are long chains of commutative operators,
-because it avoid transformations via tree-like structures, which requires many more steps.
+because it avoids transformations via tree-like structures, which requires many more steps.
 
 Although you can in principle prove the same using `a + b <=> b + a` only,
 the automated theorem prover can not look that many steps ahead to make a realistic estimate using the Levenshtein distance.
