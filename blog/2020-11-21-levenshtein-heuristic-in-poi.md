@@ -23,7 +23,7 @@ With other words, if one tries to search the whole space of possible proofs, the
 
 ### Heuristic measurements
 
-In order to prioritize search of possible proofs, one needs to choose a heuristic.
+In order to prioritize search of possible proofs, one needs a heuristic.
 
 Here, the word "heuristic" means the same as e.g. using utility to optimize course of action for AI agents.
 In fact, an automated theorem prover is very much alike an AI agent, except there are no interactions with an environment.
