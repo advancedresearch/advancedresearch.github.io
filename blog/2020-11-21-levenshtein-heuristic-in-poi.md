@@ -117,7 +117,7 @@ x0 + x1 + x2 + x3 <=> x0 + x3 + x2 + x1;
 The expression `x0 + x1 + x2 + x3` is constructed similarly to a linked list (sort of).
 
 The left-most expression functions as a "tail" that pattern matches anywhere in the expression.
-Keeping the left-most expression fixed makes it possible to manipulate the expression at any depth,
+Keeping the left-most expression fixed on both sides makes it possible to manipulate the expression at any depth,
 instead of manipulating only at the leafs.
 
 ### Future improvements
