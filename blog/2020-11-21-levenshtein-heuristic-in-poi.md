@@ -27,8 +27,8 @@ In order to prioritize search of possible proofs, one needs a heuristic.
 
 Here, the word "heuristic" means the same as e.g. using utility to optimize course of action for AI agents.
 In fact, an automated theorem prover is very much alike an AI agent, except there are no interactions with an environment.
-The automated theorem prover usually live in a world with "perfect information", aka chess.
-However, there is no opponent, instead the "opponent" is the complexity of math itself.
+The automated theorem prover usually lives in a world with "perfect information", aka chess.
+However, there is no opponent. Instead, the "opponent" is the complexity of math itself.
 
 The following properties was desirable when choosing a heuristic measurement for Poi:
 
