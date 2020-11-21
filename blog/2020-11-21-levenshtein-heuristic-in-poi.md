@@ -116,9 +116,15 @@ x0 + x1 + x2 + x3 <=> x0 + x3 + x2 + x1;
 
 The expression `x0 + x1 + x2 + x3` is constructed similarly to a linked list (sort of).
 
-The left-most expression functions as a "tail" that pattern matches anywhere in the expression.
-Keeping the left-most expression fixed on both sides makes it possible to manipulate the expression at any depth,
+The left-most term `x0` functions as a "tail" that pattern matches anywhere in the expression.
+Keeping the left-most term fixed on both sides makes it possible to manipulate the expression at any depth,
 instead of manipulating only at the leafs.
+
+This is important when there are long chains of commutative operators,
+because it avoid transformations via tree-like structures, which requires many more steps.
+
+Although you can in principle prove the same using `a + b <=> b + a` only,
+the automated theorem prover can not look that many steps ahead to make a realistic estimate using the Levenshtein distance.
 
 ### Future improvements
 
