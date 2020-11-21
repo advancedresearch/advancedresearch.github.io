@@ -23,6 +23,7 @@ You can find a summary about Avatar Extensions [here](./avatar-extensions/summar
 
 ### Blog posts
 
+- [2020-11-21 Levenshtein Heuristic in Poi](https://advancedresearch.github.io/blog/2020-11-21-levenshtein-heuristic-in-poi)
 - [2020-11-20 Poi 0.17 Released](https://advancedresearch.github.io/blog/2020-11-17-poi-0.17-released)
 - [2020-10-28 Monotonic-Solver 0.5 Released](https://advancedresearch.github.io/blog/2020-10-28-monotonic-solver-0.5-released)
 - [2020-10-16 Quickbacktrack 0.7 Released](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2020-10-16-quickbacktrack-0.7-released.md)
