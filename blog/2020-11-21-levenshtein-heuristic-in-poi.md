@@ -141,8 +141,8 @@ The problem is, I need to pop the minimum sorted by some numeric key.
 
 Basically, I want something behaving like `BinaryHeap`, but more efficient for strings.
 
-Minor improvement could be to improve performance by reusing the cache used in the Levenshtein algorithm.
+A minor improvement in performance could be to reuse the cache used in the Levenshtein algorithm.
 
 At this stage, I am mostly focusing on testing that things work,
 but in the future I might be focusing to how long time it takes to complete the proof search.
-I have not decided whether the REPL should have built-in benchmarks or whether the REPL code should be refactored for running external benchmarks.
+I have not decided yet whether the REPL should have built-in benchmarks or whether the REPL code should be refactored for running external benchmarks.
