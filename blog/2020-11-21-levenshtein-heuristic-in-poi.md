@@ -99,7 +99,7 @@ I believe it will perform less well on commutative operators.
 However, I believe that using the normal exhaustive search up to some depth,
 will resolve some of the issues with commutativity.
 
-The problems is how to deal with large expressions and lots of e.g. addition.
+The problem is how to deal with large expressions and lots of commutative operators, e.g. addition.
 In this case, increasing the depth of exhaustive search will lead to significant slowdown.
 
 One approach to solving this problem, is to assist the automated theorem prover by designing proper utility rules.
