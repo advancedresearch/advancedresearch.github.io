@@ -10,7 +10,7 @@ In this blog post I will discuss the new Levenshtein heuristic used in Poi.
 *The Levenshtein distance measures minimum single-character changes between two strings.  
 It is named after Vladimir Levenshtein, which considered this distance in 1965 (Source: [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))*
 
-### Why automated theorem is hard
+### Why automated theorem proving is hard
 
 Automated theorem proving is hard for the same reason the boardgame chess is hard.
 
