@@ -155,7 +155,7 @@ is related to the Product Witness.
 There are two consistent type theories that interprets [Path Semantical Logic](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#path-semantical-logic):
 
 - Curry-Horward Correspondence, `a : A <=> A(a)`
-- Arbirary equivalences between programs with equality types as existence proofs, `a : A <=> a(A)`
+- Arbitrary equivalences between programs with equality types as existence proofs, `a : A <=> a(A)`
 
 These two theories are cocategory of each other, where morphisms are type memberships.
 
