@@ -29,10 +29,13 @@ In particular, I oppose the position of defining "objective" in terms of the opp
 I find this approach very problematic, because it uses specific human capabilities, or functions like a complementary set.
 It is not very informative of what we actually mean by something being objective.
 
-To explain why I find lacking in this approach, one can think about the definition of prime numbers:
-A prime number can be defined as not being a composition number, but I when the definition of a composition number is missing,
+To explain what I find lacking in this approach, one can think about the definition of prime numbers:
+A prime number can be defined as not being a composition number, but when the definition of a composition number is missing,
 I would be unsatisfied with a such definition. Instead, a prime number is often defined as the lack of certain mathematical properties,
 in terms of concrete operations such as divisibility. I find more satisfying the latter approach of defining prime numbers.
+
+The key insight is that a definition should guide the intuition toward concrete examples of the existence of certain mathematical properties,
+or the lack of thereof.
 
 I believe an ideal definition of objectivity should be without reference to things that are specific to being a human.
 Fortunately, one does not need to look very far: The word "bias" is already mentioned in the Wikipedia article.
