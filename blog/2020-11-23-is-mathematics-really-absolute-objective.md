@@ -78,7 +78,7 @@ However, imagine that I had a magical machine with these properties:
 1. I can program the machine with any problem and any goal
 2. The program will produce an answer immediately with a solution, if it exists
 
-I program the machine with the goal "find a non-human-centric definition of objectivity".
+I program the machine with the goal "find a non-human-centric definition of objectivity, starting with objectivity being opposite of subjectivity".
 
 Now, consider the possibility that this machine outputted a solution.
 
