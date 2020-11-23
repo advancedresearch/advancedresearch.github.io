@@ -94,7 +94,7 @@ It is also interesting to see whether one can refine the language we use in phil
 to more accurately address the ideas around subjectivity and what it means.
 
 For example, to develop a theory of consciousness, I could start with a notion of human-level subjectivity.
-As I reduce the consciousness into processes happening in the brain, I simultaniously reduce the notion of subjectivity to other forms.
+As I reduce the consciousness into processes happening in the brain, I simultaneously reduce the notion of subjectivity to other forms.
 When I get down to the particle level of physics, I would start to understand something about how subjectivity is related to particles.
 
 It is already common in physics to describe the world seen from a subjective perspective: Coordinate systems.
