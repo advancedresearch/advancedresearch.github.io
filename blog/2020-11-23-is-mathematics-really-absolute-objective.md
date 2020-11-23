@@ -180,6 +180,13 @@ Objectivity no longer means the opposite of subjectivity or the absence of it.
 
 When we are talking about objects, as existing in themselves, independent of subjective experience,
 I feel it is more precise to approach it as a counter-factual to something we start to think about from a subjective point of view.
+First, we assume that objects have properties that holds for all observers,
+which is true even if the set of observers is zero.
+Second, we assume that the properties that objects have in themselves,
+are independent of any individual observer.
+Notice that this does not violate the idea of objectivity as uniform subjectivity.
+Even when talking about a set of zero observers, *counter-factually* the set could be non-zero.
+Hence, the potential for subjectivity is still the same.
 
 I do not claim that objective existence is impossible, only that the definition of it as an opposition to subjectivity is problematic.
 When broadening the definition of what objectivity can mean, one can also find that it supports circumstances that includes subjectivity.
