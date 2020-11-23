@@ -87,7 +87,7 @@ Now, consider the possibility that this machine outputted a solution.
 
 By reading this new definition created by the machine, I might get an understanding of what *absolute objectivity* is.
 
-The way I imagine how it would feel like to experience absolute objectivity, was as if I were floating in an empty universe,
+The way I imagined how it would feel like to experience absolute objectivity, was as if I were floating in an empty universe,
 existing everywhere, yet not being aware of anything in that universe, because being aware means I am processing information from a subjective point of view.
 
 Now, consider the possibility that the machine answers "There exists no solution".
