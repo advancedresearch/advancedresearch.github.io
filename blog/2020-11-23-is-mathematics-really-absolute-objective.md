@@ -1,6 +1,11 @@
 # Subjectivity in Mathematics and Problems of Defining Objectivity as Opposite to Subjectivity
 by Sven Nilsen, 2020
 
+![tom-paris](https://raw.githubusercontent.com/advancedresearch/advancedresearch.github.io/master/images/tom-paris.png)
+
+*In an episode of Star Trek Voyager, Tom Paris breaks the warp speed limit and told his experience as "existing everywhere and any time in the universe at once".
+This is him, right before he de-evolves into a prehistoric creature, a side effect of traveling this fast, altering his DNA.*
+
 In this blog post I will discuss the philosophy of absolute objectivity and problems it introduces in mathematics.
 I also introduce "uniform subjectivity" to talk about objectivity in a different sense than opposition to subjectivity.
 
