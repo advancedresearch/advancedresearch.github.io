@@ -4,7 +4,7 @@ by Sven Nilsen, 2020
 ![tom-paris](https://raw.githubusercontent.com/advancedresearch/advancedresearch.github.io/master/images/tom-paris.png)
 
 *In an episode of Star Trek Voyager, Tom Paris breaks the warp speed limit and told his experience as "existing everywhere and any time in the universe at once".
-The idea of objectivity as "uniform subjectivity" is kind of the same, not absense of subjectivity, but an unbiased representation of it.
+The idea of objectivity as "uniform subjectivity" is kind of the same, not absence of subjectivity, but an unbiased representation of it.
 This is him, right before he de-evolves into a prehistoric creature, a side effect of traveling this fast, altering his DNA.*
 
 In this blog post I will discuss the philosophy of absolute objectivity and problems it introduces in mathematics.
