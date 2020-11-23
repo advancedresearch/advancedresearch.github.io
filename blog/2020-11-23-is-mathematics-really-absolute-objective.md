@@ -10,7 +10,7 @@ This is him, right before he de-evolves into a prehistoric creature, altering hi
 In this blog post I will discuss the philosophy of absolute objectivity and problems it introduces in mathematics.
 I also introduce "uniform subjectivity" to talk about objectivity in a different sense than opposition to subjectivity.
 
-This idea is based my experience with working on [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary),
+This idea is based on my experience with working on [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary),
 which has a gradually changed how I think about objectivity vs subjectivity in mathematics.
 
 ### Objectivity as opposite to individual subjectivity
