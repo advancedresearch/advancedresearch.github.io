@@ -170,7 +170,7 @@ but as a *balanced subjectivity*.
 
 Absolute objectivity might be thought of as a special case where the potential for subjectivity is zero everywhere.
 
-For example, in the presence of human subjectivity, I can talk about objectivity in the sense of having potential being experienced by any human.
+For example, in the presence of human subjectivity, I can talk about objectivity in the sense of having potential, being experienced by any human.
 
 - "The sky is blue", something that feels like a "fact", but is subjective to human experience, our sensory perceptions and language faculties of the brain
 - "For every day, there is a tomorrow", something that feels like a "fact", but is subjective to human semantics of time, missing some edge cases
