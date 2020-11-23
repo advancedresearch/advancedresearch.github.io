@@ -193,6 +193,8 @@ one runs into problems, because removing the observers does not make it easier t
 For example, when learning about quantum mechanics, some people might believe that the objective description of a particle,
 is when the particle is unobserved. Other people might believe the objective description of a particle is when the particle is observed.
 However, to preserve the potential of subjectivity uniformly, one must include the description of the particle when unobserved, observed or partially observed.
+This is because observation is a potential subjectivity, which can not be increased in some place without reducing it in another place.
+If the potential subjectivity is the same everywhere, then a description of an objective system must include all possible states of observation/unobservation.
 
 I do not claim that objective existence is impossible, only that the definition of it as an opposition to subjectivity is problematic.
 When broadening the definition of what objectivity can mean, one can also find that it supports circumstances that includes subjectivity.
