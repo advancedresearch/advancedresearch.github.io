@@ -16,9 +16,19 @@ From the article on objectivity in the [Internet Encyclopedia of Philosophy](htt
 
 With other words, objectivity is often defined as an opposite, or independence, to *individual subjectivity*.
 
-I find this definition very problematic, because it uses specific human capabilities.
+There are many uses of the words "subjective" and "objective", but I will not go into all of them here.
+The use of "subjective" and "objective" I refer to is more to question the contextual framework we use to think about these terms.
 
-An ideal definition of objectivity should be without reference to things that are specific to being a human.
+In particular, I oppose the position of defining "objective" in terms of the opposite, or independence, of "subjective".
+I find this approach very problematic, because it uses specific human capabilities, or functions like a complementary set.
+It is not very informative of what we actually mean by something being objective.
+
+To explain why I find lacking in this approach, one can think about the definition of prime numbers:
+A prime number can be defined as not being a composable number, but I when the definition of a composible number is missing,
+I would be unsatisfied with a such definition. Instead, a prime number is often defined as the lack of certain mathematical properties,
+in terms of concrete operations such as divisibility.
+
+I believe an ideal definition of objectivity should be without reference to things that are specific to being a human.
 Fortunately, one does not need to look very far: The word "bias" is already mentioned in the Wikipedia article.
 
 One might use *bias* to generalize this approach of defining objectivity.
