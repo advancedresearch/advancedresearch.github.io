@@ -115,6 +115,8 @@ Still, the idea that one can think about certain coordinates as more subjective 
 means that when I choose to represent a physical system with a coordinate system,
 I am also choosing some degree of subjectivity that follows with the choice of the coordinate system.
 
+From an algorithmic perspective, some descriptions of the world state require less information than other world states.
+
 In principle, I could choose any point as `(0, 0, 0)`.
 
 This means, that every point has the same amount of potential subjectivity.
