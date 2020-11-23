@@ -190,6 +190,10 @@ Hence, the potential for subjectivity is still the same.
 However, when one claims that the properties objects have in themselves are best understood with a zero set of observers,
 one runs into problems, because removing the observers does not make it easier to understand what objects are in themselves.
 
+For example, when learning about quantum mechanics, some people might believe that the objective description of a particle,
+is when the particle is unobserved. Other people might believe the objective description of a particle is when the particle is observed.
+However, to preserve the potential of subjectivity uniformly, one must include the description of the particle when unobserved, observed or partially observed.
+
 I do not claim that objective existence is impossible, only that the definition of it as an opposition to subjectivity is problematic.
 When broadening the definition of what objectivity can mean, one can also find that it supports circumstances that includes subjectivity.
 
