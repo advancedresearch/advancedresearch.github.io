@@ -1,4 +1,4 @@
-# Is Mathematics Really Absolute Objective?
+# Subjectivity in Mathematics and Problems of Defining Objectivity as Opposite to Subjectivity
 by Sven Nilsen, 2020
 
 In this blog post I will discuss the philosophy of absolute objectivity and problems it introduces in mathematics.
