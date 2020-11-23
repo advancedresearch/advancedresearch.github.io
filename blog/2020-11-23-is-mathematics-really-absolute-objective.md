@@ -186,8 +186,8 @@ When broadening the definition of what objectivity can mean, one can also find t
 
 ### Uniform subjectivity and Avatar Extensions
 
-When working on [Avatar Extensions](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#avatar-extensions),
-the a feeling of the mathematics, that I am thinking about a kind of uniform subjectivity.
+When working on [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary),
+I get a feeling of the mathematics, that I am thinking about some kind of uniform subjectivity.
 
 It means, I no longer feel comfortable with thinking about objectivity as an opposition to subjectivity.
 
