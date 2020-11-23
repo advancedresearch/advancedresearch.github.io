@@ -26,7 +26,7 @@ It is not very informative of what we actually mean by something being objective
 To explain why I find lacking in this approach, one can think about the definition of prime numbers:
 A prime number can be defined as not being a composition number, but I when the definition of a composition number is missing,
 I would be unsatisfied with a such definition. Instead, a prime number is often defined as the lack of certain mathematical properties,
-in terms of concrete operations such as divisibility.
+in terms of concrete operations such as divisibility. I find more satisfying the latter approach of defining prime numbers.
 
 I believe an ideal definition of objectivity should be without reference to things that are specific to being a human.
 Fortunately, one does not need to look very far: The word "bias" is already mentioned in the Wikipedia article.
