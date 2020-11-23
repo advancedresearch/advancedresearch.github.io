@@ -10,12 +10,16 @@ From the [Wikipedia](https://en.wikipedia.org/wiki/Objectivity_(philosophy)) art
 
 "In philosophy, objectivity is the concept of truth independent from individual subjectivity (bias caused by one's perception, emotions, or imagination)."
 
-With other words, objectivity is often defined as an opposite to *individual subjectivity*.
+From the article on objectivity in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/objectiv/):
+
+"The terms “objectivity” and “subjectivity,” in their modern usage, generally relate to a perceiving subject (normally a person) and a perceived or unperceived object. The object is something that presumably exists independent of the subject’s perception of it. In other words, the object would be there, as it is, even if no subject perceived it. Hence, objectivity is typically associated with ideas such as reality, truth and reliability."
+
+With other words, objectivity is often defined as an opposite, or independence, to *individual subjectivity*.
 
 I find this definition very problematic, because it uses specific human capabilities.
 
 An ideal definition of objectivity should be without reference to things that are specific to being a human.
-Fortunately, one does not need to look very far: The word "bias" is already mentioned in the article.
+Fortunately, one does not need to look very far: The word "bias" is already mentioned in the Wikipedia article.
 
 One might use *bias* to generalize this approach of defining objectivity.
 
