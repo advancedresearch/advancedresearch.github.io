@@ -105,7 +105,7 @@ I might consider the consequences of the possibility that a such definition is i
 What kind of consequences would this bring e.g. to mathematics?
 
 For example, when I write a computer program that operates on natural numbers,
-I have a feeling that the program is "objective", although I can not explain precisely what I mean by that.
+I have a feeling that the program is "objective" in some sense, although I can not explain precisely what I mean by that.
 
 There are two philosophical positions that I can imagine would be relevant in a such situation:
 
