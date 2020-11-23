@@ -187,6 +187,8 @@ are independent of any individual observer.
 Notice that this does not violate the idea of objectivity as uniform subjectivity.
 Even when talking about a set of zero observers, *counter-factually* the set could be non-zero.
 Hence, the potential for subjectivity is still the same.
+However, when one claims that the properties objects have in themselves are best understood with a zero set of observers,
+one runs into problems, because removing the observers does not make it easier to understand what objects are in themselves.
 
 I do not claim that objective existence is impossible, only that the definition of it as an opposition to subjectivity is problematic.
 When broadening the definition of what objectivity can mean, one can also find that it supports circumstances that includes subjectivity.
