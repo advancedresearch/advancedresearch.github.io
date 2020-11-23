@@ -182,13 +182,13 @@ When broadening the definition of what objectivity can mean, one can also find t
 ### Uniform subjectivity and Avatar Extensions
 
 When working on [Avatar Extensions](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#avatar-extensions),
-the feeling I get of the mathematics is that I am thinking about a kind of uniform subjectivity.
+the a feeling of the mathematics, that I am thinking about a kind of uniform subjectivity.
 
 It means, I no longer feel comfortable with thinking about objectivity as an opposition to subjectivity.
 
-What this means for generalizaing mathematics, I imagine as the following example:
+What this means for generalizing mathematics, I imagine as the following example:
 One might introduce arbitrary amounts of subjectivity, yet keep the mathematics from being unsound, by making the subjectivity uniform.
 
-With other words, it might be possible to make mathematics arbitrary subjective, without loosing the weaker notion of objectivity.
+With other words, it might be possible to make mathematics arbitrary subjective, without losing the weaker notion of objectivity.
 
 This idea of looking at objectivity through a new lens of uniform subjectivity, feels like a conceptual breakthrough for me in the philosophy of mathematics.
