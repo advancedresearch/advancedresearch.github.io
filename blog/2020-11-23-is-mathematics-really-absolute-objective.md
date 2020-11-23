@@ -41,7 +41,7 @@ This definition of bias seems to sound more biased than what I actually mean whe
 
 OK, maybe I can try to use bias in the sense of algorithms.
 However, instead of working around problems that are specific to the definition of bias, I want to go back to the definition of objectivity.
-I belive this a problem you will occur in many different approaches and I would rather have a method that works for all of them.
+I believe this a problem you will occur in many different approaches and I would rather have a method that works for all of them.
 
 Is it possible to elaborate on a definition of objectivity that is free of any human-centric point of view?
 
