@@ -165,6 +165,20 @@ Objectivity as uniform subjectivity, means that the potential of subjectivity is
 With other words, I no longer define objectivity as the opposite of subjectivity,
 but as a *balanced subjectivity*.
 
+For example, in the presence of human subjectivity, I can talk about objectivity in the sense of having potential being experienced by any human.
+
+- "The sky is blue", something that feels like a "fact", but is subjective to human experience, our sensory perceptions and language faculties of the brain
+- "For every day, there is a tomorrow", something that feels like a "fact", but is subjective to human semantics of time, missing some edge cases
+
+Notice that I do not exclude any form of subjectivity to claim I am talking about something objectively.
+Objectivity no longer means the opposite of subjectivity or the absence of it.
+
+When we are talking about objects, as existing in themselves, independent of subjective experience,
+I feel it is more precise to approach it as a counter-factual to something we start to think about from a subjective point of view.
+
+I do not claim that objective existence is impossible, only that the definition of it as an opposition to subjectivity is problematic.
+When broadening the definition of what objectivity can mean, one can also find that it supports circumstances that includes subjectivity.
+
 ### Uniform subjectivity and Avatar Extensions
 
 When working on [Avatar Extensions](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#avatar-extensions),
