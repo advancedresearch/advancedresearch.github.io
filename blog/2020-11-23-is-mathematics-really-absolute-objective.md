@@ -137,7 +137,9 @@ I am also choosing some degree of subjectivity that follows with the choice of t
 
 From an algorithmic perspective, some descriptions of the world state require less information than other world states.
 
-In principle, I could choose any point as `(0, 0, 0)`.
+At meta-level, I could invent a rule "The position of the observer is at origo".
+
+In principle, I could choose any point as `(0, 0, 0)`, hence creating an observer at any point.
 
 This means, that every point has the same amount of potential subjectivity.
 
