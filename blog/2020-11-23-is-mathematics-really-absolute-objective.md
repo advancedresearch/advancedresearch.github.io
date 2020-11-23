@@ -90,6 +90,11 @@ By reading this new definition created by the machine, I might get an understand
 The way I imagined how it would feel like to experience absolute objectivity, was as if I were floating in an empty universe,
 existing everywhere, yet not being aware of anything in that universe, because being aware means I am processing information from a subjective point of view.
 
+This might seem like a contradiction: How can one exist everywhere, yet not experience anything?
+
+As an example, one could point to a chair, say the chair exists, yet it does not experience anything.
+Hence, the chair is referred to as an object, and this idea generalized is what we think of as "objective".
+
 Now, consider the possibility that the machine answers "There exists no solution".
 
 ### The possibility of absolute objectivity as an impossibility
