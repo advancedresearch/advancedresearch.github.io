@@ -164,6 +164,9 @@ the feeling I get of the mathematics is that I am thinking about a kind of unifo
 
 It means, I no longer feel comfortable with thinking about objectivity as an opposition to subjectivity.
 
-In principle, one might introduce arbitrary amounts of subjectivity, yet keep the mathematics from being unsound, by making the subjectivity uniform.
+What this means for generalizaing mathematics, I imagine as the following example:
+One might introduce arbitrary amounts of subjectivity, yet keep the mathematics from being unsound, by making the subjectivity uniform.
 
-This idea of looking at objectivity through a new lens of uniform subjectivity, feels like a conceptual breakthrough in the philosophy of mathematics.
+With other words, it might be possible to make mathematics arbitrary subjective, without loosing the weaker notion of objectivity.
+
+This idea of looking at objectivity through a new lens of uniform subjectivity, feels like a conceptual breakthrough for me in the philosophy of mathematics.
