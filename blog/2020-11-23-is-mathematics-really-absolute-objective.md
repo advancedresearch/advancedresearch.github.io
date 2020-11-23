@@ -68,7 +68,7 @@ I believe this a problem that will occur in many different approaches and I woul
 
 Is it possible to elaborate on a definition of objectivity that is free of any human-centric point of view?
 
-### Absolute Objectivity
+### Absolute objectivity
 
 The intuition that people have about something being objectively true, is what they mean when they refer to it as a "fact".
 
