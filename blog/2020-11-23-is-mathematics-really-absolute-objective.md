@@ -5,7 +5,7 @@ by Sven Nilsen, 2020
 
 *In an episode of Star Trek Voyager, Tom Paris breaks the warp speed limit and told his experience as "existing everywhere and any time in the universe at once".
 The idea of objectivity as "uniform subjectivity" is kind of the same, not absence of subjectivity, but an unbiased representation of it.
-This is him, right before he de-evolves into a prehistoric creature, a side effect of traveling this fast, altering his DNA.*
+This is him, right before he de-evolves into a prehistoric creature, altering his DNA as a side effect of traveling this fast.*
 
 In this blog post I will discuss the philosophy of absolute objectivity and problems it introduces in mathematics.
 I also introduce "uniform subjectivity" to talk about objectivity in a different sense than opposition to subjectivity.
