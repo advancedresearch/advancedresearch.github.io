@@ -38,7 +38,7 @@ I would be unsatisfied with a such definition. There are three ways of resolving
 
 1. Provide a definition of prime numbers in terms of lacking divisibility
 2. Provide a definition of composition numbers in terms of divisibility
-3. Try to think of numbers are like or almost primes
+3. Try to think of numbers that are like or almost primes
 
 Either 1) or 2) would suffice.
 
