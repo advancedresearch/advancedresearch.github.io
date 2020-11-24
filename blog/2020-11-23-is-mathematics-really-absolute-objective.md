@@ -43,7 +43,7 @@ I would be unsatisfied with a such definition. There are three ways of resolving
 Either 1) or 2) would suffice.
 
 For example, I see no problems using a working definition of subjectivity as human experience.
-With this definition, one can talk about objectivity in some context.
+Within this definition, one can talk about objectivity in some contexts.
 The problem is when one is trying to grasp objectivity in a much broader sense.
 
 However, I am unable to provide a clear definition of subjectivity in a much broader sense,
