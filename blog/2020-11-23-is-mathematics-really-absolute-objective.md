@@ -42,7 +42,12 @@ I would be unsatisfied with a such definition. There are three ways of resolving
 
 Either 1) or 2) would suffice.
 
-However, I am unable to provide a clear definition of subjectivity, and hence a definition of objectivity as an opposite to subjectivity is not very useful.
+For example, I see no problems using a working definition of subjectivity as human experience.
+With this definition, one can talk about objectivity in some context.
+The problem is when one is trying to grasp objectivity in a much broader sense.
+
+However, I am unable to provide a clear definition of subjectivity in a much broader sense,
+and hence a definition of objectivity as an opposite to subjectivity is not very useful.
 The options 1) and 2) are off the table.
 With objectivity as "uniform subjectivity", which I will elaborate on later in this article, I make an attempt at option 3).
 
