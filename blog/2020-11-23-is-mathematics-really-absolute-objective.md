@@ -178,6 +178,8 @@ With other words, I no longer define objectivity as the opposite of subjectivity
 but as a *balanced subjectivity*.
 
 Absolute objectivity might be thought of as a special case where the potential for subjectivity is zero everywhere.
+Although this might seem like uniform subjectivity providing a definition of absolute objectivity,
+there is no new information about absolute objectivity, since zero potential for subjectivity is identical to objectivity as opposite of subjectivity.
 
 For example, in the presence of human subjectivity, I can talk about objectivity in the sense of having potential, being experienced by any human.
 
