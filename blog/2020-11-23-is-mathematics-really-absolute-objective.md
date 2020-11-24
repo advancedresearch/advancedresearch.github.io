@@ -182,6 +182,10 @@ Objectivity as uniform subjectivity, means that the potential of subjectivity is
 With other words, I no longer define objectivity as the opposite of subjectivity,
 but as a *balanced subjectivity*.
 
+Another way to think about it, is as objectivity being an arena, where subjectivity can take place as an activity.
+With other words, objectivity is kind of a starting point and subjectivity as choices being made from that starting point.
+When subjectivity takes place uniformly, it preserves some weaker notion of objectivity.
+
 Absolute objectivity might be thought of as a special case where the potential for subjectivity is zero everywhere.
 Although this might seem like uniform subjectivity providing a definition of absolute objectivity,
 there is no new information about absolute objectivity, since zero potential for subjectivity is identical to objectivity as opposite of subjectivity.
