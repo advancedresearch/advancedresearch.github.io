@@ -34,7 +34,7 @@ It is not very informative of what we actually mean by something being objective
 
 To explain what I find lacking in this approach, one can think about the definition of prime numbers:
 A prime number can be defined as not being a composition number, but when the definition of a composition number is missing,
-I would be unsatisfied with a such definition. There are two ways of resolving this:
+I would be unsatisfied with a such definition. There are three ways of resolving this:
 
 1. Provide a definition of prime numbers in terms of lacking divisibility
 2. Provide a definition of composition numbers in terms of divisibility
