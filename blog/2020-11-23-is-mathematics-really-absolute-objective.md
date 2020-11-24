@@ -34,8 +34,17 @@ It is not very informative of what we actually mean by something being objective
 
 To explain what I find lacking in this approach, one can think about the definition of prime numbers:
 A prime number can be defined as not being a composition number, but when the definition of a composition number is missing,
-I would be unsatisfied with a such definition. Instead, a prime number is often defined as the lack of certain mathematical properties,
-in terms of concrete operations such as divisibility. I find more satisfying the latter approach of defining prime numbers.
+I would be unsatisfied with a such definition. There are two ways of resolving this:
+
+1. Provide a definition of prime numbers in terms of lacking divisibility
+2. Provide a definition of composition numbers in terms of divisibility
+3. Try to think of numbers are like or almost primes
+
+Either 1) or 2) would suffice.
+
+However, I am unable to provide a clear definition of subjectivity, and hence a definition of objectivity as an opposite to subjectivity is not very useful.
+The options 1) and 2) are off the table.
+With objectivity as "uniform subjectivity", which I will elaborate on later in this article, I make an attempt at option 3).
 
 The key insight is that a definition should guide the intuition toward concrete examples of the existence of certain mathematical properties,
 or the lack of thereof.
