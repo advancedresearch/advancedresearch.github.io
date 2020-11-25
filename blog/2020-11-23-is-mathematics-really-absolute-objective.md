@@ -42,17 +42,26 @@ I would be unsatisfied with a such definition. There are three ways of resolving
 
 Either 1) or 2) would suffice.
 
+The key insight is that a definition should guide the intuition toward concrete examples of the existence of certain mathematical properties,
+or the lack of thereof.
+
 For example, I see no problems using a working definition of subjectivity as human experience.
 Within this definition, one can talk about objectivity in some contexts.
 The problem is when one is trying to grasp objectivity in a much broader sense.
+
+For example, is there a problem that objectivity as opposite to subjectivity produces wrong results?
+No, not directly. However, it might lead to exclusion of forms of subjectivity that are sound and meaningful:
+
+```
+"The sky is blue" is a statement that is both objective in some sense, but also subjective,
+showing that it is not always easy to separate what is objective from what is subjective.
+This raises the question: How can we understand the interplay between the objective and subjective in a deeper way?
+```
 
 However, I am unable to provide a clear definition of subjectivity in a much broader sense,
 and hence a definition of objectivity as an opposite to subjectivity is not very useful.
 The options 1) and 2) are off the table.
 With objectivity as "uniform subjectivity", which I will elaborate on later in this article, I make an attempt at option 3).
-
-The key insight is that a definition should guide the intuition toward concrete examples of the existence of certain mathematical properties,
-or the lack of thereof.
 
 I believe an ideal definition of objectivity should be without reference to things that are specific to being a human.
 Fortunately, one does not need to look very far: The word "bias" is already mentioned in the Wikipedia article.
