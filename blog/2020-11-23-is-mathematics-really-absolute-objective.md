@@ -13,6 +13,8 @@ I also introduce "uniform subjectivity" to talk about objectivity in a different
 This idea is based on my experience with working on [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary),
 which has a gradually changed how I think about objectivity vs subjectivity in mathematics.
 
+*Disclaimer: I do not go into philosophical literature in this post, instead I emphasize logical argumentation.*
+
 ### Objectivity as opposite to individual subjectivity
 
 From the [Wikipedia](https://en.wikipedia.org/wiki/Objectivity_(philosophy)) article on objectivity:
