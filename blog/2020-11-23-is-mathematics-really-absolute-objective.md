@@ -73,8 +73,15 @@ One might use *bias* to generalize this approach of defining objectivity.
 Bias can be studied outside the framework of human physiology.
 
 Algorithms can have bias, e.g. a biased 3D renderer, which means it does not converge to the [rendering equation](https://en.wikipedia.org/wiki/Rendering_equation).
+This is not because the algorithm simulates brain activity, or it fails to be "objective" in itself some ways.
+On the other hand, the bias comes from the mathematical description of the algorithm,
+which produces results that a compute program can compare to another mathematical description we associate with "objective", although in a subjective way.
 
-Thererfore, a computer scientist might find a definition of objectivity, as opposite to bias in general, more satisfying.
+Again, the ideas of objective and subjective are mixed together.
+The difference is that this time, there is no human in the loop.
+There are only mathematical descriptions and computer programs.
+
+Thererfore, a computer scientist might find a definition of objectivity, as opposite to bias in general instead of subjectivity, more satisfying.
 
 However, I think this definition too is problematic.
 
