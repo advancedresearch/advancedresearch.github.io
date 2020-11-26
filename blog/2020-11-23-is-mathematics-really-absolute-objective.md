@@ -60,6 +60,8 @@ showing that it is not always easy to separate what is objective from what is su
 This raises the question: How can we understand the interplay between the objective and subjective in a deeper way?
 ```
 
+For elaboration about the scientific subjectivity of "the sky is blue", see footnote [1].
+
 However, I am unable to provide a clear definition of subjectivity in a much broader sense,
 and hence a definition of objectivity as an opposite to subjectivity is not very useful.
 The options 1) and 2) are off the table.
@@ -251,3 +253,7 @@ One might introduce arbitrary amounts of subjectivity, yet keep the mathematics 
 With other words, it might be possible to make mathematics arbitrary subjective, without losing the weaker notion of objectivity.
 
 This idea of looking at objectivity through a new lens of uniform subjectivity, feels like a conceptual breakthrough for me in the philosophy of mathematics.
+
+### Footnotes
+
+[1] "The sky is blue" can be thought as subjective both from a human experience point of view and a scientific view. From a scientific view, the color of the sky depends on it chemical composition, the color of the source of light, and the angle of the light. Measuring the light with an optical spectrometer, the light is "blue" scientifically when it falls within the EM-spectrum that is defined as blue. However, it is not sufficient to determine that there is some light within the blue EM-spectrum. One must also measure for the entire visible EM-spectrum, in case there are other parts of the visible spectrum that have a higher density than the blue EM-spectrum. Indeed, this happens sometimes, for example in a red sunset, a gray cloudy day, or when a duststorm brings yellow particles into the athmosphere, or when aurora borealis shines green in the night sky, or for rainbows within a narrow angle. Yet, there are some contexts which "the sky is blue" can be treated as objective, even from a scientific view point. The subjectivity in the sentence "the sky is blue" is such of a kind that similar conditions that makes the sky look blue occurs regularly, such as in many places during the day when the sky is clear.
