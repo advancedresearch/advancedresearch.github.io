@@ -89,9 +89,9 @@ Thererfore, a computer scientist might find a definition of objectivity, as oppo
 
 However, I think this definition too is problematic.
 
-It is very hard to come up with a general definition of bias that is not involving some kind human-centric point of view.
+It is very hard to come up with a general definition of bias that is not involving some kind of human-centric point of view.
 
-From the [Wikipedia]() article on bias:
+From the [Wikipedia](https://en.wikipedia.org/wiki/Bias) article on bias:
 
 "Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is closed-minded, prejudicial, or unfair."
 
