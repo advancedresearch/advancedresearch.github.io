@@ -174,3 +174,28 @@ getting topological properties via Product Witness (due to Symmetry Forcing).
 
 The Exterior is constructed using a loop onto the identity morphism with a 1-avatar extension as the Loop Witness.
 This is related to exterior algebra.
+
+#### Avatar Modal Subjectivity
+
+The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (`s`).
+
+- `◇s` non-uniform modal subjectivity = classical subjectivity
+- `□s` uniform modal subjectivity = classical objectivity
+- `□¬s => □s` uniform modal non-subjectivity implies uniform modal subjectivity
+
+Uniform modal non-subjectivity `□¬s` might be thought of as classical absolute objectivity,
+but this is weakened to uniform modal subjectivity.
+
+Normal axioms of Modal logic:
+
+- `¬□¬p <=> ◇p`
+- `¬◇¬p <=> □p`
+
+Normal axioms of propositional logic:
+
+- `¬¬p <=> p`
+- `(p => q) <=> (¬q => ¬p)`
+
+Associativity:
+
+`(¬□)(¬p) <=> ¬(□¬p)`
