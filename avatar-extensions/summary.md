@@ -175,7 +175,7 @@ getting topological properties via Product Witness (due to Symmetry Forcing).
 The Exterior is constructed using a loop onto the identity morphism with a 1-avatar extension as the Loop Witness.
 This is related to exterior algebra.
 
-#### Avatar Modal Subjectivity
+### Avatar Modal Subjectivity
 
 The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (`s`).
 
