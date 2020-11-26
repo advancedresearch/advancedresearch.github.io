@@ -132,6 +132,13 @@ This might seem like a contradiction: How can one exist everywhere, yet not expe
 As an example, one could point to a chair, say the chair exists, yet it does not experience anything.
 Hence, the chair is referred to as an object, and this idea generalized is what we think of as "objective".
 
+Notice that all of a sudden, there is a change from a descriptive notion of objectivity,
+to an intrinsic notion of objectivity, which only can be described as the absence of experience.
+With other words, we do not have any concepts to talk about how it is to be like a chair,
+without explaining it as an absence of human experiences we are familiar with.
+This shows that we are failing to grasp what absolute objectivity is in itself,
+because we can only relate to it as an opposite of subjectivity.
+
 Now, consider the possibility that the machine answers "There exists no solution".
 
 ### The possibility of absolute objectivity as an impossibility
