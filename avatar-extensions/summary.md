@@ -177,7 +177,7 @@ This is related to exterior algebra.
 
 ### Avatar Modal Subjectivity
 
-The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (`s`).
+The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (e.g. `s`).
 
 - `◇s` non-uniform modal subjectivity = classical subjectivity
 - `□s` uniform modal subjectivity = classical objectivity
