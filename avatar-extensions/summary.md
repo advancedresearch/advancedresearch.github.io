@@ -179,26 +179,28 @@ This is related to exterior algebra.
 
 The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (e.g. `s`).
 
-- `◇s` non-uniform modal subjectivity = classical subjectivity
-- `□s` uniform modal subjectivity = classical objectivity
-- `□¬s => □s` uniform modal non-subjectivity implies uniform modal subjectivity
+```
+◇s            non-uniform modal subjectivity = classical subjectivity
+□s            uniform modal subjectivity = classical objectivity
+□¬s => □s     uniform modal non-subjectivity implies uniform modal subjectivity
+```
 
 Uniform modal non-subjectivity `□¬s` might be thought of as classical absolute objectivity,
 but this is weakened to uniform modal subjectivity.
 
-Normal axioms of Modal logic:
+Normal axioms:
+```
+Modal logic:
+¬□¬p <=> ◇p
+¬◇¬p <=> □p
 
-- `¬□¬p <=> ◇p`
-- `¬◇¬p <=> □p`
-
-Normal axioms of propositional logic:
-
-- `¬¬p <=> p`
-- `(p => q) <=> (¬q => ¬p)`
+Propositional logic:
+¬¬p <=> p
+(p => q) <=> (¬q => ¬p)
 
 Associativity:
-
-`(¬□)(¬p) <=> ¬(□¬p)`
+(¬□)(¬p) <=> ¬(□¬p)
+```
 
 #### Weak Monotonicity
 
