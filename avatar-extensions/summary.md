@@ -199,3 +199,19 @@ Normal axioms of propositional logic:
 Associativity:
 
 `(¬□)(¬p) <=> ¬(□¬p)`
+
+#### Weak Monotonicity
+
+The full experience of an observer in a given moment can never be repeated in practice.
+To model this phenomena, one can think of an infinite time counter, forever increasing.
+A time counter is monotonic, hence approximations to subjective experiences are thought of as having a *weak monotonicity* property.
+
+- Higher weak monotonicity means the experience has less potential for repetition
+- An observer is related to experiences using the Product Witness (See: Avatar Witness Theory)
+- The product of two experiences has an equal or higher weak monotonicity than each individual experience
+
+In theories concerning weak monotonicity, the product of uniform and non-uniform subjectivity can be simplified:
+
+```text
+□p ∧ ◇p <=> ◇p
+```
