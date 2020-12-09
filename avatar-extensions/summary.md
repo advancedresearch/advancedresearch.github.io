@@ -209,8 +209,14 @@ To model this phenomena, one can think of an infinite time counter, forever incr
 A time counter is monotonic, hence approximations to subjective experiences are thought of as having a *weak monotonicity* property.
 
 - Higher weak monotonicity means the experience has less potential for repetition
-- An observer is related to experiences using the Product Witness (See: Avatar Witness Theory)
 - The product of two experiences has an equal or higher weak monotonicity than each individual experience
+
+Relations to Avatar Witness Theory:
+
+- An observer is related to experiences using the Product Witness
+- Self referentiality is related to the Loop Witness
+
+For example, witness duality implies that it is impossible to talk about/define objectiveness without self referentiality.
 
 In theories concerning weak monotonicity, the product of uniform and non-uniform subjectivity can be simplified:
 
