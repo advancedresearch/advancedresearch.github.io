@@ -229,7 +229,11 @@ In theories concerning weak monotonicity, the product of uniform and non-uniform
 Some kind of paradoxes are related to Möbius topologies in Avatar Graphs.
 These graphs can be transformed into orthogonal mathematical objects using topological surgery.
 
-The topological surgery operation is an involution.
+For example, a Wagner graph can be transformed in a 3-cube graph.
+
+The topological surgery operation is an involution and relates uniformity of paradoxes with non-uniformity of tautologies.
+
+With self referentiality, it is easier to visualize the involution.
 
 For example:
 
