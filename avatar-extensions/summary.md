@@ -223,3 +223,22 @@ In theories concerning weak monotonicity, the product of uniform and non-uniform
 ```text
 □p ∧ ◇p <=> ◇p
 ```
+
+#### Paradoxes and Tautologies
+
+Some kind of paradoxes are related to Möbius topologies in Avatar Graphs.
+These graphs can be transformed into orthogonal mathematical objects using topological surgery.
+
+The topological surgery operation is an involution.
+
+For example:
+
+1. "this sentence is false" is known as Liar's paradox
+2. "this sentence is true" is a tautology with two solutions
+
+The second sentence is related to the first one using involution on "this sentence is X".
+
+The Liar's paradox offer no potential for non-uniform subjective experience.
+
+Witness duality: In the tautology, an observer can experience one interpretation and later reinterpret it in future experiences,
+but it is impossible to reinterpret the original experience.
