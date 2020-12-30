@@ -175,6 +175,14 @@ getting topological properties via Product Witness (due to Symmetry Forcing).
 The Exterior is constructed using a loop onto the identity morphism with a 1-avatar extension as the Loop Witness.
 This is related to exterior algebra.
 
+Philosophical argument about self-referential Avatar Extensions as the interior:
+
+1. A theory must have an exterior to be used as "core self"
+2. If the exterior of Avatar Extensions is a dual theory, then they are related through an involution
+3. Involutions can be extended to Avatar Extensions, hence Avatar Extensions being avatar extendable
+4. Avatar Extensions witnesses its own extension, therefore is a Loop Witness
+5. The Exterior Avatar Extensions is a Product Witness, therefore, a candidate for the exterior might be Avatar Graphs
+
 ### Avatar Modal Subjectivity
 
 The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (e.g. `s`).
