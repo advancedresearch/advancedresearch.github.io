@@ -9,4 +9,8 @@ TODO
 
 ### Inside vs Outside Theories of Mathematics
 
-TODO
+TODO:
+
+- Definition of The Inside
+- Definition of The Outside
+
