@@ -3,6 +3,10 @@ by Adam Nemecek, Sven Nilsen, Tupshin Harper
 
 (WIP)
 
-### Introduction to Plato's cave
+### Introduction to Plato's Cave
+
+TODO
+
+### Inside vs Outside Theories of Mathematics
 
 TODO
