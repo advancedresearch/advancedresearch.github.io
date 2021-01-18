@@ -1,5 +1,5 @@
 # Plato's Cave Found in Mathematics
-by Adam Nemecek, Sven Nilsen, Tupshin Harper
+by Tupshin Harper, Adam Nemecek, Sven Nilsen
 
 (WIP)
 
