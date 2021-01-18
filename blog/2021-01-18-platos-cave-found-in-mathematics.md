@@ -20,3 +20,6 @@ TODO:
 - Definition of The Inside
 - Definition of The Outside
 
+An Inside Theory is a mathematical language which models external objects as unknowns.
+
+An Outside Theory is a mathematical language with at least one symbol which does not refer to its theory.
