@@ -15,7 +15,7 @@ TODO
 
 ### Inside vs Outside Theories of Mathematics
 
-TODO:
+TODO
 
 #### Definition of The Inside
 
@@ -24,3 +24,11 @@ An Inside Theory is a mathematical language which models external objects as unk
 #### Definition of The Outside
 
 An Outside Theory is a mathematical language with at least one symbol which does not refer to its theory.
+
+#### Properties of Inside Theories
+
+TODO
+
+#### Properites of Outside Theories
+
+TODO
