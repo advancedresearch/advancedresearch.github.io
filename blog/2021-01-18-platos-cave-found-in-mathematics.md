@@ -35,3 +35,9 @@ The only work that remains is to figure out how to put the pieces together.
 #### Properites of Outside Theories
 
 TODO
+
+An Outside Theory is like a puzzle game where new pieces can be created.
+Not only figure out how to put the pieces together,
+but also what kind of puzzle game one would like to play
+given the partial solution found so far.
+
