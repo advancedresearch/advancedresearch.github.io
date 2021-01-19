@@ -29,6 +29,9 @@ An Outside Theory is a mathematical language with at least one symbol which does
 
 TODO
 
+An Inside Theory is like a puzzle game where you have all the pieces.
+The only work that remains is to figure out how to put the pieces together.
+
 #### Properites of Outside Theories
 
 TODO
