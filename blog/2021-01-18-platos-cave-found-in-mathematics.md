@@ -41,3 +41,27 @@ Not only figure out how to put the pieces together,
 but also what kind of puzzle game one would like to play
 given the partial solution found so far.
 
+### Argument
+
+Imagine a puzzle game which can be solved upside down.
+Swapping the image on the front does not change the puzzle.
+
+A such image that can be swapped, exists in the core axiom of Path Semantics.
+The order assumption (`F > X`) is introduced to eliminate a particular form of inconsistency.
+
+Avatar Extensions implies that the order can be weakened in the language of graphs,
+by constructing using Möbius topologies and remove diagonals using highest N-avatars.
+
+This points toward the possibility that weaker notions of order is accessible in higher homotopy levels.
+There might be a trade-off between the homotopy level complexity of the mathematical language used,
+and the weakest possible notion of order.
+
+Today, we understand the mathematics we know as a projection of a higher dimensional mathematics.
+This projection is like a shadow, or illusion of knowing what mathematics is.
+
+When the assumption of order is swapped uniformly, it is undetectable from within the mathematical theory.
+This means that there exists some property that can not be modelled within mathematics,
+without also embedding the entire mathematics into itself.
+
+Therefore, Outside Theories is the only "true" theory of mathematics.
+An Inside Theory is merely an illusion.
