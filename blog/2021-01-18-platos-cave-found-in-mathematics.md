@@ -1,8 +1,6 @@
 # Plato's Cave Found in Mathematics
 by Tupshin Harper, Adam Nemecek, Sven Nilsen
 
-(WIP)
-
 In this blog post, we will summarize a result of discussions in [Philosophy of Mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) the past few months.
 
 The basic result is that mathematics contains a fundamental illusion, like shadows on the walls of Plato's cave.
@@ -22,8 +20,6 @@ With other words, mathematics as we know it is also an illusion, a mere shadow o
 
 ### Inside vs Outside Theories of Mathematics
 
-TODO
-
 #### Definition of The Inside
 
 An Inside Theory is a mathematical language which models external objects as unknowns.
@@ -34,14 +30,10 @@ An Outside Theory is a mathematical language with at least one symbol which does
 
 #### Properties of Inside Theories
 
-TODO
-
 An Inside Theory is like a puzzle game where you have all the pieces.
 The only work that remains is to figure out how to put the pieces together.
 
 #### Properites of Outside Theories
-
-TODO
 
 An Outside Theory is like a puzzle game where new pieces can be created.
 Not only figure out how to put the pieces together,
