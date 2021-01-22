@@ -23,6 +23,7 @@ You can find a summary about Avatar Extensions [here](./avatar-extensions/summar
 
 ### Blog posts
 
+- [2021-01-18 Plato's Cave Found in Mathematics](https://advancedresearch.github.io/blog/2021-01-18-platos-cave-found-in-mathematics)
 - [2020-11-23 Subjectivity in Mathematics and Problems of Defining Objectivity as Opposite to Subjectivity](https://advancedresearch.github.io/blog/2020-11-23-is-mathematics-really-absolute-objective)
 - [2020-11-21 Levenshtein Heuristic in Poi](https://advancedresearch.github.io/blog/2020-11-21-levenshtein-heuristic-in-poi)
 - [2020-11-20 Poi 0.17 Released](https://advancedresearch.github.io/blog/2020-11-17-poi-0.17-released)
