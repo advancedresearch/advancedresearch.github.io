@@ -33,7 +33,7 @@ An Outside Theory is a mathematical language with at least one symbol which does
 An Inside Theory is like a puzzle game where you have all the pieces.
 The only work that remains is to figure out how to put the pieces together.
 
-#### Properites of Outside Theories
+#### Properties of Outside Theories
 
 An Outside Theory is like a puzzle game where new pieces can be created.
 Not only figure out how to put the pieces together,
