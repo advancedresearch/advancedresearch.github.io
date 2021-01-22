@@ -50,7 +50,7 @@ while Inside Theories are projections, or illusions, hence the allegory of Plato
 Imagine a puzzle game which can be solved upside down.
 Swapping the image on the front does not change the puzzle.
 
-A such image that can be swapped, exists in the core axiom of Path Semantics.
+A such image that can be swapped, exists in the core axiom of [Path Semantics](https://github.com/advancedresearch/path_semantics).
 The order assumption (`F > X`) is introduced to eliminate a particular form of inconsistency.
 
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) implies that the order can be weakened in the language of graphs,
