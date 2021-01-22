@@ -49,10 +49,10 @@ Swapping the image on the front does not change the puzzle.
 A such image that can be swapped, exists in the core axiom of Path Semantics.
 The order assumption (`F > X`) is introduced to eliminate a particular form of inconsistency.
 
-Avatar Extensions implies that the order can be weakened in the language of graphs,
-by constructing using Möbius topologies and remove diagonals using highest N-avatars.
+[Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) implies that the order can be weakened in the language of graphs,
+by constructing using [Möbius](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) topologies and remove diagonals using highest N-avatars.
 
-This points toward the possibility that weaker notions of order is accessible in higher homotopy levels.
+This points toward the possibility that weaker notions of order is accessible in higher [homotopy levels](https://ncatlab.org/nlab/show/homotopy+level).
 There might be a trade-off between the homotopy level complexity of the mathematical language used,
 and the weakest possible notion of order.
 
