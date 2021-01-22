@@ -11,7 +11,14 @@ This has many implications in philosophy, for example in the philosophy of the m
 
 ### Introduction to Plato's Cave
 
-TODO
+From the [article on Wikipedia](https://en.wikipedia.org/wiki/Allegory_of_the_cave):
+
+> In the allegory, Socrates describes a group of people who have lived chained to the wall of a cave all their lives, facing a blank wall. The people watch shadows projected on the wall from objects passing in front of a fire behind them and give names to these shadows. The shadows are the prisoners' reality but are not accurate representations of the real world. Three higher levels exist: the natural sciences; mathematics, geometry, and deductive logic; and the theory of forms.
+>
+> Socrates explains how the philosopher is like a prisoner who is freed from the cave and comes to understand that the shadows on the wall are not reality at all. A philosopher aims to understand and perceive the higher levels of reality. However, the other inmates of the cave do not even desire to leave their prison, for they know no better life.
+
+In the context of this blog post, the Plato's Cave will be used about one of the higher levels of reality explained by Socrates: Mathematics.
+With other words, mathematics as we know it is also an illusion, a mere shadow of higher levels of mathematics.
 
 ### Inside vs Outside Theories of Mathematics
 
