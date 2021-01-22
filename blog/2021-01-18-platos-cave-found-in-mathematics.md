@@ -67,5 +67,5 @@ When the assumption of order is swapped uniformly, it is undetectable from withi
 This means that there exists some property that can not be modelled within mathematics,
 without also embedding the entire mathematics into itself.
 
-Therefore, Outside Theories is the only "true" theory of mathematics.
+Therefore, Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
