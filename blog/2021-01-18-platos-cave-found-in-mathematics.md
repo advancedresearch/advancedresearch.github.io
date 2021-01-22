@@ -41,6 +41,11 @@ Not only figure out how to put the pieces together,
 but also what kind of puzzle game one would like to play
 given the partial solution found so far.
 
+### Position
+
+The philosophical position argued for is that Outside Theories are the "true" theories of mathematics,
+while Inside Theories are projections, or illusions, hence the allegory of Plato's cave.
+
 ### Argument
 
 Imagine a puzzle game which can be solved upside down.
