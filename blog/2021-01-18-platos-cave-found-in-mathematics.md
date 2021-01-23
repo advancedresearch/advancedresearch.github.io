@@ -69,3 +69,22 @@ without also embedding the entire mathematics into itself.
 
 Therefore, Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
+
+### The Notion of Truth
+
+Different mathematical languages have different notions of truth.
+This means that we have to be careful by what we means about "true" in this context.
+
+For example, languages that can be modelled using a [monotonic solver](https://github.com/advancedresearch/monotonic_solver),
+have a different notion of truth from languages that can be modelled using a [linear solver](https://github.com/advancedresearch/linear_solver).
+However, both monotonic and linear solvers are generic mathematical languages.
+
+Our argument is about *any* mathematical language, which is separated into families of Inside and Outside Theories.
+
+In particular, we wish to avoid the [No true Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman) fallacy.
+Excluding Inside Theories, by definition only, is an appeal to purity and therefore not valid reasoning.
+
+However, we use the idea that mathematics, in the broadest sense possible,
+must satisfy a weaker criteria of consistency than for more narrow mathematical languages.
+This broadest sense possible, that we know of, is using the core axiom of [Path Semantics](https://github.com/advancedresearch/path_semantics),
+with arbitrary levels of weakened order.
