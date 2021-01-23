@@ -88,3 +88,25 @@ However, we use the idea that mathematics, in the broadest sense possible,
 must satisfy a weaker criteria of consistency than for more narrow mathematical languages.
 This broadest sense possible, that we know of, is using the core axiom of [Path Semantics](https://github.com/advancedresearch/path_semantics),
 with arbitrary levels of weakened order.
+
+### Who are affected by this illusion?
+
+People who study mathematics, usually limit themselves to a particular area.
+This is because acheiving mastery in all areas is practically impossible.
+Mathematics has grown too big for a single person to know everything.
+
+Any phenomena we know of, even in pure mathematics,
+can be studied using modelling.
+It means that for every field of mathematics,
+some mathematical language is usually constructed to model the phenomena.
+
+This illusion affects all people who model anything, whatever they are studying.
+This is because the illusion is built-in to the very construction of mathematical languages.
+
+Intuitively, most people understand that the model is not the same as reality.
+However, we are not talking about reality here.
+Our argument is based on mathematics, not meta-physics.
+
+The key to understand this, is that the reason any model is an illusion,
+can be made without any appeal to a higher reality, in the sense of non-mathematical reality.
+Or, to put it this way: Even if mathematics *was* reality, Plato's cave would apply.
