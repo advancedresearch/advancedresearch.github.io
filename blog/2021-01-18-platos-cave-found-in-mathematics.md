@@ -56,6 +56,22 @@ The order assumption (`F > X`) is introduced to eliminate a particular form of i
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) implies that the order can be weakened in the language of graphs,
 by constructing using [Möbius](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) topologies and remove diagonals using highest N-avatars.
 
+These two operations are derived from:
+
+1. A naive model of the core axiom without the order assumption,
+which produces the smallest graph with Möbius topology for two orthogonal faces.
+2. The fact that hypercubes are filled avatar graphs, which diagonals aligns with the edges between cores and the corresponding unique N-avatars.
+
+With other words, the core axiom and Avatar Extensions are the only ingredients needed to construct hypercubes, which represents higher dimensions.
+The reason this method is new, is that the order assumption can be removed temporarily from the core axiom,
+since a localised form of order can be reintroduced later by "cleaning up" the graphs.
+
+Filled avatar graphs are kind of like prime numbers, by the property that the group product of two avatar graphs has groupoid self-similarity.
+Every hypercube is a filled avatar graphs, but there exists other filled avatar graphs with deep mathematical properties.
+Groupoid self-similarity means that a complex graph can be "factorised" into clusters of nodes, kind of like a number can be factorised into primes.
+When clusters have same internal structure as a filled avatar graph, its homotopy limit (contracted to a point),
+gives the same global structure as an avatar graph (filled or not).
+
 This points toward the possibility that weaker notions of order is accessible in higher [homotopy levels](https://ncatlab.org/nlab/show/homotopy+level).
 There might be a trade-off between the homotopy level complexity of the mathematical language used,
 and the weakest possible notion of order.
