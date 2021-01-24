@@ -90,6 +90,11 @@ without also embedding the entire mathematics into itself.
 Explained in other words, the image on the front of the puzzle game can be swapped,
 creating a different coherent picture, while the pieces of the puzzle can be put together without knowing the image.
 
+Now comes a part that is special for mathematics, which has no analogue in puzzle games.
+To learn about the image on the front, the entire puzzle game needs to be simulated inside the puzzle game.
+However, since one can not learn about the image on the front from the pieces being upside down,
+one has to guess among all possible images that can be on the front!
+
 Therefore, Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
 
