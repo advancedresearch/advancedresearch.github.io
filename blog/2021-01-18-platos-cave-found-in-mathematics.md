@@ -78,10 +78,17 @@ and the weakest possible notion of order.
 
 Today, we understand the mathematics we know as a projection of a higher dimensional mathematics.
 This projection is like a shadow, or illusion of knowing what mathematics is.
+The illusion happens because the order introduced in low dimensions,
+is much stronger than the weakest possible order in higher dimensions,
+so higher dimensional mathematics includes all the mathematics of lower dimensions.
 
-When the assumption of order is swapped uniformly, it is undetectable from within the mathematical theory.
+When the assumption of order is swapped uniformly from low dimension to a higher dimension,
+it is undetectable from within the mathematical theory.
 This means that there exists some property that can not be modelled within mathematics,
 without also embedding the entire mathematics into itself.
+
+Explained in other words, the image on the front of the puzzle game can be swapped,
+creating a different coherent picture, while the pieces of the puzzle can be put together without knowing the image.
 
 Therefore, Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
