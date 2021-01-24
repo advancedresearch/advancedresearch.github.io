@@ -139,7 +139,7 @@ On the other hand, when studying Avatar Extensions, it is clear that it is alway
 This does not mean that Avatar Extensions is less mathematical than low dimensional mathematics.
 Quite the contrary: Higher dimensional mathematics is *more* mathematical than low dimensional mathematics.
 
-Therefore, given the choise between Inside and Outside Theories,
+Therefore, given the choice between Inside and Outside Theories,
 we argue for the position that Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
 
