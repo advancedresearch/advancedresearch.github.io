@@ -60,7 +60,7 @@ These two operations are derived from:
 
 1. A naive model in Avatar Logic of the core axiom without the order assumption,
 which produces the smallest graph with Möbius topology for two orthogonal faces.
-2. The fact that hypercubes are filled avatar graphs, which diagonals aligns with the edges between cores and the corresponding unique N-avatars.
+2. The fact that hypercubes are filled avatar graphs, which diagonals align with the edges between cores and the corresponding unique N-avatars.
 
 With other words, the core axiom and Avatar Extensions are the only ingredients needed to construct hypercubes, which represents higher dimensions.
 The reason this method is new, is that the order assumption can be removed temporarily from the core axiom,
@@ -75,6 +75,11 @@ gives the same global structure as an avatar graph (filled or not).
 This points toward the possibility that weaker notions of order is accessible in higher [homotopy levels](https://ncatlab.org/nlab/show/homotopy+level).
 There might be a trade-off between the homotopy level complexity of the mathematical language used,
 and the weakest possible notion of order.
+
+Hypercubes have already been used as theoretical basis for mathematical languages.
+In 2016, [Cubical Type Theory](https://arxiv.org/abs/1611.02108) was released and many versions of this theory has since been developed.
+Mathematicians know that moving into higher dimensions of type theory gives more powerful proof techniques,
+where hypercubes is considered a "nicely behaved" subset of a larger theoretical framework.
 
 Today, we understand the mathematics we know as a projection of a higher dimensional mathematics.
 This projection is like a shadow, or illusion of knowing what mathematics is.
