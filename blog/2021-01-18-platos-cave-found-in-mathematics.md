@@ -1,7 +1,7 @@
 # Plato's Cave Found in Mathematics
-by Tupshin Harper, Adam Nemecek, Sven Nilsen, 2021
+by Sven Nilsen, 2021
 
-In this blog post, we will summarize a result of discussions in [Philosophy of Mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) the past few months. The discussions took place on our [Discord server](https://discord.gg/JkrhJJRBR2).
+In this blog post, we will summarize a result of discussions in [Philosophy of Mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) the past few months (Tupshin Harper, Adam Nemecek and Sven Nilsen). The discussions took place on our [Discord server](https://discord.gg/JkrhJJRBR2).
 
 The basic result is that mathematics contains a fundamental illusion, like shadows on the walls of Plato's cave.
 This illusion exists at the deepest level of mathematics and can not be avoided.
