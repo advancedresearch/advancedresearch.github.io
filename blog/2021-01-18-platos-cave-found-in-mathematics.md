@@ -248,7 +248,7 @@ Sven argued that one could create an illusion of the universe of 1 which was sma
 Therefore, Tupshin Harper argued successfully that the distinction between "dog" and "1" is an illusion in the sense of Inside Theories.
 
 Sven realised that this argument could be used recursively,
-meaning that even if one took the whole universe as an Inside Theory,
+meaning that even one took the whole universe as an Inside Theory,
 the universe itself would be an illusion mathematically, compared to a greater Outside Theory.
 
 This means that even "dog" can be understood as a real object,
