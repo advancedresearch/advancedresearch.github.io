@@ -108,6 +108,25 @@ Many of these languages have practical value, such as:
 - [Point-Free Theorem Proving using Normal Paths](https://github.com/advancedresearch/poi)
 
 These languages go beyond the normal semantics of mathematical languages and are notoriously hard to understand from a formal perspective.
+One question we ask ourselves, is what makes the normal semantics of mathematical languages unsuitable to deal with all mathematical languages of practical value?
+By learning from many different mathematical languages, we have come to a simple assumption, yet often hidden, that causes this mistake:
+
+A mathematical language that models external objects as unknowns, assumes that everything can be "understood"
+as a construction within its own theoretical structure, meaning there is no "outside world".
+We call such mathematical languages for Inside Theories.
+
+Every Inside Theory is covered by the strictest form of order assumption in the core axiom of Path Semantics.
+With other words, imposing a too strong constraint limits the universe of mathematical languages that are considered "mathematical".
+
+However, by showing that this universe can be replaced by a greater universe with higher dimensions,
+we hope to convince people to give up the idea that Inside Theories can model everything.
+
+For example, languages which changes semantics by introducing new rules,
+e.g. by self-modification, can satisfy some notions of consistency, even that notion of consistency is weaker than usual.
+
+To define such languages, we say that the language has a least one symbol which does not refer to its theory.
+This can mean the language is incomplete, or parts of the language is undefined.
+We call such languages for Outside Theories.
 
 Therefore, Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
