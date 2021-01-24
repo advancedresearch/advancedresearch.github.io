@@ -79,7 +79,7 @@ and the weakest possible notion of order.
 Hypercubes have already been used as theoretical basis for mathematical languages.
 In 2016, [Cubical Type Theory](https://arxiv.org/abs/1611.02108) was released and many versions of this theory has since been developed.
 Mathematicians know that moving into higher dimensions of type theory gives more powerful proof techniques,
-where hypercubes is considered a "nicely behaved" subset of a larger theoretical framework.
+where the use of hypercubes is considered a "nicely behaved" subset of a larger theoretical framework.
 
 Today, we understand the mathematics we know as a projection of a higher dimensional mathematics.
 This projection is like a shadow, or illusion of knowing what mathematics is.
