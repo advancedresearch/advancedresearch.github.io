@@ -217,7 +217,7 @@ Since there exists at least one case where an Inside Theory makes sense, one can
 However, Tupshin disagreed!
 
 Tupshin argued for that Sven's position, where the universe's wavefunction is a basis,
-assumes that one can construct a reality that way that is complete.
+assumes that one can construct a reality that way, that is complete.
 
 The key insight is that we do not know what it means for reality to be complete in the context of a mathematical theory.
 
