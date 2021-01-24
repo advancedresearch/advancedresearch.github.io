@@ -251,7 +251,7 @@ Sven realised that this argument could be used recursively,
 meaning that even if one took the whole universe as an Inside Theory,
 the universe itself would be an illusion mathematically, compared to a greater Outside Theory.
 
-This means that even "dog" can be understood as an real object,
+This means that even "dog" can be understood as a real object,
 there are some properties of "dog", that nobody, even reality itself, has access to.
 
 Therefore, no Inside Theory is philosophically sound, but merely illusions.
