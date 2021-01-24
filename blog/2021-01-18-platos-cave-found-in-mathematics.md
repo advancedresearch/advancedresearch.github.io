@@ -155,7 +155,7 @@ However, both monotonic and linear solvers are generic mathematical languages.
 Our argument is about *any* mathematical language, which is separated into families of Inside and Outside Theories.
 
 In particular, we wish to avoid the [No true Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman) fallacy.
-Excluding Inside Theories, by definition only, is an appeal to purity and therefore not valid reasoning.
+Excluding Inside Theories by definition only, is an appeal to purity and therefore not valid reasoning.
 
 However, we use the idea that mathematics, in the broadest sense possible,
 must satisfy a weaker criteria of consistency than for more narrow mathematical languages.
