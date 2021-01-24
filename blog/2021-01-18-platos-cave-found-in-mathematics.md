@@ -205,11 +205,11 @@ What makes Avatar Extensions special, is that a new formal logic, Avatar Logic, 
 
 Tupshin Harper made an excellent argument why Inside Theories does not really makes sense, in a discussion with Sven Nilsen:
 
-Sven Nilsen imagined the universe's wavefunction as basis for the only perspective where an Inside Theory is philosophically sound,
+Sven imagined the universe's wavefunction as basis for the only perspective where an Inside Theory is philosophically sound,
 because the solution of every unknown in the theory corresponds to some real object.
 Since there exists at least one case where an Inside Theory makes sense, one can not dismiss Inside Theories as mere illusions.
 
-However, Tupshin Harper disagreed!
+However, Tupshin disagreed!
 
 Tupshin argued for that Sven's position, where the universe's wavefunction is a basis,
 assumes that one can construct a reality that way that is complete.
@@ -240,7 +240,7 @@ Tupshin then used the brilliant tactic:
 1. To get an entire dog is to get the entire universe.
 2. To get 1 is to get the entire universe.
 
-Since the only philosophical sound perspective is having the entire universe as basis for the Inside Theory.
+Since the only philosophical sound perspective for an Inside Theory is having the entire universe as basis.
 This means, the meaning of the two objects are of the same nature, just looking different from a subjective perspective.
 
 Sven argued that one could create an illusion of the universe of 1 which was smaller than the entire universe, which Tupshin agreed to.
