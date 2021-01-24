@@ -200,3 +200,56 @@ In late part of the year 2020, some people asked the question: What lies beyond 
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) is part of the Path Semantics project,
 but borrowing ideas from higher Category Theory to develop a theory about higher dimensional mathematics.
 What makes Avatar Extensions special, is that a new formal logic, Avatar Logic, works by a different principle than First Order Logic.
+
+### Tupshin Harper's Outside Argument
+
+Tupshin Harper made an excellent argument why Inside Theories does not really makes sense in a discussion with Sven Nilsen:
+
+Sven Nilsen imagined the universe's wavefunction as basis for the only perspective where an Inside Theory is philosophically sound,
+because every unknown in the theory corresponds to some real object.
+Since there exists at least one case where an Inside Theory makes sense, one can not dismiss Inside Theories as mere illusions.
+
+However, Tupshin Harper disagreed!
+
+Tupshin argued for that Sven's position, where the universe's wavefunction is a basis,
+assumes that one can construct a reality that way that is complete.
+
+The key insight is that we do not know what it means for reality to be complete in the context of a mathematical theory.
+
+So, Sven came up with another example, seen from the perspective of a subjective theory with a distinction:
+
+1. The symbol "dog" seems to mean something external, that can not be fully constructed in the mind.
+2. The symbol "1" seems to be fully constructed in the mind.
+
+However, Tupshin Harper disagreed, once again!
+
+Tupshin argued for that we do not understand "1" any more than "dog".
+He meant the distinction between the two is an illusion.
+
+So, Sven argued, using path sub-types:
+
+1. `dog : [f] x`
+2. `1 : [f] x`
+
+Even if the machine `[f] x` is known, you do not get all properties of `dog`.
+
+Tupshin then used the brilliant tactic:
+
+1. To get an entire dog is to get the entire universe.
+2. To get 1 is to get the entire universe.
+
+Since the only philosophical sound perspective is having the entire universe as basis for the Inside Theory.
+This means, the meaing of the two objects are of the same nature, just looking different from a subjective perspective.
+
+Sven argued that one could create an illusion of the universe of 1, which Tupshin agreed to.
+
+Therefore, Tupshin Harper argued successfully that the distinction between "dog" and "1" is an illusion in the sense of Inside Theories.
+
+Sven realised that this argument could be used recursively,
+meaning that even if one took the whole universe as an Inside Theory,
+the universe itself would be an illusion mathematically, compared to a greater Outside Theory.
+
+This means that even "dog" can be understood as an real object,
+there are some properties of "dog", that nobody, even reality itself, has access to.
+
+Therefore, no Inside Theory is philosophically sound.
