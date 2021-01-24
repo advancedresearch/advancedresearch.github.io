@@ -186,8 +186,8 @@ Or, to put it this way: Even if mathematics *was* reality, Plato's cave would ap
 
 ### A Brief History of This Development
 
-In the past century, First Order Logic has dominated foundations of pure mathematics,
-but Category Theory has come to play a larger role in construction of mathematical languages.
+In the past century, [First Order Logic](https://en.wikipedia.org/wiki/First-order_logic) has dominated foundations of pure mathematics,
+but [Category Theory](https://en.wikipedia.org/wiki/Category_theory) has come to play a larger role in construction of mathematical languages.
 
 In the beginning of this century, a collaboration between mathematicians resulted in [Homotopy Type Theory](https://homotopytypetheory.org/blog/).
 This was based on [Dependent Types](https://en.wikipedia.org/wiki/Dependent_type), which are used in verification of computer programs and theorem proving assistants.
@@ -195,7 +195,8 @@ This was based on [Dependent Types](https://en.wikipedia.org/wiki/Dependent_type
 Extending Dependent Types, the theory of [Path Semantics](https://github.com/advancedresearch/path_semantics) has been developed.
 In particular, if normal programming is 2D, then theorem proving with normal paths is 3D.
 
-In late 2020, some people asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
+In late of the year 2020, some people asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
 
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) is part of the Path Semantics project,
 but borrowing ideas from higher Category Theory to develop a theory about higher dimensional mathematics.
+What makes Avatar Extensions special, is that a new formal logic, Avatar Logic, works by a different principle than First Order Logic.
