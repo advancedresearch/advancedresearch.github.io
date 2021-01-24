@@ -58,7 +58,7 @@ by constructing using [Möbius](https://en.wikipedia.org/wiki/M%C3%B6bius_strip
 
 These two operations are derived from:
 
-1. A naive model of the core axiom without the order assumption,
+1. A naive model in Avatar Logic of the core axiom without the order assumption,
 which produces the smallest graph with Möbius topology for two orthogonal faces.
 2. The fact that hypercubes are filled avatar graphs, which diagonals aligns with the edges between cores and the corresponding unique N-avatars.
 
@@ -94,6 +94,20 @@ Now comes a part that is special for mathematics, which has no analogue in puzzl
 To learn about the image on the front, the entire puzzle game needs to be simulated inside the puzzle game.
 However, since one can not learn about the image on the front from the pieces being upside down,
 one has to guess among all possible images that can be on the front!
+
+Avatar Extensions implies that there are many, many different ways higher dimensional mathematics can project onto low dimensional mathematics.
+A similar argument exists in higher Category Theory, where categories can be combined to form more complex categories.
+However, the important role of Möbius topologies, or weaker notions of particular forms of consistency in mathematical languages,
+is a new idea that is might help to unify, or find principles underlying the Philosophy of Mathematics.
+
+Out research group studies many mathematical languages where notions of consistency are weakened.
+Many of these languages have practical value, such as:
+
+- [AI Behavior Trees with Parallel Semantics](https://github.com/pistondevelopers/ai_behavior)
+- [Formal Logic satisfying Avatars](https://github.com/advancedresearch/avalog)
+- [Point-Free Theorem Proving using Normal Paths](https://github.com/advancedresearch/poi)
+
+These languages go beyond the normal semantics of mathematical languages and are notoriously hard to understand from a formal perspective.
 
 Therefore, Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
