@@ -50,6 +50,8 @@ a + b = b + a                           symmetry between 1-avatars
 
 ### Avatar Graphs
 
+Avatar Graphs might be thought of as discrete topological qualities of manifolds.
+
 For visualization, see [Avatar-Graph](https://github.com/advancedresearch/avatar_graph).
 
 The "core self" is an object which has no internal relations for introspection.
