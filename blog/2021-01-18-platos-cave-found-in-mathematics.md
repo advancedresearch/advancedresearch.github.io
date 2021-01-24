@@ -190,12 +190,12 @@ In the past century, First Order Logic has dominated foundations of pure mathema
 but Category Theory has come to play a larger role in construction of mathematical languages.
 
 In the beginning of this century, a collaboration between mathematicians resulted in [Homotopy Type Theory](https://homotopytypetheory.org/blog/).
-This used [Dependent Types](https://en.wikipedia.org/wiki/Dependent_type), which are used in verification of computer programs and theorem proving assistants.
+This was based on [Dependent Types](https://en.wikipedia.org/wiki/Dependent_type), which are used in verification of computer programs and theorem proving assistants.
 
 Extending Dependent Types, the theory of [Path Semantics](https://github.com/advancedresearch/path_semantics) has been developed.
 In particular, if normal programming is 2D, then theorem proving with normal paths is 3D.
 
-In late 2020, some people asked the question: What lies beyond 3D? What the analogue of higher dimensions?
+In late 2020, some people asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
 
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) is part of the Path Semantics project,
 but borrowing ideas from higher Category Theory to develop a theory about higher dimensional mathematics.
