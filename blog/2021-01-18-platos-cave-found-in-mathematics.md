@@ -232,6 +232,8 @@ So, Sven argued, using path sub-types:
 2. `1 : [f] x`
 
 Even if the machine `[f] x` is known, you do not get all properties of `dog`.
+(In logic, [Leibniz' law](https://en.wikipedia.org/wiki/Identity_of_indiscernibles) is an axiom for the opposite,
+but this is dismissed here because when you describe a dog fully, you are not constructing the external real dog itself.)
 
 Tupshin then used the brilliant tactic:
 
@@ -241,7 +243,7 @@ Tupshin then used the brilliant tactic:
 Since the only philosophical sound perspective is having the entire universe as basis for the Inside Theory.
 This means, the meaning of the two objects are of the same nature, just looking different from a subjective perspective.
 
-Sven argued that one could create an illusion of the universe of 1 which was smaller, which Tupshin agreed to.
+Sven argued that one could create an illusion of the universe of 1 which was smaller than the entire universe, which Tupshin agreed to.
 
 Therefore, Tupshin Harper argued successfully that the distinction between "dog" and "1" is an illusion in the sense of Inside Theories.
 
@@ -252,4 +254,4 @@ the universe itself would be an illusion mathematically, compared to a greater O
 This means that even "dog" can be understood as an real object,
 there are some properties of "dog", that nobody, even reality itself, has access to.
 
-Therefore, no Inside Theory is philosophically sound.
+Therefore, no Inside Theory is philosophically sound, but merely illusions.
