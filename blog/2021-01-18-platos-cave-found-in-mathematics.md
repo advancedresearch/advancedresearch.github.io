@@ -151,7 +151,7 @@ An Inside Theory is merely an illusion.
 ### The Notion of Truth
 
 Different mathematical languages have different notions of truth.
-This means that we have to be careful by what we means about "true" in this context.
+This means that we have to be careful by what we mean about "true" in this context.
 
 For example, languages that can be modelled using a [monotonic solver](https://github.com/advancedresearch/monotonic_solver),
 have a different notion of truth from languages that can be modelled using a [linear solver](https://github.com/advancedresearch/linear_solver).
