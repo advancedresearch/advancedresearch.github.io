@@ -128,7 +128,16 @@ To define such languages, we say that the language has a least one symbol which 
 This can mean the language is incomplete, or parts of the language is undefined.
 We call such languages for Outside Theories.
 
-Therefore, Outside Theories are the only "true" theory of mathematics.
+When people use Inside Theories, they might get biased by how the language influences their thinking.
+Just like the prisoners in Plato's cave, these languages become their reality,
+but does not represent the real world.
+
+On the other hand, when studying Avatar Extensions, it is clear that it is always possible to extend the theory in a way that has not been thought of before.
+This does not mean that Avatar Extensions is less mathematical than low dimensional mathematics.
+Quite the contrary: Higher dimensional mathematics is *more* mathematical than low dimensional mathematics.
+
+Therefore, given the choise between Inside and Outside Theories,
+we argue for the position that Outside Theories are the only "true" theory of mathematics.
 An Inside Theory is merely an illusion.
 
 ### The Notion of Truth
