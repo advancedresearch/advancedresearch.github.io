@@ -203,10 +203,10 @@ What makes Avatar Extensions special, is that a new formal logic, Avatar Logic, 
 
 ### Tupshin Harper's Outside Argument
 
-Tupshin Harper made an excellent argument why Inside Theories does not really makes sense in a discussion with Sven Nilsen:
+Tupshin Harper made an excellent argument why Inside Theories does not really makes sense, in a discussion with Sven Nilsen:
 
 Sven Nilsen imagined the universe's wavefunction as basis for the only perspective where an Inside Theory is philosophically sound,
-because every unknown in the theory corresponds to some real object.
+because the solution of every unknown in the theory corresponds to some real object.
 Since there exists at least one case where an Inside Theory makes sense, one can not dismiss Inside Theories as mere illusions.
 
 However, Tupshin Harper disagreed!
