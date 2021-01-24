@@ -133,6 +133,7 @@ We call such languages for Outside Theories.
 When people use Inside Theories, they might get biased by how the language influences their thinking.
 Just like the prisoners in Plato's cave, these languages become their reality,
 but does not represent the real world.
+In our case the "real world" is about mathematics, or what characterises a mathematical language in general.
 
 On the other hand, when studying Avatar Extensions, it is clear that it is always possible to extend the theory in a way that has not been thought of before.
 This does not mean that Avatar Extensions is less mathematical than low dimensional mathematics.
