@@ -120,6 +120,8 @@ With other words, imposing a too strong constraint limits the universe of mathem
 
 However, by showing that this universe can be replaced by a greater universe with higher dimensions,
 we hope to convince people to give up the idea that Inside Theories can model everything.
+(Technically, we are not saying that there are other languages that can model everything.
+We are just saying there are better mathematical languages for some domains, without emphasis on modelling.)
 
 For example, languages which changes semantics by introducing new rules,
 e.g. by self-modification, can satisfy some notions of consistency, even that notion of consistency is weaker than usual.
