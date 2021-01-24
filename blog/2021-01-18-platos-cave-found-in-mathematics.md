@@ -96,9 +96,9 @@ However, since one can not learn about the image on the front from the pieces be
 one has to guess among all possible images that can be on the front!
 
 Avatar Extensions implies that there are many, many different ways higher dimensional mathematics can project onto low dimensional mathematics.
-A similar argument exists in higher Category Theory, where categories can be combined to form more complex categories.
+A similar argument exists in higher [Category Theory](https://en.wikipedia.org/wiki/Category_theory), where categories can be combined to form more complex categories.
 However, the important role of Möbius topologies, or weaker notions of particular forms of consistency in mathematical languages,
-is a new idea that is might help to unify, or find principles underlying the Philosophy of Mathematics.
+is a new idea that might help to unify, or find principles underlying Philosophy of Mathematics.
 
 Out research group studies many mathematical languages where notions of consistency are weakened.
 Many of these languages have practical value, such as:
