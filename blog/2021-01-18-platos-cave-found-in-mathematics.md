@@ -239,9 +239,9 @@ Tupshin then used the brilliant tactic:
 2. To get 1 is to get the entire universe.
 
 Since the only philosophical sound perspective is having the entire universe as basis for the Inside Theory.
-This means, the meaing of the two objects are of the same nature, just looking different from a subjective perspective.
+This means, the meaning of the two objects are of the same nature, just looking different from a subjective perspective.
 
-Sven argued that one could create an illusion of the universe of 1, which Tupshin agreed to.
+Sven argued that one could create an illusion of the universe of 1 which was smaller, which Tupshin agreed to.
 
 Therefore, Tupshin Harper argued successfully that the distinction between "dog" and "1" is an illusion in the sense of Inside Theories.
 
