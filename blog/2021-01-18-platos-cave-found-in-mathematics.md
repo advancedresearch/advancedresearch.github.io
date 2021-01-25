@@ -67,7 +67,7 @@ The reason this method is new, is that the order assumption can be removed tempo
 since a localised form of order can be reintroduced later by "cleaning up" the graphs.
 
 Filled avatar graphs are kind of like prime numbers, by the property that the group product of two avatar graphs has groupoid self-similarity.
-Every hypercube is a filled avatar graphs, but there exists other filled avatar graphs with deep mathematical properties.
+Every hypercube is a filled avatar graph, but there exists other filled avatar graphs with deep mathematical properties.
 Groupoid self-similarity means that a complex graph can be "factorised" into clusters of nodes, kind of like a number can be factorised into primes.
 When clusters have same internal structure as a filled avatar graph, its homotopy limit (contracted to a point),
 gives the same global structure as an avatar graph (filled or not).
