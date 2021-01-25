@@ -204,7 +204,7 @@ This was based on [Dependent Types](https://en.wikipedia.org/wiki/Dependent_type
 Extending Dependent Types, the theory of [Path Semantics](https://github.com/advancedresearch/path_semantics) has been developed.
 In particular, if normal programming is 2D, then theorem proving with normal paths is 3D.
 
-In late part of the year 2020, some [Kent Palmer](https://www.researchgate.net/profile/Kent_Palmer) asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
+In late part of the year 2020, [Kent Palmer](https://www.researchgate.net/profile/Kent_Palmer) asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
 
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) is part of the Path Semantics project,
 but borrowing ideas from higher Category Theory to develop a theory about higher dimensional mathematics.
