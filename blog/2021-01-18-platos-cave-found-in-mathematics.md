@@ -90,7 +90,7 @@ besides all the common properties that low dimensional mathematics have.
 Against this position, we have come across two arguments:
 
 1. Cubical Type Theory shows that proofs can become shorter and easier to read.
-2. Avatar Logic is better at modelling some real-world relations without adding exceptions to inference rules
+2. Avatar Logic is better at modelling some real-world relations without adding exceptions to inference rules.
 
 Today, we understand the mathematics we know as a projection of a higher dimensional mathematics.
 This projection is like a shadow, or illusion of knowing what mathematics is.
