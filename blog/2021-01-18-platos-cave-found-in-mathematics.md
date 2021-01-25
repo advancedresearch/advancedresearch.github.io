@@ -3,6 +3,10 @@ by Sven Nilsen, 2021
 
 In this blog post, I will summarize a result of discussions in [Philosophy of Mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) the past few months (Tupshin Harper, Adam Nemecek and Sven Nilsen). The discussions took place on our [Discord server](https://discord.gg/JkrhJJRBR2).
 
+The mathematics in this post is based on previous discussions on a Discord server for Applied Category Theory,
+which was kicked off by ideas of [Kent Palmer](https://www.researchgate.net/profile/Kent_Palmer) (Ph.D. Systems Engineering; Ph.D. Sociology).
+The broader theoretical framework was developed inspired by work of [Sylvester James Gates, Jr.](https://watson.brown.edu/people/faculty-fellows/gates) (Ph.D Theoretical Physics) and [Vladimir Voevodsky](https://en.wikipedia.org/wiki/Vladimir_Voevodsky) (Ph.D Mathematics).
+
 The basic result is that mathematics contains a fundamental illusion, like shadows on the walls of Plato's cave.
 This illusion exists at the deepest level of mathematics and can not be avoided.
 This has many implications in philosophy, for example in the philosophy of the mind.
@@ -200,7 +204,7 @@ This was based on [Dependent Types](https://en.wikipedia.org/wiki/Dependent_type
 Extending Dependent Types, the theory of [Path Semantics](https://github.com/advancedresearch/path_semantics) has been developed.
 In particular, if normal programming is 2D, then theorem proving with normal paths is 3D.
 
-In late part of the year 2020, some people asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
+In late part of the year 2020, some [Kent Palmer](https://www.researchgate.net/profile/Kent_Palmer) asked the question: What lies beyond 3D? What is the analogue of higher dimensions?
 
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html) is part of the Path Semantics project,
 but borrowing ideas from higher Category Theory to develop a theory about higher dimensional mathematics.
