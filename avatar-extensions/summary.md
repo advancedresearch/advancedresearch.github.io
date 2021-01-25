@@ -187,6 +187,8 @@ Philosophical argument about self-referential Avatar Extensions as the interior:
 
 ### Avatar Modal Subjectivity
 
+Avatar Modal Subjectivity can be thought of as guarded dialetheism as a technique for language boundaries.
+
 The classical notion of subjectivity and objectivity is replaced with a unified concept "modal subjectivity" (e.g. `s`).
 
 ```
