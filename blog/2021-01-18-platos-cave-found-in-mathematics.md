@@ -126,7 +126,7 @@ Many of these languages have practical value, such as:
 These languages go beyond the normal semantics of mathematical languages and are notoriously hard to understand from a formal perspective.
 
 In discussions with Kent Palmer (Ph.D. Systems Engineering; Ph.D. Sociology), he said that
-a lot of languages were developed duing the 90's, which could not be formalised within current mathematical knowledge of formal languages.
+a lot of languages were developed during the 90's, which could not be formalised within current mathematical knowledge of formal languages.
 Kent seeked to understand this phenomena through philosophy,
 which he thought was able to argue for higher levels of mathematics, but somehow these levels never managed to materialise mathematically.
 
