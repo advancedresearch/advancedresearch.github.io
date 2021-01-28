@@ -258,3 +258,49 @@ The Liar's paradox offer no potential for non-uniform subjective experience.
 
 Witness duality: In the tautology, an observer can experience one interpretation and later reinterpret it in future experiences,
 but it is impossible to reinterpret the original experience.
+
+### Avatar Schemas Theory
+
+Inside vs Outside Theories form an underlying structure that integrates Kent Palmer's (Ph.D) [Schemas Theory](http://schematheory.net/).
+
+Definition of an Inside Theory:
+
+	An Inside Theory is a mathematical language which models external objects as unknowns
+
+Definition of an Outside Theory:
+
+	An Outside Theory is a mathematical language with at least one symbol which does not refer to its theory
+
+For philosophical argument of Inside vs Outside, see the blog post [Plato's Cave Found in Mathematics](https://advancedresearch.github.io/blog/2021-01-18-platos-cave-found-in-mathematics).
+
+Axioms:
+
+```text
+consistency ⊼ completeness
+verification ⊼ validation
+clarity ⊼ coherence
+inside ⊼ outside
+	
+consistency ∨ completeness ∨ clarity => inside
+verification ∨ validation => outside
+coherence => inside ∨ outside
+```
+
+`⊼` is logical NAND and represents Gödelian pairs.
+
+Definition of Formal and Semantics:
+
+```text
+formal := consistency ∨ completeness ∨ clarity
+semantics := verification ∨ validation
+```
+
+This is sufficient to prove the Gödelian pair:
+
+```
+formal ⊼ semantics
+```
+
+Inside Theory is covered by the core axiom of Path Semantics using strictest order.
+
+A proposal of Outside Theory cover is to use the core axiom of Path Semantics with weakened order, in combination with Avatar Extensions.
