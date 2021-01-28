@@ -259,9 +259,9 @@ The Liar's paradox offer no potential for non-uniform subjective experience.
 Witness duality: In the tautology, an observer can experience one interpretation and later reinterpret it in future experiences,
 but it is impossible to reinterpret the original experience.
 
-### Avatar Schemas Theory
+### Avatar Schema Theory
 
-Inside vs Outside Theories form an underlying structure that integrates Kent Palmer's (Ph.D) [Schemas Theory](http://schematheory.net/).
+Inside vs Outside Theories form an underlying structure that integrates Kent Palmer's (Ph.D) [Schema Theory](http://schematheory.net/).
 
 Definition of an Inside Theory:
 
