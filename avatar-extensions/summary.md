@@ -320,3 +320,12 @@ There are 13 satisfied models of the axioms:
 
 `⊻` is just coherence that is both Inside and Outside.
 `⊥` is absence of all properties which is neither Inside or Outside.
+
+Maximum mathematical languages can have at most 2 properties, given by the grammar:
+
+```text
+verification coherence
+validation coherence
+consistency coherence|clarity
+completeness coherence|clarity
+```
