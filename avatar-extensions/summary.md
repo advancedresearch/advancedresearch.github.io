@@ -324,8 +324,6 @@ There are 13 satisfied models of the axioms:
 Maximum mathematical languages can have at most 2 properties, given by the grammar:
 
 ```text
-verification coherence
-validation coherence
-consistency coherence|clarity
-completeness coherence|clarity
+verification|validation coherence
+consistency|completeness coherence|clarity
 ```
