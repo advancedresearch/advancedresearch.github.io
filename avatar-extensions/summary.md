@@ -304,3 +304,19 @@ formal ⊼ semantics
 Inside Theory is covered by the core axiom of Path Semantics using strictest order.
 
 A proposal of Outside Theory cover is to use the core axiom of Path Semantics with weakened order, in combination with Avatar Extensions.
+
+There are 13 satisfied models of the axioms:
+
+```text
+- - - - - - - -    4 x 4: Consistency Verification
+- - - - - - - -    2 x 2: Completeness Validation
+- - - - - - - O    1 x 1: Clarify Coherence
+- - - - - - - O
+- - - - - - - O       X Y    ¬X Y
+- - - - - - - O     
+- - - I - I - ⊻       X¬Y    ¬X¬Y
+- - I I I I I ⊥
+```
+
+`⊻` is just coherence that is both Inside and Outside.
+`⊥` is absence of all properties which is neither Inside or Outside.
