@@ -310,7 +310,7 @@ There are 13 satisfied models of the axioms:
 ```text
 - - - - - - - -    4 x 4: Consistency Verification
 - - - - - - - -    2 x 2: Completeness Validation
-- - - - - - - O    1 x 1: Clarify Coherence
+- - - - - - - O    1 x 1: Clarity Coherence
 - - - - - - - O
 - - - - - - - O       X Y    ¬X Y
 - - - - - - - O     
