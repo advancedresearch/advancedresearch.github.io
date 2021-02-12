@@ -267,9 +267,13 @@ Definition of an Inside Theory:
 
 	An Inside Theory is a mathematical language which models external objects as unknowns
 
+Inside Theory is covered by the core axiom of Path Semantics using strictest order.
+
 Definition of an Outside Theory:
 
 	An Outside Theory is a mathematical language with at least one symbol which does not refer to its theory
+
+A hypothesis is that Outside Theory is related to weakening the order assumption in the core axiom of Path Semantics.
 
 For philosophical argument of Inside vs Outside, see the blog post [Plato's Cave Found in Mathematics](https://advancedresearch.github.io/blog/2021-01-18-platos-cave-found-in-mathematics).
 
@@ -300,8 +304,6 @@ This is sufficient to prove the Gödelian pair:
 ```
 formal ⊼ semantics
 ```
-
-Inside Theory is covered by the core axiom of Path Semantics using strictest order.
 
 A proposal of Outside Theory cover is to use the core axiom of Path Semantics with weakened order, in combination with Avatar Extensions.
 
