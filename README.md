@@ -23,6 +23,7 @@ You can find a summary about Avatar Extensions [here](./avatar-extensions/summar
 
 ### Blog posts
 
+- [2021-04-04 Deriving Path Semantics from First Principles](https://advancedresearch.github.io/blog/2021-04-04-deriving-path-semantics-from-first-principles)
 - [2021-01-18 Plato's Cave Found in Mathematics](https://advancedresearch.github.io/blog/2021-01-18-platos-cave-found-in-mathematics)
 - [2020-11-23 Subjectivity in Mathematics and Problems of Defining Objectivity as Opposite to Subjectivity](https://advancedresearch.github.io/blog/2020-11-23-is-mathematics-really-absolute-objective)
 - [2020-11-21 Levenshtein Heuristic in Poi](https://advancedresearch.github.io/blog/2020-11-21-levenshtein-heuristic-in-poi)
