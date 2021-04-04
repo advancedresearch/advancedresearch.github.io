@@ -84,7 +84,7 @@ In the case of numbers and addition:
 ```
 typeof(add(x, y)) = h("number", "number") // Since `x` and `y` are numbers.
 
-h = \(_, _) = "number" // `h` returns the type "number".
+h := \(_, _) = "number" // `h` returns the type "number".
 ```
 
 That is all!
