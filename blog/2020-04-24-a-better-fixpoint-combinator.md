@@ -41,28 +41,21 @@ The [Y-combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator) is the 
 
 ```rust
 y := \(f) = {
-    g := \(x) = f(x, x)
+    g := \(x) = f(x(x))
     g(g)
 }
 
-f := \(f, _) = \(x) = if x == 0 {0} else if x == 1 {1} else {
-    f := f(f, f) // Create function for recursion.
-    f(x-1) + f(x-2)
-}
+f := \(f) = \(x) = if x == 0 {0} else if x == 1 {1} else {f(x-1) + f(x-2)}
 
 f := y(f)
 
 println(f(6)) // Prints `8`
 ```
 
-Is it perfect? No. Absolutely not.
+The problem is that in languages with eager evaluation,
+`x(x)` never terminates.
 
-First of all, if you are calling a function with two equal arguments,
-then that's the same as reducing the function identity to one argument.
-
-I wrote about this in the paper about [Entangled Functions](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/entangled-functions.pdf).
-
-Let's try this, calling this Y-combinator for "Y2":
+Let's try another combinator, calling this Y-combinator for "Y2":
 
 ```rust
 y2 := \(f) = {
@@ -71,7 +64,7 @@ y2 := \(f) = {
 }
 
 f := \(f) = \(x) = if x == 0 {0} else if x == 1 {1} else {
-    f := f(f) // Create function for recursion.
+    f := y2(f) // Create function for recursion.
     f(x-1) + f(x-2)
 }
 
