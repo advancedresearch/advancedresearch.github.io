@@ -36,6 +36,7 @@ Please add comments like "can copy code from X" that tells other people how you 
 If you have an idea how to make collaboration better, open an issue.
 
 <a name="donate_money" />
+
 ### How to donate money
 
 | nick name | first name | last name | Transfer Options | comment |
