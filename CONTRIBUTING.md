@@ -16,7 +16,7 @@ You do not need to know a lot about Rust to work on the project.
 
 Here is how you get started:
 
-1. [Fork](https://github.com/PistonDevelopers/piston/fork) the repository.
+1. Fork the repository (e.g. [Poi](https://github.com/advancedresearch/poi)).
 2. Clone your repository to the local hard drive ([GitHub for Mac](https://mac.github.com/), [Github for Window](https://windows.github.com/)).
 3. Open up the Terminal and navigate to the project directory.
 4. If you have not installed Rust yet, download it [here](http://www.rust-lang.org/).
