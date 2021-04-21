@@ -15,6 +15,16 @@ p(a, b)         b : p           p(a) = b
 p(a, q'(b))     q'(b) : p       p(a) = {q'(_)} ∈ q'(b)
 ```
 
+Translated to [Zermelo-Frankel Set Theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory):
+
+```text
+p(a,b)∧∃z{p(a,z)∧¬∃y{p(a,y)∧¬(y=z)}}
+p(a,k)∧∃r{(r∈k)=>∀c{(c∈k)=>((c=q)∨(c=r))}∧∀d{(d∈r)=>
+  ((d=q)∨(d=b))}}∧∀x{∃z{p(a,n)∧¬∃y{p(a,m)∧¬(y=z)}}∧∃r{(r∈n)=>
+  ∀c{(c∈n)=>((c=z)∨(c=r)}∧∀d{(d∈r)=>((d=z)∨(d=x))}}∧∃r{(r∈m)=>
+  ∀c{(c∈m)=>((c=y)∨(c=r))}∧∀d{(d∈r)=>((d=y)∨(d=x))}}}
+```
+
 This means that `(a, b)` contains all information needed to represent a labeled edge.
 
 ```text
