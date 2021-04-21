@@ -15,7 +15,7 @@ p(a, b)         b : p           p(a) = b
 p(a, q'(b))     q'(b) : p       p(a) = {q'(_)} ∈ q'(b)
 ```
 
-Translated to [Zermelo-Frankel Set Theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory):
+Translated to [Zermelo-Fraenkel Set Theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory):
 
 ```text
 p(a,b)∧∃z{p(a,z)∧¬∃y{p(a,y)∧¬(y=z)}}
