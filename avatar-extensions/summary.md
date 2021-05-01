@@ -15,14 +15,16 @@ p(a, b)         b : p           p(a) = b
 p(a, q'(b))     q'(b) : p       p(a) = {q'(_)} ∈ q'(b)
 ```
 
-Translated to [Zermelo-Fraenkel Set Theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory):
+Translated to [Zermelo-Fraenkel Set Theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) (see [paper](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/avatar-logic-to-set-theory.pdf)):
 
 ```text
-p(a,b)∧∃z{p(a,z)∧¬∃y{p(a,y)∧¬(y=z)}}
-p(a,k)∧∃r{(r∈k)=>∀c{(c∈k)=>((c=q)∨(c=r))}∧∀d{(d∈r)=>
-  ((d=q)∨(d=b))}}∧∀x{∃z{p(a,n)∧¬∃y{p(a,m)∧¬(y=z)}}∧∃r{(r∈n)=>
-  ∀c{(c∈n)=>((c=z)∨(c=r)}∧∀d{(d∈r)=>((d=z)∨(d=x))}}∧∃r{(r∈m)=>
-  ∀c{(c∈m)=>((c=y)∨(c=r))}∧∀d{(d∈r)=>((d=y)∨(d=x))}}}
+(a, b) ∧ b : p ∧ uniq(b)
+---------------------------------------------------------
+(p, (a, b)) ∧ ∃! z { (p, (a, z)) } ∧ ∃! r { (r, (a, b)) }
+
+(a, q'(b)) ∧ q'(b) : p
+--------------------------------------------------------------------------------
+(p, (a, (q, b))) ∧ ∀ x { ∃! z { (p, (a, (z, x))) } } ∧ ∃! r { (r, (a, (q, b))) }
 ```
 
 This means that `(a, b)` contains all information needed to represent a labeled edge.
