@@ -15,7 +15,7 @@ I assume you:
 
 The puzzle/logo consists of the following image:
 
-![Logo 2019](https://github.com/advancedresearch/path_semantics/blob/master/images/fractal.png)
+![Logo 2019](https://raw.githubusercontent.com/advancedresearch/path_semantics/master/images/fractal.png)
 
 Together with the number sequence `[85, 164, 56, 161, 184, 74, 170, 85, 170, 170, 163, 43]`.
 
