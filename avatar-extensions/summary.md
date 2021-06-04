@@ -181,6 +181,18 @@ as a kind of proof of transitivity.
 An example is Cubical Type Theory, where this special type membership is parameterised by the unit interval.
 The end points of the unit interval are `0` and `1`.
 
+Avatar Univalence might be represented as an L-system:
+
+```
+/ ~~                The core axiom of Path Semantics
+~ ~~                Homotopy
+/ /~                Inside univalence
+~ /~                Outside univalence
+
+/~ => / ~~ ~ ~~     Inserting the core axiom (termination)
+/~ => / /~ ~ /~     Inserting inside and outside univalence (higher dimensional continuation)
+```
+
 #### Interior vs Exterior
 
 The Interior is constructed using a core with an identity morphism as a "ground state",
