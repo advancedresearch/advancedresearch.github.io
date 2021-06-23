@@ -329,8 +329,6 @@ This is sufficient to prove the Gödelian pair:
 formal ⊼ semantics
 ```
 
-A proposal of Outside Theory cover is to use the core axiom of Path Semantics with weakened order, in combination with Avatar Extensions.
-
 There are 13 satisfied models of the axioms:
 
 ```text
