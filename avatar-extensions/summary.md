@@ -8,7 +8,7 @@ This page is for organizing all important ideas about Avatar Extension in one pl
 
 For an experimental implementation, see [Avalog](https://github.com/advancedresearch/avalog).
 
-Avatar Logic replaces predicates with binary relations with some additional axioms:
+Avatar Logic replaces predicates with binary relations with some additional axioms (written as an [Avatar Table](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/avatar-tables.pdf)):
 
 ```text
 p(a, b)         b : p           p(a) = b
