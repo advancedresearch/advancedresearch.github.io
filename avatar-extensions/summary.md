@@ -193,6 +193,13 @@ Avatar Univalence might be represented as an L-system:
 /~ => / /~ ~ /~     Inserting inside and outside univalence (higher dimensional continuation)
 ```
 
+In the [formalisation of Path Semantical Intuitionistic Propositional Logic (PSI) in Avatar Logic](https://github.com/advancedresearch/avalog/blob/master/source/psi.txt):
+
+- The Product Witness is turned on by default (`x = x` can be derived from `x = y`)
+- The Loop Witness can be turned on using `uniq eq` (`x = x` must be assumed explicitly)
+
+PSI uses a notion of equality that is non-reflexive, that is, `x = x` is not a tautology.
+
 #### Interior vs Exterior
 
 The Interior is constructed using a core with an identity morphism as a "ground state",
