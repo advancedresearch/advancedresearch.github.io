@@ -3,7 +3,7 @@ by Sven Nilsen, 2021
 
 In this blog post I will try to explain the anti-Toth argument and how it relates to mathematical languages.
 
-Daniel Fischer argued on our [Discord server](https://discord.gg/JkrhJJRBR2) that ancient Egypt had a profound insight of the effects of written language.
+Daniel Fischer argued on our [Discord server](https://discord.gg/JkrhJJRBR2) that ancient Egypt had a profound insight on the effects of written language.
 
 [Toth](https://en.wikipedia.org/wiki/Thoth) is an ancient Egyptian deity, who was the god of the moon, wisdom, writing, hieroglyphs, science, magic, art and judgement.
 
