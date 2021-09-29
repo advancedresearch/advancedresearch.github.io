@@ -59,7 +59,7 @@ The opposite view of the anti-Toth argument is most accurately understood throug
 
 [Path Semantics](https://github.com/advancedresearch/path_semantics) is a research project of mathematical languages which at its foundation attempts to use an informal model of how symbols work.
 
-The required background to understand the details would not fit inside this blog post, so I will use an metaphor from [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings).
+The required background to understand the details would not fit inside this blog post, so I will use an metaphore from [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings).
 
 Basically, Gandalf tries to prevent the Balrog from crossing the bridge, using his magic abilities:
 
