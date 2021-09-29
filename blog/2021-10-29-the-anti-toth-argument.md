@@ -63,7 +63,7 @@ The required background to understand the details would not fit inside this blog
 
 Basically, Gandalf tries to prevent the Balrog from crossing the bridge, using his magic abilities:
 
-![Gandalf vs Balrog](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fwww.theonering.net%2Ftorwp%2Fwp-content%2Fuploads%2F2014%2F08%2Flord-of-the-rings-020.jpg%3Ffit%3D984%252C552%26ssl%3D1&f=1&nofb=1)
+![Gandalf vs Balrog](https://advancedresearch.github.io/images/gandalf-vs-balrog.jpeg)
 
 - Gandalf is Path Semantics, constraining mathematical languages to the use of symbols
 - The Balrog is the untamed, undecidable universe of mathematics
