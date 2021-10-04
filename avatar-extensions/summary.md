@@ -358,3 +358,30 @@ Maximum mathematical languages can have at most 2 properties, given by the gramm
 verification|validation coherence
 consistency|completeness coherence|clarity
 ```
+
+### Avatar Zen Theory
+
+A Zen language is of form `mem^N . pow^N` where `N : nat`,
+`mem` is set membership and `pow` is the power set.
+
+- Level 0 "identity"
+- Level 1 "subset"
+- Level 2 "construct"
+- Level 3 "design"
+- Level ∞ "ouroborus"
+
+An Avatar Zen Ladder is used to study Zen languages formally:
+
+`azl(s : set, x : [set]) = ∀ i len(x)-1 { x[i+1] ∈ x[i] } ∧ (x[0] ∈ pow^len(x)(s))`
+
+`x : [azl(s)] true` (`x` is an Avatar Zen Ladder of `s`)
+
+Avatar Zen Ladders avoid terminating choices,
+which means there is some minimum amount of structure preservation.
+
+- The "construct" level gives the semantics of proofs (constructive logic), due to the avoiding property of terminating choices.
+- The "ouroborus" level contains a fix-point, which is some sub-language which preserves the ability to self-modify.
+
+For example, in language design, a self-hosting compiler is an "ouroborus" Zen level.
+
+For example, in biology, DNA is the sub-language which lets species mutate into new species.
