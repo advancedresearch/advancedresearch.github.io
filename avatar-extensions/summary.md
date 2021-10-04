@@ -384,4 +384,4 @@ which means there is some minimum amount of structure preservation.
 
 For example, in language design, a self-hosting compiler is an "ouroborus" Zen level.
 
-For example, in biology, DNA is the sub-language which lets species mutate into new species.
+For example, in biology, DNA is the sub-language which lets species mutate into new species ("ouroborus" Zen level).
