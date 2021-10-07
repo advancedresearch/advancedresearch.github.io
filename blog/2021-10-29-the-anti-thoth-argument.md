@@ -1,11 +1,11 @@
-# The Anti-Toth Argument
+# The Anti-Thoth Argument
 by Sven Nilsen, 2021
 
-In this blog post I will try to explain the anti-Toth argument and how it relates to mathematical languages.
+In this blog post I will try to explain the anti-Thoth argument and how it relates to mathematical languages.
 
 Daniel Fischer argued on our [Discord server](https://discord.gg/JkrhJJRBR2) that ancient Egypt had a profound insight on the effects of written language.
 
-[Toth](https://en.wikipedia.org/wiki/Thoth) is an ancient Egyptian deity, who was the god of the moon, wisdom, writing, hieroglyphs, science, magic, art and judgement.
+[Thoth](https://en.wikipedia.org/wiki/Thoth) is an ancient Egyptian deity, who was the god of the moon, wisdom, writing, hieroglyphs, science, magic, art and judgement.
 
 ### Avatars
 
@@ -21,17 +21,17 @@ Think about it as entities playing a role, in which whether they are real or not
 
 ### Parallels of gender inequality
 
-Toth was credited all forms of knowledge in ancient Egypt, similar to Pythagoras in ancient Greece.
+Thoth was credited all forms of knowledge in ancient Egypt, similar to Pythagoras in ancient Greece.
 There is a striking parallel between the two and how they are related to [Seshat](https://en.wikipedia.org/wiki/Seshat) and [Theano](https://en.wikipedia.org/wiki/Theano_(philosopher)) respectively.
 
-Both Toth and Pythagoras were credited inventions of knowledge without evidence.
+Both Thoth and Pythagoras were credited inventions of knowledge without evidence.
 For example, in case of Pythagoras, there is no historical evidence that the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem#History) was discovered by him.
 You can read more about the false glorification of Pythagoras [here](https://plato.stanford.edu/entries/pythagoras/).
 
 One might think that this happened due to their high status in history,
 but this effect happened biased toward male avatars compared to female avatars.
 
-- Seshat was an older deity than Toth, but ended up as daughter or sometimes wife to Toth in the mythology over time
+- Seshat was an older deity than Thoth, but ended up as daughter or sometimes wife to Thoth in the mythology over time
 - Theano wrote, unlike Pythagoras, but has been called the wife of Pythagoras (which she might not be)
 
 The interesting parallel here is that when credit is unjustified, it is more likely to be attributed males than females.
@@ -49,13 +49,13 @@ Quoting from [Wikipedia's article about the history of Toth](https://en.wikipedi
 
 Furthermore, Socrates argues in Plato's dialogue that writings is silent, they cannot speak, answer questions, or come to their own defense.
 
-With other words, writing, as great invention it might be, is viewed from the anti-Toth position as "cursed" in some way.
+With other words, writing, as great invention it might be, is viewed from the anti-Thoth position as "cursed" in some way.
 
 This "curse" is related to the properties of writing, or lack of properties, which makes it easy to enforce biases over time.
 
 ### The path semantical view
 
-The opposite view of the anti-Toth argument is most accurately understood through the research of mathematical languages.
+The opposite view of the anti-Thoth argument is most accurately understood through the research of mathematical languages.
 
 [Path Semantics](https://github.com/advancedresearch/path_semantics) is a research project of mathematical languages which at its foundation attempts to use an informal model of how symbols work.
 
@@ -71,7 +71,7 @@ Basically, Gandalf tries to prevent the Balrog from crossing the bridge, using h
 Path Semantics already has a nuanced view of the use of symbols, specially through the theory of [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html).
 The untamed, undecidable universe of mathematics is *barely* kept in check, like hanging from a cliff by your fingernails.
 
-However, when the anti-Toth argument is taken to its extreme, the bridge that Gandalf and the Balrog stands on, might collapse.
+However, when the anti-Thoth argument is taken to its extreme, the bridge that Gandalf and the Balrog stands on, might collapse.
 
 ### Pragmatism and mathematical languages
 
@@ -90,9 +90,9 @@ and it is a danger because this practice is grounded in pragmatism only.
 It is not a danger in the sense of everyday scenarios, but one might imagine how it could impact e.g. AI safety
 through obscure or esoteric semantic drifts in mathematical languages.
 
-The anti-Toth argument is neither pragmatic nor platonistic, but appeals to some "primitive" form of philosophical being prior to creation of the world, like the Balrog.
+The anti-Thoth argument is neither pragmatic nor platonistic, but appeals to some "primitive" form of philosophical being prior to creation of the world, like the Balrog.
 
-### The problem of anti-Toth vs Path Semantics
+### The problem of anti-Thoth vs Path Semantics
 
 It is clear that written languages might be used to e.g. enforce gender inequality in a civilisation.
 
@@ -111,7 +111,7 @@ Neither do we know how to clearly separate these views from each other, or wheth
 
 ### Join the debate!
 
-OK, so the problem is that there are strong arguments on both the anti-Toth side and on the Path Semantics side,
+OK, so the problem is that there are strong arguments on both the anti-Thoth side and on the Path Semantics side,
 which I do not claim to have an answer.
 
 The thing I am interested in, is putting this debate forward and thinking through this together.
