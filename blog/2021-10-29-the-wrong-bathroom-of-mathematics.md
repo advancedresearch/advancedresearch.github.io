@@ -49,7 +49,7 @@ This mistake is easy to make, because mathematics as a field has been stuck for 
 The bias is so strong, that when people try to bring up Mathematical Language Design,
 they are sometimes called names and humiliated publically.
 
-To those people: No, it is not the people who works on Mathematical Language Design who are cranks,
+To those people: No, it is not the people who work on Mathematical Language Design who are cranks,
 but you who ignored the sign on the door!
 
 (and please stop before you make a scene!)
