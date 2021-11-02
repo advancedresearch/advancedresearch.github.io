@@ -55,8 +55,8 @@ Seshatic Plato: I feel weird.
 Seshat: Just wait, you will get used to it.  
 Seshatic Plato: I can see my own ideas now. Why is everything so big?  
 Seshat: You are seeing Platonism from a local perspective.  
-Seshatic Plato: All these infinite combinations! It goes on and on, forever.
-Seshat: Seen enough?
+Seshatic Plato: All these infinite combinations! It goes on and on, forever.  
+Seshat: Seen enough?  
 Seshatic Plato: Yeah, I get what time is now.  
 
 (Seshat takes back the part of herself)
