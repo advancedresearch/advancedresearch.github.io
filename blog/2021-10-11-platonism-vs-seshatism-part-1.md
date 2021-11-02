@@ -1,6 +1,8 @@
 # Platonism vs Seshatism - Part 1
 by Sven Nilsen, 2021
 
+[Part 2](https://advancedresearch.github.io/blog/2021-11-02-platonism-vs-seshatism-part-2)
+
 *For background, read [Seshatism](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/seshatism.pdf) in the sequence about [Avatar Extensions](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#avatar-extensions).*
 
 In the divine realm, Plato meets Seshat to have a debate about ideas and existence.
@@ -49,3 +51,5 @@ Seshat: You are right! You are wrong. Problem solved.
 
 Seshat: Good night Plato!  
 Plato: Good day Seshat!  
+
+[Continue reading part 2](https://advancedresearch.github.io/blog/2021-11-02-platonism-vs-seshatism-part-2)
