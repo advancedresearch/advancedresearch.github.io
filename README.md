@@ -23,6 +23,7 @@ You can find a summary about Avatar Extensions [here](./avatar-extensions/summar
 
 ### Blog posts
 
+- [2021-12-30 Cognition](https://advancedresearch.github.io/blog/2021-12-30-cognition)
 - [2021-11-02 Platonism vs Seshatism - Part 2](https://advancedresearch.github.io/blog/2021-11-02-platonism-vs-seshatism-part-2)
 - [2021-10-29 The Wrong Bathroom of Mathematics](https://advancedresearch.github.io/blog/2021-10-29-the-wrong-bathroom-of-mathematics)
 - [2021-10-11 Platonism vs Seshatism - Part 1](https://advancedresearch.github.io/blog/2021-10-11-platonism-vs-seshatism-part-1)
