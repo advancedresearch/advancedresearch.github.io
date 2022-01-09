@@ -212,11 +212,13 @@ Seshatism vs Platonism are related to the core axiom of Path Semantics:
 From studying functions of type `T -> T` as models of equivalence groups (see [paper](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/seshatic-and-platonic-paths.pdf)),
 one can extend Witness Duality with a Moment Witness in the following way:
 
-- Loop Witness = Seshatism ⋀ Platonism
-- Product Witness = ¬Seshatism
-- Moment Witness = ¬Platonism
+- Loop Witness = Seshatic ⋀ Platonic
+- Product Witness = ¬Seshatic
+- Moment Witness = ¬Platonic
 
-This means that one can view Witness Duality in terms of Seshatism vs Platonism.
+Notice that "Seshatic" and "Platonic" is used instead of "Seshatism" and "Platonism" since this is the projected theory from quality to equality.
+
+This means that one can view Witness Duality indirectly in terms of Seshatism vs Platonism.
 
 Seshatism vs Platonism are located in the Global Outside of the [Logi](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/logi.pdf) circle.
 
