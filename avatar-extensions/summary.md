@@ -202,6 +202,24 @@ In the [formalisation of Path Semantical Intuitionistic Propositional Logic (PSI
 
 PSI uses a notion of equality that is non-reflexive, that is, `x = x` is not a tautology.
 
+#### Seshatism vs Platonism
+
+Seshatism vs Platonism are related to the core axiom of Path Semantics:
+
+- Seshatism uses the assumption `¬(x ~~ x)`
+- Platonism uses the assumption `x ~~ x` (Loop Witness) or `x ~~ y` (Product Witness)
+
+From studying functions of type `T -> T` as models of equivalence groups (see [paper](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/seshatic-and-platonic-paths.pdf)),
+one can extend Witness Duality with a Moment Witness in the following way:
+
+- Loop Witness = Seshatism ⋀ Platonism
+- Product Witness = ¬Seshatism
+- Moment Witness = ¬Platonism
+
+This means that one can view Witness Duality in terms of Seshatism vs Platonism.
+
+Seshatism vs Platonism are located in the Global Outside of the [Logi](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/logi.pdf) circle.
+
 #### Interior vs Exterior
 
 The Interior is constructed using a core with an identity morphism as a "ground state",
