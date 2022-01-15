@@ -213,8 +213,8 @@ From studying functions of type `T -> T` as models of equivalence groups (see [p
 one can extend Witness Duality with a Moment Witness in the following way:
 
 - Loop Witness = Seshatic ⋀ Platonic
-- Product Witness = ¬Seshatic
-- Moment Witness = ¬Platonic
+- Product Witness = Platonic ⋀ ¬Seshatic
+- Moment Witness = Seshatic ⋀ ¬Platonic
 
 Notice that "Seshatic" and "Platonic" is used instead of "Seshatism" and "Platonism" since this is the projected theory from quality to equality.
 
