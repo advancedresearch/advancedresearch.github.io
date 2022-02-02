@@ -197,10 +197,10 @@ Avatar Univalence might be represented as an L-system:
 
 In the [formalisation of Path Semantical Intuitionistic Propositional Logic (PSI) in Avatar Logic](https://github.com/advancedresearch/avalog/blob/master/source/psi.txt):
 
-- The Product Witness is turned on by default (`x = x` can be derived from `x = y`)
-- The Loop Witness can be turned on using `uniq eq` (`x = x` must be assumed explicitly)
+- The Product Witness is turned on by default (`x ~~ x` can be derived from `x ~~ y`)
+- The Loop Witness can be turned on using `uniq q` (`x ~~ x` must be assumed explicitly)
 
-PSI uses a notion of equality that is non-reflexive, that is, `x = x` is not a tautology.
+PSI uses a notion of equality that is non-reflexive, called "quality" (`~~`). That means, `x ~~ x` is not a tautology.
 
 #### Seshatism vs Platonism
 
