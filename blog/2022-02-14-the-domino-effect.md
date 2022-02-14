@@ -10,7 +10,7 @@ that were put in place in order to keep the number of infections low under the p
 
 As a mathematical language designer, I find this development both fascinating and terrifying.
 
-To understand why politicians risks such a gamble, one must first understand the principle of [sick leave](https://en.wikipedia.org/wiki/Sick_leave).
+To understand why politicians risk such a gamble, one must first understand the principle of [sick leave](https://en.wikipedia.org/wiki/Sick_leave).
 Sick leave is paid time off from work that workers can use to stay home to address their health needs without losing pay.
 
 By lifting restrictions on isolation due to COVID-19,
