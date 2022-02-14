@@ -47,7 +47,7 @@ that when a neighboring country is willing to take this gamble,
 it is much more likely to take that bet on your own.
 
 Maybe it is a good idea for countries like Denmark or Norway, but what about the rest of the world?
-The more countries that lifts restrictions, the more pressure is put on those who don't.
+The more countries that lift restrictions, the more pressure is put on those who don't.
 
 Thus, the gamble spreads faster in the world than the virus itself ever did!
 
