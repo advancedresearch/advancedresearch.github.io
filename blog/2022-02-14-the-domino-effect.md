@@ -23,7 +23,7 @@ The rest of the story in the news is basically sugaring it up to make it accepta
 You have probably heard these arguments:
 
 1. The number of people in ICUs are going down under the [Omicron variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant)
-2. Vaccines reduces the risk of fetality and long-COVID desease
+2. Vaccines reduces the risk of fatality and long-COVID desease
 3. We have to learn to "live with COVID"
 
 These arguments might be true to some extent,
