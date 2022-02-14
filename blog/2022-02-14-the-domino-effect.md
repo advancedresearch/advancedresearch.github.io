@@ -1,7 +1,7 @@
 # The Domino Effect
 by Sven Nilsen, 2022
 
-The 26th January this year, the Prime Minister of Denmark [declared that COVID-19 was no longer a society threatening desease](https://www.berlingske.dk/politik/mette-frederiksen-paa-pressemoede-fra-tirsdag-skal-alle-restriktioner).
+The 26th January this year, the Prime Minister of Denmark [declared that COVID-19 was no longer a society threatening disease](https://www.berlingske.dk/politik/mette-frederiksen-paa-pressemoede-fra-tirsdag-skal-alle-restriktioner).
 
 ![the domino effect](https://upload.wikimedia.org/wikipedia/commons/a/a8/Domino_effect.jpg)
 
@@ -23,7 +23,7 @@ The rest of the story in the news is basically sugaring it up to make it accepta
 You have probably heard these arguments:
 
 1. The number of people in ICUs are going down under the [Omicron variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant)
-2. Vaccines reduces the risk of fatality and long-COVID desease
+2. Vaccines reduces the risk of fatality and long-COVID disease
 3. We have to learn to "live with COVID"
 
 These arguments might be true to some extent,
@@ -32,7 +32,7 @@ Doing so is just helping the virus to spread.
 
 Unless, of course, you do not like to pay for those extra days of safety.
 
-With other words, the rephrasing of the pandemic as a non-threatening desease,
+With other words, the rephrasing of the pandemic as a non-threatening disease,
 is primarily in order to reduce costs of sick leave.
 
 Within a few weeks, several countries, including my own (Norway), chose to follow Denmark in lifting restrictions.
