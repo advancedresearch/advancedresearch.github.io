@@ -11,7 +11,7 @@ This blog post is about René Descartes's existential philosophy and why I think
 
 *[René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) was an influential philosopher, mathematician and scientist. [Image source](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes#/media/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)*
 
-Descartes' approach come from doubting everything,
+Descartes' approach comes from doubting everything,
 but in this process he collapses the universal quantifier with the existential.
 
 A quick explanation of what the existential quantifier means:
@@ -38,7 +38,7 @@ The approach that Descartes uses to existential philosophy is to doubt everythin
 which means to ignore all that is external to his own mind.
 
 When you do this, the "I am" is meaningless,
-because one can not assume that the form of existence that I have is universal.
+because one can not assume, without evidence, that the form of existence that I have is universal.
 
 Now, I will go into more detail of why this "I am" is meaningless.
 
@@ -166,11 +166,12 @@ Now, since the nature of existence is unknown, can people prove existence of thi
 
 Here, `a` has the existence `!A`.
 
-When we say, `a : A`, we do not know whether `A = !B` or not.
+When we say, e.g. `a : A`, we do not know whether `A = !B` or not.
 
 So, we can not tell whether the nature of existence is positive or negative.
 
 In Descartes' existential philophy, existence is assumed to be positive.
+The "I am" is taken as `true` from "I think" as assumption.
 
 However, is there a reason to believe that existence can't be negative?
 
@@ -188,4 +189,4 @@ Is there an existential problem of Alice falling into the rabbit hole?
 
 I don't know.
 
-It depends on the nature of the existential problem, which is unknown.
+It depends on the nature of the existence of that particular existential problem, which is unknown.
