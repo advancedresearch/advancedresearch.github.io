@@ -98,9 +98,9 @@ shows that his way of using it is meaningless.
 ### What should be changed?
 
 As a good starting point,
-the perspective can change from focusing on existence to thinking (or cognition).
+the perspective can change from focusing on existence to focusing on thinking (or cognition).
 
-Cognition is much more diverse than existence, but also still problematic, as science is still in the early phase of understanding it.
+Cognition is much more diverse than existence, but also problematic in nature, as science is still in the early phase of understanding it.
 However, there should be no major obstacles to making progress, at least in comparison with Descartes' existential philosophy.
 
 The problem with Descartes' existential philosophy is that it is stuck inside the mind.
