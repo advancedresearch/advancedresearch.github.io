@@ -14,6 +14,8 @@ This blog post is about René Descartes' existential philosophy and why I think 
 Descartes' approach comes from doubting everything,
 but in this process he collapses the universal quantifier with the existential.
 
+### Subjective Existence
+
 When Descartes thinks he can not doubt whether he thinks,
 he forgets to include the possibility that he might be thinking from one perspective,
 while from another perspective he might be non-thinking, or his thinking is undetermined.
@@ -48,6 +50,8 @@ because one can not assume, without evidence, that the form of existence that I 
 This might seem a subtle technicality, but it is actually the major blockage metaphysically that prevents one to reason outside one's own mind.
 When one's own existence is without doubt, it can not be used to prove anything.
 Any non-empty theory requires axioms which are not tautological in logic.
+
+### Why Descartes' "I am" is meaningless
 
 Now, I will go into more detail of why this "I am" is meaningless.
 
@@ -88,6 +92,11 @@ Again, why should we assume that two objects share the same way of existence?
 
 I have not found a good answer to that question yet, so I kept thinking about what we might do to make progress.
 
+The fact that reasoning works very well without treating "I am" identical to the one that Descartes uses,
+shows that his way of using it is meaningless.
+
+### What should be changed?
+
 As a good starting point,
 the perspective can change from focusing on existence to thinking (or cognition).
 
@@ -113,7 +122,10 @@ I can not see any major problems with this approach.
 So, what do we do with the "I am"?
 
 My suggestion is that we just treat the nature of existence as unknown.
-This can be modeled using Type Theory:
+
+### Modeling the unknown nature of existence in Type Theory
+
+The nature of existence as unknown can be modeled using Type Theory:
 
 `a : A, b : B`
 
@@ -187,6 +199,8 @@ then there is no way to know whether you are dealing with an AI or a human.
 So, in that case one can treat AIs behaving like humans and humans as the same form of existence.
 
 Again, the Type Theory models the intuition we have about existence quite well.
+
+### Negative existence
 
 Now, since the nature of existence is unknown, can people prove existence of things that do not exist?
 
