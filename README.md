@@ -23,6 +23,7 @@ You can find a summary about Avatar Extensions [here](./avatar-extensions/summar
 
 ### Blog posts
 
+- [2022-02-16 Let's Abandon The Cogito and Use Type Theory Instead](https://advancedresearch.github.io/blog/2022-02-16-lets-abandon-the-cogito-and-use-type-theory-instead)
 - [2022-02-14 The Domino Effect](https://advancedresearch.github.io/blog/2022-02-14-the-domino-effect)
 - [2021-12-30 Cognition](https://advancedresearch.github.io/blog/2021-12-30-cognition)
 - [2021-11-02 Platonism vs Seshatism - Part 2](https://advancedresearch.github.io/blog/2021-11-02-platonism-vs-seshatism-part-2)
