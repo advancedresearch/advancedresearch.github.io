@@ -82,7 +82,7 @@ People have experiences, but this does not imply that they exist in relation to 
 In fact, in quantum mechanics, opposite amplitudes cancel out and this gives a perspective where it is meaningless to say
 whether people are existing while having experiences.
 The only way to assume that people are existing in such states, is to appeal to a larger, invisible multiverse.
-This is not problematic in itself, but it constraints language of existential philosophy to only hold at some levels and not for others.
+This is not problematic in itself, but it constrains language of existential philosophy to only hold at some levels and not for others.
 
 Again, why should we assume that two objects share the same way of existence?
 
