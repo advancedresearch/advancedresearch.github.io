@@ -14,6 +14,11 @@ This blog post is about René Descartes' existential philosophy and why I think 
 Descartes' approach comes from doubting everything,
 but in this process he collapses the universal quantifier with the existential.
 
+When Descartes thinks he can not doubt whether he thinks,
+he forgets to include the possibility that he might be thinking from one perspective,
+while from another perspective he might be non-thinking or his thinking is undetermined.
+Therefore, his "I am" is subjective.
+
 A quick explanation of what the existential quantifier means:
 
 `∃ x { p(x) } = ¬∀ x { ¬p(x) }`
