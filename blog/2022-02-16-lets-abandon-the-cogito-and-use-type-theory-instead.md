@@ -47,7 +47,7 @@ because one can not assume, without evidence, that the form of existence that I 
 
 This might seem a subtle technicality, but it is actually the major blockage metaphysically that prevents one to reason outside one's own mind.
 When one's own existence is without doubt, it can not be used to prove anything.
-Any theory requires axioms which are not tautological in logic.
+Any non-empty theory requires axioms which are not tautological in logic.
 
 Now, I will go into more detail of why this "I am" is meaningless.
 
