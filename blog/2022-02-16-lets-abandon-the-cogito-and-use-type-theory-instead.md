@@ -5,7 +5,7 @@ by Sven Nilsen, 2022
 
 "I think, therefore I am."
 
-This blog post is about René Descartes's existential philosophy and why I think it should be scrapped in favor of [Type Theory](https://en.wikipedia.org/wiki/Type_theory).
+This blog post is about René Descartes' existential philosophy and why I think it should be scrapped in favor of [Type Theory](https://en.wikipedia.org/wiki/Type_theory).
 
 ![Descartes](https://upload.wikimedia.org/wikipedia/commons/4/46/Portrait_of_Ren%C3%A9_Descartes%2C_bust%2C_three-quarter_facing_left_in_an_oval_border%2C_%28white_background_removed%29.png)
 
