@@ -85,7 +85,8 @@ There is also another improvement that is possible by changing the approach:
 "I am, therefore I think." implies that there is no other way to exist than to think in some form.
 
 This happens to be a very good approximation to what science can tell us about consciousness.
-When people are not thinking, they have no brain activity, as far as we can tell, they might very well not exist.
+When people are not thinking, they have no brain activity.
+As far as we can tell, they might very well not exist.
 
 However, a brain can be brought back from an unconscious state.
 When people start existing again, they also start thinking.
