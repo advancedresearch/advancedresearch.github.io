@@ -25,7 +25,7 @@ A quick explanation of what the existential quantifier means:
 
 `∃ x { p(x) } = ¬∀ x { ¬p(x) }`
 
-With other words, if you have a universal quantifier and some involution `¬`,
+With other words, when you have a universal quantifier and some involution `¬`,
 you can construct an existential quantifier.
 
 Involutions preserve structure under transformations,
