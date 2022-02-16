@@ -232,3 +232,11 @@ Is there an existential problem of Alice falling into the rabbit hole?
 I don't know.
 
 It depends on the nature of the existence of that particular existential problem, which is unknown.
+
+### How the problem of getting stuck in the mind goes away
+
+We can't trust our senses, e.g. that the world is real and not simulated.
+However, this does not imply we have to get stuck within our minds.
+By giving up knowing what absolute existence is,
+we can freely explore the logical consequences of relative existence.
+This works because the existence of relative existence is also relative.
