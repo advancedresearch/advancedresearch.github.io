@@ -129,7 +129,11 @@ This means, `a` and `b` has the existence `(A, B)`.
 
 Now, we do not claim to know what the nature of `(A, B)` means.
 
-Instead, we can elaborate on what we mean by adding more assumptions:
+Similarly, one can prove `A == B` as two maps `A => B` and `B => A`.
+We do not claim to know what the nature of `A == B` means.
+It is purely formal and requires interpretation to be understood in some context.
+
+Instead, we can elaborate on what we mean by adding more assumptions, for example:
 
 `p : (A, B) => C`
 
@@ -142,6 +146,12 @@ However, `p` can be used to transport `(a, b)` into a form of existence `C`:
 `p((a, b)) : C`
 
 We do not know what this transport means, but we can elaborate on it further.
+
+The Cogito, `() == A` is provable from any `a : A`.
+This means that in the context where one assumes some form of existence,
+it has the same meaning as in "I think, therefore I am.".
+This happens because `true` implies `true`.
+However, in general it might be better to use "I am, therefore I think.".
 
 Let's check what this means using some practical examples.
 
