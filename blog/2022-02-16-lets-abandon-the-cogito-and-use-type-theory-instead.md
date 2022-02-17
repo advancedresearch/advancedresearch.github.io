@@ -31,9 +31,33 @@ you can construct an existential quantifier.
 Involutions preserve structure under transformations,
 which means that the universal quantifier and the existential can be collapsed into one.
 
+A proof in PL (classical propositional calculus) has the following definition:
+
+`f <=> \true` for some function `f`
+
+This is called a "universal", due to the following property:
+
+`∀ x { f(x) }`
+
+An "existential" is when there is at least one input where `f` returns `true`:
+
+`∃ x { f(x) }`
+
+A collapse of the universal quantifier with the existential is when the involution `¬` becomes `id` (the identity function):
+
+`∃ x { p(x) } = id(∀ x { id(p(x)) })`
+
+this implies:
+
+`∃ <=> ∀`
+
 How is Descartes' approach collapsing the universal quantifier with the existential?
 
-He does this by assuming his own existence, an existential, is representative of universal existence, a universal.
+Descartes' "I think" is only positive, so he has no opportunity to investigate "I do not think".
+This means his "I think, therefore I am." is of the form `true => true`, an existential.
+
+The approach that Descartes' uses, collapses the universal quantifier with the existential,
+by assuming his own existence, an existential, is representative of universal existence, a universal.
 Thus, he creates the Cogito, mathematically written `()`, an empty list, which forms the basis for Cartesian combinatorics.
 In Type Theory, `() : ()` is a tautology which can be instanced anywhere used to construct e.g. `((), (())) : ((), (()))`.
 These constructions form the basis for sets, natural numbers etc.
