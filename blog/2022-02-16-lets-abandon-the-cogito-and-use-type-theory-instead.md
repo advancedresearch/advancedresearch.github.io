@@ -11,10 +11,10 @@ This blog post is about René Descartes' existential philosophy and why I think 
 
 *[René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) was an influential philosopher, mathematician and scientist. [Image source](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes#/media/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)*
 
+### Subjective Existence
+
 Descartes' approach comes from doubting everything,
 but in this process he collapses the universal quantifier with the existential.
-
-### Subjective Existence
 
 When Descartes thinks he can not doubt whether he thinks,
 he forgets to include the possibility that he might be thinking from one perspective,
@@ -50,6 +50,8 @@ A collapse of the universal quantifier with the existential is when the involuti
 this implies:
 
 `∃ <=> ∀`
+
+Using `id` for `¬` is counter-intuitive, but possible, since `id` is also an involution.
 
 How is Descartes' approach collapsing the universal quantifier with the existential?
 
