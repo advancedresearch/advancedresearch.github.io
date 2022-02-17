@@ -101,6 +101,17 @@ What about:
 
 This opens up the possibility of thinking without existence.
 
+How can I make the transition from "I think, therefore I am." to "I am, therefore I think."?
+
+Formally in PL, "I think, therefore I am" can be modeled as a function `f`:
+
+`f(a, b) = (a => b)`
+
+Since Descartes' only had the opportunity to investigate `f(true, true)`,
+it is possible to substitute with "I am, therefore I think.":
+
+`f{\true, \true}(a, b) => f(b, a)`
+
 E.g. a rock is "thinking" because it has the same physical laws that are inside our brains.
 However, a rock is not "thinking about" something the way our brains do, it just does what it does.
 
