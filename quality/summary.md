@@ -29,3 +29,11 @@ Notice that there is a slight difference in terminology between "homotopy path" 
 
 - `(a => b) => (a ~~ b)` a homotopy path in univalence foundations (`Hom<A, B>` in Prop)
 - `a ~~ b` a path between `a` and `b` (`Q<A, B>` in Prop)
+
+### Homotopy paths, univalence and symbolic distinction
+
+A homotopy path implies univalence (`(a == b) ~~ (a ~~ b)`, `Univ<A, B>` in Prop).
+However, univalence does not imply a homotopy path.
+Therefore, a homotopy path is a stronger assumption than univalence.
+
+Univalence is equal to symbolic distiction (`(a == b) => (a ~~ b)`, `EqQ<A, B>` in Prop).
