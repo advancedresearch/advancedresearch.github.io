@@ -44,5 +44,13 @@ Univalence is equal to symbolic distiction (`(a == b) => (a ~~ b)`, `EqQ<A, B>` 
 
 The philosophical interpretation of quality is related to mathematical languages that are biased toward Seshatism or Platonism.
 
-- Seshatism: `!(a ~~ a)`
+- Seshatism: `!(a ~~ a)` or `!(a ~~ b)`
 - Platonism: `a ~~ a` (Loop Witness) or `a ~~ b` (Product Witness)
+
+In topology:
+
+- Platonism implies topological connectedness (paths).
+- Seshatism implies topological disconnectedness (holes).
+
+Holes are absence of paths between pieces of spaces.
+This *does not* imply that the truth value of the pieces are inequal.
