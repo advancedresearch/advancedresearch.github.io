@@ -30,6 +30,8 @@ Notice that there is a slight difference in terminology between "homotopy path" 
 - `(a => b) => (a ~~ b)` a homotopy path in univalence foundations (`Hom<A, B>` in Prop)
 - `a ~~ b` a path between `a` and `b` (`Q<A, B>` in Prop)
 
+To avoid ambiguity, one can say "quality" instead of "path".
+
 ### Homotopy paths, univalence and symbolic distinction
 
 A homotopy path implies univalence (`(a == b) ~~ (a ~~ b)`, `Univ<A, B>` in Prop).
