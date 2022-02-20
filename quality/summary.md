@@ -56,3 +56,13 @@ Holes are absence of paths between pieces of spaces.
 This *does not* imply that the truth value of the pieces are inequal.
 
 A sesh `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
+
+### Homotopy Limit
+
+A homotopy limit of `a` is defined as:
+
+```
+(a ~~ a) => a
+```
+
+In Prop, one can use the `QId` trait to do homotopy limits.
