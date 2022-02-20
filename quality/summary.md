@@ -32,7 +32,7 @@ Notice that there is a slight difference in terminology between "homotopy path" 
 
 To avoid ambiguity, one can say "quality" instead of "path".
 
-### Homotopy paths, univalence and symbolic distinction
+### Homotopy paths, Univalence and Symbolic Distinction
 
 A homotopy path implies univalence (`(a == b) ~~ (a ~~ b)`, `Univ<A, B>` in Prop).
 However, univalence does not imply a homotopy path.
@@ -40,11 +40,11 @@ Therefore, a homotopy path is a stronger assumption than univalence.
 
 Univalence is equal to symbolic distiction (`(a == b) => (a ~~ b)`, `EqQ<A, B>` in Prop).
 
-### Seshatism vs Platonism
+### Seshatism vs Platonism in Topology
 
 The philosophical interpretation of quality is related to mathematical languages that are biased toward Seshatism or Platonism.
 
-- Seshatism: `!(a ~~ a)` or `!(a ~~ b)`
+- Seshatism: `!(a ~~ a)` (Sesh) or `!(a ~~ b)` (Hole)
 - Platonism: `a ~~ a` (Loop Witness) or `a ~~ b` (Product Witness)
 
 In topology:
@@ -54,3 +54,5 @@ In topology:
 
 Holes are absence of paths between pieces of spaces.
 This *does not* imply that the truth value of the pieces are inequal.
+
+A sesh `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
