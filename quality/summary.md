@@ -54,6 +54,9 @@ In topology:
 
 Holes are absence of paths between pieces of spaces.
 This *does not* imply that the truth value of the pieces are inequal.
+In fact, one must use symbolic distinction to convert a hole into inequality.
+This means that when two pieces are disconnected and no symbolic distinction is used,
+any hole between them does not enforce the truth value of each piece.
 
 A sesh `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
 
