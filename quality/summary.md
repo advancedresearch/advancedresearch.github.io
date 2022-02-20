@@ -39,3 +39,10 @@ However, univalence does not imply a homotopy path.
 Therefore, a homotopy path is a stronger assumption than univalence.
 
 Univalence is equal to symbolic distiction (`(a == b) => (a ~~ b)`, `EqQ<A, B>` in Prop).
+
+### Seshatism vs Platonism
+
+The philosophical interpretation of quality is related to mathematical languages that are biased toward Seshatism or Platonism.
+
+- Seshatism: `!(a ~~ a)`
+- Platonism: `a ~~ a` (Loop Witness) or `a ~~ b` (Product Witness)
