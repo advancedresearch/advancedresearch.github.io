@@ -47,6 +47,8 @@ with some added structure.
 
 A piece is a part of a space that is connected by paths.
 
+For an introduction, see lecture by Vladimir Voedvodsky ["An Intuitive Introduction to Motivic Homotopy Theory"](https://www.youtube.com/watch?v=b4BlA7NymIE).
+
 ### Seshatism vs Platonism in Topology
 
 The philosophical interpretation of quality is related to mathematical languages that are biased toward Seshatism or Platonism.
