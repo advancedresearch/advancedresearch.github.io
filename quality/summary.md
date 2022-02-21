@@ -62,8 +62,8 @@ Seshes and holes are not called "witnesses".
 
 In topology:
 
-- Platonism implies topological connectedness (paths).
-- Seshatism implies topological disconnectedness (holes).
+- Platonism implies topological connectedness (paths)
+- Seshatism implies topological disconnectedness (holes)
 
 Holes are absence of paths between pieces of spaces.
 This *does not* imply that the truth value of the pieces are inequal.
