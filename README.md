@@ -25,7 +25,7 @@ You can find a summary about Avatar Extensions [here](./avatar-extensions/summar
 
 Path Semantical Quality is a partial equivalence relation that lifts biconditions with symbolic distinction.
 
-You can find a summary about Path Semantical Quality [here](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/quality/summary.md).
+You can find a summary about Path Semantical Quality [here](./quality/summary.md).
 
 ### Blog posts
 
