@@ -27,7 +27,7 @@ A [homotopy path](https://en.wikipedia.org/wiki/Homotopy) is a path between path
 
 Notice that there is a slight difference in terminology between "homotopy path" and "path":
 
-- `(a => b) => (a ~~ b)` a homotopy path in univalence foundations (`Hom<A, B>` in Prop)
+- `(a => b) => (a ~~ b)` a homotopy path in [univalence foundations](https://en.wikipedia.org/wiki/Univalent_foundations) (`Hom<A, B>` in Prop)
 - `a ~~ b` a path between `a` and `b` (`Q<A, B>` in Prop)
 
 To avoid ambiguity, one can say "quality" instead of "path".
