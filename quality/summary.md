@@ -40,6 +40,13 @@ Therefore, a homotopy path is a stronger assumption than univalence.
 
 Univalence is equal to symbolic distiction (`(a == b) => (a ~~ b)`, `EqQ<A, B>` in Prop).
 
+### Space and Pieces
+
+A space is a mathematical structure, which is a set, sometimes called a "universe",
+with some added structure.
+
+A piece is a part of a space that is connected by paths.
+
 ### Seshatism vs Platonism in Topology
 
 The philosophical interpretation of quality is related to mathematical languages that are biased toward Seshatism or Platonism.
