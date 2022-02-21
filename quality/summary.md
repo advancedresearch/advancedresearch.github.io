@@ -49,21 +49,30 @@ A piece is a part of a space that is connected by paths.
 
 For an introduction, see lecture by Vladimir Voedvodsky ["An Intuitive Introduction to Motivic Homotopy Theory"](https://www.youtube.com/watch?v=b4BlA7NymIE).
 
-### Seshatism vs Platonism in Topology
+### Quality and Inquality in Philosophy
 
-The philosophical interpretation of quality is related to mathematical languages that are biased toward Seshatism or Platonism.
+In philosophy, quality and inquality has deep consequences for mathematical languages that are biased toward Platonism or Seshatism respectively.
 
-- Seshatism: `!(a ~~ a)` (Sesh) or `!(a ~~ b)` (Hole)
-- Platonism: `a ~~ a` (Loop Witness) or `a ~~ b` (Product Witness)
+[Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html)
+is an abstraction generalization technique that exploits symmetries inside “simpler” theories.
+There is a more complex theory behind quality and inquality in Avatar Extensions that is called
+["Avatar Witness Theory"](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-witness-theory).
 
-Witnesses come from [Avatar Witness Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-witness-theory).
-There are only 3 witnesses: Loop, Product and Moment.
-Seshes and holes are not called "witnesses".
+### Quality and Inquality in Logic
 
-In topology:
+In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
+This means, "quality" and "inquality" refers to the logical structure without any interpretation.
+However, in Prop, it is common that tactics for inquality use "sesh" as a shorthand.
 
-- Platonism implies topological connectedness (paths)
-- Seshatism implies topological disconnectedness (holes)
+- Quality: `a ~~ a` (Self-Quality) or `a ~~ b` (Other-Quality)
+- Inquality: `!(a ~~ a)` (Self-Inquality) or `!(a ~~ b)` (Other-Inquality)
+
+### Quality and Inquality in Topology
+
+In topology, quality and inquality is related to connectedness of pieces:
+
+- Other-Quality implies topological connectedness (paths)
+- Other-Inquality implies topological disconnectedness (holes)
 
 Holes are absence of paths between pieces of spaces.
 This *does not* imply that the truth value of the pieces are inequal.
@@ -71,7 +80,7 @@ In fact, one must use symbolic distinction to convert a hole into inequality.
 This means that when two pieces are disconnected and no symbolic distinction is used,
 any hole between them does not enforce the truth value of each piece.
 
-A sesh `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
+Self-inquality `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
 
 ### Homotopy Limit
 
