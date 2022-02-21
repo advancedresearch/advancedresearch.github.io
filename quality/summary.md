@@ -56,6 +56,10 @@ The philosophical interpretation of quality is related to mathematical languages
 - Seshatism: `!(a ~~ a)` (Sesh) or `!(a ~~ b)` (Hole)
 - Platonism: `a ~~ a` (Loop Witness) or `a ~~ b` (Product Witness)
 
+Witnesses come from [Avatar Witness Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-witness-theory).
+There are only 3 witnesses: Loop, Product and Moment.
+Seshes and holes are not called "witnesses".
+
 In topology:
 
 - Platonism implies topological connectedness (paths).
