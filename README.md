@@ -21,6 +21,12 @@ Avatar Extensions is a popular research subject about abstract generalization of
 
 You can find a summary about Avatar Extensions [here](./avatar-extensions/summary.md).
 
+### Path Semantical Quality
+
+Path Semantical Quality is a partial equivalence relation that lifts biconditions with symbolic distinction.
+
+You can find a summary about Path Semantical Quality [here](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/quality/summary.md).
+
 ### Blog posts
 
 - [2022-02-16 Let's Abandon The Cogito and Use Type Theory Instead](https://advancedresearch.github.io/blog/2022-02-16-lets-abandon-the-cogito-and-use-type-theory-instead)
