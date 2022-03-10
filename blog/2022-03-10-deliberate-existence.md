@@ -45,7 +45,7 @@ for example from some way you view others and others view you,
 it can get in the way of your path, since you are not entirely in control of yourself.
 
 A lot of life is about these autonomous or semi-autonomous states of being,
-that flows from one place to another.
+that flow from one place to another.
 
 ![flowers flowing](https://upload.wikimedia.org/wikipedia/commons/f/f9/Nymphaea_alba.jpg)
 
