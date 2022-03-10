@@ -23,7 +23,7 @@ It is as if they expect something more, something deeper and more profound.
 A solution to some riddle, or, perhaps a bit of a mystery or excitement.
 
 This is why philosophers try to come up with ways of relating to life in various sense of meaning.
-They call this "beings" and use different terminology to elaborate on what they mean.
+They call this "beings" and use different terminology, depending on topics, to elaborate on what they mean.
 
 One way of being I have been thinking about, I call "deliberate existence".
 
