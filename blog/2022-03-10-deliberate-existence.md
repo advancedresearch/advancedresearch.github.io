@@ -19,7 +19,7 @@ This is not necessarily a bad thing.
 If we had to make conscious decisions about everything, then we would get nowhere.
 
 Still, there is something that most people look for when asking "what is the meaning of life".
-It is as if they expect something more, some deeper and more profound.
+It is as if they expect something more, something deeper and more profound.
 A solution to some riddle, or, perhaps a bit of a mystery or excitement.
 
 This is why philosophers try to come up with ways of relating to life in various sense of meaning.
