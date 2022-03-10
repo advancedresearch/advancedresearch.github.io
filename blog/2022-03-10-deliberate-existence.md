@@ -36,7 +36,7 @@ However, although the activity of reading a book might be varying in personal ex
 it takes place in an environment which is structured around my own higher sense of being.
 
 When we talk about "existence", we talk about this higher sense of being,
-where the particular activities or details of everyday life does not matter.
+where the particular activities or details of everyday life do not matter.
 
 Humans like to think about their existence and what other people think about.
 
