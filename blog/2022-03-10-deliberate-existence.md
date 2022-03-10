@@ -96,7 +96,7 @@ Although, I recommend this to people, as a way of achieving happiness.
 Happiness is actually very easy to achieve.
 For example, you do not need to become rich in order to be happy.
 
-Happiness have many formulas, but they are all simple.
+Happiness has many formulas, but they are all simple.
 
 Doing something hard, is one way to become happy.
 
