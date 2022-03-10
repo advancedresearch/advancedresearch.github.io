@@ -29,6 +29,7 @@ You can find a summary about Path Semantical Quality [here](./quality/summary.md
 
 ### Blog posts
 
+- [2022-03-10 Deliberate Existence](https://advancedresearch.github.io/blog/2022-03-10-deliberate-existence)
 - [2022-02-16 Let's Abandon The Cogito and Use Type Theory Instead](https://advancedresearch.github.io/blog/2022-02-16-lets-abandon-the-cogito-and-use-type-theory-instead)
 - [2022-02-14 The Domino Effect](https://advancedresearch.github.io/blog/2022-02-14-the-domino-effect)
 - [2021-12-30 Cognition](https://advancedresearch.github.io/blog/2021-12-30-cognition)
