@@ -131,7 +131,7 @@ imagine that this point in time is when people on Earth start to think about it.
 The galactic civilization is not something we have to travel to other solar systems to build.
 We can build it virtually, today, with current technology.
 
-When you travel to other solar systems, you do it to realize the ideas that have already been thought throught.
+When you travel to other solar systems, you do it to realize the ideas that have already been thought through.
 With other words, one does not just travel by coincidence to other solar systems, but "deliberately".
 
 The galactic civilization "exists deliberately" as a characteristic property of its being.
