@@ -137,3 +137,8 @@ With other words, one does not just travel by coincidence to other solar systems
 The galactic civilization "exists deliberately" as a characteristic property of its being.
 
 It is possible to learn from "deliberate existence" as an idea, socially and technologically.
+
+### Resources
+
+- [Continental philosophy](https://en.wikipedia.org/wiki/Continental_philosophy)
+- [Naive Zen Logic](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/naive-zen-logic.pdf)
