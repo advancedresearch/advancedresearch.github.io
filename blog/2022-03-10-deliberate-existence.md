@@ -47,7 +47,8 @@ it can get in the way of your path, since you are not entirely in control of you
 A lot of life is about these autonomous or semi-autonomous states of being,
 that flows from one place to another.
 
-![flowers flowing](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.gettyimages.com%2Fvideos%2Ftwo-flowers-floating-down-river-in-tahiti-video-id472550815%3Fs%3D640x640&f=1&nofb=1)
+![flowers flowing](https://upload.wikimedia.org/wikipedia/commons/f/f9/Nymphaea_alba.jpg)
+*[Image source](https://en.wikipedia.org/wiki/Aquatic_plant#/media/File:Nymphaea_alba.jpg)*
 
 When you realise that you are not in entirely in control,
 but you are moving on the waves of the river in your life,
