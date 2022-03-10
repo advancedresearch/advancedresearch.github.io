@@ -38,7 +38,7 @@ it takes place in an environment which is structured around my own higher sense 
 When we talk about "existence", we talk about this higher sense of being,
 where the particular activities or details of everyday life do not matter.
 
-Humans like to think about their existence and what other people think about.
+Humans like to think about their existence and what other people think about it.
 
 The problem is that when you have a picture in your head of what your existence ought to be like,
 for example from some way you view others and others view you,
