@@ -48,6 +48,7 @@ A lot of life is about these autonomous or semi-autonomous states of being,
 that flows from one place to another.
 
 ![flowers flowing](https://upload.wikimedia.org/wikipedia/commons/f/f9/Nymphaea_alba.jpg)
+
 *[Image source](https://en.wikipedia.org/wiki/Aquatic_plant#/media/File:Nymphaea_alba.jpg)*
 
 When you realise that you are not in entirely in control,
