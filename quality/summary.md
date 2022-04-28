@@ -98,4 +98,9 @@ PSQ extends PL (Classical Propositional Logic) with a `qubit` and `qual/q` opera
 
 You can find an implementation in the [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) library.
 
+List of theorems:
 
+| Name | Formula |
+| ------------ | ------------------------------------ |
+| Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
+| Qual-Seshatism-Sum | `(¬(a ~~ a) ⋁ ¬(b ~~ b)) => ¬(a ~~ b)` |
