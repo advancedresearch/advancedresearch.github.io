@@ -91,3 +91,11 @@ A homotopy limit of `a` is defined as:
 ```
 
 In Prop, one can use the `QId` trait to do homotopy limits.
+
+### PSQ - Path Semantical Quantum Propositional Logic
+
+PSQ extends PL (Classical Propositional Logic) with a `qubit` and `qual/q` operators.
+
+You can find an implementation in the [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) library.
+
+
