@@ -104,3 +104,5 @@ List of theorems:
 | ------------ | ------------------------------------ |
 | Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
 | Qual-Seshatism-Sum | `(¬(a ~~ a) ⋁ ¬(b ~~ b)) => ¬(a ~~ b)` |
+| Qubit-Excluded-Middle | `qubit(a) ⋁ ¬qubit(a)` |
+
