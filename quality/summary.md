@@ -106,3 +106,4 @@ List of theorems:
 | Qual-Seshatism-Sum | `(¬(a ~~ a) ⋁ ¬(b ~~ b)) => ¬(a ~~ b)` |
 | Qubit-Excluded-Middle | `qubit(a) ⋁ ¬qubit(a)` |
 | Qual-Symmetry | `(a ~~ b) => (b ~~ a)` |
+| Qual-Transitivity | `((a ~~ b) ⋀ (b ~~ c)) => (a ~~ c)` |
