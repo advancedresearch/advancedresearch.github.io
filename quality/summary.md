@@ -105,6 +105,7 @@ List of theorems:
 | Name | Formula |
 | ------------ | ------------------------------------ |
 | Qual-Definition | `(a ~~ b) == ((a == b) ⋀ qubit(a) ⋀ qubit(b))` |
+| Qual-Hom | `(a ~~ b) => hom_eq(2, a, b)` |
 | Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
 | Qual-Seshatism-Sum | `(¬(a ~~ a) ⋁ ¬(b ~~ b)) => ¬(a ~~ b)` |
 | Qual-Symmetry | `(a ~~ b) => (b ~~ a)` |
