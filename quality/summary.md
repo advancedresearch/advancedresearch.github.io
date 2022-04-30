@@ -104,6 +104,10 @@ List of theorems:
 
 | Name | Formula |
 | ------------ | ------------------------------------ |
+| Hom-0 | `hom_eq(0, a, b) == true` |
+| Hom-1 | `hom_eq(1, a, b) == (a == b)` |
+| Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (qubit(a) == qubit(b)))` |
+| Hom-Lim | `lim n -> ∞ { ¬hom_eq(n, a, b) }` |
 | Qual-Definition | `(a ~~ b) == ((a == b) ⋀ qubit(a) ⋀ qubit(b))` |
 | Qual-Hom | `(a ~~ b) => hom_eq(2, a, b)` |
 | Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
@@ -113,6 +117,3 @@ List of theorems:
 | Qual-Transport | `((a ~~ a) ⋀ hom_eq(2, a, b)) => (a ~~ b)` |
 | Qubit-Excluded-Middle | `qubit(a) ⋁ ¬qubit(a)` |
 | Qubit-Qual | `qubit(a) == (a ~~ a)` |
-| Hom-Zero | `hom_eq(0, a, b) == true` |
-| Hom-One | `hom_eq(1, a, b) == (a == b)` |
-| Hom-Two | `hom_eq(2, a, b) == ((a == b) ⋀ (qubit(a) == qubit(b)))` |
