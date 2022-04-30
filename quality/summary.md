@@ -116,4 +116,5 @@ List of theorems:
 | Qual-TransiTivity | `((a ~~ b) ⋀ (b ~~ c)) => (a ~~ c)` |
 | Qual-TransPort | `((a ~~ a) ⋀ hom_eq(2, a, b)) => (a ~~ b)` |
 | Qubit-Excluded-Middle | `qubit(a) ⋁ ¬qubit(a)` |
+| Qubit-Not | `qubit(¬a) == ¬qubit(a)` |
 | Qubit-Qual | `qubit(a) == (a ~~ a)` |
