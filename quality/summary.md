@@ -113,4 +113,4 @@ List of theorems:
 | Qubit-Qual | `qubit(a) == (a ~~ a)` |
 | Hom-Zero | `hom_eq(0, a, b) == true` |
 | Hom-One | `hom_eq(1, a, b) == (a == b)` |
-| Hom-Two | `hom_eq(2, a, b) == ((a == b) == (qubit(a) == qubit(b)))` |
+| Hom-Two | `hom_eq(2, a, b) == ((a == b) ⋀ (qubit(a) == qubit(b)))` |
