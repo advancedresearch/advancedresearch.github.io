@@ -111,3 +111,6 @@ List of theorems:
 | Qual-Transitivity | `((a ~~ b) ⋀ (b ~~ c)) => (a ~~ c)` |
 | Qubit-Excluded-Middle | `qubit(a) ⋁ ¬qubit(a)` |
 | Qubit-Qual | `qubit(a) == (a ~~ a)` |
+| Hom-Zero | `hom_eq(0, a, b) == true` |
+| Hom-One | `hom_eq(1, a, b) == (a == b)` |
+| Hom-Two | `hom_eq(2, a, b) == ((a == b) == (qubit(a) == qubit(b)))` |
