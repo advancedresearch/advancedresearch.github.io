@@ -108,6 +108,7 @@ List of theorems:
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
 | Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (qubit(a) == qubit(b)))` |
 | Hom-Lim | `lim n -> ∞ { ¬hom_eq(n, a, b) }` |
+| Hom-N | `hom_eq(n, a, b) == ∀ i n { qubit^i(a) == qubit^i(b) }` |
 | Hom-Reflexivity | `hom_eq(n, a, a)` |
 | Hom-Symmetry | `hom_eq(n, a, b) => hom_eq(n, b, a)` |
 | Hom-Transitivity | `hom_eq(n, a, b) ⋀ hom_eq(n, b, c) => hom_eq(n, a, c)` |
