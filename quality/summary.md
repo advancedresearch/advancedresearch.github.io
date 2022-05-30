@@ -113,6 +113,7 @@ List of theorems:
 | Hom-Reflexivity | `hom_eq(n, a, a)` |
 | Hom-Symmetry | `hom_eq(n, a, b) => hom_eq(n, b, a)` |
 | Hom-Transitivity | `hom_eq(n, a, b) ⋀ hom_eq(n, b, c) => hom_eq(n, a, c)` |
+| Hom-Xor | `hom_eq(2, a, b) == xor(a ~~ b, a ~¬~ b)` |
 | Qual-Definition | `(a ~~ b) == ((a == b) ⋀ qubit(a) ⋀ qubit(b))` |
 | Qual-Hom | `(a ~~ b) => hom_eq(2, a, b)` |
 | Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
