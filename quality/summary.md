@@ -94,36 +94,36 @@ In Prop, one can use the `QId` trait to do homotopy limits.
 
 ### PSQ - Path Semantical Quantum Propositional Logic
 
-PSQ extends PL (Classical Propositional Logic) with a `qubit` operator,
+PSQ extends PL (Classical Propositional Logic) with a `~` operator (called a "qubit"),
 which is used to define `~~` and `hom_eq`.
 
 You can find an implementation in the [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) library.
 
-Technically, one can use `~~` only, but the implementation is easier to understand in terms of the `qubit` operation.
+Technically, one can use `~~` only, but the implementation is easier to understand in terms of the `~` operation.
 
 List of theorems:
 
 | Name | Formula |
 | ------------ | ------------------------------------ |
-| Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬qubit(a) ⋀ ¬qubit(b))` |
+| Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬~a ⋀ ¬~b)` |
 | Hom-0 | `hom_eq(0, a, b) == true` |
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
-| Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (qubit(a) == qubit(b)))` |
+| Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (~a == ~b))` |
 | Hom-Lim | `lim n -> ∞ { ¬hom_eq(n, a, b) }` |
 | Hom-N | `hom_eq(n, a, b) == ∀ i n { qubit^i(a) == qubit^i(b) }` |
 | Hom-Reflexivity | `hom_eq(n, a, a)` |
 | Hom-Symmetry | `hom_eq(n, a, b) => hom_eq(n, b, a)` |
 | Hom-Transitivity | `hom_eq(n, a, b) ⋀ hom_eq(n, b, c) => hom_eq(n, a, c)` |
 | Hom-Xor | `hom_eq(2, a, b) == xor(a ~~ b, a ~¬~ b)` |
-| Qual-Definition | `(a ~~ b) == ((a == b) ⋀ qubit(a) ⋀ qubit(b))` |
+| Qual-Definition | `(a ~~ b) == ((a == b) ⋀ ~a ⋀ ~b)` |
 | Qual-Hom | `(a ~~ b) => hom_eq(2, a, b)` |
 | Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
 | Qual-Seshatism-Sum | `(¬(a ~~ a) ⋁ ¬(b ~~ b)) => ¬(a ~~ b)` |
 | Qual-Symmetry | `(a ~~ b) => (b ~~ a)` |
 | Qual-TransiTivity | `((a ~~ b) ⋀ (b ~~ c)) => (a ~~ c)` |
 | Qual-TransPort | `((a ~~ a) ⋀ hom_eq(2, a, b)) == (a ~~ b)` |
-| Qubit-Excluded-Middle | `qubit(a) ⋁ ¬qubit(a)` |
+| Qubit-Excluded-Middle | `~a ⋁ ¬~a` |
 | Qubit-0 |  `qubit^0(a) == a` |
-| Qubit-1 | `qubit^1(a) == qubit(a)` |
-| Qubit-Not | `qubit(¬a) == ¬qubit(a)` |
-| Qubit-Qual | `qubit(a) == (a ~~ a)` |
+| Qubit-1 | `qubit^1(a) == ~a` |
+| Qubit-Not | `~¬a == ¬~a` |
+| Qubit-Qual | `~a == (a ~~ a)` |
