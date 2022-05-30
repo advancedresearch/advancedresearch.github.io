@@ -105,6 +105,7 @@ List of theorems:
 
 | Name | Formula |
 | ------------ | ------------------------------------ |
+| Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬qubit(a) ⋀ ¬qubit(b))` |
 | Hom-0 | `hom_eq(0, a, b) == true` |
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
 | Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (qubit(a) == qubit(b)))` |
