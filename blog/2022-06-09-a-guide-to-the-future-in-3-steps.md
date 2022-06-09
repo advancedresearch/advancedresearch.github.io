@@ -146,7 +146,7 @@ then there will be people or agents already making a decision on that choice in 
 This problem is easy to predict, so we will have time to think about it using assistence of technology.
 It is urgent that we establish efforts to reason about this now,
 before humanity reaches a level of technology where colonization of other solar systems becomes possible.
-This is because it can take relative short amount of time from the technology is there,
+This is because it can take relatively short amount of time from the technology is there,
 to decisons having long term consequences are made.
 Perhaps you imagine colonization of another solar system as a process taking at least hundreds of years,
 which sounds a lot of time seen from the perspective a normal life span.
