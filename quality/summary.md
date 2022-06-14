@@ -111,7 +111,7 @@ List of theorems:
 | Contra-Qual-Definition | `(a ¬~~ b) == ((a == b) ⋀ ¬~a ⋀ ~b)` |
 | Contra-Qual-Contrapositive | `(a ¬~~ b) == (¬b ¬~~ ¬a)` |
 | Contra-Qual-Irreflexivity | `¬(a ¬~~ a)` |
-| Eq-Catuskoti | `(a == b) == ((a ~~ b) | (a ~¬~ b) | (a ¬~~ b) | (b ¬~~ a))` |
+| Eq-Catuskoti | `(a == b) == ((a ~~ b) ⋁ (a ~¬~ b) ⋁ (a ¬~~ b) ⋁ (b ¬~~ a))` |
 | Hom-0 | `hom_eq(0, a, b) == true` |
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
 | Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (~a == ~b))` |
