@@ -115,6 +115,7 @@ List of theorems:
 | Hom-0 | `hom_eq(0, a, b) == true` |
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
 | Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (~a == ~b))` |
+| Hom-2-Qual | `hom_eq(2, a, b) == ((a ~~ b) ⋁ (a ~¬~ b))` |
 | Hom-Lim | `lim n -> ∞ { ¬hom_eq(n, a, b) }` |
 | Hom-N | `hom_eq(n, a, b) == ∀ i n { qubit^i(a) == qubit^i(b) }` |
 | Hom-Reflexivity | `hom_eq(n, a, a)` |
