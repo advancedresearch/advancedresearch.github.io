@@ -106,9 +106,10 @@ List of theorems:
 | Name | Formula |
 | ------------ | ------------------------------------ |
 | Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬~a ⋀ ¬~b)` |
+| Contra-Qual-Asymmetry | `(a ¬~~ b) => ¬(b ¬~~ a)` |
 | Contra-Qual-Definition | `(a ¬~~ b) == ((a == b) ⋀ ¬~a ⋀ ~b)` |
 | Contra-Qual-Contrapositive | `(a ¬~~ b) == (¬b ¬~~ ¬a)` |
-| Contra-Qual-Asymmetry | `(a ¬~~ b) => ¬(b ¬~~ a)` |
+| Contra-Qual-Reflexivity | `¬(a ¬~~ a)` |
 | Hom-0 | `hom_eq(0, a, b) == true` |
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
 | Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (~a == ~b))` |
