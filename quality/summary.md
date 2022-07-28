@@ -106,7 +106,7 @@ List of theorems:
 | Name | Formula |
 | ------------ | ------------------------------------ |
 | Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬~a ⋀ ¬~b)` |
-| Cont-Def | `(a ~> b) == ((a => b) ⋀ (~a => ~b))` |
+| Cont-Definition | `(a ~> b) == ((a => b) ⋀ (~a => ~b))` |
 | Contra-Qual-Antisymmetry | `((a ¬~~ b) ⋀ (b ¬~~ a)) => (a == b)` |
 | Contra-Qual-Asymmetry | `(a ¬~~ b) => ¬(b ¬~~ a)` |
 | Contra-Qual-Definition | `(a ¬~~ b) == ((a == b) ⋀ ¬~a ⋀ ~b)` |
