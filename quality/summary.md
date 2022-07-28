@@ -106,6 +106,7 @@ List of theorems:
 | Name | Formula |
 | ------------ | ------------------------------------ |
 | Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬~a ⋀ ¬~b)` |
+| Cont-Def | `(a ~> b) == ((a => b) ⋀ (~a => ~b))` |
 | Contra-Qual-Antisymmetry | `((a ¬~~ b) ⋀ (b ¬~~ a)) => (a == b)` |
 | Contra-Qual-Asymmetry | `(a ¬~~ b) => ¬(b ¬~~ a)` |
 | Contra-Qual-Definition | `(a ¬~~ b) == ((a == b) ⋀ ¬~a ⋀ ~b)` |
@@ -122,7 +123,6 @@ List of theorems:
 | Hom-Symmetry | `hom_eq(n, a, b) => hom_eq(n, b, a)` |
 | Hom-Transitivity | `hom_eq(n, a, b) ⋀ hom_eq(n, b, c) => hom_eq(n, a, c)` |
 | Hom-Xor | `hom_eq(2, a, b) == xor(a ~~ b, a ~¬~ b)` |
-| Cont-Def | `(a ~> b) == ((a => b) ⋀ (~a => ~b))` |
 | Qual-Definition | `(a ~~ b) == ((a == b) ⋀ ~a ⋀ ~b)` |
 | Qual-Hom | `(a ~~ b) => hom_eq(2, a, b)` |
 | Qual-Platonism-Product | `(a ~~ b) => ((a ~~ a) ⋀ (b ~~ b))` |
