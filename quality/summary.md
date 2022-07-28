@@ -136,3 +136,26 @@ List of theorems:
 | Qubit-1 | `qubit^1(a) == ~a` |
 | Qubit-Not | `~¬a == ¬~a` |
 | Qubit-Qual | `~a == (a ~~ a)` |
+
+Translation from PSQ into Homotopy Type Theory:
+
+| PSQ | HoTT |
+| ------------ | ------------------------------------ |
+| `a` | `x : A` |
+| `~a` | `x : A` |
+| `a => b` | `f : A -> B` |
+| `a => ~a` | `(t, y) : ∃ x : A { A }` |
+| `a => ~b` | `(t, y) : ∃ x : A { B(x) }` |
+| `~a => ~b` | `f : ∏ x : A { ∃ y : B { Id(x, y) } }` |
+| `a ~> b` | `f : (A -> B, ∏ x : A { ∃ y : B { Id(x, y) } })` |
+| `a == a` | `refl{A} : Id(A, A)` |
+| `a == b` | `p : Id(A, B)` |
+| `a ~~ b` | `q : (Id(A, B), A, B)` |
+| `~a == ~b` | `f : ∏ x : A, y : B { Id(x, y) }` |
+| `hom_eq(2, a, b)` | `f : (Id(A, B), ∏ x : A, y : B { Id(x, y) })` |
+| `a ⋀ b` | `(A, B) : Type` |
+| `~a ⋀ ~b` | `x : (A, B)` |
+| `a ⋀ ~a` | `(A, x) : (Type, A)` |
+| `~a ⋀ ~~a` | `(B, x) : (A, B)` |
+| `a ⋁ b` | `A | B : Type` |
+| `~a ⋁ ~b` | `x : A | B` |
