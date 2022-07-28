@@ -157,5 +157,5 @@ Translation from PSQ into Homotopy Type Theory:
 | `~a ⋀ ~b` | `x : (A, B)` |
 | `a ⋀ ~a` | `(A, x) : (Type, A)` |
 | `~a ⋀ ~~a` | `(B, x) : (A, B)` |
-| `a ⋁ b` | `A | B : Type` |
-| `~a ⋁ ~b` | `x : A | B` |
+| `a ⋁ b` | `A \| B : Type` |
+| `~a ⋁ ~b` | `x : A \| B` |
