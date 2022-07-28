@@ -152,7 +152,7 @@ Translation from PSQ into Homotopy Type Theory:
 | `a == b` | `p : Id(A, B)` |
 | `a ~~ b` | `q : (Id(A, B), A, B)` |
 | `~a == ~b` | `f : ∏ x : A, y : B { Id(x, y) }` |
-| `hom_eq(2, a, b)` | `f : (Id(A, B), ∏ x : A, y : B { Id(x, y) })` |
+| `hom_eq(2, a, b)` | `f : (Id(A, B), ∏ x : A { ∃ y : B { Id(x, y) } }, ∏ y : B { ∃ x : A { Id(y, x) } })` |
 | `a ⋀ b` | `(A, B) : Type` |
 | `~a ⋀ ~b` | `x : (A, B)` |
 | `a ⋀ ~a` | `(A, x) : (Type, A)` |
