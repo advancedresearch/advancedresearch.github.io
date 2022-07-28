@@ -144,8 +144,8 @@ Translation from PSQ into Homotopy Type Theory:
 | `a` | `A : Type` |
 | `~a` | `x : A` |
 | `a => b` | `f : A -> B` |
-| `a => ~a` | `(t, y) : ∃ x : A { A }` |
-| `a => ~b` | `(t, y) : ∃ x : A { B(x) }` |
+| `a => ~a` | `(_, y) : ∃ x : A { A }` |
+| `a => ~b` | `(_, y) : ∃ x : A { B(x) }` |
 | `~a => ~b` | `f : ∏ x : A { ∃ y : B { Id(x, y) } }` |
 | `a ~> b` | `f : (A -> B, ∏ x : A { ∃ y : B { Id(x, y) } })` |
 | `a == a` | `refl{A} : Id(A, A)` |
