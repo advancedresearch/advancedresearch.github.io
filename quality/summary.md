@@ -141,26 +141,27 @@ Translation from PSQ into Homotopy Type Theory:
 
 | PSQ | HoTT |
 | ------------ | ------------------------------------ |
-| `a` | `A : Type` |
+| `a` | `x : isContr(A)` |
+| `¬a` | `x : isContr(A) -> ⊥` |
 | `~a` | `x : A` |
-| `a => b` | `f : A -> B` |
-| `a => ~a` | `(_, y) : ∃ x : A { A }` |
-| `a => ~b` | `(_, y) : ∃ x : A { B(x) }` |
-| `~a ⋀ (a => ~b)` | `(t, y) : ∃ x : A { B(x) }` |
-| `~a => a` | `f : ∃ x : A { ∏ y : A { Id(x, y) } }` |
-| `~a => b` | `f : ∃ x : A { ∏ y : B(x) { Id(x, y) } }` |
-| `~a => ~b` | `f : ∏ x : A { ∃ y : B { Id(x, y) } }` |
-| `a ~> b` | `f : (A -> B, ∏ x : A { ∃ y : B { Id(x, y) } })` |
+| `a => b` | `f : isContr(A) -> isContr(B)` |
+| `a => ~a` | `f : isContr(A) -> A` |
+| `a => ~b` | `f : isContr(A) -> B` |
+| `~a ⋀ (a => ~b)` | `(x, f) : (A, isContr(A) -> B)` |
+| `~a => a` | `f : A -> isContr(A)` |
+| `~a => b` | `f : A -> isContr(B)` |
+| `~a => ~b` | `f : A -> B` |
+| `a ~> b` | `f : (isContr(A) -> isContr(B), A -> B)` |
 | `a == a` | `refl{A} : Id(A, A)` |
 | `a == b` | `p : Id(A, B)` |
 | `a ~~ b` | `q : (Id(A, B), A, B)` |
-| `~a == ~b` | `f : (∏ x : A { ∃ y : B { Id(x, y) } }, ∏ y : B { ∃ x : A { Id(y, x) } })` |
-| `hom_eq(2, a, b)` | `f : (Id(A, B), ∏ x : A { ∃ y : B { Id(x, y) } }, ∏ y : B { ∃ x : A { Id(y, x) } })` |
-| `a ⋀ b` | `(A, B) : Type` |
-| `~a ⋀ ~b` | `x : (A, B)` |
-| `a ⋀ ~a` | `(A, x) : (Type, A)` |
+| `~a == ~b` | `f : (A -> B, B -> A)` |
+| `hom_eq(2, a, b)` | `f : (Id(A, B), A -> B, B -> A)` |
+| `a ⋀ b` | `(x, y) : (isContr(A), isContr(B))` |
+| `~a ⋀ ~b` | `(x, y) : (A, B)` |
+| `a ⋀ ~a` | `(x, y) : (isContr(A), A)` |
 | `~a ⋀ ~~a` | `(B, x) : (A, B)` |
-| `a ⋁ b` | `A \| B : Type` |
+| `a ⋁ b` | `x : isContr(A \| B)` |
 | `~a ⋁ ~b` | `x : A \| B` |
 | `false` | `x : ⊥` |
 | `true` | `x : ⊤` |
