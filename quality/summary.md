@@ -141,7 +141,7 @@ Translation from PSQ into Homotopy Type Theory:
 
 | PSQ | HoTT |
 | ------------ | ------------------------------------ |
-| `a` | `x : A` |
+| `a` | `A : Type` |
 | `~a` | `x : A` |
 | `a => b` | `f : A -> B` |
 | `a => ~a` | `(t, y) : ∃ x : A { A }` |
