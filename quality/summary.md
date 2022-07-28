@@ -162,3 +162,5 @@ Translation from PSQ into Homotopy Type Theory:
 | `~a ⋁ ~b` | `x : A \| B` |
 | `false` | `x : ⊥` |
 | `true` | `x : ⊤` |
+| `¬~a` | `x : A -> ⊥` |
+| `~¬a` | `x : A -> ⊥` |
