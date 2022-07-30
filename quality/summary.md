@@ -199,3 +199,18 @@ Wherever in `A` is locally contractible, then `A` has the same local topology as
 Wherever in `B` is locally contractible, then `B` has the same local topology as a hypersphere.
 When `A`'s contractibility is equal to `B`'s contractibility, they both have same topology by some shape.
 This shape can be constructed by hyperspheres, using a glue operation.
+
+#### Higher Homotopy Levels and Type Universe Polymorphism
+
+In PSQ, `~~a` is tricky to imagine as a type in HoTT.
+However, one can use `~a ⋀ ~~a` translated as `(B, x) : (A, B)` to help the intuition.
+To make `B : A` and `x : B`, it requires `A` to have a higher type universe than `Type(0)`.
+This means `~~a` naturally describes `A` as `Type(1)` or higher.
+Since any two proofs of `Type(0)` are propositionally equal (Homotopy Level 1),
+it means that `Type(1)` has the structure of sets (Homotopy Level 2).
+
+Similarly, `~~~a` naturally describes `A` as `Type(2)` or higher.
+
+Since PSQ treats type universes this way, it corresponds naturally to type universe polymorphism in HoTT.
+
+To turn on type universe polymorphism in Coq, use the flag `Set Universe Polymorphism.`.
