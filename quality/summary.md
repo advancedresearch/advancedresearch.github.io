@@ -186,3 +186,16 @@ In HoTT this is the type `isContr(A) -> isContr(B)`.
 
 In PSQ `~a => ~b` projects points in space `A` to points in space `B`.
 In HoTT this is the type `A -> B`.
+
+#### Propositional Equality, Id and the Pointcaré conjecture
+
+In PSQ, `(a => b) ⋀ (b => a)` is equal to `a == b`.
+In HoTT this means that `(isContr(A) -> isContr(B), isContr(B) -> isContr(A))` equals `Id(A, B)`.
+When arbitrary small loops in space `A` are projected to `B` and vice versa,
+it follows that `A` and `B` are topologically equivalent up to homotopy.
+
+Another way to think about this is by using the [Pointcaré conjecture](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture).
+Wherever in `A` is locally contractible, then `A` has the same local topology as a hypersphere.
+Wherever in `B` is locally contractible, then `B` has the same local topology as a hypersphere.
+When `A`'s contractibility is equal to `B`'s contractibility, they both have same topology by some shape.
+This shape can be constructed by hyperspheres, using a glue operation.
