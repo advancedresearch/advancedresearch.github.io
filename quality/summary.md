@@ -167,3 +167,10 @@ Translation from PSQ into Homotopy Type Theory:
 | `true` | `x : ⊤` |
 | `¬~a` | `x : A -> ⊥` |
 | `~¬a` | `x : A -> ⊥` |
+
+#### Homotopy Level 0
+
+In PSQ `~~a` is to `~a` what `~a` is to `a`.
+However, there is no way to go from `a` to something else.
+The idea that there is no way to go from `a` to something else,
+makes it natural to use `a` as Homotopy Level 0, or `isContr(A)` in HoTT.
