@@ -174,3 +174,15 @@ In PSQ `~~a` is to `~a` what `~a` is to `a`.
 However, there is no way to go from `a` to something else.
 The idea that there is no way to go from `a` to something else,
 makes it natural to use `a` as Homotopy Level 0, or `isContr(A)` in HoTT.
+
+#### Continuous Maps
+
+In PSQ a continuous map is written `a ~> b`, which connects a space `a` to a space `b`.
+By Cont-Definition, `a ~> b` is equal to `(a => b) ⋀ (~a => ~b)`.
+In HoTT `a ~> b` is a type `(isContr(A) -> isContr(B), A -> B)`.
+
+In PSQ `a => b` projects arbitrary small loops in a space `A` to arbitrary small loops in space `B`.
+In HoTT this is the type `isContr(A) -> isContr(B)`.
+
+In PSQ `~a => ~b` projects points in space `A` to points in space `B`.
+In HoTT this is the type `A -> B`.
