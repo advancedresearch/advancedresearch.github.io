@@ -137,7 +137,7 @@ List of theorems:
 | Qubit-Not | `~¬a == ¬~a` |
 | Qubit-Qual | `~a == (a ~~ a)` |
 
-Translation from PSQ into Homotopy Type Theory:
+#### Translation from PSQ into Homotopy Type Theory
 
 | PSQ | HoTT |
 | ------------ | ------------------------------------ |
