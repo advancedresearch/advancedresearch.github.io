@@ -107,3 +107,18 @@ In practice these changes are OK.
 
 When your house gets flooded or you lose some in your family from the hundreds of consequences of Climate Change,
 you will experience a situation that is much more inconvenient than "I feel uncomfortable thinking about it".
+
+### What systemic changes are needed
+
+In order to avoid the worst possible thing to happen, there are at least two things that are required:
+
+1. Carbon capture must grow exponentially
+2. Global anthropogenic emissions must decrease drastically
+
+These two processes both need to happen in parallel.
+
+It is not sufficient to decrease emissions drastically.
+It is also not sufficient to grow carbon capture exponentially.
+
+The number of inference steps requires to make these two processes happen,
+is large, so it is a non-trivial task just to reason properly.
