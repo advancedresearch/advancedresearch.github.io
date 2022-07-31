@@ -212,6 +212,17 @@ The way the economy functions today, is to gather wealth to a few lucky individu
 This way is sub-optimal, which can be fixed (and this is attempted manually today) by lowering the Gini coefficient.
 The Gini solver works like a stable gradient that optimises distributed rational decision making.
 
+### Climate Change Mitigation
+
+[Wikipedia article](https://en.wikipedia.org/wiki/Climate_change_mitigation)
+
+- Investment in [wind power](https://en.wikipedia.org/wiki/Wind_power)
+- Investment in [solar photovoltaics](https://en.wikipedia.org/wiki/Photovoltaics)
+- Investment in [energy storage](https://en.wikipedia.org/wiki/Energy_storage)
+- Investment in improved [electrical grids](https://en.wikipedia.org/wiki/Electrical_grid)
+- Reduction in dairy products (due to Methane emissions)
+- Reduction in meat products (due to Methane emissions)
+
 ### Links
 
 - [Arctic Sea Ice News & Analysis](https://nsidc.org/arcticseaicenews/)
