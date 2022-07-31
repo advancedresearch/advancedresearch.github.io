@@ -85,3 +85,21 @@ Greedy bias is not an emotion, but a sub-optimal way of solving problems by firs
 increases utility in the short term, but needs redoing or undoing in the long term to maximize utility.
 
 In practice, there is no person on Earth that benefits from lack of Climate Action.
+
+### The plan of governments is to make the worst possible thing that can happen, becoming a reality
+
+When people reason about governments today, they tend to weight official intentionality above internal intentionality.
+The reality is that the internal intentionality of governments is to continue activities and subsidies
+that will make the worst possible thing that can happen, becoming a reality.
+
+### Some changes seem drastic, but in practice they are OK
+
+To become a vegan today, or eating less meat and consuming less diary products,
+is seemingly drastic lifestyle change for somebody who does not like changes.
+
+Furthermore, if policies were put in place to e.g. forbid over-consumption of meat,
+it would provoke emotions of having freedom restricted.
+
+However, changing lifestyle is not the worst possible thing that can happen.
+In practice these changes are OK.
+
