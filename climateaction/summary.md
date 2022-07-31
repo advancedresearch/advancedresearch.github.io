@@ -98,7 +98,7 @@ To become a vegan today, or eating less meat and consuming less diary products,
 is seemingly drastic lifestyle change for somebody who does not like changes.
 
 Furthermore, if policies were put in place to e.g. forbid over-consumption of meat,
-it would provoke emotions of having freedom restricted.
+then it would provoke emotions of having freedom restricted.
 
 However, changing lifestyle is not the worst possible thing that can happen.
 In practice these changes are OK.
