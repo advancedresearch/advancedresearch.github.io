@@ -181,3 +181,19 @@ What is different about Climate Change is that there is a global tribe which cau
 After the collapse of this global tribe, there might be no way for civilizations to reoccur,
 and humans die out. However, the game equilibrium of violent tribes is still in place, at least temporarily,
 regardless of the conditions for civilization.
+
+### How concerned should I be about my lifestyle in absence of Climate Action?
+
+Your prospects for a lifestyle, in the absence of Climate Action, is limited to the nomadic choice belonging to a violent tribe.
+This means, owning very few things, going vegan (as meat will be difficult to access)
+and experiencing a lot of unpleasant things that you would otherwise like to avoid.
+In that lifestyle, you will probably die from a preventable or curable desease today,
+with an average lifetime exptancy around 40 years.
+
+With other words, your lifestyle will be significantly worse and more drastically changed,
+than if you support Climate Action.
+Staying in a bunker will not work in the long run.
+
+This is one of the best case scenarios compared to the worst possible scenario, which is simply that everybody dies.
+I would be very concerned, if I were you.
+
