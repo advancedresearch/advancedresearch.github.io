@@ -42,3 +42,16 @@ but it takes a lot of inference steps to figure out why.
 Instead of starting with "me" as the single entity of concern,
 it is better for reasoning about Climate Action to expand the "virtual sensory apperatus" to more entities.
 These entities are spread around the Earth and in different environments to cover the overall health of ecosystems.
+
+### Who are the bad guys?
+
+There are no "bad guys", there are only "bad languages".
+
+Human brains can reason very abstractly about their environment and societies,
+which allows us to perform complex tasks.
+However, the downside of reasoning abstractly is complexity of language,
+which forces us to take subjective perspectives in order to for reasoning to be efficient.
+Some of these subjective perspectives do not consider the well being of fish, whales, animals and humans.
+
+Thus, it is the mechanism of subjective abstract reasoning that kills life.
+The power of humans have to perform complex tasks also destroys the environments that support life.
