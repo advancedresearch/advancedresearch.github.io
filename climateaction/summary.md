@@ -72,3 +72,16 @@ Climate change deniers have always and will always be wrong about the basic fact
 However, notice that the way they are wrong is because the lack of outside-the-box thinking around Climate Action.
 The language of climate change denial is destructive, not necessarily because facts are wrong,
 but because it forces a way of thinking that is "undeliberate".
+
+### Why Earth gets destroyed
+
+The Earth gets destroyed to increase the profit margins about 5-10% in short term,
+at the cost of 50-100% profit margins in the long term.
+
+With other words, the destruction is not due to rational decision making,
+but due to greedy bias.
+
+Greedy bias is not an emotion, but a sub-optimal way of solving problems by first taking drastic actions that
+increases utility in the short term, but needs redoing or undoing in the long term to maximize utility.
+
+In practice, there is no person on Earth that benefits from lack of Climate Action.
