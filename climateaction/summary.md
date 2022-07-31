@@ -2,3 +2,31 @@
 
 Climate Action is a form of [deliberate existence](https://advancedresearch.github.io/blog/2022-03-10-deliberate-existence) to address [Climate Change](https://en.wikipedia.org/wiki/Climate_change).
 
+### Should I do something?
+
+Before you decide anything, you should collect and organize information that might be helpful for you to make a decision.
+
+Humans often have a big Ego, which is formed by genes and culture.
+In reality, most of the stuff going on in the world is not about us, still our lives are influenced by it.
+This means that in order to know whether one can do something useful or not,
+one has to reach into the "unknown" that goes past direct relevance for your own life in the moment.
+If you can extend yourself in this way and think about the world this way, then it is possible for you to reason about Climate Action.
+Otherwise, your best course of action is to rely on the direct advice by climate scientists.
+
+Climate Action is best considered as a kind of outside-the-box way of thinking,
+because our biases are not usually the best tool to support action.
+
+### What is the worst possible thing that can happen?
+
+To reason about Climate Action, one must understand the risks.
+The risks are bounded by the worst possible thing that can happen.
+
+The worst possible thing that can happen, is the following:
+
+1. All the fish and whales in the ocean die
+2. All the wild animals on land die
+3. All the humans die
+
+There are many other predictions that might come true, but that is the gist of it.
+While there are greater systemic risks that is part of foundation of life,
+these 3 risks are easy to understand, which in turn makes them easy to reason about.
