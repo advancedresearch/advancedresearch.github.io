@@ -211,3 +211,7 @@ Second, we have to use [Gini solvers](https://github.com/advancedresearch/mix_ec
 The way the economy functions today, is to gather wealth to a few lucky individuals while freezing out the majority from the economy.
 This way is sub-optimal, which can be fixed (and this is attempted manually today) by lowering the Gini coefficient.
 The Gini solver works like a stable gradient that optimises distributed rational decision making.
+
+### Links
+
+- [Arctic Sea Ice News & Analysis](https://nsidc.org/arcticseaicenews/)
