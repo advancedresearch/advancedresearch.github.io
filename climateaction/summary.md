@@ -50,7 +50,7 @@ There are no "bad guys", there are only "bad languages".
 Human brains can reason very abstractly about their environment and societies,
 which allows us to perform complex tasks.
 However, the downside of reasoning abstractly is complexity of language,
-which forces us to take subjective perspectives in order to for reasoning to be efficient.
+which forces us to take subjective perspectives in order for reasoning to be efficient.
 Some of these subjective perspectives do not consider the well being of fish, whales, animals and humans.
 
 Thus, it is the mechanism of subjective abstract reasoning that kills life.
@@ -188,7 +188,7 @@ Your prospects for a lifestyle, in the absence of Climate Action, is limited to 
 This means, owning very few things, going vegan (as meat will be difficult to access)
 and experiencing a lot of unpleasant things that you would otherwise like to avoid.
 In that lifestyle, you will probably die from a preventable or curable desease today,
-with an average lifetime exptancy around 40 years.
+with an average lifetime expectancy around 40 years.
 
 With other words, your lifestyle will be significantly worse and more drastically changed,
 than if you support Climate Action.
