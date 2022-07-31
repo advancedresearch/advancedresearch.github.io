@@ -55,3 +55,20 @@ Some of these subjective perspectives do not consider the well being of fish, wh
 
 Thus, it is the mechanism of subjective abstract reasoning that kills life.
 The power of humans have to perform complex tasks also destroys the environments that support life.
+
+### Does the CO2 levels in the athmosphere actually matter?
+
+Imagine a hypothetical world where it was not the CO2 levels in the athmosphere that caused fish, whales, animals and humans to die.
+Yet, in this hypothetical world, something else is causing death.
+
+The CO2 levels is just one measurement out of many.
+CO2 is not the only greenhouse gas, nor is the greenhouse effect the only destructive consequence of Climate Change.
+
+Climate change deniers talk about Climate Change in a way where error of reasoning happens around causation of concrete measurements,
+like CO2 levels. In this language, anything is used to justify passivity of Climate Action.
+The conclusion is the same and predictable, regardless of whether there are other good reasons to commit to policies that aligns with Climate Action.
+
+Climate change deniers have always and will always be wrong about the basic facts of climate science.
+However, notice that the way they are wrong is because the lack of outside-the-box thinking around Climate Action.
+The language of climate change denial is destructive, not necessarily because facts are wrong,
+but because it forces a way of thinking that is "undeliberate".
