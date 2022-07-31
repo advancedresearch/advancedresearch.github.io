@@ -197,3 +197,17 @@ Staying in a bunker will not work in the long run.
 This is one of the best case scenarios compared to the worst possible scenario, which is simply that everybody dies.
 I would be very concerned, if I were you.
 
+### What can human civilization do to avoid collapse?
+
+First, we have to stop doing stuff that kills us.
+This means, investing in automated theorem proving and rational decision making as basis for policies.
+
+With other words, all decisions concerning civilization must be kind of like an open source project,
+where people can learn and iterate in collaboration.
+The power to change laws should not be put on single institutions like a supreme court,
+because a small group of people making decisions is not guarantee of safety or distribution of resources.
+
+Second, we have to use [Gini solvers](https://github.com/advancedresearch/mix_economy) to automate economic distribution.
+The way the economy functions today, is to gather wealth to a few lucky individuals while freezing out the majority from the economy.
+This way is sub-optimal, which can be fixed (and this is attempted manually today) by lowering the Gini coefficient.
+The Gini solver works like a stable gradient that optimises distributed rational decision making.
