@@ -136,3 +136,16 @@ The problem is how to make humanity successfully reproduce.
 Without successful reproduction, humanity will die out.
 Whether you can survive e.g. 20 years in a doomsday bunker is of little relevance,
 except as a way to explore your Ego and testing out a Hollywood narrative in your life.
+
+### Learn from nomadic lifestyles
+
+Through most of humanity's existence, we lived as nomads.
+Nomads move from place to place to sustain their communities due to changing seasons and accessbility to food.
+All the things that a nomad owned, had to be moved using scarce energy.
+As a result, nomads only kept a few things which they valued highly.
+
+In the modern lifestyle of humans, we settle down in a single place and bring
+the resources for survival there. This requires huge amounts of energy and is often vasteful.
+
+Nomadic lifestyle is useful to learn and reason about because it provides a perspective
+that is outside-the-box thinking, which is necessary to reason properly about Climate Action.
