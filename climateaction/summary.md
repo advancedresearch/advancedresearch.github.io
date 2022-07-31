@@ -103,3 +103,7 @@ then it would provoke emotions of having freedom restricted.
 However, changing lifestyle is not the worst possible thing that can happen.
 In practice these changes are OK.
 
+### Inconvenience is not an argument against Climate Action
+
+When your house gets flooded or you lose some in your family from the hundreds of consequences of Climate Change,
+you will experience a situation that is much more inconvenient than "I feel uncomfortable thinking about it".
