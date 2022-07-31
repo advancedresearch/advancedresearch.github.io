@@ -225,6 +225,23 @@ The Gini solver works like a stable gradient that optimises distributed rational
 - Reduction in [fossil fuel subsidies](https://en.wikipedia.org/wiki/Fossil_fuel_subsidies)
 - [Fossil fuel divestment](https://en.wikipedia.org/wiki/Fossil_fuel_divestment)
 
+### List of problems related to Climate Change
+
+- Collapse of the Gulf stream
+- Coral bleaching
+- Dying forests
+- Floods
+- Forest fires
+- Heatwaves
+- Lack of fresh water
+- Loss of biodiversity
+- Melting cryosphere
+- Ocean acidification
+- Peak oil
+- Plastic pollution
+- Rising oceans
+- Thawing permafrost
+
 ### Links
 
 - [Arctic Sea Ice News & Analysis](https://nsidc.org/arcticseaicenews/)
