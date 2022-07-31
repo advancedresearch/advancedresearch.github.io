@@ -30,3 +30,15 @@ The worst possible thing that can happen, is the following:
 There are many other predictions that might come true, but that is the gist of it.
 While there are greater systemic risks that is part of foundation of life,
 these 3 risks are easy to understand, which in turn makes them easy to reason about.
+
+### I don't care about whales dying, why is that part of the worst possible thing that can happen?
+
+The whales do not care about you dying either.
+
+The point is to try reach beyond your Ego and think about "the worst possible thing that can happen"
+as an outside-the-box thing, which is not directly relevant for your life.
+Anything that makes whales die is likely to also influence your own life,
+but it takes a lot of inference steps to figure out why.
+Instead of starting with "me" as the single entity of concern,
+it is better for reasoning about Climate Action to expand the "virtual sensory apperatus" to more entities.
+These entities are spread around the Earth and in different environments to cover the overall health of ecosystems.
