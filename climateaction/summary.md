@@ -222,6 +222,8 @@ The Gini solver works like a stable gradient that optimises distributed rational
 - Investment in improved [electrical grids](https://en.wikipedia.org/wiki/Electrical_grid)
 - Reduction in dairy products (due to Methane emissions)
 - Reduction in meat products (due to Methane emissions)
+- Reduction in [fossil fuel subsidies](https://en.wikipedia.org/wiki/Fossil_fuel_subsidies)
+- [Fossil fuel divestment](https://en.wikipedia.org/wiki/Fossil_fuel_divestment)
 
 ### Links
 
