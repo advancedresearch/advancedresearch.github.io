@@ -149,3 +149,14 @@ the resources for survival there. This requires huge amounts of energy and is of
 
 Nomadic lifestyle is useful to learn and reason about because it provides a perspective
 that is outside-the-box thinking, which is necessary to reason properly about Climate Action.
+
+### The Earth will not likely bounce back soon from massive death of humans
+
+The reason exponential growth in carbon capture is necessary for system change,
+is due to the overshoot of human activity and consumption.
+This means, if most humans died in 20-30 years and we lost the capability to grow carbon capture,
+then the climate would continue warming for thousand years from existing emissions.
+
+It means, if you were able to survive 20 years in a doomsday bunker and then left it,
+you would face the same transition necessary into a nomadic lifestyle to support human reproduction.
+Therefore, an early transition into nomadic lifestyle will more likely increase the probability of avoiding the worst possible thing from happening.
