@@ -228,5 +228,6 @@ The Gini solver works like a stable gradient that optimises distributed rational
 ### Links
 
 - [Arctic Sea Ice News & Analysis](https://nsidc.org/arcticseaicenews/)
+- [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/)
 - [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement)
 - [United Nations Framework Convention on Climate Change (UNNFCCC)](https://unfccc.int/)
