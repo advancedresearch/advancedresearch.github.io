@@ -160,3 +160,24 @@ then the climate would continue warming for thousand years from existing emissio
 It means, if you were able to survive 20 years in a doomsday bunker and then left it,
 you would face the same transition necessary into a nomadic lifestyle to support human reproduction.
 Therefore, an early transition into nomadic lifestyle will more likely increase the probability of avoiding the worst possible thing from happening.
+
+### The game equilibrium of violent tribes in collapse of civilization
+
+Civilization is a fragile thing, which has been developed and collapsed multiple times in history.
+When civilization collapses, people are forced to gang up in order to be safer of violence and to access resources.
+
+A single person with resources can not protect them against a violent tribe.
+This is why violent tribes develop under collapse: The motivation of accessing resources and distribute them internally.
+
+Over time, larger tribes attack smaller tribes when resources become scarcer.
+As the smaller tribes get eliminated or they join up in larger tribes,
+in the end there is often only a single tribe within a large area.
+This single tribe is what becomes the seed for a new civilization.
+
+Civilizations increases in complexity until its power to influence the environment leads to its own destruction.
+More often than not, this is the typical development.
+
+What is different about Climate Change is that there is a global tribe which causes total destruction of Earth.
+After the collapse of this global tribe, there might be no way for civilizations to reoccur,
+and humans die out. However, the game equilibrium of violent tribes is still in place, at least temporarily,
+regardless of the conditions for civilization.
