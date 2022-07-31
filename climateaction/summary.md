@@ -122,3 +122,17 @@ It is also not sufficient to grow carbon capture exponentially.
 
 The number of inference steps requires to make these two processes happen,
 is large, so it is a non-trivial task just to reason properly.
+
+### Surviving doomsday-scenarios is not a good strategy
+
+Surviving doomsday-scenarios is a common theme for Hollywood movies,
+but is not a good strategy in reality.
+The modern lifestyle of humans is so complex that it requires task specialization and vast logistics to work.
+In practice, a such lifestyle can not be maintained indefinitely in any doomsday bunker.
+
+The problem is not about survival in the short term.
+The problem is how to make humanity successfully reproduce.
+
+Without successful reproduction, humanity will die out.
+Whether you can survive e.g. 20 years in a doomsday bunker is of little relevance,
+except as a way to explore your Ego and testing out a Hollywood narrative in your life.
