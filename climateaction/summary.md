@@ -233,6 +233,7 @@ The Gini solver works like a stable gradient that optimises distributed rational
 - Floods
 - Forest fires
 - Heatwaves
+- Insect populations decline
 - Lack of fresh water
 - Loss of biodiversity
 - Melting cryosphere
