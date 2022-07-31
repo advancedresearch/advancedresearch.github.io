@@ -238,6 +238,7 @@ The Gini solver works like a stable gradient that optimises distributed rational
 - Loss of biodiversity
 - Melting cryosphere
 - Ocean acidification
+- Destruction of ozone layer due to wet stratosphere
 - Peak oil
 - Plastic pollution
 - Rising oceans
