@@ -227,6 +227,7 @@ The Gini solver works like a stable gradient that optimises distributed rational
 
 ### List of problems related to Climate Change
 
+- Abrupt loss of stratocumulus cloud decks
 - Collapse of the Gulf stream
 - Coral bleaching
 - Dying forests
