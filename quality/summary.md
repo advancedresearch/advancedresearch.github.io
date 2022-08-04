@@ -214,3 +214,11 @@ Similarly, `~~~a` naturally describes `A` as `Type(2)` or higher.
 Since PSQ treats type universes this way, it corresponds naturally to type universe polymorphism in HoTT.
 
 To turn on type universe polymorphism in Coq, use the flag `Set Universe Polymorphism.`.
+
+### PSQ is an Outside Theory of Mathematics
+
+It is impossible to build a complete model of `~` with within PSQ.
+However, it is possible to build a model up to some homotopy level.
+
+This means, that PSQ is Outside theory of mathematics, in the sense of [Avatar Schema Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-schema-theory).
+The reason is that PSQ contains a symbol, which is `~`, that does not refer to the theory of PSQ.
