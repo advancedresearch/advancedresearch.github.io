@@ -1,6 +1,8 @@
 # advancedresearch.github.io
 The website for the AdvancedResearch community
 
+![logo](./images/001.png)
+
 [Join us on Discord!](https://discord.gg/JkrhJJRBR2)
 
 AdvancedResearch is an open source organization dedicated to make conceptual breakthroughs in system thinking.
