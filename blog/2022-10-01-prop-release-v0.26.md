@@ -95,8 +95,10 @@ then it should be possible to write that program using a function pointer `fn(A)
 
 ### Relations to Sequent Calculus
 
-In [Sequent Calculus](https://en.wikipedia.org/wiki/Sequent_calculus), it is common to `Γ` and `⊢` to express that something is provable in a certain context.
+In [Sequent Calculus](https://en.wikipedia.org/wiki/Sequent_calculus), it is common to use `Γ` and `⊢` to express that something is provable in a certain context.
 The `⊢` operator might be thought of as a left-to-right version of the `^` operator.
+
+For example, `Γ ⊢ a` can be translated as `a^Γ`. Or, `Γ, b ⊢ a` can be translated as `a^(Γ ⋀ b)`.
 
 However, Sequent Calculus does not have the same HOOO axioms, which is new for Exponential Propositions in Propositional Logic.
 
