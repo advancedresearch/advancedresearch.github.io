@@ -6,7 +6,7 @@ by Sven Nilsen, 2022
 I want to explain a little about this release,
 as it reaches a new milestone in the research on foundation of [Path Semantics](https://github.com/advancedresearch/path_semantics).
 
-This version of Prop adds Exponential Propositions (HOOO),
+This version of Prop adds Exponential Propositions (using semantics of [HOOO](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#higher-order-operator-overloading)),
 which is formalized as the following eight axioms:
 
 - `a^b => (a^b)^c`
