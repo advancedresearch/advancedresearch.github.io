@@ -77,3 +77,26 @@ Are there any missing axiom such that not all theorems in these levels are prova
 ### Are you sure these axioms are consistent?
 
 Nope! Do not use them if you do not want to take the risk.
+
+There have been no inconsistency detected so far.
+
+I also wrote a [solver script](https://github.com/advancedresearch/prop/blob/main/assets/rec.dyon) that extracted out the functional depencies and checked the proofs for circular reasoning.
+
+### How Rust's Type System Helped Developing the Theory
+
+In Rust, a function pointer `fn(A) -> B` can not capture variables from the environment.
+This constraint matches the semantics of Exponential Propositions perfectly.
+
+With other words, the Exponential Propositions are expressions of which programs can be written
+in a stricter sense than general lambdas/closures.
+The HOOO axioms makes it possible to reason about these programs without having a direct construction.
+
+If one can prove that some program is constructible from the axioms,
+then it should be possible to write that program using a function pointer `fn(A) -> B`.
+
+### Relations to Sequent Calculus
+
+In [Sequent Calculus](https://en.wikipedia.org/wiki/Sequent_calculus), it is common to `Γ` and `⊢` to express that something is provable in a certain context.
+The `⊢` operator might be thought of as a left-to-right version of the `^` operator.
+
+However, Sequent Calculus does not have the same HOOO axioms, which is new for Exponential Propositions in Propositional Logic.
