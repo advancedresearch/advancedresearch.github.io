@@ -15,7 +15,6 @@ which is formalized as the following eight axioms:
 - `(a^b)^a`
 - `(a^⊤ ⋁ ⊥^a) ⋁ ⊥^(a^⊤ ⋁ ⊥^a)`
 - `(⊥^(a == b) ∧ ⊥^(b == c)) => (a == c)^⊤`
-- `(¬a)^b == ¬(a^b)`
 - `(a □ b)^c == (a^c □ b^c)`
 - `c^(a □ b) == (c^a □[¬] c^b)`
 
