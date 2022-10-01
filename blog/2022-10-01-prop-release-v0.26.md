@@ -25,8 +25,8 @@ The expression `□[¬]` is the dual logical operator by the [symmetric normal p
 
 In addition there are two new axioms for Path Semantics:
 
-- `(a == b) & ¬(a^⊤ ⋁ ⊥^a) => (a ~~ b)`
-- `~a ∧ (a == b)^⊤  =>  ~b`
+- `(a == b) ⋀ ¬(a^⊤ ⋁ ⊥^a) => (a ~~ b)`
+- `~a ⋀ (a == b)^⊤  =>  ~b`
 
 OK, so why is this a big deal?
 
