@@ -21,7 +21,7 @@ which is formalized as the following eight axioms:
 
 Here, `□` means any binary logical operator (and, or, eq, imply).
 There are 16 such operations in total, but only 4 are implemented since the rest can be derived.
-The expression `□[¬]` is the dual logical operator by the [symmetric normal path](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/normal-paths.pdf) by `¬`.
+The expression `□[¬]` is the dual logical operator by the [symmetric normal path](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/normal-paths.pdf) by `¬`. These are the operators you can derive if you give the same equational form as [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan's_laws).
 
 In addition there are two new axioms for Path Semantics:
 
