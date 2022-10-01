@@ -100,3 +100,8 @@ In [Sequent Calculus](https://en.wikipedia.org/wiki/Sequent_calculus), it is com
 The `⊢` operator might be thought of as a left-to-right version of the `^` operator.
 
 However, Sequent Calculus does not have the same HOOO axioms, which is new for Exponential Propositions in Propositional Logic.
+
+### Relations to Modal Logic
+
+In [Modal Logic](https://en.wikipedia.org/wiki/Modal_logic), there are `□` (necessary) and `◇` (possible) operators.
+The `□a` expression might be thought of as `a^⊤` and `◇a` might be thought of as `⊥^(⊥^a)`.
