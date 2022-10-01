@@ -3,6 +3,8 @@ by Sven Nilsen, 2022
 
 [Prop v0.26](https://crates.io/crates/prop) is released!
 
+Prop is a library for Propositional Logic with types in Rust.
+
 I want to explain a little about this release,
 as it reaches a new milestone in the research on foundation of [Path Semantics](https://github.com/advancedresearch/path_semantics).
 
