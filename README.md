@@ -39,6 +39,7 @@ You can find a summary about Climate Action [here](https://advancedresearch.gith
 
 ### Blog posts
 
+- [2022-10-01 Prop Release v0.26](https://advancedresearch.github.io/blog/2022-10-01-prop-release-v0.26)
 - [2022-06-09 A Guide to The Future in 3 Steps](https://advancedresearch.github.io/blog/2022-06-09-a-guide-to-the-future-in-3-steps)
 - [2022-05-26 Cantor, Kolmogorov & Grothendieck](https://advancedresearch.github.io/blog/2022-05-26-cantor-kolmogorov-and-grothendieck)
 - [2022-03-10 Deliberate Existence](https://advancedresearch.github.io/blog/2022-03-10-deliberate-existence)
