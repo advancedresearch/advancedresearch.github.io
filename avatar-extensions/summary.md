@@ -289,7 +289,7 @@ In theories concerning weak monotonicity, the product of uniform and non-uniform
 □p ∧ ◇p <=> ◇p
 ```
 
-#### Paradoxes and Tautologies
+### Paradoxes and Tautologies
 
 Some kind of paradoxes are related to Möbius topologies in Avatar Graphs.
 These graphs can be transformed into orthogonal mathematical objects using topological surgery.
