@@ -56,6 +56,7 @@ Theorems:
 
 ```
 a * 1 = 1 * a = a                       introduction of new 1-avatar
+a * a => error                          no avatar can introduce itself
 -(a * b) = (-a) * b = a * (-b)          coverage of products using 1->1 avatar involutions
 (a + b) * f(x) = a * f(x) + b * f(x)    superposition of mathematical objects related to 1-avatar symmetry
 (a * b) * c = a * (b * c)               associativity is a 6-avatar of a 9-vertex filled avatar graph
