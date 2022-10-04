@@ -108,3 +108,5 @@ However, Sequent Calculus does not have the same HOOO axioms, which is new for E
 
 In [Modal Logic](https://en.wikipedia.org/wiki/Modal_logic), there are `□` (necessary) and `◇` (possible) operators.
 The `□a` expression might be thought of as `a^⊤` and `◇a` might be thought of as `⊥^(⊥^a)`.
+However, this is a simplified picture, as the full theory requires more careful proper use of [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html).
+
