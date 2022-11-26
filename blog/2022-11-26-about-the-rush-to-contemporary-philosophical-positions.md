@@ -60,3 +60,34 @@ might itself have power in the precise way it tries to avoid disturbance,
 by causing disturbance to scenarios where people treat philosophical positions as their own.
 
 Therefore, this view should itself be treated as a "what if" scenario.
+
+### Comparing philosophical positions to assumptions in logic
+
+It is easy to see that in logic, making assumptions is one of the most powerful operations.
+
+To choose one's own being, might be compared to making an assumption.
+
+Similarly, when a person picks a philosophical position, this operation itself is similar to making an assumption.
+
+Now, imagine a scenario where Alice believes `A` and Bob believes `!A`.
+No matter which proposition `A` stands for, it provable that Alice and Bob disagrees about the truth value of `A`.
+
+If one imagines onself as both Alice and Bob, taking two different paths,
+there exist a possible world in which I, as Alice, thinks about a possible world where I, as Bob, has another view.
+
+Therefore, combining the two possible worlds in which I am reasoning about two versions of myself,
+I hold contradictory beliefs.
+
+Yet, there exists no possible world where I can confirm that I do indeed have contradictory beliefs.
+This requires combining two possible worlds which is not a physical possible operation.
+
+It is not necessarily true that choosing a philosophical position makes the truth value of the philosophical position necessarily true or not.
+
+Instead, it is possible that in all possible worlds where I choose some philosophical position,
+this philosophical position is necessarily true,
+while there might exist some possible world where I do not choose that philosophical position
+and the philosophical position is possibly false.
+
+The problem here, is that the truth value of some philosophical position might be sufficiently satisfied
+simply by choosing the philosophical position.
+However, prior to this choice, the truth value of the philosophical position might not be sufficiently satisfied.
