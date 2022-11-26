@@ -33,7 +33,7 @@ Therefore, to choose one’s own being should be considered a powerful mechanism
 
 It is possible that merely choosing a philosphical position might disturb the philosopher’s life
 to a such extent that being in itself changes. The philosopher only has one data point and whatever the philosopher chooses to do,
-becomes part of the data being studied, without limited capability to compare the consequences with alternative outcomes.
+becomes part of the data being studied, with limited capability to compare the consequences with alternative outcomes.
 
 However, if the philosopher treats some philosophical position as a “what if” scenario,
 then it becomes possible to assume something and see which consequences follow,
@@ -41,7 +41,7 @@ without making this scenario a permanent outcome.
 
 For example, there is no reason to believe, after thousands of years of philosophy,
 that any random person entering philosophy today, from an expected probability distribution,
-will solve the puzzle of existence.
+will solve the puzzle of existence during a single lifetime of study.
 
 On the other hand, it is much easier to observe that the problem of choosing a philosophical position,
 itself is reflected in the problem of figuring out the puzzle of existence.
