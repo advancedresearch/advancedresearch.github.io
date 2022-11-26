@@ -5,7 +5,7 @@ by Sven Nilsen, 2022
 
 *In this blog post I argue that people ought not to hurry toward making philosphical positions their own,
 due to the extremely high probability of being wrong.
-Instead, the power to choose a philosphical position should itself be treated as enough to introduce a disturbance
+Instead, the power to choose a philosophical position should itself be treated as enough to introduce a disturbance
 to the experiment that is being studied, which is the philosopher examining the philosopher’s life.
 Instead, I argue for a view where a philosophical position is studied as in a “what if” scenario.
 This view itself, is also a “what if”, et cetera.*
