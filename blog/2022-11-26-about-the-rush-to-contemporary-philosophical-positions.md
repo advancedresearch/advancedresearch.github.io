@@ -33,7 +33,7 @@ Therefore, to choose one’s own being should be considered a powerful mechanism
 
 It is possible that merely choosing a philosphical position might disturb the philosopher’s life
 to a such extent that being in itself changes. The philosopher only has one data point and whatever the philosopher chooses to do,
-becomes part of the data being studied, with limited capability to compare the consequences with alternative outcomes.
+becomes part of the data being studied, with limited capability to compare the consequences to alternative outcomes.
 
 However, if the philosopher treats some philosophical position as a “what if” scenario,
 then it becomes possible to assume something and see which consequences follow,
