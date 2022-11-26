@@ -1,6 +1,8 @@
 # About the Rush to Contemporary Philosophical Positions
 by Sven Nilsen, 2022
 
+![contemporary philosophy](https://upload.wikimedia.org/wikipedia/commons/c/cf/Philbar_3.png)
+
 *In this blog post I argue that people ought not to hurry toward making philosphical positions their own,
 due to the extremely high probability of being wrong.
 Instead, the power to choose a philosphical position should itself be treated as enough to introduce a disturbance
