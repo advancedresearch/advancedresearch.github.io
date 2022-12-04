@@ -39,6 +39,7 @@ You can find a summary about Climate Action [here](https://advancedresearch.gith
 
 ### Blog posts
 
+- [2022-12-04 An Introduction to Philosophy for Computer Scientists](https://advancedresearch.github.io/blog/2022-12-04-an-introduction-to-philosophy-for-computer-scientists)
 - [2022-11-26 About the Rush to Contemporary Philosophical Positions](https://advancedresearch.github.io/blog/2022-11-26-about-the-rush-to-contemporary-philosophical-positions)
 - [2022-10-01 Prop Release v0.26](https://advancedresearch.github.io/blog/2022-10-01-prop-release-v0.26)
 - [2022-06-09 A Guide to The Future in 3 Steps](https://advancedresearch.github.io/blog/2022-06-09-a-guide-to-the-future-in-3-steps)
