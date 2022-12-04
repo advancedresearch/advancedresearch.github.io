@@ -79,13 +79,13 @@ noticeably dominated by the male gender, contributed to.
 
 While all these ideas seems fine, there is a backstory.
 This backstory is the tapestry of history.
-When Socrates, Plato and Aristoteles lived in ancient Grece,
+When Socrates, Plato and Aristoteles lived in ancient Greece,
 the role of women in society collapsed.
 Women were rare, in a ratio of 1 woman to 10 men,
 so if they walked outside the house they risked kidnapping and being sold into prostitution.
 This meant that there were certain perspectives absent from the debate due to the bias of the coincidental historical context.
 These absent ideas can be found in history by going further back in time,
-to the Bronze Age, e.g. the rights of women in ancient Egypt which were considerably more liberated than in the later ancient Grece.
+to the Bronze Age, e.g. the rights of women in ancient Egypt which were considerably more liberated than in the later ancient Greece.
 
 In ancient Egypt, there was a goddess named Seshat.
 Her symbol was a hemp leaf.
