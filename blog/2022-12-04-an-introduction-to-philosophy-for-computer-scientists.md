@@ -62,7 +62,7 @@ In principle, one could describe the fish’s behavior perfectly when given perf
 yet due to this absence of perfect knowledge, we are often missing the target, making errors of inference.
 Therefore, the rules of inference should be described to avoid making unnecessary errors.
 
-Centuries, Descartes said: “I think, therefore I am”.
+Centuries later, Descartes said: “I think, therefore I am”.
 Although, it is only possible to reason in a negative sense about the ambiguity of the actual universe and the pure thought universe,
 there is a certain perspective from which one knows that one exists in a positive sense.
 This perspective is by observing the process of thinking. In order to observe a thinking process,
