@@ -30,7 +30,7 @@ The only certainty possible here is that something does not exist,
 while there is always uncertainty whether something exists.
 
 The philosopher that first established a school of thought based on this negative principle of certainty, was Socrates.
-Philosophy means “love of wisdom”, yet, how do we know whether wisom can be achieved or not?
+Philosophy means “love of wisdom”, yet, how do we know whether wisdom can be achieved or not?
 Socrates thought that nobody knew what wisdom was and the only certainty we have about wisdom is,
 not when we have it in our possession, but only when we do not possess wisdom.
 Quote: “I only know that I know nothing”.
