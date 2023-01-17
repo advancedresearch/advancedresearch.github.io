@@ -24,13 +24,13 @@ By the way, I am not one of them. I enjoy both mathematics and philosophy.
 
 This form of establishing dominance is also found among chimpanzees.
 It is a very interesting phenomena, where a chimp might e.g. physically hit another chimp who does not dare fight back,
-to show the other chimps that they are stronger and better fit to lead the tribe.
+to show the other chimps that the one that hits is stronger and better fit to lead the tribe.
 
 It is not always the physically strongest chimp that leads the tribe.
 Sometimes, the chimp who hits the other chimp, is weaker,
 but has enough social status that the other chimps will protect the weaker chimp from potential attacks.
 
-Abstract corruption here, is due to the weaker chimp having more power in their social game, despite being vulnerable one-on-one.
+Abstract corruption here, is due to the weaker chimp having more power in its social game, despite being vulnerable one-on-one.
 
 So, one can imagine some philosopher, confident in their surrounding tribe of philosophers,
 making a snarking off-hand remark about the people over in the mathematics department:
