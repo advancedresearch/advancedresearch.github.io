@@ -65,7 +65,7 @@ Does it makes sense to say:
 "Is skydiving subordinate to philosophy?"
 
 I think not. Therefore, in my opinion, not all enjoyable things are subordinate to philosophy.
-What makes it reasonable to say "mathemathics" instead of "skydiving"?
+What makes it reasonable to say "mathematics" instead of "skydiving"?
 
 Most of mathematics is done without the accompanied thought, that it ought or is, subordinate to philosophy.
 However, philosophy might claim to study enjoyment itself and the unthinking philosophical activity of e.g. mathematics, or even skydiving.
