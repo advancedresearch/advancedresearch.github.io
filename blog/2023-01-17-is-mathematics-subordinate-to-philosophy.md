@@ -18,7 +18,7 @@ There are many applications of abstract corruption, for example in Game Theory w
 When I interpret the question in the sense of abstract corruption,
 I think about philosophers that want to establish dominance in their social hierarchy.
 By claiming that mathematics is subordinate to philosphy,
-one is essentially "gaslighting" people who view their work primarily as mathematical in nature and despise philosophical debate.
+one is essentially "gaslighting" people who view their work primarily as mathematical in nature and who despise philosophical debate.
 
 By the way, I am not one of them. I enjoy both mathematics and philosophy.
 
