@@ -99,15 +99,15 @@ is dual-Platonism, or simply: Seshatism.
 In Seshatism, one credits knowledge by causality, not abstraction.
 This silly house of abstraction which Plato sits inside,
 could not even exist without countless women doing the actual work to make society turn around, day and night.
-Society and existence itself, is like a clockwork, ticking moment by moment,
-where Platonism is the position the arms, easily observed,
+Society and existence itself, is like a clockwork, ticking moment by moment.
+Platonism is the position of the arms on the clock, easily observed,
 while Seshatism is the blurry movement between the positions,
 harder to observe, but still necessary to make sense of the whole.
 Seshatism attributes originality of every being, every moment, in themselves,
 set apart from their abstract mathematical properties,
 which is due to the context in which being presents itself.
 In some sense, Seshatism is the way of thinking that allows the person inside the Chinese Room
-to be reunited with the room itself.
+to be reunited with the room itself, metaphysically.
 
 Kent Palmer introduced an overall framework to understand the work of modern philosophers,
 like Hegel, Heidegger, Deleuze, Derrida, Badiou and Zizek, as perspectives of different Beings.
