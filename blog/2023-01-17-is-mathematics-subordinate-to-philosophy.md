@@ -3,7 +3,7 @@ by Sven Nilsen, 2023
 
 This question came up during a reading group on Hegel, which I unfortunately could not get to.
 Kent Palmer mentioned to me that my name came up during this reading group.
-I was going to listen to the recording anyway, because I find these Hegel reading group like gold mines of ideas.
+I was going to listen to the recording anyway, because I find these Hegel reading groups like gold mines of ideas.
 Sometimes, I listen to the same recording multiple times.
 
 "Is mathematics subordinate to philosophy?"
