@@ -65,7 +65,7 @@ The systems corrupts and sell pieces of your soul, bit by bit.
 
 “You are a manager! You are a sales person! You work in advertisement! One day, people will see my true worth to society!”
 
-That did not happen. One day instead, scientist invented a new machine.
+That did not happen. One day instead, scientists invented a new machine.
 This machine could do everything.
 “Oh no!” people thought. “What has happened?
 When will everybody see my true worth to society if the machine does my own work? Who am I? Am I not a manager?”
