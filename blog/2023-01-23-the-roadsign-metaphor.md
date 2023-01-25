@@ -123,6 +123,6 @@ Did we ask people what they want?
 
 Oh, I have an idea: Try many different approaches and put up road signs for future generations:
 
-“<<<  Heaven this way --------- Hell this way >>>”
+`<<<  Heaven this way --------- Hell this way >>>`
 
 High five!
