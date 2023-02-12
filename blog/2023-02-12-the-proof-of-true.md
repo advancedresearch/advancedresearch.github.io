@@ -121,9 +121,9 @@ Since the constructive proof implies that the  proposition `~true` equals `true`
 it might be interpreted as some quantum state being physically connected to a “universal state” in space-time.
 With other words, physical states of particular kinds might be aligned, just by having content of truth.
 
-In General Relativity, space and time might be curved and connect distant regions of space,
+In [General Relativity](https://en.wikipedia.org/wiki/General_relativity), space and time might be curved and connect distant regions of space,
 called an Einstein-Rosen bridge, or more famously a [“wormhole”](https://en.wikipedia.org/wiki/Wormhole).
-It is currently being speculated by theoretical physicists that wormholes are related to quantum entanglement.
+It is currently being speculated by theoretical physicists that wormholes are related to [quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement).
 The kind of entangelment concerning `~true` is not just about connecting two places in space-time,
 but connecting places in space-time with some shared universal state, that might be accessed from anywhere in space-time.
 
