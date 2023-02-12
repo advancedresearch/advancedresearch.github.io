@@ -16,7 +16,7 @@ Here, `f`, `g` and `h` are functions.
 
 The left side `f[g]` is like an open box with a bottom `f` and walls `g`.
 The solution `h` is the missing lid of the box.
-In Cubical Type Theory, this is known as a Kan-filling operation.
+In [Cubical Type Theory](https://ncatlab.org/nlab/show/cubical+type+theory), this is known as a Kan-filling operation.
 
 The notation in Path Semantics focuses on a mathematical language that allows theorem proving in a point-free style.
 It known that composition of normal paths do not fully satisfy the model of sets,
