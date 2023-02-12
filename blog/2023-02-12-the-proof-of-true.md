@@ -90,6 +90,7 @@ inv(id) ~~ id
 
 This means, instead of saying `inv(id) == id`, the inverse of `id` is said to be “qual” to `id`.
 This operator `~~` is path semantical quality, which can be defined using the path semantical qubit `~`.
+The side effect of this statement is that the imaginary inverse "collapses" to some solution, proved by `~inv(id)` or `~id`.
 Using this approach, one can “compute backwards” using invertible functions that are defined in a normal way.
 The idea of computing backwards is also relevant for fundamental physics.
 
