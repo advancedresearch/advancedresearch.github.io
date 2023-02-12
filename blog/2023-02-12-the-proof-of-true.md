@@ -31,9 +31,9 @@ To model the imaginary inverse properly, there is an ongoing work in the [Prop](
 The Prop library is used for research in foundational Path Semantics.
 
 In foundational Path Semantics, an idea has been suggested to use propositions for everything.
-This is an unusual approach, since most of mathematics builds on First Order Logic.
+This is an unusual approach, since most of mathematics builds on [First Order Logic](https://en.wikipedia.org/wiki/First-order_logic).
 By using propositions for everything, it means that mathematics is brought to a lower level language Zeroth Order Logic,
-or Intuitionistic Propositional Logic.
+or [Intuitionistic Propositional Logic](https://en.wikipedia.org/wiki/Intuitionistic_logic).
 
 This means that the functions `f, g, h` are actually propositions.
 However, they are not propositions in the sense that they are `true` or `false`.
