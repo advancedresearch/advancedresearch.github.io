@@ -5,7 +5,7 @@ by Sven Nilsen, 2023
 
 ### Background
 
-Path Semantics is a project to re-interpret functions for expressing mathematical ideas.
+[Path Semantics](https://github.com/advancedresearch/path_semantics) is a project to re-interpret functions for expressing mathematical ideas.
 The central idea in Path Semantics is something called a “normal path”:
 
 ```text
@@ -49,7 +49,7 @@ Now, there might be limitations to this approach, but so far it seems to works.
 ### Constructive Logic and Fundamental Physics
 
 It is known that fundamental physics can be described using hypergraph rewriting systems.
-One such project ongoing, is the Wolfram Physics Project.
+One such project ongoing, is the [Wolfram Physics Project](https://wolframphysics.org/).
 The project seeks to understand fundamental physics by constructing it from the smallest building blocks possible.
 
 Hypergraph rewriting systems are mathematical equivalent to constructive logic.
@@ -121,7 +121,7 @@ it might be interpreted as some quantum state being physically connected to a �
 With other words, physical states of particular kinds might be aligned, just by having content of truth.
 
 In General Relativity, space and time might be curved and connect distant regions of space,
-called an Einstein-Rosen bridge, or more famously a “wormhole”.
+called an Einstein-Rosen bridge, or more famously a [“wormhole”](https://en.wikipedia.org/wiki/Wormhole).
 It is currently being speculated by theoretical physicists that wormholes are related to quantum entanglement.
 The kind of entangelment concerning `~true` is not just about connecting two places in space-time,
 but connecting places in space-time with some shared universal state, that might be accessed from anywhere in space-time.
