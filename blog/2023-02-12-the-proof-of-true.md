@@ -49,7 +49,7 @@ Now, there might be limitations to this approach, but so far it seems to works.
 ### Constructive Logic and Fundamental Physics
 
 It is known that fundamental physics can be described using hypergraph rewriting systems.
-One such project ongoing, is the [Wolfram Physics Project](https://wolframphysics.org/).
+One such ongoing project, is the [Wolfram Physics Project](https://wolframphysics.org/).
 The project seeks to understand fundamental physics by constructing it from the smallest building blocks possible.
 
 Hypergraph rewriting systems are mathematical equivalent to constructive logic.
