@@ -27,7 +27,7 @@ f[g] <=> g . f . inv(g)
 ```
 
 The imaginary inverse is just like ordinary inverse, but it does not require a solution.
-To model the imaginary inverse properly, there is an ongoing work in the Prop library (Propositional logic using types in Rust).
+To model the imaginary inverse properly, there is an ongoing work in the [Prop](https://github.com/advancedresearch/prop) library (Propositional logic using types in Rust).
 The Prop library is used for research in foundational Path Semantics.
 
 In foundational Path Semantics, an idea has been suggested to use propositions for everything.
