@@ -148,7 +148,7 @@ to yet infer a simple statement about itself. Time is required to evolve the sta
 The universally shared states determine the “truth” of the observed physical states, which appear as moments in time for observers.
 
 For millennia, philosophers have discussed mechanisms in logic that might explain how people have subjective and personal experiences.
-It is apparently a similarity between various studies in Continental Philosophy and the research in foundational Path Semantics.
+It is apparently a similarity between various studies in [Continental Philosophy](https://en.wikipedia.org/wiki/Continental_philosophy) and the research in foundational Path Semantics.
 The missing link has always been how these ideas relate to physics.
 Could there be a way to bridge this gap by uniting these ideas through constructive logic?
 I invite anyone to join our project and help figuring this out!
