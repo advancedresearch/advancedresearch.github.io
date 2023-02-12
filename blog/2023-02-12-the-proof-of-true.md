@@ -153,3 +153,4 @@ The missing link has always been how these ideas relate to physics.
 Could there be a way to bridge this gap by uniting these ideas through constructive logic?
 I invite anyone to join our project and help figuring this out!
 
+[Join us at Discord!](https://discord.gg/JkrhJJRBR2)
