@@ -106,7 +106,7 @@ What is surprising, is that the proof depends on several important aspects of th
 Furthermore, the proof of `~true` provides an interpretation of homotopy level 0.
 This interpretation talks about which propositions that inhabits various homotopy levels.
 One can also use this interpretation to prove that `true` and `false` inhabit homotopy level 1 and that `id` inhabits homotopy level 2.
-This is in correspondence with the predictions given by Homotopy Type Theory.
+This is in correspondence with the predictions given by [Homotopy Type Theory](https://homotopytypetheory.org/).
 
 ### Speculations About Consequences for Fundamental Physics
 
