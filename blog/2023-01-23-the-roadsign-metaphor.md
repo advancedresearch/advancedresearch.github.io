@@ -32,7 +32,7 @@ As the lamb grew older, it started to notice how the farmer observed the flock.
 This was curious, the lamb thought, that the farmer was interested in sheep.
 What was the farmer actually looking for?
 Why did the dog come and chase them around and into areas surrounded by fences?
-One day, an idea hit the lamb like a lightening strike.
+One day, an idea hit the lamb like a lightning strike.
 Oh, it is the wool! Now, things started to make sense.
 The lamb could start to reason about the entire picture.
 It did not like that somebody examined and used it for their gain.
