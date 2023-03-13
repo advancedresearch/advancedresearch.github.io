@@ -1,7 +1,7 @@
 # Reinterpreting Computational Paradoxes
 by Sven Nilsen, 2023
 
-For a couple millenia now, people have been interested and [fascinated by logical paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes).
+For a couple millenia now, people have been interested and fascinated by [paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes).
 
 ![Escher's "Waterfall"](https://upload.wikimedia.org/wikipedia/en/e/e8/Escher_Waterfall.jpg)
 
