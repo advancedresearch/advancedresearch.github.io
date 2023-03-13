@@ -148,7 +148,7 @@ that made the proper argument about incompleteness in formal systems.
 
 ### Formal Treatments of Tautologies and Paradoxes
 
-When I think about tautologies and paradoxes, I use the following formal system:
+When I think about logical tautologies and paradoxes, I use the following formal system:
 
 - Intuitionistic Logic
 - `a^true` says "`a` is a tautology"
