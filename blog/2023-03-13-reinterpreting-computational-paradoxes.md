@@ -63,7 +63,7 @@ Why? Because if "This sentence is true" is a lie, then it is indeed a lie, from 
 The trick that makes it sound like "This sentence is true" is asserting something truthful,
 is called [Stealing the Voice](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/stealing-the-voice.pdf).
 
-By buying into the fallacy of Stealing the Voice, one believes become open to [abstract corruption](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/abstract-corruption.pdf) by mimicry.
+By buying into the fallacy of Stealing the Voice, what one believes in become open to [abstract corruption](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/abstract-corruption.pdf) by mimicry.
 
 To reason properly about people who are liars, one must be able to imagine an information barrier between a social world
 where people do not want to be able to prove anything and an internal region where people might use `false` as their assumption.
