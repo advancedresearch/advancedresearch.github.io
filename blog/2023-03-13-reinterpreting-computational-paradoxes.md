@@ -150,7 +150,7 @@ that made the proper argument about incompleteness in formal systems.
 
 When I think about logical tautologies and paradoxes, I use the following formal system:
 
-- Intuitionistic Logic
+- [Intuitionistic Logic](https://en.wikipedia.org/wiki/Intuitionistic_logic)
 - `a^true` says "`a` is a tautology"
 - `false^a` says "`a` is a paradox"
 - `a^b => (a^b)^c` (HOOO power lift)
