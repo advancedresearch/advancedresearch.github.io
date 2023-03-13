@@ -103,7 +103,7 @@ From this perspective, I will now turn away from self-referential paradoxes and 
 ### Computational Paradoxes
 
 A computational paradox is different from a logical paradox,
-in the sense that it has additional meaning besides,
+in the sense that it has additional meaning besides merely being a paradox,
 also in a such way that it can be difficult to view it as a logical paradox.
 
 For example, [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering) is a method to create computational paradoxes.
