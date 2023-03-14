@@ -1,4 +1,4 @@
-# Reinterpreting Computational Paradoxes
+# Reinterpreting Computational Paradoxes - Part 1
 by Sven Nilsen, 2023
 
 For a couple millenia now, people have been interested and fascinated by [paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes).
@@ -185,3 +185,5 @@ one can not simply assume that Gödel's First Incompleteness Theorem actually sh
 Only because a statement has no proof, nor a counter-proof, does not make it automatically "true" from my point of view.
 
 Q.E.D.
+
+[Reinterpreting Computational Paradoxes - Part 2](https://advancedresearch.github.io/blog/2023-03-14-reinterpreting-computational-paradoxes-part-2)
