@@ -39,7 +39,8 @@ You can find a summary about Climate Action [here](https://advancedresearch.gith
 
 ### Blog posts
 
-- [2023-03-13 Reinterpreting Computational Paradoxes](https://advancedresearch.github.io/blog/2023-03-13-reinterpreting-computational-paradoxes)
+- [2023-03-14 Reinterpreting Computational Paradoxes - Part 2](https://advancedresearch.github.io/blog/2023-03-14-reinterpreting-computational-paradoxes-part-2)
+- [2023-03-13 Reinterpreting Computational Paradoxes - Part 1](https://advancedresearch.github.io/blog/2023-03-13-reinterpreting-computational-paradoxes)
 - [2023-02-12 The Proof of `~true`](https://advancedresearch.github.io/blog/2023-02-12-the-proof-of-true)
 - [2023-01-25 The Roadsign Metaphor](https://advancedresearch.github.io/blog/2023-01-23-the-roadsign-metaphor)
 - [2023-01-17 Is Mathematics Subordinate to Philosophy?](https://advancedresearch.github.io/blog/2023-01-17-is-mathematics-subordinate-to-philosophy)
