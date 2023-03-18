@@ -52,7 +52,7 @@ During evolution, when political conflicts appeared in a tribe,
 the conflicts were often solved using violence.
 The humans that survived the conflict spread their genes in the gene pool.
 Those who picked the winning side, were more likely to get more offspring,
-which in turn evolved trait to maximize the chance they picked the winning side.
+which in turn evolved traits to maximize the chance they picked the winning side.
 
 So, when paradoxical reasoning occurs in society, it produces a signal in the brain that causes humans to look for "the winning side".
 
