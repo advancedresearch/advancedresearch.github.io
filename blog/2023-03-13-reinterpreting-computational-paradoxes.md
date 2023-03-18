@@ -1,9 +1,9 @@
 # Reinterpreting Computational Paradoxes - Part 1
 by Sven Nilsen, 2023
 
-For a couple millenia now, people have been interested and fascinated by [paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes).
-
 *Notice! This blog post is written in the style of "Reverse Strawman", an argument technique to make one's own position weaker to show that the conclusion is more general and profound.*
+
+For a couple millenia now, people have been interested and fascinated by [paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes).
 
 ![Escher's "Waterfall"](https://upload.wikimedia.org/wikipedia/en/e/e8/Escher_Waterfall.jpg)
 
