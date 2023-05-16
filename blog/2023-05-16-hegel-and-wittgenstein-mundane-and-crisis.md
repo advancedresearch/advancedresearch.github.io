@@ -12,7 +12,7 @@ In this respect I prefer Wittgenstein's lack of self-centrism.
 However, I do not claim that Hegel failed at his project.
 Hegel did succeed in my view, but not in the sense he might have preferred to succeed.
 
-I believe Hegel grasped a perspective of existence that is a philosophical analogue thought.
+I believe Hegel grasped a perspective of existence that is a philosophical analogue of food.
 Everybody knows how important food is for human existence,
 yet we do not view food as an overarching identity of human being.
 This contradiction fits well inside the dialectical ideas of Hegel.
