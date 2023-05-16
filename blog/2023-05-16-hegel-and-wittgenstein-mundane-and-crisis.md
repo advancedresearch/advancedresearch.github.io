@@ -39,7 +39,7 @@ People rush in to act in time.
 This perspective of crisis became a crisis of philosophy.
 The problem is not a crisis in existing philosophy, but a creative new philosophy
 where language as used in crisis takes the center stage.
-Philosophy as a discipline had to confront its evidence lack of crisis.
+Philosophy as a discipline had to confront its evidential lack of crisis.
 Wittgenstein described this situation as "philosophy is when language goes on holiday".
 He was quick to dismiss philosophy as a whole.
 However, in hindsight I find it more productive to look at Wittgenstein's notes,
