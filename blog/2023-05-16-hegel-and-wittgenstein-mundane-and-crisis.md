@@ -34,7 +34,7 @@ As such, it is not about philosophy lacking theoretical direction.
 There is always need to make corrections of theoretical direction if one ever wants to finalise some project.
 However, Wittgenstein was not thinking about philosophical problems from a theoretical perspective.
 He tried to look at language from a slightly widened dimensional standpoint.
-What he found was a pattern of ideas that can be intuitively understood when there is a practical cris happening:
+What he found was a pattern of ideas that can be intuitively understood when there is a practical crisis happening:
 People rush in to act in time.
 This perspective of crisis became a crisis of philosophy.
 The problem is not a crisis in existing philosophy, but a creative new philosophy
