@@ -53,7 +53,7 @@ The crisis is perpetual, a powerful motive for Wittgenstein to carry on.
 What Wittgenstein is lacking, is the mundane ideas of Hegel to keep his direction steady.
 Hegel's ideas once again become essential to those trying to make progress in Wittgenstein's direction.
 So, I view myself oscillating a bit between these two philosophies.
-Wittgenstein's ideas are like a fire, powerful but also pontentially dangeriously uncontrollable,
+Wittgenstein's ideas are like a fire, powerful but also pontentially dangerously uncontrollable,
 where Hegel's ideas are like water, weighty but when there is too much of it,
 you might drown in its complexity.
 
