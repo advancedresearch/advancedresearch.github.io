@@ -42,7 +42,7 @@ where language as used in crisis takes the center stage.
 Philosophy as a discipline had to confront its evidential lack of crisis.
 Wittgenstein described this situation as "philosophy is when language goes on holiday".
 He was quick to dismiss philosophy as a whole.
-However, in hindsight I find it more productive to look at Wittgenstein's notes,
+However, in hindsight I find it more productive to look at [Wittgenstein's research notes](https://wab.uib.no/),
 organised by Bergen University, to figure out what Wittgenstein was trying to accomplish,
 instead of his official arguments.
 When Wittgenstein is no longer the center of attention,
@@ -53,7 +53,7 @@ The crisis is perpetual, a powerful motive for Wittgenstein to carry on.
 What Wittgenstein is lacking, is the mundane ideas of Hegel to keep his direction steady.
 Hegel's ideas once again become essential to those trying to make progress in Wittgenstein's direction.
 So, I view myself oscillating a bit between these two philosophies.
-Wittgenstein's ideas are like a fire, powerful but also pontentially dangerously uncontrollable,
+Wittgenstein's ideas are like a fire, powerful but also potentially dangerously uncontrollable,
 where Hegel's ideas are like water, weighty but when there is too much of it,
 you might drown in its complexity.
 
