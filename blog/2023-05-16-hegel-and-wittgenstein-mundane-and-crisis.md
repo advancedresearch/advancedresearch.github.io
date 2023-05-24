@@ -23,7 +23,7 @@ although often slightly beyond the boundary of normal human thought.
 
 As as Wittgensteinean, I think about what Wittgenstein was trying to do,
 instead of interpreting his arguments literally as positions worth considering.
-I believe that Wittgenstein had a glimpse of the difficulties in understand language
+I believe that Wittgenstein had a glimpse of the difficulties in understanding language
 similar to what McCarthy would gradually discover about Artificial Intelligence over time.
 So, in Wittgenstein's time, it was too early to form a mature philosophical position.
 Wittgenstein died before he could complete his project.
