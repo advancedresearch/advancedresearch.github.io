@@ -268,3 +268,44 @@ Hegel's notion of ground is how the appearance of an object is related to previo
 ```text
 `a` is the ground of `~a`
 ```
+
+#### Being
+
+Hegel's notion of Being is a constructive proposition.
+
+```text
+a    `a` is Being of `a`
+```
+
+Being-In-Itself and Being-For-Itself are movements of Being into self-quality
+through two different ways.
+
+```text
+a ~~ a                  Being-In-Itself as movement through direct self-quality
+(a ~~ b) => (a ~~ a)    Being-For-Itself as movement to self-quality through an Other
+```
+
+In [Avatar Witness Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-witness-theory),
+it is common to call Being-In-Itself for the "Loop Witness" and Being-For-Itself as "Product Witness".
+
+#### Essence and Shine
+
+Hegel's notion of essence is a potential in relation to Being.
+Essence can be though of as a type where the type operator is shine.
+
+```text
+a : T    `T` is the essence of Being `a` and `:` here is the shine
+```
+
+Notice that Being `a` here is dialectically biased toward a proof of Being `a : ...`.
+Therefore, essence implies bias toward "proof sense" which for Hegel is shine.
+The unbiased Being is `a` as constructive proposition `a`.
+
+In Path Semantics, this is equal to:
+
+```text
+(a => T) ⋀ (a < T)
+```
+
+Where `<` is order of path semantical layer.
+Therefore, essence and shine is in relation to the observer.
