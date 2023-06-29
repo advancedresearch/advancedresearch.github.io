@@ -309,3 +309,20 @@ In Path Semantics, this is equal to:
 
 Where `<` is order of path semantical layer.
 Therefore, essence and shine are in relation to the observer.
+
+#### Indeterminancy
+
+For Hegel, self-quality is indeterminate.
+
+In Path Semantics, one can say that:
+
+- Classically, `~a` is a random proposition seeded by `a`
+- Constructively, `~a` is not provable but has congruence by tautological equality
+
+These are technical ways of stating the precise indeterminate properties of self-quality.
+Notice that the form of indeterminacy depends on the mathematical language in question.
+
+One important consequence is that self-quality is not a predicate,
+because predicates have congruence by normal equality.
+This undermines First Order Logic in philosophy,
+which is a predicate logic.
