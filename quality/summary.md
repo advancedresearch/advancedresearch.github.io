@@ -383,7 +383,7 @@ This would mean an upper bound of self-knowledge built into the universe.
 E.g. under eternal cosmic inflation, the observer bias might be bounded to some computational class of complexity.
 There might be axioms about symbolic distinction that are unreachable from any well-defined class of complexity.
 Hegel does not elaborate on complexity bounds of bad infinity.
-In any case, such bounds might not be scientifically falsiable.
+In any case, such bounds might not be scientifically falsifiable.
 
 Hegel's ideas builds on top of quality and therefore lacks a precise model.
 One can say Hegel's ideas are constrained to some language similar to quality in the foundation of Path Semantics.
