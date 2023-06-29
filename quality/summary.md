@@ -286,7 +286,7 @@ a ~~ a                  Being-In-Itself as movement through direct self-quality
 ```
 
 In [Avatar Witness Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-witness-theory),
-it is common to call Being-In-Itself for the "Loop Witness" and Being-For-Itself as "Product Witness".
+it is common to call Being-In-Itself for "Loop Witness" and Being-For-Itself for "Product Witness".
 
 #### Essence and Shine
 
