@@ -308,4 +308,4 @@ In Path Semantics, this is equal to:
 ```
 
 Where `<` is order of path semantical layer.
-Therefore, essence and shine is in relation to the observer.
+Therefore, essence and shine are in relation to the observer.
