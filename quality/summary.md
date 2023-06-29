@@ -344,3 +344,38 @@ The proof of `~true` uses the core axiom and a  functional model of the identity
 Hegel was inspired by Fichte's `a = a`, which in functional notation is `id(a) = a`.
 This might be interpreted as the possibility of thinking true statements `true` within time `~true`.
 Thus `~true` is a proof of possible absolute knowledge, or absolute knowing.
+
+#### Justification for Hegel's Ideas
+
+Histocially, Hegel took inspiration from Leibniz, which came with some ideas that later resulted in topology.
+
+Hegel's notion of self-quality is today understood in Path Semantics to be a generalization of open sets,
+which are required in topology to define continuous maps.
+The technical term for the functional model, using path semantical quality, is [Open Morphisms](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/open-morphisms.pdf).
+
+Open Morphisms allows termination of higher bimorphisms in n-categories.
+The insight is that the contravariant property of the imaginary inverse is proof theoretically valid,
+even though the imaginary inverse has no underling model for specific morphisms.
+
+Since the imaginary inverse maps to the dual category,
+Open Morphisms are important philosophically in all applications of mathematical duality.
+
+#### Bad vs Good Infinity: Where Hegel's Ideas Fail
+
+Hegel's ideas of Being does not account for physical consciousness.
+The reason is that, in fundamental physics, observer bias in Wolfram models 
+requires a mechanism that favours complex worlds.
+Hegel's notion of quality is merely a philosophical approximation of this mechanism.
+
+Hegel described this as a "bad infinity" vs "good infinity":
+
+- Bad infinity is lifting from equality with symbolic distinction to quality
+- Good infinity is direct quality
+
+To account for physical consciousness in fundamental physics,
+it requires a precise model for the bad infinity.
+Logically, there is an axiom to lift equality into quality.
+However, there is no physical interpretation of how this happens in time.
+
+Hegel's ideas builds on top of quality and therefore lacks a precise model.
+One can say Hegel's ideas are constrained to some language similar to quality in the foundation of Path Semantics.
