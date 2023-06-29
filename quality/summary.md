@@ -362,9 +362,9 @@ Open Morphisms are important philosophically in all applications of mathematical
 
 #### Bad vs Good Infinity: Where Hegel's Ideas Fail
 
-Hegel's ideas of Being does not account for physical consciousness.
-The reason is that, in fundamental physics, observer bias in Wolfram models 
-requires a mechanism that favours complex worlds.
+Hegel's idea of Being does not account for physical consciousness.
+The reason is that, in fundamental physics, [observer bias in Wolfram models 
+requires a mechanism that favours complex worlds](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#consciousness-in-wolfram-models).
 Hegel's notion of quality is merely a philosophical approximation of this mechanism.
 
 Hegel described this as a "bad infinity" vs "good infinity":
