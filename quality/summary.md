@@ -377,5 +377,13 @@ it requires a precise model for the bad infinity.
 Logically, there is an axiom to lift equality into quality.
 However, there is no physical interpretation of how this happens in time.
 
+For example, Hegel's ideas can not account for whether there is a certain fixed number of operations
+determining forms of symbolic distinction.
+This would mean an upper bound of self-knowledge built into the universe.
+E.g. under eternal cosmic inflation, the observer bias might be bounded to some computational class of complexity.
+There might be axioms about symbolic distinction that are unreachable from any well-defined class of complexity.
+Hegel does not elaborate on complexity bounds of bad infinity.
+In any case, such bounds might not be scientifically falsiable.
+
 Hegel's ideas builds on top of quality and therefore lacks a precise model.
 One can say Hegel's ideas are constrained to some language similar to quality in the foundation of Path Semantics.
