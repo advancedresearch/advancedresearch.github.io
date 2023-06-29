@@ -326,3 +326,21 @@ One important consequence is that self-quality is not a predicate,
 because predicates have congruence by normal equality.
 This undermines First Order Logic in philosophy,
 which is a predicate logic.
+
+#### Absolute Knowing
+
+Hegel's notion of absolute knowing is ambiguous,
+since there are two forms of absolute knowing in relation to self-quality:
+
+1. Absolute knowing through congruence by tautological equality
+2. Absolute knowing through the proof of `~true`
+
+Congruence by tautological equality means that from `~a` one can prove `~b` if `(a == b)^true`.
+This means, if there is absolute knowledge that `a == b`, there is absolute knowing by self-quality.
+In some sense, absolute knowing is the ability to recognize absolute knowledge.
+It does not grant absolute knowledge directly, only the means of making it familiar using self-quality.
+
+The proof of `~true` uses the core axiom and a  functional model of the identity map `id`.
+Hegel was inspired by Fichte's `a = a`, which in functional notation is `id(a) = a`.
+This might be interpreted as the possibility of thinking true statements `true` within time `~true`.
+Thus `~true` is a proof of possible absolute knowledge, or absolute knowing.
