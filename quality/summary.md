@@ -224,3 +224,47 @@ However, it is possible to build a model up to some homotopy level.
 
 This means, that PSQ is Outside theory of mathematics, in the sense of [Avatar Schema Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-schema-theory).
 The reason is that PSQ contains a symbol, which is `~`, that does not refer to the theory of PSQ.
+
+### Translation into Hegel's Philosophy
+
+Hegel's philosophy is centered on interpretation of history and existence through time.
+In Path Semantics, there are two kinds of "moments" in the sense of Hegel:
+
+1. Moments distinguished by repeated application of self-quality/qubit `a, ~a, ~~a, ...`
+2. Moments distinguished by path semantical layers using the core axiom
+
+Physically, the first kind might be thought of as unstructured relativistic time (clocks in local space-time),
+since `~a` comes after `a` but it is unknown whether `~a` comes after `~b`.
+The second kind might be thought of as Newtonian time (universal clock),
+where order in time is determined by path semantical layer.
+
+Unstructured relativistic time happens prior to the observer, where order of events can be undefined.
+It is the observer that relates events by order,
+such that from the perspective of a single observer,
+the universe appears to have a universal clock (the time in local space-time projected onto the universe).
+
+Hegel did not distinguish the two kinds of time physically,
+because at his time the only notion was in terms of Newtonian time (universal clock).
+Relativistic time appeared later through the work of Einstein.
+
+This means, when reading Hegel's "Science of Logic",
+one should be aware that he expresses his ideas ambiguously in relation to modern physics,
+viewed through the lens of Path Semantics.
+The easiest way to solve this ambiguity is to use the first kind by default
+and the second kind by mentioning it explicitly.
+
+#### Self-Quality
+
+Hegel's notion of self-quality can be translated directly to self-quality/qubit in Path Semantics:
+
+```text
+~a    self-quality of `a`
+```
+
+#### Ground
+
+Hegel's notion of ground is how the appearance of an object is related to previous moments by thought or by itself.
+
+```text
+`a` is the ground of `~a`
+```
