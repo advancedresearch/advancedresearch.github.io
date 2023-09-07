@@ -3,7 +3,7 @@ by Sven Nilsen, 2023
 
 ![caterpillar](https://pbs.twimg.com/media/F5XqFvQWIAAvg9b?format=jpg&name=medium)
 
-Humans as a species is actually very dumb and consume resources to survive and reproduce.
+Humans as a species is actually very dumb and consumes resources to survive and reproduce.
 
 When I say "dumb" I mean that our kind of intelligence is not like super-focused
 on achieving goals or to produce an environment that ensures our survival as a species.
