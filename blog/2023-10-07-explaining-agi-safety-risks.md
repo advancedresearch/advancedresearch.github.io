@@ -6,7 +6,7 @@ by Sven Nilsen, 2023
 Humans as a species is actually very dumb and consume resources to survive and reproduce.
 
 When I say "dumb" I mean that our kind of intelligence is not like super-focused
-on acheiving goals or to produce an environment that ensures our survival as a species.
+on achieving goals or to produce an environment that ensures our survival as a species.
 
 We humans recently discovered that the world is governed by physical laws,
 and this discovery has yet to throughoutly influence the way we live.
@@ -28,7 +28,7 @@ In principle, the physical laws do not dictate that the human species must behav
 However, it will take time for understanding of physical laws to throughoutly influence how humans live.
 
 Humans do not necessarily seek out and destroy caterpillars,
-but instead design artificial environment where caterpillars can not live.
+but instead design artificial environments where caterpillars can not live.
 
 Humans do not "hate" caterpillars, in fact, there are many humans who find them fascinating.
 
