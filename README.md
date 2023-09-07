@@ -39,6 +39,7 @@ You can find a summary about Climate Action [here](https://advancedresearch.gith
 
 ### Blog posts
 
+- [2023-10-07 Explaining AGI Safety Risks](https://advancedresearch.github.io/blog/2023-10-07-explaining-agi-safety-risks)
 - [2023-05-16 Hegel and Wittgenstein - Mundane and Crisis](https://advancedresearch.github.io/blog/2023-05-16-hegel-and-wittgenstein-mundane-and-crisis)
 - [2023-03-14 Reinterpreting Computational Paradoxes - Part 2](https://advancedresearch.github.io/blog/2023-03-14-reinterpreting-computational-paradoxes-part-2)
 - [2023-03-13 Reinterpreting Computational Paradoxes - Part 1](https://advancedresearch.github.io/blog/2023-03-13-reinterpreting-computational-paradoxes)
