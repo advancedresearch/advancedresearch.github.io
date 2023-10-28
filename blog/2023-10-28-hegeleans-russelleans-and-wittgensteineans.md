@@ -133,6 +133,7 @@ A function `f` is tautological congruent when:
 ```
 
 All normal congruent functions are tautological congruent, but not all tautological congruent functions are normal congruent.
+For example, if you want to reason about randomness, you need to reason about functions that are tautological congruent but not normal congruent.
 
 ### What Wittgenstein did
 
