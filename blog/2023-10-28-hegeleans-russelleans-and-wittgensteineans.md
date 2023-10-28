@@ -58,7 +58,7 @@ When people read Hegel, they might easily interpret him as authorative and analy
 So, I will mention some stuff first to bring you out of this misconception.
 
 Hegel was a supporter of the French revolution and skeptical toward Christianity.
-Late in life, Hegel found some aspects of Christianity that he found appealing.
+Late in life, Hegel found some aspects of Christianity that he thought was appealing.
 
 It is easy to explain this, but it requires some background on the history of Christianity.
 
