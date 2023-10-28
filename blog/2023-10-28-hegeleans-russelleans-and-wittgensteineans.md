@@ -203,7 +203,7 @@ Yet, Wittgensteineans still seek to figure out the relation between language and
 unlike Wittgensteineans. I think Russell is great, but I do not put my pride in my own stance,
 so I do not consider myself a Russellean.
 - Hegeleans think Hegel is either good or bad, but not irrelevant.
-Even if when some Hegeleans oppose Hegel, they are still Hegelean,
+Even when some Hegeleans oppose Hegel, they are still Hegelean,
 because the very idea of contradiction is part of Hegel's philosophy.
 However, I do not consider myself a Hegelean,
 because I am sympathetic toward his position, good or bad, while I consider myself more a Wittgensteinean.
