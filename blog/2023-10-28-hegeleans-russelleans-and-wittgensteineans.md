@@ -89,7 +89,7 @@ going through collapse, blaming women (e.g. Eve and Pandora, demoted goddesses) 
 The dialetic problems of Christianity aside, which I here emphasize in order to help you understand Hegel,
 my intention is to show how easy it is to misunderstand him and think he was authorative in his philosophy.
 
-Also, to philosophers with the skills of logic on the level of Russel,
+Also, to philosophers with the skills of logic on the level of Russell,
 one can not easily treat Hegel as analytic in his reasoning.
 His language is way too imprecise.
 Since Hegel used imprecise language, which is not uncommon for Seshatists,
