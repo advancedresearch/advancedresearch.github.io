@@ -104,7 +104,7 @@ This is something we take for granted today, thanks to his hercules effort.
 
 The breakthroughs in logic were so jaw-dropping impressive at the time,
 that it resulted in many people rejecting Hegelean philosophy.
-Logic at Russell's time was trying to solve problems by separating meta-language from object-language.
+Logicians at Russell's time was trying to solve problems by separating meta-language from object-language.
 It is only recently that we learned how to unite them using something called "exponential propositions".
 
 Today, we understand that something called "normal congruence" plays a large role in the language bias influencing Russell's thinking:
