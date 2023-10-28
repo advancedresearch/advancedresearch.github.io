@@ -196,11 +196,11 @@ After all, the entire reason we use such names is because there are differences 
 Yet, you can not say that people "possess" philosophical positions in a sense
 where the notion of possession is well defined.
 
-- A Wittgensteinean do not think Wittgenstein was right,
+- A Wittgensteinean does not think Wittgenstein was right,
 one the contrary, it was the discovery that things are hard and he was wrong that was the great idea.
 Yet, Wittgensteineans still seek to figure out the relation between language and logic.
 - Russelleans think Russell is great, which he is, but they often put their pride in it,
-unlike Wittgensteineans. I think Russell is great, but I do not put my pride in his stance,
+unlike Wittgensteineans. I think Russell is great, but I do not put my pride in my own stance,
 so I do not consider myself a Russellean.
 - Hegeleans think Hegel is either good or bad, but not irrelevant.
 Even if a Hegelean opposes Hegel, they are still Hegelean,
