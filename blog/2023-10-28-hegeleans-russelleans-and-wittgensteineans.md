@@ -224,6 +224,6 @@ I think it is interesting that there are an "Inside vs Outside" perspective of p
 
 In some sense, people who have philosophical positions consider themselves to possess them,
 but the very idea of possession changes between philosophical positions!
-So, what one person says using the same words, means an entire different thing to another person with a different position.
+So, what one person says using the same words, means an entirely different thing to another person with a different position.
 
 Perhaps this is why, as a Wittgensteinean, I take language bias seriously (and humorously!).
