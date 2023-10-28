@@ -165,7 +165,7 @@ AI tech today is a result of decades of incemental improvements that accumulate 
 
 Why was McCarthy so wrong? First, all people have optimisim bias.
 Second, because John McCarthy was an expert in logic, he kind of understood what he was doing,
-but also, he was underestimated how hard it is.
+but also, he underestimated how hard it is.
 
 Wittgenstein understood that there were things about language that were hard and not easy in the sense of logic.
 It does not mean you can not figure it out, it just takes much longer time and more effort than you plan to put in.
