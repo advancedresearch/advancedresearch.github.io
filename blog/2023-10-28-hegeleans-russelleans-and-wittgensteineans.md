@@ -133,7 +133,7 @@ A function `f` is tautological congruent when:
 ```
 
 All normal congruent functions are tautological congruent, but not all tautological congruent functions are normal congruent.
-For example, if you want to reason about randomness, you need to reason about functions that are tautological congruent but not normal congruent.
+For example, if you want to reason about randomness, then you need to reason about functions that are tautological congruent but not normal congruent.
 
 ### What Wittgenstein did
 
@@ -183,7 +183,7 @@ If you could call, the most important and influential philosopher in the Western
 as being ever "looked down upon". This is how great Hegel is considered in philosophy.
 Some love him, some hate him, but they are all influenced by him.
 This is because there is an entire field of philosophy, called "Continental Philosophy",
-which do not care as much about the analytic problems.
+which does not care as much about the analytic problems.
 
 Yet, from an Analytic perspective, there is still some atonement to be made.
 
@@ -203,7 +203,7 @@ Yet, Wittgensteineans still seek to figure out the relation between language and
 unlike Wittgensteineans. I think Russell is great, but I do not put my pride in my own stance,
 so I do not consider myself a Russellean.
 - Hegeleans think Hegel is either good or bad, but not irrelevant.
-Even if a Hegelean opposes Hegel, they are still Hegelean,
+Even if when some Hegeleans oppose Hegel, they are still Hegelean,
 because the very idea of contradiction is part of Hegel's philosophy.
 However, I do not consider myself a Hegelean,
 because I am sympathetic toward his position, good or bad, while I consider myself more a Wittgensteinean.
