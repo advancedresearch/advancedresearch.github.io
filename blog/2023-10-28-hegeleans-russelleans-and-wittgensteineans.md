@@ -73,7 +73,7 @@ In this phase, Christianity turned against diverse views of divinity, burying th
 This continued until the Enlightenment started (coinciding with the fall of Byzantine empire and their academic refugees)
 and we got Scientism arising as a new way to find out the truth about God.
 A forgotten popular book (rediscovered by the field of Intellectual History),
-written in reaction to persecution of Calvanists in France,
+written in reaction to persecution of Calvinists in France,
 contributed to the rise of Pietism.
 Pietism evolved in reaction to Scientism, which resulted in new popular and cultist movements.
 
