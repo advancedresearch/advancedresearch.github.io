@@ -84,7 +84,7 @@ Seshatists are usually not authorative, but more playful, which is what Hegel wa
 
 What most people associate with Christianity is authority and opposition to science, e.g. how the Catholic church treated Galileo.
 However, Christianity has a long and complex history that suffered from the trauma of Bronze Age religions
-going through collapse, blaming women (e.g. Eve and Panthora, demoted goddesses) and women reacting to this trend who gave birth to it
+going through collapse, blaming women (e.g. Eve and Pandora, demoted goddesses) and women reacting to this trend who gave birth to it
 (both historically and by doctrine).
 The dialetic problems of Christianity aside, which I here emphasize in order to help you understand Hegel,
 my intention is to show how easy it is to misunderstand him and think he was authorative in his philosophy.
