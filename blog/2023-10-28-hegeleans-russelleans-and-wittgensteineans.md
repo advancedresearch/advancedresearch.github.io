@@ -220,7 +220,7 @@ we understand what they say, but we do not understand what it means to "possess"
 In a way, you can have a philosophical position, but you can not "own it" in a sense which all philosophers agree upon.
 However, within a philosophical position, you can take stances on what it means to "possess" some philosophical position.
 
-I think it is interesting that there are an "Inside vs Outside" perspective of possession here. 
+I think it is interesting that there is an "Inside vs Outside" perspective of possession here. 
 
 In some sense, people who have philosophical positions consider themselves to possess them,
 but the very idea of possession changes between philosophical positions!
