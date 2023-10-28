@@ -169,7 +169,7 @@ but also, he was underestimated how hard it is.
 
 Wittgenstein understood that there were things about language that were hard and not easy in the sense of logic.
 It does not mean you can not figure it out, it just takes much longer time and more effort than you plan to put in.
-This is why I consider myself a Wittgensteinean, by emphasizing the problematic aspects of relation between language and logic.
+This is why I consider myself a Wittgensteinean, by emphasizing problematic aspects of the relation between language and logic.
 
 Now, why is Hegel relevant in all this? Because this problematic aspect of the relation between language and logic,
 is problematic in the sense of Hegel.
