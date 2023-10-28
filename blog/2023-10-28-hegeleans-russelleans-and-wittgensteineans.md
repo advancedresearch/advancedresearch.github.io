@@ -32,7 +32,7 @@ Russell built much of his career on top of Frege's work,
 so he was priveleged from an Analytic perspective.
 However, he did not understand computers the way I do.
 He corrected Frege and thus, naturally, I will correct Russell.
-One problem is that Russell, unlike Frege, will not be able to respond.
+One problem is that Russell, unlike Frege in his time, will not be able to respond.
 Russell is the person which I will criticize in this blog post.
 
 Wittgenstein was Russell's student which barked on a life-long journey to figure out the relation between language and logic.
