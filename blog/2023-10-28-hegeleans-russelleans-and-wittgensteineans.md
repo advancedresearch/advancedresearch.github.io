@@ -161,9 +161,9 @@ A later example demonstrates this tendency:
 When John McCarthy, the inventor of Lisp, planned a summer workshop for AI in 1956,
 he believed that 10 people could make significant progress on several research areas.
 The result was that almost none progress was made in any areas of AI.
-AI tech today is a result of decades of incemental improvements that accumulate until they reach tipping points.
+AI tech today is a result of decades of incremental improvements that accumulate until they reach tipping points.
 
-Why was McCarthy so wrong? First, all people have optimisim bias.
+Why was McCarthy so wrong? First, all people have optimism bias.
 Second, because John McCarthy was an expert in logic, he kind of understood what he was doing,
 but also, he underestimated how hard it is.
 
