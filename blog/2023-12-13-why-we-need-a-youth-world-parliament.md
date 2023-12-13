@@ -14,7 +14,7 @@ However, there is a much more serious issue that needs to be addressed.
 
 Basically, this paper says there is reason to believe that human decision making has caused approximately 1 W/m^2 energy imbalance in recent years.
 
-If this paper reflect reality, then it implies that humanity has moved on from an era where
+If this paper reflects reality, then it implies that humanity has moved on from an era where
 policy making on global warming was acceptable based on years of delayed scientific data.
 
 - It takes months for new scientific information to pass peer-review
