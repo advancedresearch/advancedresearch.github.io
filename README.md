@@ -39,7 +39,7 @@ You can find a summary about Climate Action [here](https://advancedresearch.gith
 
 ### Blog posts
 
-- [2023-12-13 Why we need a Youth World Parliament](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2023-12-13-why-we-need-a-youth-world-parliament.md)
+- [2023-12-13 Why we need a Youth World Parliament](https://github.com/advancedresearch/advancedresearch.github.io/blog/2023-12-13-why-we-need-a-youth-world-parliament)
 - [2023-10-28 Hegeleans, Russelleans and Wittgensteineans](https://advancedresearch.github.io/blog/2023-10-28-hegeleans-russelleans-and-wittgensteineans)
 - [2023-10-07 Explaining AGI Safety Risks](https://advancedresearch.github.io/blog/2023-10-07-explaining-agi-safety-risks)
 - [2023-05-16 Hegel and Wittgenstein - Mundane and Crisis](https://advancedresearch.github.io/blog/2023-05-16-hegel-and-wittgenstein-mundane-and-crisis)
