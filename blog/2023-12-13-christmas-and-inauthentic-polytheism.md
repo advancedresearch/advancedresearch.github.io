@@ -83,7 +83,7 @@ and a historical perspective, since there were many women in Early Christianity 
 In modern times, many people react to the versions of Christianity that posit themselves as anti-intellectual,
 anti-science and dogmatic.
 At these times, it is easy to forget that Santa Claus is a character who in many ways
-represent Christianity finding new ways to appeal to younger generations and respect a diverse set of beliefs.
+represents Christianity finding new ways to appeal to younger generations and respect a diverse set of beliefs.
 
 I expect that Christianity in the future will also develop new forms and traditions with Seshatic influence.
 This way of playing with ideas and messing around with Platonism, as seen with Santa Claus,
