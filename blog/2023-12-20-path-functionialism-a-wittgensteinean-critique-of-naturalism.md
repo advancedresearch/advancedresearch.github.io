@@ -56,7 +56,7 @@ This is both a good and a bad thing, so one should not take this as a point for 
 
 The argument is whether Naturalism can claim authority on science as a discipline.
 If Path Functorialism is taken as position, then Naturalism seems more like an overall driving motivation for science,
-aka Ready-at-Hand, while Path Functorialism is more like Present-at-Hand.
+aka Ready-at-Hand, while Path Functorialism is more like Present-at-Hand (Ready-at-Hand and Present-at-Hand are concepts in philosophy developed by Heidegger).
 
 The mathematical formalism is likely to lead to new developments of understanding science
 that are more Present-at-Hand in comparison to experimental science.
