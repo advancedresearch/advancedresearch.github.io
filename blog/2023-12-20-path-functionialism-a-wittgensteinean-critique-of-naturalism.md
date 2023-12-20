@@ -63,7 +63,7 @@ that are more Present-at-Hand in comparison to experimental science.
 Thus, by Wittgensteinean synthesis, there ought to be people present in such communities
 who are aware of the problematics of such developments.
 
-Today, Path Semanticists are frequently exploring language biases that leans toward Avatar Extensions,
+Today, Path Semanticists are frequently exploring language biases that lean toward Avatar Extensions,
 such as religion and some variants of philosophy, e.g. Continental Philosophy.
 One can contrast these explorations with the emphasis on Functorialism in science.
 Since Path Semanticists might also explore language biases in science,
