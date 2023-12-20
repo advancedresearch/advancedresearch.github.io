@@ -97,7 +97,7 @@ fair rules between different ontologies.
 It is probably not necessary to have a correct notion of science in order to develop a framework
 for fair rules between different notions of ontology that relate to science.
 A Present-at-Hand approach to science does not mean we have a full understanding.
-Also, it is unclear whether a Read-at-Hand approach can ever be finalized.
+Also, it is unclear whether a Ready-at-Hand approach can ever be finalized.
 
 Since Naturalism usually self-portrays various notions as seeking dominance,
 this implies caution is adviced, as the lack of Wittgensteinean problematics does not provide
