@@ -10,7 +10,7 @@ When science uses experiments as the foundation for consensus,
 this naturally leads to Functorialism as a mathematical understanding of natural science.
 The reason is that experiments are local hubs of mathematical knowledge in space-time.
 The relations between these local islands of "knowledge sources"
-leans the language bias toward functors as means of transferring knowledge in repetive experiments,
+leans the language bias toward functors as means of transferring knowledge in repetitive experiments,
 where the form of knowledge is assumed similar to something like a category in Category Theory.
 
 However, natural science has traditionally been more strongly biased than Functorialism.
