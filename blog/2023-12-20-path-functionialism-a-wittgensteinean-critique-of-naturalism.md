@@ -39,7 +39,7 @@ one can see the Wittgensteinean problematic stance in this position:
 - On one hand, in order to talk about scientific theories, one usually implies some language of paths
 - On the other hand, embracing general functoriality does not imply a single language of paths
 
-From this can one recognize generating hypotheses and testing them by experiments to rule out theories,
+From this one can recognize generating hypotheses and testing them by experiments to rule out theories,
 as the driving mechanism by the mathematical plurality of Path Functorialism.
 
 The mechanism of generating hypotheses is independent of the mathematical plurality,
@@ -78,7 +78,7 @@ at least when compared to individual notions of Naturalism.
 A Path Semanticist might be interested in ontological differences between various positions of Naturalism,
 which probably is not ruled out by scientific experiments and hence not an authentic position within Naturalism (in sense of Heidegger).
 
-For example, in principle it not a problem that some notion of Naturalism seek to claim authority over the understanding of science.
+For example, in principle it is not a problem that some notion of Naturalism seek to claim authority over the understanding of science.
 However, since language biases often come to play in conflicts between different notions of Naturalism,
 it is a good idea to use frameworks developed by Path Semanticists to settle debates,
 in order to not risk stagmentation in pure language bias.
