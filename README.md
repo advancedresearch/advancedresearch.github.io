@@ -39,6 +39,7 @@ You can find a summary about Climate Action [here](https://advancedresearch.gith
 
 ### Blog posts
 
+- [2024-11-08 Trump Cheated](https://advancedresearch.github.io/blog/2024-11-08-trump-cheated)
 - [2023-12-20 Path Functorialism: A Wittgensteinean Critique of Naturalism](https://advancedresearch.github.io/blog/2023-12-20-path-functionialism-a-wittgensteinean-critique-of-naturalism)
 - [2023-12-13 Christmas and Inauthentic Polytheism](https://advancedresearch.github.io/blog/2023-12-13-christmas-and-inauthentic-polytheism)
 - [2023-12-13 Why we need a Youth World Parliament](https://advancedresearch.github.io/blog/2023-12-13-why-we-need-a-youth-world-parliament)
