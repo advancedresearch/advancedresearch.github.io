@@ -1,15 +1,15 @@
 # Does Nature Have Intelligence and Can We Harvest It?
 by Sven Nilsen, 2017
 
-This blog post is the start of a new research topic that I have done quite a bit of pre-research on,
+This blog post is the starting point of a new research topic that I have done quite a bit of pre-research on,
 and it is approaching a state where I think it is justifiable to start some serious investigation.
 I think it fits the AdvancedResearch community because it deals with a concept breakthrough in system thinking.
 
 Disclaimer: I can not explain all of it in one post, but I hope you will get something out of it.
 Some parts of this will probably make you more confused. :P
 
-By "nature having intelligence" I mean by a very precise mathematical definition and explained in technical terms:
-*Observers living in universe with a selection effect similar to
+By "nature having intelligence" I mean a very precise mathematical definition and explained in technical terms:
+*Observers living in some universe with a selection effect similar to
 an exponential reference class with a time symmetric assumption,
 which allows observers to predict some very computationally expensive aspects about their future.*
 
@@ -17,7 +17,7 @@ which allows observers to predict some very computationally expensive aspects ab
 the number of observers grows exponentially over time and the observer is selected randomly, e.g. eternally inflating universe plus quantum physics
 - Time symmetry means the observer is picked randomly from observers with similar history, e.g. conditional probabilities
 
-In a such universe, by using some very few ingredients...
+In a such universe, by using very few ingredients...
 
 - a system that can take on various states
 - randomness
@@ -26,13 +26,13 @@ In a such universe, by using some very few ingredients...
 ... it is possible to end up with some kind of "intelligence".
 Obviously, it is not a human-like intelligence but merely an optimization algorithm (more on this later).
 
-A first attempt to approximate encode this effect on the [Traveling Salesman Problem](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/learning-from-randomness.pdf).
+I did a first attempt to approximately encode this effect on the [Traveling Salesman Problem](https://github.com/advancedresearch/observer_selection_effects/blob/master/papers-wip/learning-from-randomness.pdf).
 There is a layered inference of intepretation to understand exactly why you compute this factor
 and add them together for random routes, and why this is done for pairs of cities,
 but I hope to explain this better later on.
 Wish I had more mathematical proofs for the transition from the original concept to the algorithm,
-but I have not figured out to express it better than using words in natural language.
-I have done an Dyon implementation of this algorithm that will be added to the repo.
+but I have not figured out how to express it better than using words in natural language.
+I have done a Dyon implementation of this algorithm that will be added to the repo.
 
 There are other proofs that I have done previously and would like to add, which is about:
 
@@ -47,12 +47,12 @@ to borrow the idea of Kolmogorov complexity but with some smooth landscape aroun
 
 When I say "merely an optimization algorithm", this is not true in the everyday meaning of these words.
 It is true that a such algorithm will optimize for a single thing,
-but the problem is that this simple thing is highly interconnected with everything.
+but the problem is that this single thing is highly interconnected with everything.
 
 For example, human brains are extremely complex.
 It is the most complex machine we know about.
-Human brains were evolved by natural selection.
-One could think of natural selection as a "high level algorithm" running on physical laws.
+Human brains evolved by natural selection.
+One could think of natural selection as a "high level algorithm" running on top of physical laws.
 
 The intelligence due to selection effects in an exponential reference class,
 is a "low level algorithm" that could be much closer to the description of physical laws.
@@ -60,7 +60,7 @@ Therefore, since the observer in a such universe is a product of a high level al
 that runs on top of a low level algorithm, those two effects combined can be highly complex
 and interacting and interfering with each other.
 
-For example, an selection effect does not explain e.g. why human noses are of a particular size,
+For example, a selection effect does not explain e.g. why human noses are of a particular size,
 unless you have a very powerful computer that could trace all mutations and compute an expected nose size
 in a flat reference class and compare it to an exponential reference class.
 On the other hand, a selection effect makes it easier to explain how an observer
@@ -73,17 +73,17 @@ so how do we compare them?
 thus you would increase chance to have that particular brain because it is more of it
 
 The "merely an optimization algorithm" we are talking about, changes the perspective
-of how one looks at the universe, at humans and everything.
+of how one looks at the universe, humans and everything.
 
 ### Can this effect be harvested?
 
-We have yet to come up with an immediate practically useful application of it.
+We have yet to come up with an immediately practical application of it.
 There are two ways we can benefit from this knowledge:
 
 1. Make optimization algorithms better by deriving mathematical approximations to the concept
 2. Use it directly to make decisions about the future
 
-The first kind of applications is trivial: More knowledge that allows us to improve algorithms is nice.
+The first kind of applications are trivial: More knowledge that allows us to improve algorithms is nice.
 However, this would only let us exploit the power of the computers we are able to build ourselves,
 or by finding approximations to this behavior in naturally occuring systems.
 The second kind of applications lets you harvest the computational energy of the whole universe,
@@ -91,7 +91,7 @@ without paying the electrical bill,
 possibly in a way to make ridiculously powerful predictions about the future.
 
 For example, if alien civilizations are rarer because of the selection effect,
-then you can assign a lower risk of meeting hostile aliens on your space exploration among the stars.
+then you can assign a lower risk of meeting hostile aliens on your space exploration journey among the stars.
 This assumes that you can sort out all the hair ball and spaghetti code problems you get by
 considering this effect's influence on everything that makes up a civilization,
 and in the end you come to the conclusion "yeah, there will be fewer alien civilizations".
@@ -99,11 +99,11 @@ and in the end you come to the conclusion "yeah, there will be fewer alien civil
 Unfortunately, we humans have yet to explore the stars,
 so it could take hundreds of years before a such piece of knowledge becomes useful.
 It also does not say how likely you would expect to see alien civilizations in a flat reference class.
-Such civilizations could be rare anyway, and then a such prediction would not be that useful.
+Such civilizations could be rare anyway, and this would make a such prediction not that useful.
 
 Another issue is whether by some strange coincidence,
 this optimization effects leads to some skewed probabilities on important moral decisions.
-For example, the effect of the risk nuclear war on the number of observers is highly non-linear.
+For example, the effect of the risk of nuclear war on the number of observers is highly non-linear.
 A high risk of nuclear war could lead to less war overall,
 but in the event it breaks out it could be catastrophic.
 It is imaginable that some "sweet spot" is located near a high risk of catastrophe,
@@ -121,11 +121,11 @@ This is not properly understood yet, in part because of quantum physics that I c
 
 So, we got the weird situation where multiple people are interested in observer selection effects,
 but none of them can prove to the others that they are the focus point of the reference class.
-After all, a person experience themselves from the inside and all other people from the outside.
+After all, a person experiences themselves from the inside and all other people from the outside.
 
 It gets worse: We can find animals in nearby surrounding that does not have as complex brains as we do.
 We could talk to some smart animals, or perhaps aliens,
-for example by using a telepathy technology based on infrared light with brain-to-brain communication,
+for example by using telepathy technology based on infrared light with brain-to-brain communication,
 which is already being developed and rapidly improving.
 What if we convince them the observer selection effect was plausible,
 and they got interested in researching this field?
@@ -143,7 +143,7 @@ Can we construct a mind that is a more plausible observer than our own mind?
 When encountering such scenarios, which seem very real and plausible given more research in this direction,
 we have to take into account selection effects that interacts with the complex systems that make up observers,
 and also the effects on seemingly paradoxes that must be resolved in some way,
-due to existing of lower level systems described by physical laws.
+due to existence of lower level systems described by physical laws.
 This can put us in a situation where we are unable to comprehend the complexity of the effects,
-since we can create arbitrary computationally hard problems.
+since we can create arbitrarily hard computational problems.
 On the other hand, this could be exploited to narrow down the search for the correct physical theory of observers.
