@@ -435,3 +435,23 @@ which means there is some minimum amount of structure preservation.
 For example, in language design, a self-hosting compiler is an "ouroborus" Zen level.
 
 For example, in biology, DNA is the sub-language which lets species mutate into new species ("ouroborus" Zen level).
+
+### Abstract Corruption
+
+[See paper about Abstract Corruption](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/abstract-corruption.pdf).
+
+A 0-avatar is usually considered "empty inside".
+This is often interpreted as a private logical language behind some protective interface.
+The emptiness inside, presenting total or arbitrary absurdity, makes it possible for the 0-avatar to exert influence on the Outside world.
+
+In a more complex case, a 0-avatar might be given some limited amount of absurdity,
+but protect the consequences to some extent, e.g. in unsafe blocks of some programming language.
+The unsafe blocks might have undefined behavior, but the specification or design constraints of the language
+might limit the consequences of this behavior, or at least set desirable invariant properties.
+
+In system thinking using a security mindset, one can often simplify an adverserial agent as a perfect 0-avatar,
+which is perfectly evil (from some perspective of another agent) and perfectly capable of lying convincingly to all other agents.
+This leads to the idea that Abstract Corruption is an theoretical embodiement of corruption in a pure abstract form.
+
+To handle Abstract Corruption pragmatically, one can design systems to swap the node of the 0-avatar in locations of a graph,
+such that multiple nodes can be potentially 0-avatars. These are called "core candidates".
