@@ -6,6 +6,33 @@ This page is for organizing all important ideas about Avatar Extension in one pl
 
 [Reading Sequence of papers](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#avatar-extensions)
 
+### Introduction: The Problem of Over-Constrained Theories
+
+In mathematics, a common problem is that some language is too simple to fit some task.
+For example, in Group Theory, one if a constructed group does not fit a problem,
+it kind of falls together like a house of cards, or merely represents a "shadow" of the whole structure.
+
+Avatar Extensions is about extending "simpler" theories abstractly using avatars.
+This is done by taking some over-constrained language and introducing avatars into it, from within, like manipulating the source code.
+The idea is to search for these "simpler" theories first and later extend them to fit a particular use case,
+instead of looking for the most generic theory that fits all use cases.
+It is sometimes more pragmatic to fix over-constrained theories than to add axioms to under-constrained theories.
+
+**Technical comment:**  
+For example, First Order Logic has unconstrained predicates, which requires adding axioms to even talk about uniqueness.
+In practice, one needs automatic theorem provers to report an error if two symbols are used ambiguously,
+which technically is not part of logic since good pure logic design should treat two propositions `a, b` as equal if they are tautologically equal `(a == b)^true`.
+In some theories this is merely an assumption, which means that ambiguity of uniqueness properties can not be implemented as pure logical design.
+This means, while logical languages can be applied to almost every problem,
+in practice they do not have sufficient semantics to be practical and efficient.
+This is why Avatar Extensions is a technique to take a "simpler" language,
+with missing desirable logical properties,
+and gradually introduce new properties into it until the design problem is solved.
+
+Avatar Extensions deals with this form of abstract generalization in general,
+by applying specific theories that might be use as guidance to solve problems,
+such as using 1-avatars to "cover" a language design that includes higher n-avatars.
+
 ### Avatar Logic
 
 For an experimental implementation, see [Avalog](https://github.com/advancedresearch/avalog).
