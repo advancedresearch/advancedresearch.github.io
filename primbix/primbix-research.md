@@ -18,7 +18,7 @@ A primbix value counts the number of leaves in the associated binary tree.
 ### Minimum Primbix Sequence
 
 The minimum primbix sequence is a sequence that contains the smallest natural numbers of increasing primbix values.
-Due to difficult of theorem proving about this sequence, very little is currently known about it.
+Due to the difficulty of theorem proving about this sequence, very little is currently known about it.
 
 There is an ongoing effort to search for more terms in the minimum primbix sequence and these are the results so far:
 
