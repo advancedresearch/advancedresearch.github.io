@@ -37,6 +37,12 @@ Climate Action is a form of [deliberate existence](https://advancedresearch.gith
 
 You can find a summary about Climate Action [here](https://advancedresearch.github.io/climateaction/summary).
 
+### Primbix Research
+
+A primbix is a prime of the form `1 + 2 * r * s` where `r, s` are primes.
+
+You can find a summary about Primbix Research [here](https://advancedresearch.github.io/primbix/primbix-research).
+
 ### Blog posts
 
 - [2024-11-08 Trump Cheated](https://advancedresearch.github.io/blog/2024-11-08-trump-cheated)
