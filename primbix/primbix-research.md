@@ -56,7 +56,7 @@ can be kept up by collaboration on primbix research.
 ### Use of Primbixes to get children interested in mathematics
 
 Primes have fascinated mathematicians for over 2 millenia.
-However, with the invention of computers, primes are no long as exciting they once appeared to be.
+However, with the invention of computers, primes are no longer as exciting they once appeared to be.
 Both efficient algorithms and theoretical advancements means we know a lot more about primes now than in the past.
 
 Primbixes increases the difficulty compared to primes,
