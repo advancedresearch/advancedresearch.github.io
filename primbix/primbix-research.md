@@ -39,7 +39,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 9869296583: 14
 ```
 
-The minimum primbix with value 15 is above 32 000 000 000 and less or equal to 370 837 765 219 (which has primbix value 15).
+The minimum primbix with value 15 is above 33 000 000 000 and less or equal to 370 837 765 219 (which has primbix value 15).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -65,3 +65,9 @@ A new discovery by a supercomputer can be used in combination with human knowled
 
 This way, primbixes are designed to let people become engaged as a hobby,
 in addition to expert researchers working in this field to advance human knowledge.
+
+### List of open problems
+
+- Is the minimum primbix sequence infinite?
+- Can all primes be held in a single infinite-primbix?
+- Does all primes held by the minimum primbix sequence cover all primes?
