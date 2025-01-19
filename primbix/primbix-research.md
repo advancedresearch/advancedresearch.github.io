@@ -23,6 +23,7 @@ Due to the difficulty of theorem proving about this sequence, very little is cur
 There is an ongoing effort to search for more terms in the minimum primbix sequence and these are the results so far:
 
 ```
+0: 0
 2: 1
 13: 2
 53: 3
