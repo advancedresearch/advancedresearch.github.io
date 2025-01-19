@@ -71,4 +71,4 @@ in addition to expert researchers working in this field to advance human knowled
 
 - Is the minimum primbix sequence infinite?
 - Can all primes be held in a single infinite-primbix?
-- Does all primes held by the minimum primbix sequence cover all primes?
+- Does the set of all primes held by the minimum primbix sequence cover all primes?
