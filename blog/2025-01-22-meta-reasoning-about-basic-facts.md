@@ -81,6 +81,9 @@ It is possible to prove the following in L:
 (a1 & a2 -> b) -> (!b -> !(a1 & a2))
 ```
 
+However, this is not sufficient, because it does not allow us to pick out any particular basic fact to correct it.
+It only tells us that all the basic facts one assumed, combined, are wrong.
+
 By adding assumptions of the excluded middle of the basic facts `a1, a2`, I can prove the following (using [Hooo](https://github.com/advancedresearch/hooo)):
 
 ```
