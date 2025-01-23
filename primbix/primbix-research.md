@@ -15,6 +15,8 @@ A primbix value counts the number of leaves in the associated binary tree.
 - Primes have primbix value 1 or higher
 - Primbixes have primbix value 2 or higher
 
+For more information, see [Primbix](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/primbix.pdf) paper.
+
 ### Minimum Primbix Sequence
 
 The minimum primbix sequence is a sequence that contains the smallest natural numbers of increasing primbix values.
