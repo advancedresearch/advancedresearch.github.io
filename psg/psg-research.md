@@ -76,7 +76,7 @@ one can show the existence of infinitely many pairs of consecutive primes that d
 - Cousin: `a + 4 = a + 2*2 = b`
 - Sexy: `a + 6 = a + 2*3 = b`
 
-This results means that at least one of these sets are infinite and therefore either
+This result means that at least one of these sets are infinite and therefore either
 the twin prime conjective holds or the couple prime conjecture `a + 2*p = b` holds (since `2` and `3` are primes),
 but only in the context where the Elliott–Halberstam conjecture holds.
 
