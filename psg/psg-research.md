@@ -62,3 +62,6 @@ The solutions for PSG are two sets:
 At least one of these sets must be infinite.
 
 Polignac's conjecture implies both sets are infinite.
+
+Notice that 2), the prime `p` does not need to be fixed for all `a, b` by the PSG conjecture.
+There could be a finite number of solutions for any `p`, yet together they make up an infinite set.
