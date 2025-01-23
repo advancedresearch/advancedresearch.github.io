@@ -57,6 +57,7 @@ You can find a summary about PSG research [here](https://advancedresearch.github
 
 ### Blog posts
 
+- [2025-01-23 How to Use Game Design to Make Mathematics Better](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/blog/2025-01-23-how-to-use-game-design-to-make-mathematics-better.md)
 - [2025-01-22 Meta-Reasoning about Basic Facts](https://advancedresearch.github.io/blog/2025-01-22-meta-reasoning-about-basic-facts)
 - [2024-11-08 Trump Cheated](https://advancedresearch.github.io/blog/2024-11-08-trump-cheated)
 - [2023-12-20 Path Functorialism: A Wittgensteinean Critique of Naturalism](https://advancedresearch.github.io/blog/2023-12-20-path-functionialism-a-wittgensteinean-critique-of-naturalism)
