@@ -43,6 +43,18 @@ A primbix is a prime of the form `1 + 2 * r * s` where `r, s` are primes.
 
 You can find a summary about Primbix Research [here](https://advancedresearch.github.io/primbix/primbix-research).
 
+### Prime Symmetric Goldbach Research
+
+Prime Symmetric Goldbach (PSG) conjecture states that for all `n > 1 & (n % 6) == 0`:
+
+```
+n = a + p = b - p
+```
+
+Some solution exists where `a, b` are primes and `p` is a 1-or-prime.
+
+You can find a summary about PSG research [here](https://advancedresearch.github.io/psg/psg-research).
+
 ### Blog posts
 
 - [2025-01-22 Meta-Reasoning about Basic Facts](https://advancedresearch.github.io/blog/2025-01-22-meta-reasoning-about-basic-facts)
