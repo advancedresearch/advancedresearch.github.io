@@ -22,6 +22,8 @@ n = a + p = b - p
 
 Some solution exists, where `a, b` are primes and `p` is a 1-or-prime.
 
+For more information, see [Prime Symmetric Goldbach](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/prime-symmetric-goldbach.pdf) paper.
+
 ### Connection to the twin prime conjecture and Polignac's conjecture
 
 The twin prime conjecture states that there are infinity many solutions for:
