@@ -81,3 +81,31 @@ the twin prime conjective holds or the couple prime conjecture `a + 2*p = b` hol
 but only in the context where the Elliott–Halberstam conjecture holds.
 
 This is stronger than what is implied by PSG, but weaker than what is implied by Polignac's conjecture.
+
+For more information, see [wiki](https://michaelnielsen.org/polymath/index.php?title=Bounded_gaps_between_primes) entry on the Polymath project.
+
+### The M3 conjecture and a path toward proving the twin prime conjecture
+
+The "Minus 3" conjecture, or M3 conjecture for short, states that there is a sequence containing 1 and all primes except 2 and 3.
+This sequence is given by the order of extending `n` with new values of `p` as `n` grows, such that `a = n - p` and `b = n + p`.
+Each number is listed exactly once in the sequence, so only new numbers are added.
+The same constraints as for the PSG conjecture holds.
+
+Since this sequence does not contain 2 or 2, the M3 conjecture implies that there are no cousin or sexy primes in base 6 (when `(n % 6) == 0`).
+
+In base 6, every prime number greater than 3 must end in 1 or 5, and every twin prime must be a pairing of numbers ending in 5 and 1 consecutively.
+Therefore, all twin primes occur centered around base 6, except the first twin pair `3, 5`.
+
+Now, if there are infinite pairs that differ by at most 6 centered on base 6,
+then because there are none cousin or sexy primes by M3, the twin prime conjecture must be true.
+
+However, the result from the Polymath group only holds for natural numbers in general and not for pairs centered on base 6.
+
+If the Polymath result is modified to hold for pairs centered on base 6,
+then one gets the following:
+
+```
+PSG & M3 & modified-Polymath8-GEH => twin-prime
+```
+
+This might be a viable path toward proving the twin prime conjecture, but this in turn depends on PSG and M3.
