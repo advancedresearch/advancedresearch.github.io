@@ -65,3 +65,19 @@ Polignac's conjecture implies both sets are infinite.
 
 Notice that 2), the prime `p` does not need to be fixed for all `a, b` by the PSG conjecture.
 There could be a finite number of solutions for any `p`, yet together they make up an infinite set.
+
+### Progress done by the Polymath group
+
+In August 2014, the Polymath group, seeking the proof of the twin prime conjecture,
+showed that if the generalized Elliott–Halberstam conjecture is proven,
+one can show the existence of infinitely many pairs of consecutive primes that differ by at most 6 and as such they are either twin, cousin or sexy primes.
+
+- Twin: `a + 2 = b`
+- Cousin: `a + 4 = a + 2*2 = b`
+- Sexy: `a + 6 = a + 2*3 = b`
+
+This results means that at least one of these sets are infinite and therefore either
+the twin prime conjective holds or the couple prime conjecture `a + 2*p = b` holds (since `2` and `3` are primes),
+but only in the context where the Elliott–Halberstam conjecture holds.
+
+This is stronger than what is implied by PSG, but weaker than what is implied by Polignac's conjecture.
