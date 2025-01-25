@@ -46,14 +46,14 @@ The minimum primbix with value 15 is above 19 007 000 000 and less or equal to 3
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
-There are currently 8 dedicated CPU cores that work on this search 24/7.
+There are currently 16 dedicated CPU cores that work on this search 24/7.
 
 To make collaboration easier, the search is split into billions, with the highest minimum primbix found so far in this range:
 
 ```
-[19 000 000 000, 19 014 528 000): 10, 19 004 023 163
+[19 000 000 000, 19 016 000 000): 10, 19 004 023 163
 [20 000 000 000, 20 000 240 000): 8, 20 000 050 319
-[21 000 000 000, 21 000 500 000): 8, 21 000 137 219
+[21 000 000 000, 21 000 500 000): 8, 21 000 137 219 <-- 8 CPUs
 [22 000 000 000, 22 000 080 000): 7, 22 000 037 063
 [23 000 000 000, 23 000 080 000): 7, 23 000 045 063
 [24 000 000 000, 24 000 080 000): 7, 24 000 006 203
