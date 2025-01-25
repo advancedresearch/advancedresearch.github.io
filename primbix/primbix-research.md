@@ -46,7 +46,23 @@ The minimum primbix with value 15 is above 19 007 000 000 and less or equal to 3
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
-There are currently 8 dedicated CPU cores that increases the lower bound 24/7.
+There are currently 8 dedicated CPU cores that work on this search 24/7.
+
+To make collaboration easier, the search is split into billions, with the highest minimum primbix found so far in this range:
+
+```
+[19 000 000 000, 19 007 048 000): 10, 19 004 023 163
+[20 000 000 000, 20 000 240 000): 8, 20 000 050 319
+[21 000 000 000, 21 000 080 000): 6, 21 000 006 283
+[22 000 000 000, 22 000 080 000): 7, 22 000 037 063
+[23 000 000 000, 23 000 080 000): 7, 23 000 045 063
+[24 000 000 000, 24 000 080 000): 7, 24 000 006 203
+[25 000 000 000, 25 000 080 000): 6, 25 000 076 447 <- 8 CPUs
+[26 000 000 000, 26 008 080 000): 10, 26 007 356 003
+[27 000 000 000, 27 008 160 000): 9, 27 001 785 523
+[28 000 000 000, 28 008 352 000): 10, 28 001 796 863
+[29 000 000 000, 29 001 040 000): 8, 29 000 202 467
+```
 
 ### Use of Primbixes in Galactic Communication
 
