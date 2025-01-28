@@ -132,4 +132,33 @@ Remember, the more work you put into the basic training,
 the less energy you have to spend in the higher exercises.
 Do not try to over-exercise your brain.
 
+## Abstract Exercises
+
+These exercises take what you learned from basic training and applying them abstractly.
+
+### Level 1: Do not try to visualize the Joker - Part I
+
+Think about the following codes in sequence, pausing 5 seconds between on each:
+
+1. `0`
+2. `1`
+3. `?0`
+
+When you come to the third step, you brain will attempt to visualize the Joker `0` with the code `?0`.
+Do not let your brain visualize, but just rest your eyes on the expression of the third step.
+
+Repeat.
+
+### Level 2: Do not try to visualize the Joker - Part II
+
+This exercise is the same as level 1, but with `?1` instead of `?0`.
+
+Think about the following codes in sequence, pausing 5 seconds between on each:
+
+1. `1`
+2. `0`
+3. `?1`
+
+When you come to the third step, you brain will attempt to visualize the Joker `1` with the code `?1`.
+Do not let your brain visualize, but just rest your eyes on the expression of the third step.
 
