@@ -116,7 +116,7 @@ Do the same exercise as level 10, but now do it only from the up direction label
 1. Imagine a down arrow, pointing at label "1".
 2. Imagine holding an invisible magnet in your invisible hand.
 3. When you move the magnet close to the arrow from above, it moves, pointing at label "0".
-4. When you move the magnet down and away from the arrow, it goes back to "1".
+4. When you move the magnet up and away from the arrow, it goes back to "1".
 6. Repeat.
 
 ### Level 13: Naming the distracted arrow - Part II
