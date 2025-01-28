@@ -33,10 +33,10 @@ You can find a summary about Path Semantical Quality [here](./quality/summary.md
 
 ### Joker Calculus
 
-Joker Calculus is a formal language that can describe higher dualities.
+Joker Calculus is a formal language that can describe higher dualities.  
 It generalizes `0` and `1` to `0 1`, `1 0`, `?0`, `?1`, `0 ?0` etc.
 
-You can find a summary about Joker Calculus [here](./joker-calculus/summary.md)
+You can find a summary about Joker Calculus [here](./joker-calculus/summary.md).
 
 ### Climate Action
 
