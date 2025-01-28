@@ -21,6 +21,10 @@ one can train the mind to become better using Joker Calculus in combination with
 
 Basically, it is like formalizing your imagination.
 
+## Basic Exercises
+
+These exercises are made to make people understand the basics of Joker Calculus.
+
 ### Level 1: Up and down
 
 1. Imagine an up arrow.
@@ -62,4 +66,70 @@ Do the same exercise as level 3, but instead of a force driving the arrow down t
 ### Level 5: Naming the flipped Joker
 
 Do the same exercise as level 4, but now think about this as having the code `?0`.
+
+### Level 6: Attracting the arrow - Part I
+
+1. Imagine an up arrow, pointing at label "0".
+2. Imagine holding an invisible magnet in your invisible hand.
+3. When you move the magnet close to the arrow, it moves, pointing in that direction.
+4. When you move the magnet away from the arrow, it goes back to "0".
+6. Repeat.
+
+### Level 7: Attracting the arrow from multiple directions - Part I
+
+Do the same exercise as level 6, but try to vary the directions from where you move the magnet close to the arrow.
+Repeat this excercise until you are comfortable approaching the arrow from any direction, including up and down.
+
+### Level 8: Attracting the 0 arrow from 1 - Part I
+
+Do the same exercise as level 6, but now do it only from the down direction labeled "1".
+
+1. Imagine an up arrow, pointing at label "0".
+2. Imagine holding an invisible magnet in your invisible hand.
+3. When you move the magnet close to the arrow from below, it moves, pointing at label "1".
+4. When you move the magnet down and away from the arrow, it goes back to "0".
+6. Repeat.
+
+### Level 9: Naming the distracted arrow - Part I
+
+Do the same exercise as level 8, but now think about this as having the code "1 0".
+
+### Level 10: Attracting the arrow - Part II
+
+This exercise is the same as level 6, but for down instead of up.
+
+1. Imagine a down arrow, pointing at label "1".
+2. Imagine holding an invisible magnet in your invisible hand.
+3. When you move the magnet close to the arrow, it moves, pointing in that direction.
+4. When you move the magnet away from the arrow, it goes back to "1".
+6. Repeat.
+
+### Level 11: Attracting the arrow from multiple directions - Part II
+
+Do the same exercise as level 10, but try to vary the directions from where you move the magnet close to the arrow.
+Repeat this excercise until you are comfortable approaching the arrow from any direction, including up and down.
+
+### Level 12: Attracting the 1 arrow from 0 - Part II
+
+Do the same exercise as level 10, but now do it only from the up direction labeled "0".
+
+1. Imagine a down arrow, pointing at label "1".
+2. Imagine holding an invisible magnet in your invisible hand.
+3. When you move the magnet close to the arrow from above, it moves, pointing at label "0".
+4. When you move the magnet down and away from the arrow, it goes back to "1".
+6. Repeat.
+
+### Level 13: Naming the distracted arrow - Part II
+
+Do the same exercise as level 12, but now think about this as having the code "0 1".
+
+### Basic Exercises: Conclusion
+
+Congratulations! You have now completed the training of basic exercises for Joker Calculus.
+
+If you struggle with higher exercises, then take a break and start warming up with basic exercises.
+Remember, the more work you put into the basic training,
+the less energy you have to spend in the higher exercises.
+Do not try to over-exercise your brain.
+
 
