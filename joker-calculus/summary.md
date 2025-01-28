@@ -19,3 +19,18 @@ Imagine a conversation between two people:
 Just like one can train the body using exercises that are repetitive and seemingly useless seen from the perspective of a single moment,
 one can train the mind to become better using Joker Calculus in combination with ideas such as philosophy, art or mathematics.
 
+Basically, it is like formalizing your imagination.
+
+### Level 1: Up and down
+
+1. Imagine an up arrow.
+2. Turn the arrow slowly down using an invisible hand in your imagination.
+3. Release the arrow slightly before it is down.
+4. Let the arrow snap into place as if attracted by a magnet.
+5. Turn the arrow up again.
+6. Repeat.
+
+### Level 2: 0 and 1
+
+Do the same exercise as level 1, but now there is a label on top, showing "0" and a label at the bottom showing "1".
+
