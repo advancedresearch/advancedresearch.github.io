@@ -162,3 +162,93 @@ Think about the following codes in sequence, pausing 5 seconds between on each:
 When you come to the third step, you brain will attempt to visualize the Joker `1` with the code `?1`.
 Do not let your brain visualize, but just rest your eyes on the expression of the third step.
 
+### Level 3: Embodiment - Part I
+
+1. Visualize an up arrow pointing toward "0".
+2. Imagine a transformation of this image into a landscape around you.
+3. You are standing at the label "1", watching "0" from afar.
+4. Repeat.
+
+### Level 4: Naming embodiment - Part I
+
+Do the same exercise as level 3, but now think about this as having the code `1 0`.
+
+### Level 5: Embodiment - Part II
+
+1. Visualize a down arrow pointing toward "1".
+2. Imagine a transformation of this image into a landscape around you.
+3. You are standing at the label "0", watching "1" from afar.
+4. Repeat.
+
+### Level 6: Naming embodiment - Part II
+
+Do the same exercise as level 5, but now think about this as having the code `0 1`.
+
+### Level 7: Swapping perspective - Part I
+
+Think about the following steps, resting 5 seconds at each:
+
+1. `1 0`.
+2. `0 1`.
+
+Just let your brain do whatever it wants, whether you visualize or not.
+
+Repeat.
+
+### Level 8: Swapping perspective - Part II
+
+Do the same exercise as level 7, but reverse the order.
+
+Think about the following steps, resting 5 seconds at each:
+
+1. `0 1`.
+2. `1 0`.
+
+Just let your brain do whatever it wants, whether you visualize or not.
+
+Repeat.
+
+### Level 9: Reflection - Level 1 and Level 2
+
+This exercise is a meta-exercise, where you just reflect on exercises performed from level 1 to level 2.
+
+Think about the following steps, resting 5 seconds at each:
+
+1. Level 1.
+2. Level 2.
+
+Do not force your brain to visualize or not, just let it do what it wants.
+
+You do not have to look up the exercises.
+Just let the steps refer to these exercises, but do not force yourself to give them any meaning.
+
+Repeat.
+
+### Level 9: Reflection - Level 3 to Level 6
+
+This exercise is a meta-exercise, where you just reflect on exercises performed from level 3 to level 6.
+
+1. Just think "Level 3 to level 6".
+2. Try remember what these exercises were, but do not force yourself to remember them.
+3. Repeat.
+
+### Level 9: Forgetting - Level 7 and Level 8
+
+This exercise is a meta-exercise, where you just try to forget what level 7 and level 8 were about.
+
+1. Just think "Level 7 and level 8".
+2. Try to forget what these exercises where.
+3. Repeat.
+
+You do not have to force yourself to forget. Just try.
+
+### Abstract Exercises: Conclusion
+
+Congratulations! You have now completed the training of abstract exercises for Joker Calculus.
+
+Abstract exercises help your brain rest and save energy on work it does not need to do.
+Do not worry, the symbols carry all meaning that you need.
+
+However, if your brain wants to visualize, then just let it.
+There is no need to force the brain to save energy it does not want to save.
+
