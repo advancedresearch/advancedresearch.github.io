@@ -51,7 +51,7 @@ There are currently 16 dedicated CPU cores that work on this search 24/7.
 To make collaboration easier, the search is split into billions, with the highest minimum primbix found so far in this range:
 
 ```
-[19 000 000 000, 19 020 000 000): 10, 19 004 023 163
+[19 000 000 000, 19 040 000 000): 11, 19 031 043 299
 [20 000 000 000, 20 000 240 000): 8, 20 000 050 319
 [21 000 000 000, 21 030 000 000): 10, 21 018 975 227
 [22 000 000 000, 22 000 080 000): 7, 22 000 037 063 <-- 8 CPUs
