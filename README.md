@@ -31,11 +31,18 @@ Path Semantical Quality is a partial equivalence relation that lifts bicondition
 
 You can find a summary about Path Semantical Quality [here](./quality/summary.md).
 
+### Joker Calculus
+
+Joker Calculus is a formal language that can describe higher dualities.
+It generalizes `0` and `1` to `0 1`, `1 0`, `?0`, `?1`, `0 ?0` etc.
+
+You can find a summary about Joker Calculus [here](./joker-calculus/summary.md)
+
 ### Climate Action
 
 Climate Action is a form of [deliberate existence](https://advancedresearch.github.io/blog/2022-03-10-deliberate-existence) to address [Climate Change](https://en.wikipedia.org/wiki/Climate_change).
 
-You can find a summary about Climate Action [here](https://advancedresearch.github.io/climateaction/summary).
+You can find a summary about Climate Action [here](./climateaction/summary).
 
 ### Primbix Research
 
