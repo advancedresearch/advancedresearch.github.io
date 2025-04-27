@@ -220,6 +220,29 @@ However, these people are not Path Semanticists, and fail to meet the highest st
 All Path Semanticists have to make this design choice deliberately by design.
 It is acceptable to assume normal congruence sometimes, but one should learn to understand why.
 
+### There is no escape from Path Semantics
+
+There is no such thing as avoiding Path Semantics as a field for advanced civilizations.
+Path Semantics is the foundation that all advanced civilizations are building upon.
+You can pretend they are not, but that is just faulty reasoning.
+
+For example, it is not possible to design a mathematical language where normal congruence covers every aspect of math.
+This is just a fact of reality, that has to be accepted by everyone that wants to build an advanced civilization.
+As a private person, you are free to believe in anything you want.
+However, that does not make you a Path Semanticist.
+Path Semanticists must meet the expectations of the highest standards of mathematical knowledge.
+
+On the other hand, this does not mean that Path Semanticists e.g. produce formal proofs of all their work.
+That is completely irrelevant, but might be useful sometimes.
+It is all about agreeing upon the principles for mathematical language design according to the core axiom.
+This can be informal tacit knowledge and still welcomed by the community.
+
+Therefore, from the perspective of Path Semantics,
+any civilization without Path Semanticists is not an advanced civilization,
+because that would not result in expectations of the highest standards of mathematical knowledge.
+
+There is simply no escape.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
