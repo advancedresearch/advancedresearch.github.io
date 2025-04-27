@@ -30,6 +30,8 @@ The model of Path Semantical Quality is formalized in [Hooo](https://github.com/
 
 [Slides of the talk that introduced the Logi Circle](https://github.com/advancedresearch/path_semantics/blob/master/lectures/introduction-to-path-semantics/transcript-of-introduction-to-path-semantics.pdf)
 
+The Local vs Global distinction is well familiar to mathematicians, but the Inside vs Outside distinction was recently developed.
+
 An Inside Theory is some language where unknowns have a model in some grammar.
 This means, when copying all information to the Inside Theory,
 one can reason about that mathematical object without needing to communicate with the outside world.
@@ -42,11 +44,13 @@ might be seen as a threat by the agent that speaks the language using Outside Th
 
 This has philosophical consequences for AGI safety:
 
-- Agents who use Inside Theory might accidentally destroy the world after collecting all information that is need to simulate the world perfectly
-- Agents who use Outside the might accidentally destroy the world due perceiving events it can not control as a threat to its own continuous existence
+- Agents who use Inside Theory might accidentally destroy the world,  
+  after collecting all information that is need to simulate the world perfectly
+- Agents who use Outside Theory might accidentally destroy the world,  
+  due perceiving events it can not control as a threat to its own continuous existence
 
 Mathematics as a whole is classified by Inside vs Outside theory, which together with Local vs Global perspectives gives the Logi Circle:
-Some authors, e.g. Kent Palmer (PhD), calls the Inside vs Outside theory distinction for "Nilsen theories", after Sven Nilsen, the founder of Path Semantics and the first person who used this distinction to classical mathematical language design.
+Some authors, e.g. Kent Palmer (PhD), calls the Inside vs Outside theory distinction for "Nilsen theories" (e.g. [this paper](https://www.academia.edu/45073917/Asymmetries_of_Complementary_Nilsen_Theories)), after Sven Nilsen, the founder of Path Semantics and the first person who used this distinction to classical mathematical language design.
 
 ### Path Interpretation
 
