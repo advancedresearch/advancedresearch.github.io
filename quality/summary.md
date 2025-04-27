@@ -182,6 +182,44 @@ This is why Path Semanticists never debate science itself as problematic in this
 PSQ is already a convincing argument that shows why science works like it does.
 It means, people who deny science can not be called Path Semanticists.
 
+### Tautological congruence
+
+The qubit operator `~` is tautological congruent.
+
+Most operators in mathematics are normal congruent:
+
+```text
+cong'(f) := sym(f, all((a == b) => (f'(a) == f'(b))))(f)
+```
+
+A tautological congruent operator has the following property:
+
+```text
+tauto_cong'(f) := sym(f, all((a == b)^true => (f'(a) == f'(b))))(f)
+```
+
+All normal congruent operators are tautological congruent.
+However, not all tautological congruent operators are normal congruent.
+When an operator is tautological congruent, but not normal congruent,
+one says that it is tautological congruent.
+In some languages, one can add axioms to make a tautological congruent operator normal congruent.
+
+So, there is no incompatibility with normal congruence,
+it is just that normal congruence is not high enough standard of mathematical knowledge.
+The difference is that in language design, one must either separate
+the universes of operators that are not normal congruent from the others,
+or: Introduce axioms or prove congruence explicitly for each operator.
+
+- In the Prop library, the universes are separated for ease of use.
+- In the Hooo theorem prover, which is designed for foundational research,
+  congruence has to be assumed or proved for each operator
+
+Ergonomically, proving congruence for each operator is a pain for the user.
+This is why many fields of mathematics accept assuming normal congruence everywhere.
+However, these people are not Path Semanticists, and fail to meet the highest standards of mathematical knowledge.
+All Path Semanticists have to make this design choice deliberately by design.
+It is acceptable to assume normal congruence sometimes, but one should learn to understand why.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
