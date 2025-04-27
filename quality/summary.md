@@ -18,6 +18,36 @@ This page is for organizing all important ideas about quality in one place.
 
 The model of Path Semantical Quality is formalized in [Hooo](https://github.com/advancedresearch/hooo) and [Prop](https://github.com/advancedresearch/prop).
 
+### Inside vs Outside Theory and the Logi Circle
+
+![Logi Circle](https://github.com/user-attachments/assets/e25b7bac-d778-43bb-a517-8918f4934264)
+
+- L: Local
+- O: Outside 
+- G: Global
+- I: Inside
+- C: Center/Core (the core axiom of Path Semantics)
+
+[Slides of the talk that introduced the Logi Circle](https://github.com/advancedresearch/path_semantics/blob/master/lectures/introduction-to-path-semantics/transcript-of-introduction-to-path-semantics.pdf)
+
+An Inside Theory is some language where unknowns have a model in some grammar.
+This means, when copying all information to the Inside Theory,
+one can reason about that mathematical object without needing to communicate with the outside world.
+The original object can be destroyed without impacting further reasoning.
+
+An Outside Theory contains at least one symbol which is intrinsically unknown.
+This means, the language has to interact with the outside world continuously over time to achieve truth.
+Any even in the outside world that can influence the language's ability to interact,
+might be seen as a threat by the agent that speaks the language using Outside Theory.
+
+This has philosophical consequences for AGI safety:
+
+- Agents who use Inside Theory might accidentally destroy the world after collecting all information that is need to simulate the world perfectly
+- Agents who use Outside the might accidentally destroy the world due perceiving events it can not control as a threat to its own continuous existence
+
+Mathematics as a whole is classified by Inside vs Outside theory, which together with Local vs Global perspectives gives the Logi Circle:
+Some authors, e.g. Kent Palmer (PhD), calls the Inside vs Outside theory distinction for "Nilsen theories", after Sven Nilsen, the founder of Path Semantics and the first person who used this distinction to classical mathematical language design.
+
 ### Path Interpretation
 
 A [homotopy path](https://en.wikipedia.org/wiki/Homotopy) is a path between paths such that one path can be deformed into another.
@@ -181,6 +211,14 @@ As a philosophical consequence, the mathematical foundation of the scientific me
 This is why Path Semanticists never debate science itself as problematic in this sense.
 PSQ is already a convincing argument that shows why science works like it does.
 It means, people who deny science can not be called Path Semanticists.
+
+### PSQ is an Outside Theory of Mathematics
+
+It is impossible to build a complete model of `~` within PSQ without the HOOO EP axioms.
+However, it is possible to build a model up to some finite limit of applying `~` recursively.
+
+This means, that PSQ is Outside theory of mathematics, in the sense of [Avatar Schema Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-schema-theory).
+The reason is that PSQ contains a symbol, which is `~`, that does not refer to the theory of PSQ.
 
 ### Tautological congruence
 
@@ -499,43 +537,6 @@ This is an exponential speedup in performance, but it has still exponential comp
 
 If you want to prove a theorem `f` in PSL of two propositions `a, b` such that it corresponds to PSQ,
 you need to use `f(a, b) & f(a, a) & f(b, b)` (the theorem needs to be proven for the end points too, not just the path).
-
-### Inside vs Outside Theory and the Logi Circle
-
-An Inside Theory is some language where unknowns have a model in some grammar.
-This means, when copying all information to the Inside Theory,
-one can reason about that mathematical object without needing to communicate with the outside world.
-The original object can be destroyed without impacting further reasoning.
-
-An Outside Theory contains at least one symbol which is intrinsically unknown.
-This means, the language has to interact with the outside world continuously over time to achieve truth.
-Any even in the outside world that can influence the language's ability to interact,
-might be seen as a threat by the agent that speaks the language using Outside Theory.
-
-This has philosophical consequences for AGI safety:
-
-- Agents who use Inside Theory might accidentally destroy the world after collecting all information that is need to simulate the world perfectly
-- Agents who use Outside the might accidentally destroy the world due perceiving events it can not control as a threat to its own continuous existence
-
-Mathematics as a whole is classified by Inside vs Outside theory, which together with Local vs Global perspectives gives the Logi Circle:
-
-![Logi Circle](https://github.com/user-attachments/assets/e25b7bac-d778-43bb-a517-8918f4934264)
-
-- L: Local
-- O: Outside 
-- G: Global
-- I: Inside
-- C: Center/Core (the core axiom of Path Semantics)
-
-### PSQ is an Outside Theory of Mathematics
-
-It is impossible to build a complete model of `~` within PSQ without the HOOO EP axioms.
-However, it is possible to build a model up to some finite limit of applying `~` recursively.
-
-This means, that PSQ is Outside theory of mathematics, in the sense of [Avatar Schema Theory](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-schema-theory).
-The reason is that PSQ contains a symbol, which is `~`, that does not refer to the theory of PSQ.
-
-
 
 ### PSQ - Path Semantical Quantum Propositional Logic
 
