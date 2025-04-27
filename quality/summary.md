@@ -1,21 +1,22 @@
 # Path Semantical Quality
 
-Path Semantical Quality is a partial equivalence relation that lifts biconditions with symbolic distinction.
+Path Semantical Quality is a tautological congruent partial equivalence relation that lifts biconditions with symbolic distinction.
+
+While Path Semantical Quality is a highly technical topic, the idea is very simple: To enable modeling mathematics in language design.
+To new people unfamiliar with Path Semantics, it might seem very surprising that this highly technical definition
+is very central to a modern understanding of mathematics.
+The research on Path Semantics has resulted in many breakthroughs and deep results,
+that gives insights into the nature of existence from a language design perspective.
+
+The theory about Path Semantical Quality is the logical foundation of Path Semantics.
+This foundation is famous for being minimalistic in design, while bridging to an enormous body of mathematical knowledge.
+For example, Algebra, Set Theory, Group Theory, Category Theory, Homotopy Type Theory, Topology, Avatar Extensions,
+interpretation of metaphysical time and quantum behavior.
+Basically, everything that people think of as standard mathematics and computation, plus a lot more.
 
 This page is for organizing all important ideas about quality in one place.
 
-[Paper](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-quality.pdf)
-
-The model of Path Semantical Quality is formalized in [Prop](https://github.com/advancedresearch/prop).
-
-### Notation
-
-A quality between `a` and `b` is written:
-
-```
-a ~~ b
-```
-In Prop, this is written `Q<A, B>`.
+The model of Path Semantical Quality is formalized in [Hooo](https://github.com/advancedresearch/hooo) and [Prop](https://github.com/advancedresearch/prop).
 
 ### Path Interpretation
 
@@ -23,22 +24,44 @@ A [homotopy path](https://en.wikipedia.org/wiki/Homotopy) is a path between path
 
 ![homotopy path](https://upload.wikimedia.org/wikipedia/commons/7/7e/HomotopySmall.gif)
 
-`a ~~ b` means that there is a path between two paths `a` and `b`.
+For simplicity's sake, one can avoid using the words "point" and "homotopy" and instead talk only about paths.  
+So, there are only paths and paths between paths.  
 
-Notice that there is a slight difference in terminology between "homotopy path" and "path":
+For example, when one says `a`, this can be a path.  
+The kind of path that `a` is, depends on its mathematical properties.  
 
-- `(a => b) => (a ~~ b)` a homotopy path in [univalence foundations](https://en.wikipedia.org/wiki/Univalent_foundations) (`Hom<A, B>` in Prop)
-- `a ~~ b` a path between `a` and `b` (`Q<A, B>` in Prop)
+Our intuition of paths gives a nice semantics to mathematical proofs.
+Therefore, this idea of paths is very important in mathematical language design.
 
-To avoid ambiguity, one can say "quality" instead of "path".
+The name "Path Semantics" comes from interpreting semantics from the perspective of paths for various domains.
+Path Semantics is a new field and discipline being establised to bridge all domains of human knowledge,
+connecting all domains to one central theory: The fundamental theory of advanced civilizations.
 
-### Homotopy paths, Univalence and Symbolic Distinction
+### Standard Fundamental Path Operators
 
-A homotopy path implies univalence (`(a == b) ~~ (a ~~ b)`, `Univ<A, B>` in Prop).
-However, univalence does not imply a homotopy path.
-Therefore, a homotopy path is a stronger assumption than univalence.
+Depending on the theory one might wish to design, there are various needs for different notions of paths.
 
-Univalence is equal to symbolic distiction (`(a == b) => (a ~~ b)`, `EqQ<A, B>` in Prop).
+- Weak: A path that assumes less. With other words: It has fewer mathematical properties.
+- Strong: A path that assumes more: With other words: It has more mathematical properties.
+
+In Path Semantics, there is a hierachy of standard path operators that goes from the fundamental path semantical qubit operator `~` (weakest) to the strongest equality (strongest):
+
+| Symbol | Name | Definition | Properties | Paper |
+| ------------ |  ------------ | ------------------------------------ |  ------------------------------------ | ------------------------------------ |
+| qu | Qubit | `~a := <fundamental>` | Tautological congruent + Sesh[*] | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-qubit.pdf) |
+| qi | Qualitative Implication | `(a ~> b) := (a => b) & ~a & ~b` | Transitivity | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/qualitative-implication.pdf) |
+| q | Quality | `(a ~~ b) := (a == b) & ~a & ~b` | Symmetry + Transitivity | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-quality.pdf) |
+| eq | Equality | `(a == b) := (a => b) & (b => a)` | Reflexivity + Symmetry + Transitivity | [nLab](https://ncatlab.org/nlab/show/equality#propositional_equality) |
+
+[*] *The Sesh axiom, `(!~a == ~!a)^true`, is used by default in standard Path Semantics. Non-standard Path Semantis might not use it.*
+
+All the standard fundamental path operators are valid notions of paths.
+
+For example, one can use `a ~~ b` to express that there is a path between two paths `a` and `b`.
+
+However, some people might say `a == b` to express that there is a path between two paths `a` and `b`.
+
+To avoid ambiguity, one can say "quality" instead of "path" when using `a ~~ b` and "equality" when using `a == b`.
 
 ### Space and Pieces
 
@@ -49,14 +72,25 @@ A piece is a part of a space that is connected by paths.
 
 For an introduction, see lecture by Vladimir Voedvodsky ["An Intuitive Introduction to Motivic Homotopy Theory"](https://www.youtube.com/watch?v=b4BlA7NymIE).
 
-### Quality and Inquality in Philosophy
+Mathematicians often study mathematical spaces and their properties.
+From a perspective of mathematics, is sometimes easy to view everything as some kind of space.
 
-In philosophy, quality and inquality has deep consequences for mathematical languages that are biased toward Platonism or Seshatism respectively.
+### Path Semantics is not about spaces
 
-[Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html)
-is an abstraction generalization technique that exploits symmetries inside “simpler” theories.
-There is a more complex theory behind quality and inquality in Avatar Extensions that is called
-["Avatar Witness Theory"](https://advancedresearch.github.io/avatar-extensions/summary.html#avatar-witness-theory).
+In Path Semantics, it is not common to think about something as a space.
+Path Semanticists try to avoid such biases, because they are often studying language biases and how to leverage them in designs.
+
+When working with design, it is important to not assume too much about what a thing is.
+The easiest way to do that, is simply to avoid talking about it,
+but instead talk about the technicalities that are required to build stuff.
+
+To Path Semanticists, the use of language is more important, than to pretend language makes us know what a thing is.
+
+The difference in philosophy from most of mathematics to Path Semantics,
+is required to distinguish Path Semantics as its own field,
+since Path Semanticists might work outside the foundations of normal math.
+There are expectations in the community of Path Semanticists of what produces high standards of mathematical knowledge,
+that can be sometimes a higher standard than what is commonly accepted by the mathematical community.
 
 ### Quality and Inquality in Logic
 
@@ -81,16 +115,6 @@ This means that when two pieces are disconnected and no symbolic distinction is 
 any hole between them does not enforce the truth value of each piece.
 
 Self-inquality `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
-
-### Homotopy Limit
-
-A homotopy limit of `a` is defined as:
-
-```
-(a ~~ a) => a
-```
-
-In Prop, one can use the `QId` trait to do homotopy limits.
 
 ### PSQ - Path Semantical Quantum Propositional Logic
 
