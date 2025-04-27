@@ -243,6 +243,47 @@ because that would not result in expectations of the highest standards of mathem
 
 There is simply no escape.
 
+#### Higher Order Operator Overloading Exponential Propositions (HOOO EP)
+
+To handle tautological congruence properly, one uses the HOOO EP axioms in Path Semantics:
+
+```text
+pow_lift : a^b -> (a^b)^c
+tauto_hooo_imply : (a => b)^c -> (a^c => b^c)^true
+tauto_hooo_or : (a | b)^c -> (a^c | b^c)^true
+```
+
+Here, `^` means the same as `->`, but with different operator presedence.
+
+- The `^` operator has the highest presedence
+- The `->` operator has the lowest presendence
+
+The HOOO EP axioms are not constructive in the sense they have an underlying source.
+Hence, HOOO EP when added to IPL (Intuitionistic Propositional Logic), becomes Negative Philosophy.
+Negative Philosophy is reasoning about the world prior to its creation.
+
+For example, in IPL plus HOOO EP you can prove some true theorems in PSQ,
+that the classical model of PSQ, for brute force theorem proving, can never prove.
+Thus, such theorems can never be known from certain perspectives of math.
+
+Therefore, since mathematics is extensible toward weaker theories,
+mathematics can never be complete.
+This is a result acceptable for Path Semanticists.
+
+Path Semanticists do not waste their time debating about what is "true" in some ultimate sense.
+Theorems are simply "true" when they can be proved in some language.
+Hence, the theorems are always relative to use of language.
+Since use of language requires symbols and symbols are modeled by the core axiom,
+there is no other foundation that is acceptable to Path Semanticists than Path Semantics.
+In practice though, people are not obligated to be Path Semanticists, all the time.
+You should not confuse the personal side with the professional side of Path Semantics.
+This is one of the reasons Path Semanticists do not talk about things as e.g. spaces,
+like they tend to do in other mathematical communities.
+Why? Because it is obviously depending on which language one uses, or what language one desires to create.
+That is the end of that discussion.
+Of course, as Path Semanticist, you can criticize this and study more in depth what this really means.
+Yet, in the end this is how stuff works and there is not much people can do about it.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
