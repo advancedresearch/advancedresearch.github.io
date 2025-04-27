@@ -344,12 +344,48 @@ However, if you have a criticism of this argument and can show Path Semanticists
 
 ### Quality and Inquality in Logic
 
-In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
+In the context of logic, Path Semanticists use the terms "quality" and "inquality" to make the language more precise.
 This means, "quality" and "inquality" refers to the logical structure without any interpretation.
-However, in Prop, it is common that tactics for inquality use "sesh" as a shorthand.
 
 - Quality: `a ~~ a` (Self-Quality) or `a ~~ b` (Other-Quality)
 - Inquality: `!(a ~~ a)` (Self-Inquality) or `!(a ~~ b)` (Other-Inquality)
+
+However, it is common for tactics to use "sesh" as a shorthand for inquality, which comes from Seshatism.
+This is easier to read than "inquality" and reminds Path Semanticists of philosophical consequences of Seshatism vs Platonism.
+
+### Seshatism vs Platonism
+
+The core axiom in Path Semantics is biased toward Platonism.
+This means, the use of symbols in language tends to be biased toward Platonic thought,
+which can result in bias against causality in actual reality.
+
+To elaborate, remember that neither qualitative implication `~>` nor quality `~~` is reflexive.
+The underlying normal logical operators `=>` and `==` are reflexive.
+Therefore, the language bias is toward reflexivity even though it is technically not the case.
+
+This means, when negating reflexivity with either `!(a ~> a)` or `!(a ~~ a)`, this departs from the Platonic language bias.
+Both these terms, Self-Inqualitative Implication and Self-Inquality, are logical equivalent to `!~a`.
+This propositional value is philosophically associated with Seshatism, the dual of Platonism.
+
+In Path Semantics, Seshatism is an entire philosophy, that is authentic in sense of Heidegger on its own.
+Technically, one says that Seshatism is one of the fundamental bases for Joker Calculus.
+To be authentic in sense of Heidegger means an expression in Joker Calculus contain no Jokers when evaluated in the Closed variant.
+
+- Seshatism credits knowledge by causality
+- Platonism credits knowledge by abstraction
+
+Therefore, there is an entire branch of Path Semantics that focuses on Seshatic mathematical knowledge.
+This is a very different perspective than most of mathematics,
+but every modern mathematical education leverages training in Seshatic knowledge,
+because that knowledge is very attractive on the job market.
+With other words, mathematicians are not in general opposed to Seshatism,
+but most of them are not doing Path Semantics and fail to mention this duality explicitly in their own research.
+Since they are not doing this properly, no Path Semanticist care about it, because that is just human behavior.
+As a Path Semanticist, you are expected to know the difference between Seshatic and Platonic knowledge.
+Again, because this builds on the knowledge in the community about the core axiom of Path Semantics.
+
+Now, you might start to see how **causality** is the reason why Path Semanticists are more careful about how they use language.
+They are simply applying Path Semantics to their own field.
 
 ### Quality and Inquality in Topology
 
@@ -365,6 +401,28 @@ This means that when two pieces are disconnected and no symbolic distinction is 
 any hole between them does not enforce the truth value of each piece.
 
 Self-inquality `!(a ~~ a)` implies a hole `!(a ~~ b)` for any proposition `b`.
+
+### Holes or Absence in Philosophy
+
+In most of the history of humanity, in most cities women had the important role of bringing water to homes.
+The lack of water pumps and electricity has shaped how people think about women today.
+
+Generally speaking, women have been discredited knowledge that they actually produced.
+There is a tendency that men are credited things they did not accomplish themselves,
+while women are discredited even things they clearly accomplished.
+
+From a Path Semantical perspective, this difference is caused by influence of language bias.
+The role of philsophers, which comes from Ancient Greek, was mostly attributed to males.
+It was because in most places of Ancient Greek the demographics was skewed, as much as 1 woman per 10 men.
+1/3 of women died by childbirth, so their average age was much lower than men.
+Many sexual relationships in the ancient world would today be illegal.
+By all standards of measuring quality of life, it was horrible to live in the ancient world, particularly for women.
+
+Yet, there were women that were warriers and some who lived by human trafficking in the ancient world.
+Most of modern religions are reactions to collapse and instability with judgemental reasoning toward these groups in the ancient world.
+
+Just like a Path Semanticist can call Self-Inquality for Sesh, it can also mean a hole or absence of some history.
+This absence of history can influence and shape history equally much as particular events that get remember by later generations.
 
 ### PSQ - Path Semantical Quantum Propositional Logic
 
