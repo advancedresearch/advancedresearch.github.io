@@ -424,6 +424,55 @@ Most of modern religions are reactions to collapse and instability with judgemen
 Just like a Path Semanticist can call Self-Inquality for Sesh, it can also mean a hole or absence of some history.
 This absence of history can influence and shape history equally much as particular events that get remember by later generations.
 
+### Internal Difference in Philosophy and Mathematics
+
+An Internal Difference in philosophy happens when some idea in language is dualistic seen from within the language,
+but non-dual for speakers who do not speak that same language.
+
+For example, the word "cow" in English is used both for the mother of a calf, but also for cattle in general.
+In the case of "cowboy", the "cow" part of this word refers to cattle, therefore "cattle-boy", not "mother-of-the-calf-boy".
+
+To people who do are learning English for the first time, this difference can seem confusing.
+The speakers of English do not even think about these things.
+
+Another example: It sounds silly to say that "submarines can swim" (Alan Turing),
+but not when saying "airplanes can fly" (Noam Chomsky).
+It is not easy to explain, but there are such biases in language that most people learn without even knowing why.
+They absorb these language biases unconsciously.
+
+A more mathematical example of Internal Difference is a random string of bits.
+By inverting each bit in the string, it still looks completely random.
+Therefore, a hidden involution of this kind before sending a message is only known to the speaker of that language.
+To receivers that do not get this information of involutions, this looks like non-duality.
+
+### The Sesh Axiom: The Qubit Operator has Internal Difference
+
+The Sesh axiom is the following:
+
+```text
+(!~a == ~!a)^true
+```
+
+In the brute force model of PSQ, one uses involution of a string of bits to achieve this property.
+As a consequence, the qubit operator `~` has an Internal Difference in standard Path Semantics.
+
+Now, qualitative implication `~>` and quality `~~` are defined using qubit, so they too have an Internal Difference.
+
+This means, the core axiom of Path Semantics can be interpreted in the lens of Seshatism.
+It is possible because from the outside, one can choose a radically different perspective on this non-duality.
+
+### The Time Interpretation of the Core Axiom
+
+If the only thing the core axiom of Path Semantics modeled was use of symbols,
+then that would be excellent all by itself.
+However, the math does not stop there:
+The core axiom can be interpreted as propagating propositions between moments of time.
+
+This means, Path Semanticists can work on the Seshatic branch of Path Semantics which credits knowledge by causality.
+It is not just a simple and narrow domain, but it opens up an entirely different world of math.
+
+
+
 ### PSQ - Path Semantical Quantum Propositional Logic
 
 PSQ extends PL (Classical Propositional Logic) with a `~` operator (called a "qubit"),
