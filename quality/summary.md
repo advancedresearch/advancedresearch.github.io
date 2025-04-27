@@ -106,9 +106,9 @@ List of theorems:
 | Name | Formula |
 | ------------ | ------------------------------------ |
 | Aqual-Definition | `(a ~¬~ b) == ((a == b) ⋀ ¬~a ⋀ ¬~b)` |
-| Cont-Definition | `(a ~> b) == ((a => b) ⋀ (~a => ~b))` |
-| Cont-Reflexivity | `a ~> a` |
-| Cont-Transitivity | `(a ~> b) ⋀ (b ~> c) => (a ~> c)` |
+| Qual-Imply-Definition | `(a ~> b) == ((a => b) ⋀ ~a ⋀ ~b))` |
+| Qual-Imply | `a ~> a` |
+| Qual-Imply-Transitivity | `(a ~> b) ⋀ (b ~> c) => (a ~> c)` |
 | Contra-Qual-Antisymmetry | `((a ¬~~ b) ⋀ (b ¬~~ a)) => (a == b)` |
 | Contra-Qual-Asymmetry | `(a ¬~~ b) => ¬(b ¬~~ a)` |
 | Contra-Qual-Definition | `(a ¬~~ b) == ((a == b) ⋀ ¬~a ⋀ ~b)` |
@@ -118,7 +118,6 @@ List of theorems:
 | Hom-0 | `hom_eq(0, a, b) == true` |
 | Hom-1 | `hom_eq(1, a, b) == (a == b)` |
 | Hom-2 | `hom_eq(2, a, b) == ((a == b) ⋀ (~a == ~b))` |
-| Hom-2-Cont | `hom_eq(2, a, b) == ((a ~> b) ⋀ (b ~> a))` |
 | Hom-2-Qual | `hom_eq(2, a, b) == ((a ~~ b) ⋁ (a ~¬~ b))` |
 | Hom-Lim | `lim n -> ∞ { ¬hom_eq(n, a, b) }` |
 | Hom-N | `hom_eq(n, a, b) == ∀ i n { qubit^i(a) == qubit^i(b) }` |
