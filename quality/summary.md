@@ -311,6 +311,37 @@ There is nothing personal against Gödel or claiming that he made mistakes in hi
 The proof is perfectly fine, but the interpretation of it fails to meet the highest standard of mathematical knowledge.
 Do not try to over-think this too much, it is only a perspective from a particular use of language.
 
+### Path Semanticists are not trying to pick fights
+
+The kind of reasoning that Path Semanticists depend on, might seem strange sometimes.
+However, this just use of language and should be interpreted that way.
+
+For example, when a biologist uses latin names for species,
+this is not because the biologist hate normal people or something.
+It is just more convenient to use latin names, since everybody does the same in biology.
+
+In a similar way, Path Semanticists are not debating stuff, such as, about rephrasing terminology that sounds less provoking for normal people.
+When somebody says Kurt Gödel is wrong and can show why it is wrong according to Path Semantics,
+this becomes an acceptable argument, regardless of how you can interpret it when not seeing math through that lens.
+Path Semanticists do not care about what people think of it.
+This is the only way to do Path Semantics: When it is valid according to Path Semantics, it is a valid argument for Path Semanticists.
+Otherwise, nobody would be able to tell the difference between Path Semantics and other fields.
+
+Therefore, the way of talking in the community of Path Semanticists, is kind of like when biologists use latin names for species.
+There is nothing you can do about it, because if one can not talk about something being wrong in the sense of Path Semantics,
+then the entire point of Path Semantics is gone: The point is to figure out what stuff means.
+
+When some idea is inexpressible in some language, Path Semanticists do not debate whether that idea is "really true" or not.
+An inexpressible idea that is unthinkable from the perspective of some language, is simply unthinkable.
+It is not true or false or anything like that.
+There is simply no opinion to be had about that idea.
+Of course, you can take another perspective where "really true" makes sense in the way you want to talk about.
+This is obviously depending on how you use language.
+
+If you can not accept this, then do not call yourself a Path Semanticist.
+Do whatever you like, but that is not what Path Semantics is about.
+However, if you have a criticism of this argument and can show Path Semanticists why, then that criticism is very welcomed.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
