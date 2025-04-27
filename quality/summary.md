@@ -84,12 +84,12 @@ Depending on the theory one might wish to design, there are various needs for di
 
 In Path Semantics, there is a hierachy of standard path operators that goes from the fundamental path semantical qubit operator `~` (weakest) to the strongest equality (strongest):
 
-| Symbol | Name | Definition | Properties | Paper |
-| ------------ |  ------------ | ------------------------------------ |  ------------------------------------ | ------------------------------------ |
-| qu | Qubit | `~a := <fundamental>` | Tautological congruent + Sesh[*] | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-qubit.pdf) |
-| qi | Qualitative Implication | `(a ~> b) := (a => b) & ~a & ~b` | Transitivity | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/qualitative-implication.pdf) |
-| q | Quality | `(a ~~ b) := (a == b) & ~a & ~b` | Symmetry + Transitivity | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-quality.pdf) |
-| eq | Equality | `(a == b) := (a => b) & (b => a)` | Reflexivity + Symmetry + Transitivity | [nLab](https://ncatlab.org/nlab/show/equality#propositional_equality) |
+| Symbol | Name                    | Definition                        | Properties                            | Paper                                |
+| ------ |  ---------------------- | --------------------------------- |  ------------------------------------ | ------------------------------------ |
+| qu     | Qubit                   | `~a := <fundamental>`             | Tautological congruent + Sesh[*]      | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-qubit.pdf) |
+| qi     | Qualitative Implication | `(a ~> b) := (a => b) & ~a & ~b`  | Transitivity                          | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/qualitative-implication.pdf) |
+| q      | Quality                 | `(a ~~ b) := (a == b) & ~a & ~b`  | Symmetry + Transitivity               | [Path Semantics](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/path-semantical-quality.pdf) |
+| eq     | Equality                | `(a == b) := (a => b) & (b => a)` | Reflexivity + Symmetry + Transitivity | [nLab](https://ncatlab.org/nlab/show/equality#propositional_equality) |
 
 [*] *The Sesh axiom, `(!~a == ~!a)^true`, is used by default in standard Path Semantics. Non-standard Path Semantis might not use it.*
 
