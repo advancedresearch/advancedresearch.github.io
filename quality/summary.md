@@ -73,6 +73,10 @@ connecting all domains to one central theory: The fundamental theory of advanced
 
 ### Standard Fundamental Path Operators
 
+![Foundation of Path Semantics Cheat Sheet](https://github.com/user-attachments/assets/7daebd5d-f04b-4ccc-acb4-388516571b67)
+
+[Link to Cheat Sheet](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip/path-semantics-cheat-sheet.pdf)
+
 Depending on the theory one might wish to design, there are various needs for different notions of paths.
 
 - Weak: A path that assumes less. With other words: It has fewer mathematical properties.
