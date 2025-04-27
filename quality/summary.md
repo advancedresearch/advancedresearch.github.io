@@ -92,6 +92,49 @@ since Path Semanticists might work outside the foundations of normal math.
 There are expectations in the community of Path Semanticists of what produces high standards of mathematical knowledge,
 that can be sometimes a higher standard than what is commonly accepted by the mathematical community.
 
+### The core axiom of Path Semantics
+
+The entire field of Path Semantics is built on one simple idea,
+which is to fix meaning of symbols such that all paths from them are the same when the symbols are identical.
+
+For example, a blue object `x` might be written formally as `x : [color_of] blue`.
+
+On the left side of `:`, `x` is the object in question, while on the right side,
+one can use sub-types to describe properties about the object.
+However, if the symbol of `x` is not fixed in some sense, then it becomes difficult to talk about what it means.
+
+When there are two objects `x, y` with meanings `a, b` respectively, a quality between `x` to `y`
+implies some quality between `a` and `b`:
+
+```text
+(x : a) & (y : b) -> (x ~~ y : a ~~ b)
+```
+
+This is the core axiom of Path Semantics (there are more technical details, but this is the gist of it).
+
+In the field of Path Semantics, all Path Semanticists agree among themselves to use this approach for collaboration.
+The only thing required for something to count as "Path Semantics" is to use the core axiom or the idea behind it.
+This means, no other mathematical foundation is required for people to call themselves Path Semanticists.
+Nor do you have to follow journals, lectures or belong to any other mathematical community (that is irrelevant, but can be useful).
+
+For example, a Path Semanticist might not accept First Order Logic for their current research project.
+From a path semantical perspective, First Order Logic has deep flaws in its design that can not be easily avoided.
+To clearly understand when First Order Logic is unsuitable, is a highly technical debate among Path Semanticists.
+As a consequence, Set Theory, which uses First Order Logic, might not be acceptable either.
+However, all Path Semanticists agree that from some perspective, First Order Logic might be suitable.
+
+The core axiom of Path Semantics is not up for debate, although it is still being explored heavily and discussed a lot.
+One reason is that the core axiom is what makes Path Semantics different from other fields.
+A logician for example, does not need to assume the core axiom and is therefore not working in Path Semantics.
+However, when assuming the core axiom or related axioms sharing the same core principle, the logician can be called a Path Semanticist.
+This is a strict expectation by the community of Path Semanticists, kind of like doctors in medicine are expected to work on forms of medicine related treatments.
+Also, nobody wants help from a doctor that learned medicine on their own without interacting with some community.
+You can not study Path Semantics without engaging with the professional community of Path Semanticists.
+This is how the field of Path Semantics distinguishes itself in excellence from other fields.
+With other words, you can not call yourself a Path Semanticist simply by being a logician, a mathematician or a theoretical physicist.
+As a Path Semanticist, you are expected to meet the highest standards of mathematical knowledge,
+and other fields, while they might do something that looks like Path Semantics, might not always meet the expectations.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
