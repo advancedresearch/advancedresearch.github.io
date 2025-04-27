@@ -284,6 +284,33 @@ That is the end of that discussion.
 Of course, as Path Semanticist, you can criticize this and study more in depth what this really means.
 Yet, in the end this is how stuff works and there is not much people can do about it.
 
+### Kurt Gödel was wrong
+
+Path Semanticists do not accept Kurt Gödel's original work on incompleteness.
+
+While this is a major result in mathematics and computer science,
+in Path Semantics this considered heading in the wrong direction.
+One reason is that HOOO EP is the correct notion of provability,
+which constrains language to Directed Acyclic Graphs (DAGs).
+
+A Gödel sentence uses an argument-free predicate to become self-referential.
+If it had arguments, then the Gödel number would be greater than the predicate he wants to refer to,
+thus he would not prove incompleteness, unless he made the predicate argument-free.
+This is a cyclic graph, which is inexpressible in HOOO EP.
+
+The notion of provability that Gödel used was Provability Logic, which contains Löb's axiom.
+Löb's axiom is absurd when interpreted naively in HOOO EP.
+Provability Logic is a modal logic that can be modeled in HOOO EP, but not vice versa.
+Therefore, HOOO EP is more fundamental and a more correct notion of provability than Provability Logic.
+
+This is not a debate about what "mathematics really means".
+It is simply a matter of what mathematics looks like from the perspective of the core axiom of Path Semantics.
+Conclusion: Kurt Gödel was wrong, according to the view of Path Semanticists.
+
+There is nothing personal against Gödel or claiming that he made mistakes in his proof.
+The proof is perfectly fine, but the interpretation of it fails to meet the highest standard of mathematical knowledge.
+Do not try to over-think this too much, it is only a perspective from a particular use of language.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
