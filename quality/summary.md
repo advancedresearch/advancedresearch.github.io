@@ -135,6 +135,53 @@ With other words, you can not call yourself a Path Semanticist simply by being a
 As a Path Semanticist, you are expected to meet the highest standards of mathematical knowledge,
 and other fields, while they might do something that looks like Path Semantics, might not always meet the expectations.
 
+### Logical relationships between the standard path operators
+
+From any of the three operators qubit `~`, qualitative implication `~>` and quality `~~`,
+one can derive the other three:
+
+1. `~` first is the standard method in Path Semantics
+2. `~>` first, defines `~`using `~a := a ~> a`, the rest using the standard method
+3. `~~` first, defines `~` using `~a := a ~~ a`, the rest using the standard method
+ 
+Therefore, logically, it does not matter which of these operations one starts with.
+However, for simplicity's sake one starts with `~` in standard Path Semantics.
+One reason this is the standard method, is because `~` requires modeling in PSQ (Path Semantical Quantum Propositional Logic).
+
+### Path Semantical Quantum Propositional Logic (PSQ)
+
+PSQ is easy to implement in a brute force theorem solver for classical logic.
+
+Here is the operation how it is defined in the Rust implementation [Pocket-Prover](https://github.com/advancedresearch/pocket_prover):
+
+```rust
+/// Prepares a qubit using a proposition as seed.
+pub fn qubit(a: u64) -> u64 {
+    use rand::{Rng, SeedableRng};
+    use rand::rngs::StdRng;
+    let r = unsafe {&*current::Current::<u64>::new()};
+    if a & 1 == 1 {
+        let mut rng = StdRng::seed_from_u64(not(a) ^ *r);
+        not(rng.gen())
+    } else {
+        let mut rng = StdRng::seed_from_u64(a ^ *r);
+        rng.gen()
+    }
+}
+```
+
+With PSQ, people can immediately check simple theorems themselves, without knowing anything about formal theorem proving.
+They can just follow the standard method and build a mathematical language tool to help themselves reason about Path Semantics.
+
+However, one should be careful when using this model of PSQ, because in principle it can not prove true conjectures as theorems.
+This solver can only prove when a conjecture is false.
+Just like in science, one must be able to construct a test in this PSQ model to try falsify a theory.
+As a philosophical consequence, the mathematical foundation of the scientific method is PSQ.
+
+This is why Path Semanticists never debate science itself as problematic in this sense.
+PSQ is already a convincing argument that shows why science works like it does.
+It means, people who deny science can not be called Path Semanticists.
+
 ### Quality and Inquality in Logic
 
 In the context of logic, we use the terms "quality" and "inquality" to make the language more precise.
