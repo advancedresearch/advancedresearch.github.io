@@ -471,7 +471,34 @@ The core axiom can be interpreted as propagating propositions between moments of
 This means, Path Semanticists can work on the Seshatic branch of Path Semantics which credits knowledge by causality.
 It is not just a simple and narrow domain, but it opens up an entirely different world of math.
 
+### Overview of Logical Languages
 
+Path Semantics has an abundance of logical languages in the foundation. Here is an overview:
+
+| Abbreviation | Name                                               | Constructions          | Algebra         |
+| ------------ | -------------------------------------------------- | ---------------------- | --------------- |
+| IPL          | Intuitionistic Propositional Logic                 | -                      | Heyting algebra |
+| EL           | Existential Logic                                  | IPL + `excm(!a)^true`  | -               |
+| PL           | Classical Propositional Logic                      | IPL + `excm(a)^true`   | Boolean algebra |
+| PSI          | Path Semantical Intuitionistic Propositional Logic | IPL + `~` + core axiom | -               |
+| PSEL         | Path Semantical Existential Logic                  | PSI + `excm(!a)^true`  | -               |
+| PSL          | Path Semantical Classical Propositional Logic      | PL + core axiom        | -               |
+| PSQ          | Path Semantical Quantum Propositional Logic        | PL + `~`               | -               |
+
+### Path Semantical Classical Propositional Logic (PSL)
+
+PSL is special, because it can model the core axiom implicitly by exploiting a symmetry in brute force theorem proving.
+
+The worst case performance in Big-O notation for two layers of propositions `F, X`:
+
+```text
+O(|F|, |X|) = 2^(1+|F|) + (1 + |F|) · (2^|X| – 2)
+```
+
+This is an exponential speedup in performance, but it has still exponential complexity (EXP in computer science).
+
+If you want to prove a theorem `f` in PSL of two propositions `a, b` such that it corresponds to PSQ,
+you need to use `f(a, b) & f(a, a) & f(b, b)` (the theorem needs to be proven for the end points too, not just the path).
 
 ### PSQ - Path Semantical Quantum Propositional Logic
 
