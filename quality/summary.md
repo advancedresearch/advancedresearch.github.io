@@ -157,6 +157,47 @@ since Path Semanticists might work outside the foundations of normal math.
 There are expectations in the community of Path Semanticists of what produces high standards of mathematical knowledge,
 that can be sometimes a higher standard than what is commonly accepted by the mathematical community.
 
+### Introduction to the Qubit operator
+
+The path semantical qubit operator `~` might be thought as introducing a new proposition that is "seeded by" its argument.
+
+This means, `~a` can be thought of as some proposition which is not equal to any other proposition in normal logic.
+It is possible to implement this functionality by using a randomly generated truth table,
+that changes every time one checks a proof.
+However, while checking the proof per iteration cycle, the generated truth table stays fixed,
+to give coherence to the truth value of the new proposition, wherever it appears in expressions.
+
+The power of the qubit operator `~` comes from the ability of logic to assume things arbitrarily.
+With other words, the new proposition can mean absolutely anything.
+This gives users great flexibility, without needing to code stuff entirely from scratch for every new project.
+
+Due to how the truth table is generated, the qubit operator is not normal congruent, but tautological congruent.
+That is almost the only property.
+Still, most Path Semanticists prefer to use the Sesh axiom `(!~a == ~!a)^true` because it is practical.
+Together with the Excluded Middle `(a | !a)^true`, this models sequences of bits `a, ~a, ~~a, ~~~a, ...`.
+
+- Standard Path Semantics uses the Sesh axiom
+- Non-standard Path Semantics might choose to not use the Sesh axiom
+
+The classical model of PL that introduces `~`, PSQ, is an infinite-valued logic.
+With other words, it is infinitely more complex than normal classical logic.
+
+### Path Semantical Levels
+
+As complex PSQ is, this logic does not introduce path semantical levels by default,
+which are layers of propositions that behave locally like normal logic,
+but using the symmetry of the core axiom between themselves.
+This symmetry is taken advantage of to optimize brute force theorem provers, becoming exponentially faster.
+
+Path semantical layers makes it even more complex than infinite-valued logic.
+In some theories, one can think about these layers as moments in time,
+and sequences of bits are streams of information that are processed and influenced by a model of some abstract computation.
+
+For example, a laptop that would spend hours on theorems using 40-50 propositions in normal logic,
+might with path semantical levels process 60-70 proposition in the same time span.
+The difference can seem small, but for every extra proposition, one can model twice the complexity.
+Only 20 more propositions means solving problems that are over 1 million times more complex.
+
 ### The core axiom of Path Semantics
 
 The entire field of Path Semantics is built on one simple idea,
