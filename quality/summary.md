@@ -589,6 +589,8 @@ It is not just a simple and narrow domain, but it opens up an entirely different
 
 ### PSQ - Path Semantical Quantum Propositional Logic
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 PSQ extends PL (Classical Propositional Logic) with a `~` operator (called a "qubit"),
 which is used to define `~~` and `hom_eq`.
 
@@ -635,6 +637,8 @@ List of theorems:
 
 #### Translation from PSQ into Homotopy Type Theory
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 | PSQ | HoTT |
 | ------------ | ------------------------------------ |
 | `a` | `x : isContr(A)` |
@@ -666,12 +670,16 @@ List of theorems:
 
 #### Homotopy Level 0
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 In PSQ `~~a` is to `~a` what `~a` is to `a`.
 However, there is no way to go from `a` to something else.
 The idea that there is no way to go from `a` to something else,
 makes it natural to use `a` as Homotopy Level 0, or `isContr(A)` in HoTT.
 
 #### Continuous Maps
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 In PSQ a continuous map is written `a ~> b`, which connects a space `a` to a space `b`.
 By Cont-Definition, `a ~> b` is equal to `(a => b) ⋀ (~a => ~b)`.
@@ -685,6 +693,8 @@ In HoTT this is the type `A -> B`.
 
 #### Propositional Equality, Id and the Pointcaré conjecture
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 In PSQ, `(a => b) ⋀ (b => a)` is equal to `a == b`.
 In HoTT this means that `(isContr(A) -> isContr(B), isContr(B) -> isContr(A))` equals `Id(A, B)`.
 When arbitrary small loops in space `A` are projected to `B` and vice versa,
@@ -697,6 +707,8 @@ When `A`'s contractibility is equal to `B`'s contractibility, they both have sam
 This shape can be constructed by hyperspheres, using a glue operation.
 
 #### Higher Homotopy Levels and Type Universe Polymorphism
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 In PSQ, `~~a` is tricky to imagine as a type in HoTT.
 However, one can use `~a ⋀ ~~a` translated as `(B, x) : (A, B)` to help the intuition.
@@ -712,6 +724,8 @@ Since PSQ treats type universes this way, it corresponds naturally to type unive
 To turn on type universe polymorphism in Coq, use the flag `Set Universe Polymorphism.`.
 
 ### Translation into Hegel's Philosophy
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 Hegel's philosophy is centered on interpretation of history and existence through time.
 In Path Semantics, there are two kinds of "moments" in the sense of Hegel:
@@ -741,6 +755,8 @@ and the second kind by mentioning it explicitly.
 
 #### Self-Quality
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 Hegel's notion of self-quality can be translated directly to self-quality/qubit in Path Semantics:
 
 ```text
@@ -749,6 +765,8 @@ Hegel's notion of self-quality can be translated directly to self-quality/qubit 
 
 #### Ground
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 Hegel's notion of ground is how the appearance of an object is related to previous moments by thought or by itself.
 
 ```text
@@ -756,6 +774,8 @@ Hegel's notion of ground is how the appearance of an object is related to previo
 ```
 
 #### Being
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 Hegel's notion of Being is a constructive proposition.
 
@@ -775,6 +795,8 @@ In [Avatar Witness Theory](https://advancedresearch.github.io/avatar-extensions/
 it is common to call Being-In-Itself for "Loop Witness" and Being-For-Itself for "Product Witness".
 
 #### Essence and Shine
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 Hegel's notion of essence is a potential in relation to Being.
 Essence can be though of as a type where the type operator is shine.
@@ -798,6 +820,8 @@ Therefore, essence and shine are in relation to the observer.
 
 #### Indeterminancy
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 For Hegel, self-quality is indeterminate.
 
 In Path Semantics, one can say that:
@@ -814,6 +838,8 @@ This undermines First Order Logic in philosophy,
 which is a predicate logic.
 
 #### Absolute Knowing
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 Hegel's notion of absolute knowing is ambiguous,
 since there are two forms of absolute knowing in relation to self-quality:
@@ -833,6 +859,8 @@ Thus `~true` is a proof of possible absolute knowledge, or absolute knowing.
 
 #### Justification for Hegel's Ideas
 
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
+
 Histocially, Hegel took inspiration from Leibniz, which came with some ideas that later resulted in topology.
 
 Hegel's notion of self-quality is today understood in Path Semantics to be a generalization of open sets,
@@ -847,6 +875,8 @@ Since the imaginary inverse maps to the dual category,
 Open Morphisms are important philosophically in all applications of mathematical duality.
 
 #### Bad vs Good Infinity: Where Hegel's Ideas Fail
+
+*NOTICE: THIS SECTION IS OUTDATED AND NEEDS SOME REWORK*
 
 Hegel's idea of Being does not account for physical consciousness.
 The reason is that, in fundamental physics, [observer bias in Wolfram models 
