@@ -77,6 +77,8 @@ To make collaboration easier, the search is split into billions, with the highes
 [41 000 000 000, 42 000 000 000): 13, 41 448 637 739 (done)
 [42 000 000 000, 43 000 000 000): 12, 42 181 308 083 (done)
 [43 000 000 000, 44 000 000 000): <--- 8 CPUs
+
+[50 000 000 000, 51 000 000 000): 14, 50 593 408 883 (done)
 ```
 
 ### Use of Primbixes in Galactic Communication
