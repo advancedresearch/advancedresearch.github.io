@@ -25,7 +25,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | !0                       | Not-I                                                             | Fi                  | [11](#example-11) |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [12](#example-12) |
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
-| ?0 ?1                    | Irony as philosophy                                               | Sc1                 |          |
+| ?0 ?1                    | Irony as philosophy                                               | Sc1                 | [13](#example-13) |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 |          |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 |          |
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 |          |
@@ -305,3 +305,23 @@ Occasionally, this is read as the generative motion of spirit—through oppositi
 Simplified, `!0 -> 0 1` expresses the essential power of negation to generate synthesis, not by erasing difference, but by preserving and reconfiguring it into a higher form.
 
 In Joker Calculus, this movement illustrates an authentic transformation: from negation to structured openness, without reverting to pure unity or collapsing into contradiction.
+
+### Example 13
+
+Expression:
+
+```text
+?0 ?1
+```
+
+This expression represents irony as a philosophical stance, especially as found in Romanticism and post-Kantian thought.
+
+Philosophically, it captures a double conditionality: empirical appearances structured by reason (`?0`) alongside a priori intuitions shaped by imaginative spontaneity (`?1`). When held together, these form a self-suspending dialectic that refuses final synthesis.
+
+In early German Romanticism (e.g., Schlegel), irony emerges as the recognition of this irresolvable doubleness—the simultaneous affirmation and suspension of opposing modes of experience. Irony does not seek to resolve the tension between concept and intuition, but to live within it creatively.
+
+Occasionally, this is interpreted as a form of higher-order reflection that questions the stability of all grounding positions, making thought self-aware of its own limits and play.
+
+Simplified, `?0 ?1` expresses a fragmented, dynamic stance that reflects on its own conditionality—a dialectic without sublation, maintaining openness to contradiction.
+
+In Joker Calculus, `?0 ?1` is inauthentic due to its unresolved tension, but it is also productive: it enacts a playful, reflexive relationship with structure, resisting closure while generating insight.
