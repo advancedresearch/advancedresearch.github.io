@@ -26,7 +26,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [12](#example-12) |
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 | [13](#example-13) |
-| (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 |          |
+| (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 | [14](#example-14) |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 |          |
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 |          |
 | 0 != 0                   | Immanent contradiction                                            | He                  |          |
@@ -325,3 +325,23 @@ Occasionally, this is interpreted as a form of higher-order reflection that ques
 Simplified, `?0 ?1` expresses a fragmented, dynamic stance that reflects on its own conditionality—a dialectic without sublation, maintaining openness to contradiction.
 
 In Joker Calculus, `?0 ?1` is inauthentic due to its unresolved tension, but it is also productive: it enacts a playful, reflexive relationship with structure, resisting closure while generating insight.
+
+### Example 14
+
+Expression:
+
+```text
+(?0 ?1 + 0 1)^n
+```
+
+This expression represents the infinite oscillation between irony and synthesis, capturing the essence of Schlegel’s romantic philosophy.
+
+Philosophically, this models a recursive alternation between a state of unresolved conditionality (`?0 ?1`) and moments of synthetic coherence (`0 1`). Rather than resolving the tension, each synthesis provokes a renewed fragmentation, which in turn generates a new attempt at integration.
+
+In Schlegel’s romanticism, this oscillation is the hallmark of philosophical creativity and poetic thinking: thought is never final but always self-surpassing, aware of its provisional character.
+
+Occasionally, this is read as a philosophical parody of dialectics itself—synthesis always falling back into division, irony sabotaging system, yet enabling new insights.
+
+Simplified, `(?0 ?1 + 0 1)^n` reflects the idea that truth is a living process of contradiction and renewal, an infinite play between fragmentation and coherence.
+
+In Joker Calculus, this recursive structure is inauthentic but generative: the Jokers do not cancel, but persist through each loop, sustaining the dialectic as an open-ended, self-creative movement.
