@@ -29,7 +29,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 | [14](#example-14) |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 | [15](#example-15) |
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 | [16](#example-16) |
-| 0 != 0                   | Immanent contradiction                                            | He                  |          |
+| 0 != 0                   | Immanent contradiction                                            | He                  | [17](#example-17) |
 | (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  |          |
 | ?0 1                     | Absolute knowing                                                  | He                  |          |
 | Spirit -> ?0 1           | Negation to reflection                                            | He                  |          |
@@ -387,3 +387,23 @@ Occasionally, this is interpreted as a reversal of idealist system-building: rat
 Simplified, `0 1 -> !0 -> 1` reflects the collapse of speculative identity into a ground of unreason, from which real, concrete existence arises anew.
 
 In Joker Calculus, this is an authentic transformation: the system subverts itself to reveal the irrational core of freedom, culminating in a lived multiplicity irreducible to conceptual closure.
+
+### Example 17
+
+Expression:
+
+```text
+0 != 0
+```
+
+This expression represents Hegel's concept of immanent contradiction—the principle that a concept or identity, when fully developed, turns against itself and generates its own negation from within.
+
+Philosophically, it signifies that pure identity (`0`) is not a static self-sameness but contains within it the seeds of its own self-differentiation. It contradicts itself precisely by trying to remain self-identical.
+
+In Hegel’s logic, contradiction is not a logical error but the motor of development: through contradiction, thought advances beyond abstract identity toward a richer totality.
+
+Occasionally, this is interpreted as the moment where speculative thought recognizes the instability of all immediate positions, pushing toward mediation, negativity, and eventual synthesis.
+
+Simplified, `0 != 0` expresses the dialectical truth that selfhood, concepts, or systems are internally divided and must overcome themselves to become what they are.
+
+In Joker Calculus, this expression might be interpreted ambiguously as a structurally productive inauthenticity: contradiction that does not resolve immediately, but drives the unfolding of deeper, mediated structures.
