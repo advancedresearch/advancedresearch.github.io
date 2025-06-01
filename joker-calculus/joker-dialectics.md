@@ -1,5 +1,7 @@
 # Joker Dialectics
 
+[Back to summary page about Joker Calculus](./summary.md)
+
 Joker Dialects extends Joker Calculus with new operators, used to trace philosophical stances and dynamics:
 
 - combination `+`
@@ -7,6 +9,8 @@ Joker Dialects extends Joker Calculus with new operators, used to trace philosop
 - inequality `!=`
 - movement `->`
 - recursion `^n`
+
+Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy through the Lens of Joker Calculus](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/dialectical-masks.pdf).
 
 | Expression                                | Description                                                       | Philosophers        |
 | ----------------------------------------- | ----------------------------------------------------------------- | ------------------- |
