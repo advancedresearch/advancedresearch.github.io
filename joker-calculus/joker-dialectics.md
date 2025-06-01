@@ -27,7 +27,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 | [13](#example-13) |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 | [14](#example-14) |
-| 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 |          |
+| 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 | [15](#example-15) |
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 |          |
 | 0 != 0                   | Immanent contradiction                                            | He                  |          |
 | (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  |          |
@@ -345,3 +345,24 @@ Occasionally, this is read as a philosophical parody of dialectics itself—synt
 Simplified, `(?0 ?1 + 0 1)^n` reflects the idea that truth is a living process of contradiction and renewal, an infinite play between fragmentation and coherence.
 
 In Joker Calculus, this recursive structure is inauthentic but generative: the Jokers do not cancel, but persist through each loop, sustaining the dialectic as an open-ended, self-creative movement.
+
+#### Example 15
+
+Expression:
+
+```text
+0 1 + ?0
+```
+
+This expression represents Schelling's early philosophy, particularly his attempt to synthesize nature and self-consciousness through an absolute identity.
+
+Philosophically, `0 1` embodies the dynamic unity of reason and experience, a living whole. The addition of `?0` introduces the conditionality of empirical appearance structured by conceptual understanding.
+
+In Schelling’s early thought, nature is seen as visible spirit, and spirit as invisible nature—an identity that is not static, but unfolding. The presence of `?0` indicates the unresolved and conditioned character of our experience of this identity, as filtered through cognition.
+
+Occasionally, this is interpreted as a tension in Schelling's system: the whole is posited, but its realization is mediated by our finite, conditioned experience of it.
+
+Simplified, `0 1 + ?0` reflects Schelling's view that the absolute must be both posited as a whole and yet encountered under empirical and epistemic limitations.
+
+In Joker Calculus, this expression is inauthentic: the presence of `?0` introduces an unresolved dependency that prevents complete realization of the whole, capturing the tension Schelling saw between system and freedom, concept and intuition.
+
