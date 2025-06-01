@@ -24,7 +24,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
 | !0                       | Not-I                                                             | Fi                  |          |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              |          |
-| 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) |
+| 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 |          |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 |          |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 |          |
@@ -129,3 +129,17 @@ Consider the dialectical relationship between rationalism and empiricism in phil
 - `0` (Rationalism): Knowledge is grounded purely in reason, independent of sensory experience. Rationalism asserts the primacy of logical and innate concepts as the basis for understanding reality.
 - `!0` (Empiricism): Knowledge is derived exclusively from sensory experience. Empiricism rejects innate ideas, emphasizing empirical evidence as the sole foundation of knowledge.
 - `0 1` (Transcendental Idealism): The synthesis arises through Kantian transcendental idealism, combining elements of rationalism and empiricism. Knowledge emerges through an interaction of innate cognitive structures (rationalism) and sensory experiences (empiricism).
+
+### Example 4
+
+Expression:
+
+```text
+0 -> !0 -> 0 1
+```
+
+Consider the dialectical interplay between freedom and determinism:
+
+- `0` (Freedom): Human actions are based on free will, independent of deterministic forces. Individuals possess genuine autonomy and moral responsibility.
+- `!0` (Determinism): Human actions are entirely determined by causal factors and external conditions. Freedom is perceived as an illusion, and choices are predetermined.
+- `0 1` (Compatibilism): A synthesis emerges through compatibilism, proposing that freedom and determinism coexist. Free will is understood as the capacity to act according to one's internal desires, even within deterministic structures.
