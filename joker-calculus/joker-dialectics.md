@@ -15,7 +15,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | Expression               | Description                                                       | Philosophers        | Examples |
 | ------------------------ | ----------------------------------------------------------------- | ------------------- | -------- |
 | 0                        | Platonism/Rationalism/Pure concept                                | Pl, De, Sp, Le, Ka  | [2](#example-2) |
-| 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    |          |
+| 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [5](#example-5) |
 | ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             |          |
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             |          |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     |          |
@@ -143,3 +143,23 @@ Consider the dialectical interplay between freedom and determinism:
 - `0` (Freedom): Human actions are based on free will, independent of deterministic forces. Individuals possess genuine autonomy and moral responsibility.
 - `!0` (Determinism): Human actions are entirely determined by causal factors and external conditions. Freedom is perceived as an illusion, and choices are predetermined.
 - `0 1` (Compatibilism): A synthesis emerges through compatibilism, proposing that freedom and determinism coexist. Free will is understood as the capacity to act according to one's internal desires, even within deterministic structures.
+
+### Example 5
+
+Expression:
+
+```text
+1
+```
+
+This statement expresses Seshatism, Empiricism, or the concept of lived experience.
+
+Usually, philosophers view this as contingent truths grounded in sensory perceptions.
+
+In epistemology, it is common to understand this as knowledge that arises directly from experience, subject to change and revision based on new evidence.
+
+Occasionally, philosophers interpret this concept strictly as empirical facts and observable phenomena within physical reality. However, it can also encompass subjective experiences and individual perceptions that resist purely objective measurement.
+
+Simplified, one can conceive of `1` as a general notion of time or temporality, emphasizing change, process, and concrete events. This temporality may or may not explicitly involve spatial references. Thus, `1` is not necessarily always opposed to 0, though it may sometimes be, depending on context.
+
+In Joker Calculus, `1` represents an authentic mode of existence since it does not contain any Jokers after being evaluated in the Closed variant.
