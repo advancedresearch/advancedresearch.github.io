@@ -30,7 +30,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 | [15](#example-15) |
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 | [16](#example-16) |
 | 0 != 0                   | Immanent contradiction                                            | He                  | [17](#example-17) |
-| (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  |          |
+| (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  | [18](#example-18) |
 | ?0 1                     | Absolute knowing                                                  | He                  |          |
 | Spirit -> ?0 1           | Negation to reflection                                            | He                  |          |
 | Spirit -> ?0 1 -> 0 == 1 | Logic becomes ontology (Hegel)                                    | He                  |          |
@@ -406,4 +406,26 @@ Occasionally, this is interpreted as the moment where speculative thought recogn
 
 Simplified, `0 != 0` expresses the dialectical truth that selfhood, concepts, or systems are internally divided and must overcome themselves to become what they are.
 
-In Joker Calculus, this expression might be interpreted ambiguously as a structurally productive inauthenticity: contradiction that does not resolve immediately, but drives the unfolding of deeper, mediated structures.
+In Joker Calculus, this expression might be interpreted ambiguously as a structurally productive authenticity: contradiction that does not resolve immediately, but drives the unfolding of deeper, mediated structures.
+
+### Example 18
+
+Expression:
+
+```text
+(0 != 0 -> !0 -> 0 1)^n
+```
+
+This expression represents Hegel’s concept of Spirit (Geist)—the infinite, self-developing movement of thought through contradiction, negation, and reconciliation.
+
+Philosophically, it begins with `0 != 0`, the recognition that identity contains immanent contradiction. This contradiction leads to `!0`, a moment of negation or alienation, where Spirit externalizes itself, encountering itself as other.
+
+Through `!0 -> 0 1`, Spirit returns to itself by sublating the contradiction into a higher unity that preserves and overcomes difference. But this synthesis is not final: the process repeats, driven by further contradictions.
+
+In Hegel’s system, this iterative movement defines Spirit's path toward absolute knowing. It is an unending dialectical journey through stages of consciousness, history, and logic, each marked by internal contradiction and its resolution.
+
+Occasionally, this is interpreted as the self-actualization of freedom: Spirit unfolds as it comes to know itself through the history of its own negations.
+
+Simplified, `(0 != 0 -> !0 -> 0 1)^n` captures the essence of Hegelian dialectics—not a single synthesis, but an infinite, self-refining process of thought coming to itself.
+
+In Joker Calculus, this recursive loop models an authentic dialectical engine: contradiction drives negation, which in turn produces ever-deepening forms of structured openness.
