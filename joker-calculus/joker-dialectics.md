@@ -23,7 +23,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         | [10](#example-10) |
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
 | !0                       | Not-I                                                             | Fi                  | [11](#example-11) |
-| !0 -> 0 1                | Negation and sublation                                            | Fi, He              |          |
+| !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [12](#example-12) |
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 |          |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 |          |
@@ -283,3 +283,25 @@ Occasionally, this is interpreted as the grounding of objectivity or alterity: t
 Simplified, `!0` expresses the active negation that allows for differentiation, self-consciousness, and relational identity—an essential tension in idealist thought.
 
 In Joker Calculus, `!0` is not an inauthentic negation of `0`, but a productive, generative movement that introduces difference without being reduced to simple opposition.
+
+### Example 12
+
+Expression:
+
+```text
+!0 -> 0 1
+```
+
+This expression captures the dialectical motion of negation and sublation, as used in both Fichte's and Hegel's philosophies.
+
+Philosophically, `!0` begins as the negation of the I (or of pure concept), an externalization or differentiation that introduces otherness. The transition to `0 1` represents sublation (Aufhebung), the process by which contradiction is overcome and preserved within a higher synthesis.
+
+In Fichte, this captures the dynamic self-positing of the I, which encounters the Not-I as a limit, only to incorporate it into its ongoing striving toward unity and self-realization.
+
+In Hegel, this is the logic of dialectical development itself: contradiction and negation (!0) are not dead ends, but necessary movements toward greater totality and conceptual integration (`0 1`).
+
+Occasionally, this is read as the generative motion of spirit—through opposition, division, and eventual reconciliation, reality unfolds itself in richer structures.
+
+Simplified, `!0 -> 0 1` expresses the essential power of negation to generate synthesis, not by erasing difference, but by preserving and reconfiguring it into a higher form.
+
+In Joker Calculus, this movement illustrates an authentic transformation: from negation to structured openness, without reverting to pure unity or collapsing into contradiction.
