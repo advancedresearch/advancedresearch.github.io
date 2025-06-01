@@ -22,7 +22,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [9](#example-9) |
 | !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         | [10](#example-10) |
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
-| !0                       | Not-I                                                             | Fi                  |          |
+| !0                       | Not-I                                                             | Fi                  | [11](#example-11) |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              |          |
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 |          |
@@ -263,3 +263,23 @@ Occasionally, this is interpreted as a moment of ontological grounding, where ne
 Simplified, `!0 == 1` captures the insight that the ground of experience is not a separate object but an indeterminate condition that becomes indistinguishable from the flow of empirical reality.
 
 In Joker Calculus, this is a relation of identity between two seemingly opposed positions, revealing a deep structural equivalence that suspends contradiction.
+
+### Example 11
+
+Expression:
+
+```text
+!0
+```
+
+This expression represents the Not-I in Fichte’s philosophy—the principle of negation or limitation that makes the self-conscious I possible.
+
+Philosophically, !0 stands for the negation of the absolute I (`0`). It is not simply the opposite of the I, but rather a necessary condition for its development. The Not-I introduces resistance, finitude, and differentiation, enabling the I to define and assert itself.
+
+In Fichtean terms, the I posits itself absolutely, but in order to be self-conscious, it must also posit the Not-I—something external or limiting—which becomes the condition for self-awareness and activity.
+
+Occasionally, this is interpreted as the grounding of objectivity or alterity: the world that appears as other is not independent of the I, but co-constituted by its self-limiting act.
+
+Simplified, `!0` expresses the active negation that allows for differentiation, self-consciousness, and relational identity—an essential tension in idealist thought.
+
+In Joker Calculus, `!0` is not an inauthentic negation of `0`, but a productive, generative movement that introduces difference without being reduced to simple opposition.
