@@ -28,7 +28,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 | [13](#example-13) |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 | [14](#example-14) |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 | [15](#example-15) |
-| 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 |          |
+| 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 | [16](#example-16) |
 | 0 != 0                   | Immanent contradiction                                            | He                  |          |
 | (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  |          |
 | ?0 1                     | Absolute knowing                                                  | He                  |          |
@@ -346,7 +346,7 @@ Simplified, `(?0 ?1 + 0 1)^n` reflects the idea that truth is a living process o
 
 In Joker Calculus, this recursive structure is inauthentic but generative: the Jokers do not cancel, but persist through each loop, sustaining the dialectic as an open-ended, self-creative movement.
 
-#### Example 15
+### Example 15
 
 Expression:
 
@@ -366,3 +366,24 @@ Simplified, `0 1 + ?0` reflects Schelling's view that the absolute must be both 
 
 In Joker Calculus, this expression is inauthentic: the presence of `?0` introduces an unresolved dependency that prevents complete realization of the whole, capturing the tension Schelling saw between system and freedom, concept and intuition.
 
+### Example 16
+
+Expression:
+
+```text
+0 1 -> !0 -> 1
+```
+
+This expression represents Schelling's late philosophy, especially his critique of system and his emphasis on the ground of freedom and the irrational.
+
+Philosophically, it begins with `0 1`, the dynamic unity of reason and experience. The transition to !0 introduces a moment of radical negation or rupture—a dark, pre-rational ground that cannot be assimilated into conceptual unity.
+
+In Schelling’s later thought, this "ground" is not just a deficiency in the system, but a necessary condition for individuality and freedom. It is that which resists totality and cannot be fully known.
+
+The movement toward 1 signifies the reemergence of multiplicity and lived particularity out of this negation. Here, existence does not return to unity but affirms differentiation, contingency, and the real.
+
+Occasionally, this is interpreted as a reversal of idealist system-building: rather than subsuming difference into unity, thought must acknowledge an irreducible ground that gives rise to freedom and finitude.
+
+Simplified, `0 1 -> !0 -> 1` reflects the collapse of speculative identity into a ground of unreason, from which real, concrete existence arises anew.
+
+In Joker Calculus, this is an authentic transformation: the system subverts itself to reveal the irrational core of freedom, culminating in a lived multiplicity irreducible to conceptual closure.
