@@ -24,7 +24,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
 | !0                       | Not-I                                                             | Fi                  |          |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              |          |
-| 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  |          |
+| 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 |          |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 |          |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 |          |
@@ -116,3 +116,16 @@ With other words, `0` is not always in opposition to `1`, but sometimes it can, 
 
 In Joker Calculus, `0` is authentic in sense of Heidegger, since it does not contain any Jokers after being evaluated in the Closed variant.
 
+### Example 3
+
+Expression:
+
+```text
+0 -> !0 -> 0 1
+```
+
+Consider the dialectical relationship between rationalism and empiricism in philosophy:
+
+- `0` (Rationalism): Knowledge is grounded purely in reason, independent of sensory experience. Rationalism asserts the primacy of logical and innate concepts as the basis for understanding reality.
+- `!0` (Empiricism): Knowledge is derived exclusively from sensory experience. Empiricism rejects innate ideas, emphasizing empirical evidence as the sole foundation of knowledge.
+- `0 1` (Transcendental Idealism): The synthesis arises through Kantian transcendental idealism, combining elements of rationalism and empiricism. Knowledge emerges through an interaction of innate cognitive structures (rationalism) and sensory experiences (empiricism).
