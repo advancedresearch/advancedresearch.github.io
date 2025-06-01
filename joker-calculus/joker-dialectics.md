@@ -18,7 +18,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [5](#example-5) |
 | ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [6](#example-6) |
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [7](#example-7) |
-| 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     |          |
+| 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [8](#example-8) |
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  |          |
 | !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         |          |
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
@@ -203,3 +203,24 @@ Occasionally, this is interpreted as a form of knowledge or insight emerging fro
 Simplified, `?1` embodies the idea that certain truths or insights are accessible through intuitive, imaginative, or poetic means rather than empirical observation or purely rational argument.
 
 In Joker Calculus, `?1` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
+
+### Example 8
+
+Expression:
+
+```text
+0 1
+```
+
+This expression signifies Hegelian Dialectics, Fragmentary Thinking, or a state of synthesized cognition that integrates both pure conceptual reason and empirical lived experience.
+
+Philosophically, it typically represents the synthesis of rationalist and empiricist traditions, capturing how abstract conceptual structures interact dynamically with concrete experiential data.
+
+In epistemological terms, it can be understood as knowledge that arises from the interplay of abstract reasoning and concrete sensory experience, neither entirely determined by innate concepts nor solely by empirical observation.
+
+Occasionally, this is interpreted as a holistic or dialectical mode of thinking, emphasizing the integration and mutual dependence of theory and practice, universality and particularity.
+
+Simplified, `0 1` embodies the idea that authentic cognition emerges from the creative synthesis of pure reason and experiential diversity, thus maintaining openness rather than closure or unresolved opposition.
+
+In Joker Calculus, `0 1` represents an authentic state since it remains free of Jokers after evaluation in the Closed variant.
+
