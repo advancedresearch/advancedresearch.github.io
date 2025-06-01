@@ -19,7 +19,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [6](#example-6) |
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [7](#example-7) |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [8](#example-8) |
-| ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  |          |
+| ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [9](#example-9) |
 | !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         |          |
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
 | !0                       | Not-I                                                             | Fi                  |          |
@@ -223,4 +223,24 @@ Occasionally, this is interpreted as a holistic or dialectical mode of thinking,
 Simplified, `0 1` embodies the idea that authentic cognition emerges from the creative synthesis of pure reason and experiential diversity, thus maintaining openness rather than closure or unresolved opposition.
 
 In Joker Calculus, `0 1` represents an authentic state since it remains free of Jokers after evaluation in the Closed variant.
+
+### Example 9
+
+Expression:
+
+```text
+?1 + 0 -> 0 1 -> ?0
+```
+
+This expression encapsulates Kant's critical philosophy, representing the dialectical transition from transcendental intuition and rational concepts toward synthesized knowledge, and ultimately, empirical experience structured by reason.
+
+Philosophically, it begins with the union of transcendental poetic intuition (`?1`) and pure rational concepts (`0`), progressing toward a synthesis (`0 1`) of these elements into structured cognitive judgments.
+
+Epistemologically, this signifies how Kantian cognition combines intuitive and conceptual components, establishing a priori structures that shape empirical phenomena (`?0`).
+
+Occasionally, this is understood as illustrating Kant’s critical method: starting from intuition and reason, forming conceptual synthesis, and finally resulting in structured empirical understanding—highlighting reason’s role in shaping experience.
+
+Simplified, this expression captures Kant’s view that genuine knowledge arises by critically synthesizing intuitive insight and rational concepts, which then structures empirical reality.
+
+In Joker Calculus, the progression demonstrates how intuitive and rational faculties produce synthesized cognitive structures, conditioning empirical phenomena and resulting in an inauthentic yet structurally coherent experiential framework.
 
