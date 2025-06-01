@@ -31,7 +31,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 | [16](#example-16) |
 | 0 != 0                   | Immanent contradiction                                            | He                  | [17](#example-17) |
 | (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  | [18](#example-18) |
-| ?0 1                     | Absolute knowing                                                  | He                  |          |
+| ?0 1                     | Absolute knowing                                                  | He                  | [19](#example-19) |
 | Spirit -> ?0 1           | Negation to reflection                                            | He                  |          |
 | Spirit -> ?0 1 -> 0 == 1 | Logic becomes ontology (Hegel)                                    | He                  |          |
 
@@ -429,3 +429,23 @@ Occasionally, this is interpreted as the self-actualization of freedom: Spirit u
 Simplified, `(0 != 0 -> !0 -> 0 1)^n` captures the essence of Hegelian dialectics—not a single synthesis, but an infinite, self-refining process of thought coming to itself.
 
 In Joker Calculus, this recursive loop models an authentic dialectical engine: contradiction drives negation, which in turn produces ever-deepening forms of structured openness.
+
+### Example 19
+
+Expression:
+
+```text
+?0 1
+```
+
+This expression represents Hegel's concept of Absolute Knowing—the culmination of the dialectical process, where empirical appearance (`?0`) and conceptual unity (`1`) are integrated within a reflexive totality.
+
+Philosophically, `?0 1` signifies that knowledge has come to include both conditioned experience and the logical structures that condition it. In Absolute Knowing, the subject no longer treats appearances as external but recognizes them as moments of its own development.
+
+In Hegel’s Phenomenology of Spirit, this is the point at which Spirit recognizes that all otherness is a moment of itself, and knowledge becomes a self-aware unity of appearance and concept.
+
+Occasionally, this is interpreted as the final stage in speculative philosophy, where thought no longer needs to go beyond itself because it already contains the whole within.
+
+Simplified, `?0 1` expresses a unity in difference: appearance is not eliminated but embraced as a dialectical moment within totality.
+
+In Joker Calculus, this expression is inauthentic, since `?0` remains as a Joker. Yet it signals a structurally significant completion of the dialectic, in which the conditional and the unified are no longer opposed but disclosed together in reflective knowing.
