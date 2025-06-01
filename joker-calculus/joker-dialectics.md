@@ -16,15 +16,15 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ------------------------ | ----------------------------------------------------------------- | ------------------- | -------- |
 | 0                        | Platonism/Rationalism/Pure concept                                | Pl, De, Sp, Le, Ka  | [1](#example-1) |
 | 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [2](#example-2) |
-| ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [6](#example-6) |
-| ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [7](#example-7) |
-| 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [8](#example-8) |
-| ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [9](#example-9) |
-| !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         | [10](#example-10) |
-| 0 == 1                   | Non-dualism                                                       | Sc2, He             | [5](#example-5) |
-| !0                       | Not-I                                                             | Fi                  | [11](#example-11) |
-| !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [12](#example-12) |
-| 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
+| ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [3](#example-3) |
+| ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [4](#example-4) |
+| 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [5](#example-5) |
+| ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [6](#example-6) |
+| !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         | [7](#example-7) |
+| 0 == 1                   | Non-dualism                                                       | Sc2, He             | [8](#example-8) |
+| !0                       | Not-I                                                             | Fi                  | [9](#example-9) |
+| !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [10](#example-10) |
+| 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [11](#example-11) [12](#example-12) |
 | ?0 ?1                    | Irony as philosophy                                               | Sc1                 | [13](#example-13) |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 | [14](#example-14) |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 | [15](#example-15) |
@@ -100,30 +100,102 @@ In Joker Calculus, `1` represents an authentic mode of existence since it does n
 Expression:
 
 ```text
-0 -> !0 -> 0 1
+?0
 ```
 
-Consider the dialectical relationship between rationalism and empiricism in philosophy:
+This expression signifies Empirical Idealism or a state of experience structured by rational concepts.
 
-- `0` (Rationalism): Knowledge is grounded purely in reason, independent of sensory experience. Rationalism asserts the primacy of logical and innate concepts as the basis for understanding reality.
-- `!0` (Empiricism): Knowledge is derived exclusively from sensory experience. Empiricism rejects innate ideas, emphasizing empirical evidence as the sole foundation of knowledge.
-- `0 1` (Transcendental Idealism): The synthesis arises through Kantian transcendental idealism, combining elements of rationalism and empiricism. Knowledge emerges through an interaction of innate cognitive structures (rationalism) and sensory experiences (empiricism).
+Philosophically, it typically represents phenomena or appearances that are conditioned by an underlying rational framework or conceptual structure.
+
+In epistemological terms, it can be understood as the empirical content of experience, shaped by a priori categories or mental structures, such as those articulated by Kant.
+
+Occasionally, this is interpreted as reality being encountered through conceptual filters, meaning our direct experience is always mediated by our conceptual understanding.
+
+Simplified, `?0` captures the idea that sensory experience is never purely empirical but inherently influenced by rational or conceptual conditions, making it fundamentally conditional and somewhat dependent on an underlying rational structure.
+
+In Joker Calculus, `?0` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
 
 ### Example 4
 
 Expression:
 
 ```text
-0 -> !0 -> 0 1
+?1
 ```
 
-Consider the dialectical interplay between freedom and determinism:
+This expression signifies Transcendental Poetry or a state characterized by intuitive insights or a priori imaginative structures.
 
-- `0` (Freedom): Human actions are based on free will, independent of deterministic forces. Individuals possess genuine autonomy and moral responsibility.
-- `!0` (Determinism): Human actions are entirely determined by causal factors and external conditions. Freedom is perceived as an illusion, and choices are predetermined.
-- `0 1` (Compatibilism): A synthesis emerges through compatibilism, proposing that freedom and determinism coexist. Free will is understood as the capacity to act according to one's internal desires, even within deterministic structures.
+Philosophically, it typically represents poetic or creative intuition independent of immediate empirical verification but still grounded in subjective experience.
+
+In aesthetic terms, it can be understood as artistic or poetic imagination operating through spontaneous, intuitive insights rather than empirical evidence or purely logical structures.
+
+Occasionally, this is interpreted as a form of knowledge or insight emerging from creativity or intuition, highlighting the subjective, spontaneous nature of imaginative experiences.
+
+Simplified, `?1` embodies the idea that certain truths or insights are accessible through intuitive, imaginative, or poetic means rather than empirical observation or purely rational argument.
+
+In Joker Calculus, `?1` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
 
 ### Example 5
+
+Expression:
+
+```text
+0 1
+```
+
+This expression signifies Hegelian Dialectics, Fragmentary Thinking, or a state of synthesized cognition that integrates both pure conceptual reason and empirical lived experience.
+
+Philosophically, it typically represents the synthesis of rationalist and empiricist traditions, capturing how abstract conceptual structures interact dynamically with concrete experiential data.
+
+In epistemological terms, it can be understood as knowledge that arises from the interplay of abstract reasoning and concrete sensory experience, neither entirely determined by innate concepts nor solely by empirical observation.
+
+Occasionally, this is interpreted as a holistic or dialectical mode of thinking, emphasizing the integration and mutual dependence of theory and practice, universality and particularity.
+
+Simplified, `0 1` embodies the idea that authentic cognition emerges from the creative synthesis of pure reason and experiential diversity, thus maintaining openness rather than closure or unresolved opposition.
+
+In Joker Calculus, `0 1` represents an authentic state since it remains free of Jokers after evaluation in the Closed variant.
+
+### Example 6
+
+Expression:
+
+```text
+?1 + 0 -> 0 1 -> ?0
+```
+
+This expression encapsulates Kant's critical philosophy, representing the dialectical transition from transcendental intuition and rational concepts toward synthesized knowledge, and ultimately, empirical experience structured by reason.
+
+Philosophically, it begins with the union of transcendental poetic intuition (`?1`) and pure rational concepts (`0`), progressing toward a synthesis (`0 1`) of these elements into structured cognitive judgments.
+
+Epistemologically, this signifies how Kantian cognition combines intuitive and conceptual components, establishing a priori structures that shape empirical phenomena (`?0`).
+
+Occasionally, this is understood as illustrating Kant’s critical method: starting from intuition and reason, forming conceptual synthesis, and finally resulting in structured empirical understanding—highlighting reason’s role in shaping experience.
+
+Simplified, this expression captures Kant’s view that genuine knowledge arises by critically synthesizing intuitive insight and rational concepts, which then structures empirical reality.
+
+In Joker Calculus, the progression demonstrates how intuitive and rational faculties produce synthesized cognitive structures, conditioning empirical phenomena and resulting in an inauthentic yet structurally coherent experiential framework.
+
+### Example 7
+
+Expression:
+
+```text
+!0 == 1
+```
+
+This expression represents the Thing-in-itself, the Noumenon, or the Ground of Being.
+
+Philosophically, it captures a point of absolute identity between negation and appearance—where what is fundamentally unknowable (`!0`) is equated with the manifold of experience (`1`). This identifies the origin or grounding of appearances in something that cannot itself appear.
+
+In metaphysical terms, it expresses the paradox of a reality that conditions all phenomena yet cannot be directly known. This is the transcendental condition that gives rise to appearances but is not itself an appearance.
+
+Occasionally, this is interpreted as a moment of ontological grounding, where negation does not stand in opposition to something else, but instead coincides with the generative multiplicity of the world.
+
+Simplified, `!0 == 1` captures the insight that the ground of experience is not a separate object but an indeterminate condition that becomes indistinguishable from the flow of empirical reality.
+
+In Joker Calculus, this is a relation of identity between two seemingly opposed positions, revealing a deep structural equivalence that suspends contradiction.
+
+### Example 8
 
 Expression:
 
@@ -164,107 +236,7 @@ This problem happens due to treating the two sides as propositionally equal.
 One can fix this problem e.g. by using normal paths generated by `not`.
 It is possible to unify the two sides in some sense without causing absurdity.*
 
-### Example 6
-
-Expression:
-
-```text
-?0
-```
-
-This expression signifies Empirical Idealism or a state of experience structured by rational concepts.
-
-Philosophically, it typically represents phenomena or appearances that are conditioned by an underlying rational framework or conceptual structure.
-
-In epistemological terms, it can be understood as the empirical content of experience, shaped by a priori categories or mental structures, such as those articulated by Kant.
-
-Occasionally, this is interpreted as reality being encountered through conceptual filters, meaning our direct experience is always mediated by our conceptual understanding.
-
-Simplified, `?0` captures the idea that sensory experience is never purely empirical but inherently influenced by rational or conceptual conditions, making it fundamentally conditional and somewhat dependent on an underlying rational structure.
-
-In Joker Calculus, `?0` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
-
-### Example 7
-
-Expression:
-
-```text
-?1
-```
-
-This expression signifies Transcendental Poetry or a state characterized by intuitive insights or a priori imaginative structures.
-
-Philosophically, it typically represents poetic or creative intuition independent of immediate empirical verification but still grounded in subjective experience.
-
-In aesthetic terms, it can be understood as artistic or poetic imagination operating through spontaneous, intuitive insights rather than empirical evidence or purely logical structures.
-
-Occasionally, this is interpreted as a form of knowledge or insight emerging from creativity or intuition, highlighting the subjective, spontaneous nature of imaginative experiences.
-
-Simplified, `?1` embodies the idea that certain truths or insights are accessible through intuitive, imaginative, or poetic means rather than empirical observation or purely rational argument.
-
-In Joker Calculus, `?1` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
-
-### Example 8
-
-Expression:
-
-```text
-0 1
-```
-
-This expression signifies Hegelian Dialectics, Fragmentary Thinking, or a state of synthesized cognition that integrates both pure conceptual reason and empirical lived experience.
-
-Philosophically, it typically represents the synthesis of rationalist and empiricist traditions, capturing how abstract conceptual structures interact dynamically with concrete experiential data.
-
-In epistemological terms, it can be understood as knowledge that arises from the interplay of abstract reasoning and concrete sensory experience, neither entirely determined by innate concepts nor solely by empirical observation.
-
-Occasionally, this is interpreted as a holistic or dialectical mode of thinking, emphasizing the integration and mutual dependence of theory and practice, universality and particularity.
-
-Simplified, `0 1` embodies the idea that authentic cognition emerges from the creative synthesis of pure reason and experiential diversity, thus maintaining openness rather than closure or unresolved opposition.
-
-In Joker Calculus, `0 1` represents an authentic state since it remains free of Jokers after evaluation in the Closed variant.
-
 ### Example 9
-
-Expression:
-
-```text
-?1 + 0 -> 0 1 -> ?0
-```
-
-This expression encapsulates Kant's critical philosophy, representing the dialectical transition from transcendental intuition and rational concepts toward synthesized knowledge, and ultimately, empirical experience structured by reason.
-
-Philosophically, it begins with the union of transcendental poetic intuition (`?1`) and pure rational concepts (`0`), progressing toward a synthesis (`0 1`) of these elements into structured cognitive judgments.
-
-Epistemologically, this signifies how Kantian cognition combines intuitive and conceptual components, establishing a priori structures that shape empirical phenomena (`?0`).
-
-Occasionally, this is understood as illustrating Kant’s critical method: starting from intuition and reason, forming conceptual synthesis, and finally resulting in structured empirical understanding—highlighting reason’s role in shaping experience.
-
-Simplified, this expression captures Kant’s view that genuine knowledge arises by critically synthesizing intuitive insight and rational concepts, which then structures empirical reality.
-
-In Joker Calculus, the progression demonstrates how intuitive and rational faculties produce synthesized cognitive structures, conditioning empirical phenomena and resulting in an inauthentic yet structurally coherent experiential framework.
-
-### Example 10
-
-Expression:
-
-```text
-!0 == 1
-```
-
-This expression represents the Thing-in-itself, the Noumenon, or the Ground of Being.
-
-Philosophically, it captures a point of absolute identity between negation and appearance—where what is fundamentally unknowable (`!0`) is equated with the manifold of experience (`1`). This identifies the origin or grounding of appearances in something that cannot itself appear.
-
-In metaphysical terms, it expresses the paradox of a reality that conditions all phenomena yet cannot be directly known. This is the transcendental condition that gives rise to appearances but is not itself an appearance.
-
-Occasionally, this is interpreted as a moment of ontological grounding, where negation does not stand in opposition to something else, but instead coincides with the generative multiplicity of the world.
-
-Simplified, `!0 == 1` captures the insight that the ground of experience is not a separate object but an indeterminate condition that becomes indistinguishable from the flow of empirical reality.
-
-In Joker Calculus, this is a relation of identity between two seemingly opposed positions, revealing a deep structural equivalence that suspends contradiction.
-
-### Example 11
 
 Expression:
 
@@ -284,7 +256,7 @@ Simplified, `!0` expresses the active negation that allows for differentiation, 
 
 In Joker Calculus, `!0` is not an inauthentic negation of `0`, but a productive, generative movement that introduces difference without being reduced to simple opposition.
 
-### Example 12
+### Example 10
 
 Expression:
 
@@ -305,6 +277,34 @@ Occasionally, this is read as the generative motion of spirit—through oppositi
 Simplified, `!0 -> 0 1` expresses the essential power of negation to generate synthesis, not by erasing difference, but by preserving and reconfiguring it into a higher form.
 
 In Joker Calculus, this movement illustrates an authentic transformation: from negation to structured openness, without reverting to pure unity or collapsing into contradiction.
+
+### Example 11
+
+Expression:
+
+```text
+0 -> !0 -> 0 1
+```
+
+Consider the dialectical relationship between rationalism and empiricism in philosophy:
+
+- `0` (Rationalism): Knowledge is grounded purely in reason, independent of sensory experience. Rationalism asserts the primacy of logical and innate concepts as the basis for understanding reality.
+- `!0` (Empiricism): Knowledge is derived exclusively from sensory experience. Empiricism rejects innate ideas, emphasizing empirical evidence as the sole foundation of knowledge.
+- `0 1` (Transcendental Idealism): The synthesis arises through Kantian transcendental idealism, combining elements of rationalism and empiricism. Knowledge emerges through an interaction of innate cognitive structures (rationalism) and sensory experiences (empiricism).
+
+### Example 12
+
+Expression:
+
+```text
+0 -> !0 -> 0 1
+```
+
+Consider the dialectical interplay between freedom and determinism:
+
+- `0` (Freedom): Human actions are based on free will, independent of deterministic forces. Individuals possess genuine autonomy and moral responsibility.
+- `!0` (Determinism): Human actions are entirely determined by causal factors and external conditions. Freedom is perceived as an illusion, and choices are predetermined.
+- `0 1` (Compatibilism): A synthesis emerges through compatibilism, proposing that freedom and determinism coexist. Free will is understood as the capacity to act according to one's internal desires, even within deterministic structures.
 
 ### Example 13
 
