@@ -32,7 +32,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0 != 0                   | Immanent contradiction                                            | He                  | [17](#example-17) |
 | (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  | [18](#example-18) |
 | ?0 1                     | Absolute knowing                                                  | He                  | [19](#example-19) |
-| Spirit -> ?0 1           | Negation to reflection                                            | He                  |          |
+| Spirit -> ?0 1           | Negation to reflection                                            | He                  | [20](#example-20) |
 | Spirit -> ?0 1 -> 0 == 1 | Logic becomes ontology (Hegel)                                    | He                  |          |
 
 | Code  | Philosopher | Born - Died                        |
@@ -449,3 +449,23 @@ Occasionally, this is interpreted as the final stage in speculative philosophy, 
 Simplified, `?0 1` expresses a unity in difference: appearance is not eliminated but embraced as a dialectical moment within totality.
 
 In Joker Calculus, this expression is inauthentic, since `?0` remains as a Joker. Yet it signals a structurally significant completion of the dialectic, in which the conditional and the unified are no longer opposed but disclosed together in reflective knowing.
+
+### Example 20
+
+Expression:
+
+```text
+Spirit -> ?0 1
+```
+
+This expression represents the culmination of Hegel’s speculative logic—where Spirit, having passed through contradiction and negation, reaches reflective closure in Absolute Knowing.
+
+Philosophically, this captures the transition from a self-developing process (Spirit) to a reflexive state (`?0 1`), in which all moments of otherness are gathered and comprehended within the self.
+
+In Hegel’s thought, this marks the final act of negation: not as destruction, but as reflection. Spirit recognizes that what appeared external or alien was always already a part of itself.
+
+Occasionally, this is interpreted as the moment when philosophy ceases to chase a beyond and turns instead to fully grasp the immanent logic of what is.
+
+Simplified, `Spirit -> ?0 1` expresses the self's arrival at the insight that conditioned appearances and rational unity are dialectically inseparable, and that reflection itself is the ground of philosophical truth.
+
+In Joker Calculus, this marks a structurally complex inauthenticity: `?0` remains as a Joker, but it no longer obstructs knowing—it becomes the signature of a reflective totality that understands its own condition.
