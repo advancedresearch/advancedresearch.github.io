@@ -413,7 +413,7 @@ Path Semantics handles this nicely, by extending normal logic to infinite-valued
 (*It avoids all problems of inconsistency with logic and solves the problem of reasoning with tautological congruence of `~` using the HOOO EP axioms,
 which integrates meta-theorem proving into logic by unifying the meta-language with object-language, finishing the work on Intuitionistic Propositional Logic (IPL)
 by adding exponential propositions*).
-With other words, in Analytic Philosophy, you can just use the foundation of Path Semantics instead of Hegel's dialectics in natural language
+With other words, in Analytic Philosophy, you can just use the foundation of Path Semantics instead of Hegel's dialectics in natural language.
 
 In Joker Calculus, this expression might be interpreted ambiguously as a structurally productive authenticity: contradiction that does not resolve immediately, but drives the unfolding of deeper, mediated structures.
 
