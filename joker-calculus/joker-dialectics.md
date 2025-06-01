@@ -15,13 +15,13 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | Expression               | Description                                                       | Philosophers        | Examples |
 | ------------------------ | ----------------------------------------------------------------- | ------------------- | -------- |
 | 0                        | Platonism/Rationalism/Pure concept                                | Pl, De, Sp, Le, Ka  | [1](#example-1) |
-| 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [5](#example-5) |
+| 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [2](#example-2) |
 | ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [6](#example-6) |
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [7](#example-7) |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [8](#example-8) |
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [9](#example-9) |
 | !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         | [10](#example-10) |
-| 0 == 1                   | Non-dualism                                                       | Sc2, He             | [2](#example-2) |
+| 0 == 1                   | Non-dualism                                                       | Sc2, He             | [5](#example-5) |
 | !0                       | Not-I                                                             | Fi                  | [11](#example-11) |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [12](#example-12) |
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [3](#example-3) [4](#example-4) |
@@ -80,6 +80,54 @@ In Joker Calculus, `0` is authentic in sense of Heidegger, since it does not con
 Expression:
 
 ```text
+1
+```
+
+This statement expresses Seshatism, Empiricism, or the concept of lived experience.
+
+Usually, philosophers view this as contingent truths grounded in sensory perceptions.
+
+In epistemology, it is common to understand this as knowledge that arises directly from experience, subject to change and revision based on new evidence.
+
+Occasionally, philosophers interpret this concept strictly as empirical facts and observable phenomena within physical reality. However, it can also encompass subjective experiences and individual perceptions that resist purely objective measurement.
+
+Simplified, one can conceive of `1` as a general notion of time or temporality, emphasizing change, process, and concrete events. This temporality may or may not explicitly involve spatial references. Thus, `1` is not necessarily always opposed to 0, though it may sometimes be, depending on context.
+
+In Joker Calculus, `1` represents an authentic mode of existence since it does not contain any Jokers after being evaluated in the Closed variant.
+
+### Example 3
+
+Expression:
+
+```text
+0 -> !0 -> 0 1
+```
+
+Consider the dialectical relationship between rationalism and empiricism in philosophy:
+
+- `0` (Rationalism): Knowledge is grounded purely in reason, independent of sensory experience. Rationalism asserts the primacy of logical and innate concepts as the basis for understanding reality.
+- `!0` (Empiricism): Knowledge is derived exclusively from sensory experience. Empiricism rejects innate ideas, emphasizing empirical evidence as the sole foundation of knowledge.
+- `0 1` (Transcendental Idealism): The synthesis arises through Kantian transcendental idealism, combining elements of rationalism and empiricism. Knowledge emerges through an interaction of innate cognitive structures (rationalism) and sensory experiences (empiricism).
+
+### Example 4
+
+Expression:
+
+```text
+0 -> !0 -> 0 1
+```
+
+Consider the dialectical interplay between freedom and determinism:
+
+- `0` (Freedom): Human actions are based on free will, independent of deterministic forces. Individuals possess genuine autonomy and moral responsibility.
+- `!0` (Determinism): Human actions are entirely determined by causal factors and external conditions. Freedom is perceived as an illusion, and choices are predetermined.
+- `0 1` (Compatibilism): A synthesis emerges through compatibilism, proposing that freedom and determinism coexist. Free will is understood as the capacity to act according to one's internal desires, even within deterministic structures.
+
+### Example 5
+
+Expression:
+
+```text
 0 == 1
 ```
 
@@ -115,54 +163,6 @@ Absurdity is the strongest sense of contradiction (in a weaker notion of contrad
 This problem happens due to treating the two sides as propositionally equal.
 One can fix this problem e.g. by using normal paths generated by `not`.
 It is possible to unify the two sides in some sense without causing absurdity.*
-
-### Example 3
-
-Expression:
-
-```text
-0 -> !0 -> 0 1
-```
-
-Consider the dialectical relationship between rationalism and empiricism in philosophy:
-
-- `0` (Rationalism): Knowledge is grounded purely in reason, independent of sensory experience. Rationalism asserts the primacy of logical and innate concepts as the basis for understanding reality.
-- `!0` (Empiricism): Knowledge is derived exclusively from sensory experience. Empiricism rejects innate ideas, emphasizing empirical evidence as the sole foundation of knowledge.
-- `0 1` (Transcendental Idealism): The synthesis arises through Kantian transcendental idealism, combining elements of rationalism and empiricism. Knowledge emerges through an interaction of innate cognitive structures (rationalism) and sensory experiences (empiricism).
-
-### Example 4
-
-Expression:
-
-```text
-0 -> !0 -> 0 1
-```
-
-Consider the dialectical interplay between freedom and determinism:
-
-- `0` (Freedom): Human actions are based on free will, independent of deterministic forces. Individuals possess genuine autonomy and moral responsibility.
-- `!0` (Determinism): Human actions are entirely determined by causal factors and external conditions. Freedom is perceived as an illusion, and choices are predetermined.
-- `0 1` (Compatibilism): A synthesis emerges through compatibilism, proposing that freedom and determinism coexist. Free will is understood as the capacity to act according to one's internal desires, even within deterministic structures.
-
-### Example 5
-
-Expression:
-
-```text
-1
-```
-
-This statement expresses Seshatism, Empiricism, or the concept of lived experience.
-
-Usually, philosophers view this as contingent truths grounded in sensory perceptions.
-
-In epistemology, it is common to understand this as knowledge that arises directly from experience, subject to change and revision based on new evidence.
-
-Occasionally, philosophers interpret this concept strictly as empirical facts and observable phenomena within physical reality. However, it can also encompass subjective experiences and individual perceptions that resist purely objective measurement.
-
-Simplified, one can conceive of `1` as a general notion of time or temporality, emphasizing change, process, and concrete events. This temporality may or may not explicitly involve spatial references. Thus, `1` is not necessarily always opposed to 0, though it may sometimes be, depending on context.
-
-In Joker Calculus, `1` represents an authentic mode of existence since it does not contain any Jokers after being evaluated in the Closed variant.
 
 ### Example 6
 
