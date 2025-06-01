@@ -16,7 +16,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ------------------------ | ----------------------------------------------------------------- | ------------------- | -------- |
 | 0                        | Platonism/Rationalism/Pure concept                                | Pl, De, Sp, Le, Ka  | [2](#example-2) |
 | 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [5](#example-5) |
-| ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             |          |
+| ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [6](#example-6) |
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             |          |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     |          |
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  |          |
@@ -163,3 +163,23 @@ Occasionally, philosophers interpret this concept strictly as empirical facts an
 Simplified, one can conceive of `1` as a general notion of time or temporality, emphasizing change, process, and concrete events. This temporality may or may not explicitly involve spatial references. Thus, `1` is not necessarily always opposed to 0, though it may sometimes be, depending on context.
 
 In Joker Calculus, `1` represents an authentic mode of existence since it does not contain any Jokers after being evaluated in the Closed variant.
+
+### Example 6
+
+Expression:
+
+```text
+?0
+```
+
+This expression signifies Empirical Idealism or a state of experience structured by rational concepts.
+
+Philosophically, it typically represents phenomena or appearances that are conditioned by an underlying rational framework or conceptual structure.
+
+In epistemological terms, it can be understood as the empirical content of experience, shaped by a priori categories or mental structures, such as those articulated by Kant.
+
+Occasionally, this is interpreted as reality being encountered through conceptual filters, meaning our direct experience is always mediated by our conceptual understanding.
+
+Simplified, `?0` captures the idea that sensory experience is never purely empirical but inherently influenced by rational or conceptual conditions, making it fundamentally conditional and somewhat dependent on an underlying rational structure.
+
+In Joker Calculus, `?0` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
