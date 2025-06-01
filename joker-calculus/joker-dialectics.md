@@ -20,7 +20,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [7](#example-7) |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [8](#example-8) |
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [9](#example-9) |
-| !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         |          |
+| !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         | [10](#example-10) |
 | 0 == 1                   | Non-dualism                                                       | Sc2, He             | [1](#example-1) |
 | !0                       | Not-I                                                             | Fi                  |          |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              |          |
@@ -244,3 +244,22 @@ Simplified, this expression captures Kant’s view that genuine knowledge arises
 
 In Joker Calculus, the progression demonstrates how intuitive and rational faculties produce synthesized cognitive structures, conditioning empirical phenomena and resulting in an inauthentic yet structurally coherent experiential framework.
 
+### Example 10
+
+Expression:
+
+```text
+!0 == 1
+```
+
+This expression represents the Thing-in-itself, the Noumenon, or the Ground of Being.
+
+Philosophically, it captures a point of absolute identity between negation and appearance—where what is fundamentally unknowable (`!0`) is equated with the manifold of experience (`1`). This identifies the origin or grounding of appearances in something that cannot itself appear.
+
+In metaphysical terms, it expresses the paradox of a reality that conditions all phenomena yet cannot be directly known. This is the transcendental condition that gives rise to appearances but is not itself an appearance.
+
+Occasionally, this is interpreted as a moment of ontological grounding, where negation does not stand in opposition to something else, but instead coincides with the generative multiplicity of the world.
+
+Simplified, `!0 == 1` captures the insight that the ground of experience is not a separate object but an indeterminate condition that becomes indistinguishable from the flow of empirical reality.
+
+In Joker Calculus, this is a relation of identity between two seemingly opposed positions, revealing a deep structural equivalence that suspends contradiction.
