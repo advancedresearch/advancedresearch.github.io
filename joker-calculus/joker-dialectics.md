@@ -33,7 +33,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | (0 != 0 -> !0 -> 0 1)^n  | Spirit                                                            | He                  | [18](#example-18) |
 | ?0 1                     | Absolute knowing                                                  | He                  | [19](#example-19) |
 | Spirit -> ?0 1           | Negation to reflection                                            | He                  | [20](#example-20) |
-| Spirit -> ?0 1 -> 0 == 1 | Logic becomes ontology (Hegel)                                    | He                  |          |
+| Spirit -> ?0 1 -> 0 == 1 | Logic becomes ontology (Hegel)                                    | He                  | [21](#example-21) |
 
 | Code  | Philosopher | Born - Died                        |
 | ----- | ----------- | ---------------------------------- |
@@ -469,3 +469,23 @@ Occasionally, this is interpreted as the moment when philosophy ceases to chase 
 Simplified, `Spirit -> ?0 1` expresses the self's arrival at the insight that conditioned appearances and rational unity are dialectically inseparable, and that reflection itself is the ground of philosophical truth.
 
 In Joker Calculus, this marks a structurally complex inauthenticity: `?0` remains as a Joker, but it no longer obstructs knowing—it becomes the signature of a reflective totality that understands its own condition.
+
+### Example 21
+
+Expression:
+
+```text
+Spirit -> ?0 1 -> 0 == 1
+```
+
+This expression represents the final culmination of Hegel’s logic: the transition from reflective knowledge to an ontological identity of concept and reality.
+
+Philosophically, this models the movement where Spirit, having come to reflective self-awareness (`?0 1`), proceeds to grasp that logic is not just the structure of thought but the structure of being itself (`0 == 1`).
+
+In Hegel’s Science of Logic, the end of the dialectic is not merely epistemological but ontological: thought and being, concept and object, are shown to be identical in essence.
+
+Occasionally, this is interpreted as the point at which speculative logic becomes ontology—the logos of reality is the logic of thought, fully disclosed in and as the self-unfolding concept.
+
+Simplified, `Spirit -> ?0 1 -> 0 == 1` expresses the idea that the real is rational, and the rational is real: the unity of appearance and thought is revealed to be a necessary identity.
+
+In Joker Calculus, this represents an identity relation achieved through dialectical reflection. The tension marked by the Joker (`?0`) is fully resolved, and conceptual unity is affirmed as coextensive with being.
