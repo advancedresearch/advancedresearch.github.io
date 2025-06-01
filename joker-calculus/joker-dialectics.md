@@ -17,7 +17,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | 0                        | Platonism/Rationalism/Pure concept                                | Pl, De, Sp, Le, Ka  | [2](#example-2) |
 | 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [5](#example-5) |
 | ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [6](#example-6) |
-| ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             |          |
+| ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [7](#example-7) |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     |          |
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  |          |
 | !0 == 1                  | The thing-in-itself/Noumenon/Ground of Being                      | Ka, Sc2, He         |          |
@@ -183,3 +183,23 @@ Occasionally, this is interpreted as reality being encountered through conceptua
 Simplified, `?0` captures the idea that sensory experience is never purely empirical but inherently influenced by rational or conceptual conditions, making it fundamentally conditional and somewhat dependent on an underlying rational structure.
 
 In Joker Calculus, `?0` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
+
+### Example 7
+
+Expression:
+
+```text
+?1
+```
+
+This expression signifies Transcendental Poetry or a state characterized by intuitive insights or a priori imaginative structures.
+
+Philosophically, it typically represents poetic or creative intuition independent of immediate empirical verification but still grounded in subjective experience.
+
+In aesthetic terms, it can be understood as artistic or poetic imagination operating through spontaneous, intuitive insights rather than empirical evidence or purely logical structures.
+
+Occasionally, this is interpreted as a form of knowledge or insight emerging from creativity or intuition, highlighting the subjective, spontaneous nature of imaginative experiences.
+
+Simplified, `?1` embodies the idea that certain truths or insights are accessible through intuitive, imaginative, or poetic means rather than empirical observation or purely rational argument.
+
+In Joker Calculus, `?1` represents an inauthentic state due to its dependence on other positions, resulting in persistent unresolved tension or opposition upon evaluation in the Closed variant.
