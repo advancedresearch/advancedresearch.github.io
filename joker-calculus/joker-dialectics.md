@@ -406,7 +406,22 @@ Occasionally, this is interpreted as the moment where speculative thought recogn
 
 Simplified, `0 != 0` expresses the dialectical truth that selfhood, concepts, or systems are internally divided and must overcome themselves to become what they are.
 
+In Path Semantics, one does not use the terminology "immanent contradiction" because the theory deals with this properly from a logical perspective,
+using a partial equivalence operator `~~` (path semantical quality) where reflexivity `a ~~ a` is the same as `~a` (path semantical qubit).
+This is an internal difference in philosophy, so you can view it as `~a` from the perspective of Platonism and `!~a` from the perspective of Seshatism.
+Path Semantics handles this nicely, by extending normal logic to infinite-valued logic with the path semantical qubit operator `~`
+(*It avoids all problems of inconsistency with logic and solves the problem of reasoning with tautological congruence of `~` using the HOOO EP axioms,
+which integrates meta-theorem proving into logic by unifying the meta-language with object-language, finishing the work on Intuitionistic Propositional Logic (IPL)
+by adding exponential propositions*).
+With other words, in Analytic Philosophy, you can just use the foundation of Path Semantics instead of Hegel's dialectics in natural language
+
 In Joker Calculus, this expression might be interpreted ambiguously as a structurally productive authenticity: contradiction that does not resolve immediately, but drives the unfolding of deeper, mediated structures.
+
+*Notice! If `0` is interpreted as a truth value in propositional logic or as a natural number by the Peano axioms,
+then `0 != 0` results in absurdity (inconsistency by being able to prove `false`).
+Absurdity is the strongest sense of contradiction (in a weaker notion of contradiction, two things can contradict without being able to prove `false`).
+This problem happens due to reflexivity of equality `a == a` being tautological in propositional logic.
+In Path Semantics, this is fixed by replacing `==` with a partial equivalence `~~`.*
 
 ### Example 18
 
