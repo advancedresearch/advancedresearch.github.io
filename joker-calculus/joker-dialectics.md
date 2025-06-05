@@ -25,7 +25,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | !0                       | Not-I                                                             | Fi                  | [9](#example-9) |
 | !0 -> 0 1                | Negation and sublation                                            | Fi, He              | [10](#example-10) |
 | 0 -> !0 -> 0 1           | Act of positing                                                   | Fi                  | [11](#example-11) [12](#example-12) |
-| ?0 ?1                    | Irony as philosophy                                               | Sc1                 | [13](#example-13) |
+| ?0 ?1                    | Irony as philosophy (Schlegel)                                    | Sc1                 | [13](#example-13) |
 | (?0 ?1 + 0 1)^n          | Infinite oscillation (Schlegel)                                   | Sc1                 | [14](#example-14) |
 | 0 1 + ?0                 | Schelling's early philosophy                                      | Sc2                 | [15](#example-15) |
 | 0 1 -> !0 -> 1           | Schelling's late philosophy                                       | Sc2                 | [16](#example-16) |
