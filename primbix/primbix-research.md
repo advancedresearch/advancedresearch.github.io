@@ -42,7 +42,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 9869296583: 14
 ```
 
-The minimum primbix with value 15 is above 43 000 000 000 and less or equal to 176 297 511 683 (which has primbix value 15).
+The minimum primbix with value 15 is above 99 000 000 000 and less or equal to 176 297 511 683 (which has primbix value 15).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -94,7 +94,7 @@ To make collaboration easier, the search is split into billions, with the highes
 [40 000 000 000, 41 000 000 000): 13, 40 095 103 943 (done)
 [41 000 000 000, 42 000 000 000): 13, 41 448 637 739 (done)
 [42 000 000 000, 43 000 000 000): 12, 42 181 308 083 (done)
-[43 000 000 000, 44 000 000 000): <--- 8 CPUs
+[43 000 000 000, 44 000 000 000): 13, 43 985 953 763 (done)
 [44 000 000 000, 45 000 000 000): 13, 44 037 007 667 (done)
 [45 000 000 000, 46 000 000 000): 12, 45 018 664 253 (done)
 [46 000 000 000, 47 000 000 000): 14, 46 850 738 027 (done)
@@ -147,7 +147,10 @@ To make collaboration easier, the search is split into billions, with the highes
 [93 000 000 000, 94 000 000 000): 13, 93 175 427 339 (done)
 [94 000 000 000, 95 000 000 000): 14, 94 503 472 643 (done)
 [95 000 000 000, 96 000 000 000): 13, 95 004 006 827 (done)
-[96 000 000 000, 97 000 000 000): <--- 8 CPUs
+[96 000 000 000, 97 000 000 000): 14, 96 207 537 467 (done)
+[97 000 000 000, 98 000 000 000): 12, 97 000 717 939 (done)
+[98 000 000 000, 99 000 000 000): 14, 98 861 233 763 (done)
+[99 000 000 000, 100 000 000 000): <--- 8 CPUs
 
 [100 000 000 000, 100 000 100 000): 5, 100 000 024 547
 
