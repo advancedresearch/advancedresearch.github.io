@@ -19,6 +19,14 @@ Some problems we are working on:
 [List of Repositories](https://github.com/advancedresearch)  
 [How to Contribute](https://github.com/advancedresearch/advancedresearch.github.io/blob/master/CONTRIBUTING.md)
 
+### Theorem Proving Research
+
+Theorem proving is the process which one gets answers one would like to know from data.
+
+Theorem Proving Research is about finding which algorithms or tools we need to get answer from different sets of data.
+
+You can find a summary about Theorem Proving Research [here](./solving/summary.md).
+
 ### Avatar Extensions
 
 Avatar Extensions is a popular research subject about abstract generalization of mathematics.
