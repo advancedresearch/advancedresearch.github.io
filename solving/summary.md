@@ -1,4 +1,4 @@
-# Theory Proving
+# Theory Proving Research
 
 Theorem proving is a huge and interesting field.
 
