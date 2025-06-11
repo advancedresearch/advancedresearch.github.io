@@ -18,7 +18,7 @@ This is usually done by computers.
 ### Basic theorem proving
 
 In the Computer Stone Age, people used to do theorem proving by hand without automatic checks.
-Since then, we have developed tools that make theorem proving much more reliable, which resulted in a new era of computing.
+Since then, we have developed tools that make theorem proving much more faster and reliable, which resulted in a new era of computing.
 
 The AdvancedResearch community is focusing on basic theorem proving research,
 because we believe multiple tools are needed for research in general, due to various tradeoffs in design.
