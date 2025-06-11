@@ -49,20 +49,25 @@ because we believe multiple tools are needed for research in general, due to var
 
 | Solver   | Keywords |
 | -------- | -------- |
-| [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) | Cl, Bf, Det for PL, NDet for PSQ, Au |
+| [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) | Cl, Bf, Det for PL, Det for PSL, NDet for PSQ, Au |
 | [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) | Ge, Mo, Au |
 | [Linear-Solver](https://github.com/advancedresearch/linear_solver) | Ge, Li, Au |
-| [Hooo](https://github.com/advancedresearch/hooo) | Co, Det, As |
+| [Hooo](https://github.com/advancedresearch/hooo) | Co, Det, As, PL, IPL, PSL, PSQ, PSI |
 
-| Keyword | Description       |
-| ------- | ----------------- |
-| Ge      | Generic           |
-| Cl      | Classical         |
-| Co      | Constructive      |
-| Bf      | Brute force       |
-| Mo      | Monotonic         |
-| Li      | Linear            |
-| Det     | Deterministic     |
-| NDet    | Non-deterministic |
-| Au      | Automatic         |
-| As      | Assistant         |
+| Keyword | Description                                        |
+| ------- | -------------------------------------------------- |
+| Ge      | Generic                                            |
+| Cl      | Classical                                          |
+| Co      | Constructive                                       |
+| Bf      | Brute force                                        |
+| Mo      | Monotonic                                          |
+| Li      | Linear                                             | 
+| Det     | Deterministic                                      |
+| NDet    | Non-deterministic                                  |
+| Au      | Automatic                                          |
+| As      | Assistant                                          |
+| PL      | Classical Propositional Logic                      |
+| IPL     | Intuitionistic Propositional Logic (Constructive)  |
+| PSL     | Path Semantical Classical Propositional Logic      |
+| PSQ     | Path Semantical Quantum Propositional Logic        |
+| PSI     | Path Semantical Intuitionistic Propositional Logic |
