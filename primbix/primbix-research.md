@@ -42,7 +42,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 9869296583: 14
 ```
 
-The minimum primbix with value 15 is above 99 000 000 000 and less or equal to 176 115 709 139 (which has primbix value 15).
+The minimum primbix with value 15 is above 103 000 000 000 and less or equal to 176 115 709 139 (which has primbix value 15).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
