@@ -40,9 +40,12 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 491325707: 12
 2047857083: 13
 9869296583: 14
+107478087043: 15
 ```
 
-The minimum primbix with value 15 is above 103 000 000 000 and less or equal to 176 115 709 139 (which has primbix value 15).
+107478087043 was found 13.06.2025 19:13 UTC.
+
+The minimum primbix with value 16 is above 110 000 000 000.
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -154,13 +157,20 @@ To make collaboration easier, the search is split into billions, with the highes
 [100 000 000 000, 101 000 000 000): 13, 100 779 916 607 (done)
 [101 000 000 000, 102 000 000 000): 12, 101 069 289 779 (done)
 [102 000 000 000, 103 000 000 000): 14, 102 837 801 203 (done)
-[103 000 000 000, 104 000 000 000): <--- 8 CPUs
+[103 000 000 000, 104 000 000 000): 13, 103 052 992 403 (done)
+[104 000 000 000, 105 000 000 000): 13, 104 130 780 827 (done)
+[105 000 000 000, 106 000 000 000): 13, 105 164 674 403 (done)
+[106 000 000 000, 107 000 000 000): 13, 106 222 789 787 (done)
+[107 000 000 000, 108 000 000 000): 15, 107 478 087 043 (done)
+[108 000 000 000, 109 000 000 000): 14, 108 543 457 739 (done)
+[109 000 000 000, 110 000 000 000): <--- 8 CPUs
 
 [110 000 000 000, 110 000 100 000): 10, 110 000 011 007
 
 [120 000 000 000, 120 000 100 000): 6, 120 000 012 239
 
-[176 000 000 000, 177 000 000 000): 15, 176 115 709 139
+[175 000 000 000, 176 000 000 000): 14, 175 898 379 947 (done)
+[176 000 000 000, 177 000 000 000): 15, 176 115 709 139 (done)
 ```
 
 ### Use of Primbixes in Galactic Communication
