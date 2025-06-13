@@ -70,6 +70,12 @@ Some solution exists where `a, b` are primes and `p` is a 1-or-prime.
 
 You can find a summary about PSG research [here](https://advancedresearch.github.io/psg/psg-research).
 
+### Quantum Path Semantics
+
+Quantum Path Semantics is a sub-field of Path Semantics that studies how people use Quantum Mechanics (QM).
+
+You can find a summary about Quantum Path Semantics [here](./quantum/summary.md)
+
 ### Blog posts
 
 - [2025-01-23 How to Use Game Design to Make Mathematics Better](https://advancedresearch.github.io/blog/2025-01-23-how-to-use-game-design-to-make-mathematics-better)
