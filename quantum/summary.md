@@ -183,7 +183,7 @@ Most foundational approaches to quantum mechanics attempt to discover the **“c
 Whether it’s many-worlds, pilot-wave theory, QBism, or objective collapse models,
 the goal is often to find a symbolic framework in which quantum mechanics becomes understandable.
 
-However, in the foundation of Path Semantics, these attempts can be seen as deploying different language tools—tools that structure thought in specific ways but inevitably lead to existential horror.
+However, in the foundation of Path Semantics, these attempts can be seen as deploying different language tools — tools that structure thought in specific ways but inevitably lead to Existential Horror.
 That is, each framework may bring temporary semantic relief, but ultimately collapses under the weight of its own assumptions:
 
 - In Everett’s case, the horror is **ontological inflation** — a universe endlessly branching with no semantic anchor for "this world."
