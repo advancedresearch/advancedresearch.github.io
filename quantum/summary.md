@@ -337,3 +337,50 @@ There is always another meta-level where what you treated as a classical physica
 At some point, sooner or later, you have to stop and make approximations.
 Or else, you can not make any predictions, since you will be calculating forever.
 
+### Frequently Asked Questions (FAQ)
+
+#### 1. What is "Quantum Path Semantics" in simple terms?
+
+Quantum Path Semantics is a way of thinking about quantum mechanics not as a literal description of reality, but as a language people use to make sense of observations. It analyzes how symbolic structures (like equations or interpretations) are used rather than what they “really mean.”
+
+#### 2. Why do you say quantum mechanics is "non-sensical"?
+
+Because, from a path-semantic point of view, there's no underlying "source code" or symbolic representation that can fully make sense of quantum wave functions. The theory works predictively, but doesn’t explain what’s fundamentally happening in a way we can fully grasp.
+
+#### 3. What’s wrong with the Everett or Copenhagen interpretations?
+
+First, the Everett and Copenhagen interpretations are more or less the same thing.
+The difference is that Everett went further and applied the Copenhagen interpretation to observers,
+by respecting the language boundary and its design.
+
+Nothing is wrong per se—they are valid ways of approximating what’s going on.
+But neither solves the core confusion about QM.
+The Everett interpretation says observers are also quantum systems,
+while Copenhagen says “just shut up and calculate.”.
+Both avoid addressing the deeper symbolic incoherence, built around the same language tool.
+
+However, at a deeper philosophical level, this language tool has a built-in fragmentery language bias that
+makes semantics break down, once you try to fully understand what wave functions mean.
+
+From a Path Semantical perspective, it is clear that wave functions are designed with this fragmentary language bias.
+There is no way to avoid it - just from the semantics alone - and perhaps there is no more pragmatic and systematic way to work around it.
+
+#### 4. What are Avatar Extensions and QAHR?
+
+They are formal tools that extend symbolic logic to incorporate observer bias and probabilistic rewriting. QAHR (Quantum Avatar Hypergraph Rewriting) tries to unify quantum states with rule-based rewriting systems in a way that models symbolic distinction.
+
+- You can read more about Avatar Extensions [here](https://advancedresearch.github.io/avatar-extensions/summary.html)
+- QAHR is not yet completed, but based on Avatar Hypergraph Rewriting, which you can read about [here](https://github.com/advancedresearch/avatar_hypergraph_rewriting)
+
+#### 5. Are you proposing a new interpretation of quantum mechanics?
+
+Not exactly. This work is about enhancing the language we use to talk about QM, not solving it ontologically. It’s a meta-framework, not an interpretation.
+
+#### 6. Why does this matter if it doesn't solve quantum mechanics?
+
+Because improving how we reason about theories—even "non-sensical" ones—can lead to better models, clearer communication, and possibly new discoveries. It’s about improving the language tools of science.
+
+#### 7. Do you think QM will ever be made fully "sensical"?
+
+From this perspective, probably not. But local approximations (like basis state decompositions) are useful, and we can continue refining how we express and apply quantum theory without needing a final “explanation.”
+
