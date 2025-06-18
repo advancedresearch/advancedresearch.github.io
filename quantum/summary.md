@@ -128,8 +128,19 @@ There is simply **no way** to **make sense** of what any quantum existential pat
 
 ### Interpretations of Quantum Mechanics
 
-The physicists that developed QM understood that the theory they worked on, did not make any sense.
-Still, they developed the theory, because this was part of the scientific process of predicting observations.
+The physicists who developed QM understood that the theory they were building **could not make sense in the classical, semantic way**.
+It was intentionally constructed as a predictive tool, not a communicative one.
+The Copenhagen interpretation reflects this directly:
+Accepting that the **semantic structure of the theory breaks down** when we try to assign intuitive meaning to wave functions as representations of "real things."
+It isn’t about agnosticism—it’s about recognizing that the theory has an **intrinsic language bias** built into it.
+
+Everett, rather than breaking from this view, **extends it**.
+He applies the theory’s self-consistent formalism to observers themselves, concluding that observers, too, must be in superposition if quantum mechanics is applied universally.
+This isn’t a radical departure, but a **deepening** of the Copenhagen stance—removing the arbitrary classical/quantum boundary and pushing the non-sensical nature of the theory to include everything, observers and all.
+
+Neither interpretation solves the foundational problem of **semantic incoherence**.
+Both reveal that the wave function doesn't carry global meaning, only **local, observer-relative approximations** that yield predictive success.
+That is, quantum mechanics works not because it’s semantically clear, but because it’s empirically precise.
 
 While the theory overall does not make sense, it is possible to factorize a wave function
 into smaller local wave functions, that independently can be approximately thought of as non-deterministic probabilistic functions.
