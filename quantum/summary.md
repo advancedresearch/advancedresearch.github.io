@@ -177,7 +177,7 @@ simply because it avoids the need for explaining observers as special, compared 
 However, QM itself is still overall non-sensical.
 Nobody has given a proper explanation of QM so far, that makes it sensical.
 
-### Why Foundational Interpretations Often End in Existential Horror
+### Why foundational interpretations often end in Existential Horror
 
 Most foundational approaches to quantum mechanics attempt to discover the **“correct” ontology** of the wave function.
 Whether it’s many-worlds, pilot-wave theory, QBism, or objective collapse models,
@@ -203,6 +203,8 @@ From the Path Semantics perspective, these horrors are not accidental—they are
 
 Now, people might think this has something to do with QM in particular.
 However, in the foundations of Path Semenatics, every approach - no matter whether this is about QM or not - leads to some kind of Existential Horror.
+
+Existential Horror does not need to violate empirical observations. For example, it is true that people only know the universe from the perspective of their own minds - whether Solipsism is true or not - it is an ontological fact that people have to deal with regardless of metaphysical stances. In the same way, the Everett interpretation predicts infinite branching of selves - a kind of dual of Solipsism - which is an inevitable result of taking QM seriously when applied to observers. Yet again, whether it is true or not, this causes problems when trying to connect the theory of QM to experiments. The Existential Horror is unavoidable, not because we are dealing with QM in particular or with reality, but simply because we use symbols.
 
 ### Unsuccessful attempts
 
