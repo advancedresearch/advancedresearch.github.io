@@ -177,6 +177,33 @@ simply because it avoids the need for explaining observers as special, compared 
 However, QM itself is still overall non-sensical.
 Nobody has given a proper explanation of QM so far, that makes it sensical.
 
+### Why Foundational Interpretations Often End in Existential Horror
+
+Most foundational approaches to quantum mechanics attempt to discover the **“correct” ontology** of the wave function.
+Whether it’s many-worlds, pilot-wave theory, QBism, or objective collapse models,
+the goal is often to find a symbolic framework in which quantum mechanics becomes understandable.
+
+However, in the foundation of Path Semantics, these attempts can be seen as deploying different language tools—tools that structure thought in specific ways but inevitably lead to existential horror.
+That is, each framework may bring temporary semantic relief, but ultimately collapses under the weight of its own assumptions:
+
+- In Everett’s case, the horror is **ontological inflation** — a universe endlessly branching with no semantic anchor for "this world."
+- In hidden-variable theories, the horror comes from **unobservable determinism** — a machinery behind the scenes that you can never interact with directly.
+- In QBism or subjective interpretations, the horror lies in **solipsism** or radical observer relativism.
+
+From the Path Semantics perspective, these horrors are not accidental—they are **consequences of trying to force a globally coherent ontology** onto a theory that was never designed for that purpose. Quantum mechanics is **fragmented by construction**; it was built to predict, not explain.
+
+| Interpretation         | Language Tool / Assumption                             | Existential Horror / Semantic Breakdown                        |
+|------------------------|--------------------------------------------------------|----------------------------------------------------------------|
+| Copenhagen             | Classical-quantum cutoff; observer special             | Semantic opacity – theory can't explain itself                 |
+| Everett (Many-Worlds)  | Universal application of QM; no collapse               | Ontological inflation – infinite branching selves              |
+| Bohmian Mechanics      | Hidden variables; pilot wave                           | Unobservable machinery – epistemic void                        |
+| QBism                  | Subjective Bayesianism; agent-centered                 | Radical solipsism – no shared reality                          |
+| Objective Collapse     | Spontaneous wavefunction collapse                      | Arbitrary collapse – randomness without reason                 |
+| Superdeterminism       | No free will; initial condition determinism            | Denial of agency – no genuine choice or cause                  |
+
+Now, people might think this has something to do with QM in particular.
+However, in the foundations of Path Semenatics, every approach - no matter whether this is about QM or not - leads to some kind of Existential Horror.
+
 ### Unsuccessful attempts
 
 *Notice! These people might disagree, because they often claim to have "solved it".
