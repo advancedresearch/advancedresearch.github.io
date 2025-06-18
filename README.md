@@ -72,7 +72,7 @@ You can find a summary about PSG research [here](https://advancedresearch.github
 
 ### Quantum Path Semantics
 
-Quantum Path Semantics is a sub-field of Path Semantics that studies how people use Quantum Mechanics (QM).
+Quantum Path Semantics is a subfield of Path Semantics that studies how people use Quantum Mechanics (QM).
 
 You can find a summary about Quantum Path Semantics [here](./quantum/summary.md)
 
