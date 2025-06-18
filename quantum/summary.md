@@ -1,6 +1,6 @@
 # Quantum Path Semantics
 
-Quantum Path Semantics is a sub-field of Path Semantics that studies how people use Quantum Mechanics (QM).
+Quantum Path Semantics is a subfield of Path Semantics that studies how people use Quantum Mechanics (QM).
 
 One frequent misconception about QM is that it can just be "explained away".
 Even some serious philosophers of physics try very hard to unravel the "mystery" of QM,
@@ -59,7 +59,7 @@ To avoid ambiguity, we often write `(∃f)(x)` instead of `∃f(x)`,
 since the latter might be interpreted as `∃(f(x))`.
 
 Normal existential paths, which are existential paths of deterministic functions,
-returns a bool:
+return a bool:
 
 ```text
 f : T -> U
@@ -67,7 +67,7 @@ f : T -> U
 ```
 
 By extending normal existential paths to return probabilities,
-we can describe what non-deterministic probabilistic functions outputs,
+we can describe what nondeterministic probabilistic functions outputs,
 given that the input data is uniformly distributed:
 
 ```text
@@ -160,11 +160,11 @@ the observer can also be in superposition.
 It is not a deep philosophical argument about the nature of QM.
 On the contrary, it is a very straight forward argument, but with many philosophical implications in Ontology.
 
-Over time, physicists have gradually favored the Everett interpetation over the Copenhagen interpretation,
+Over time, physicists have gradually favored the Everett interpretation over the Copenhagen interpretation,
 simply because it avoids the need for explaining observers as special, compared to the rest of the quantum universe.
 
 However, QM itself is still overall non-sensical.
-Nobody have given a proper explanation of QM so far, that makes it sensical.
+Nobody has given a proper explanation of QM so far, that makes it sensical.
 
 ### Unsuccessful attempts
 
@@ -191,12 +191,12 @@ While Wolfram's approach is beautiful and elegant, it is currently not sufficien
 Jacob Barandes figured out a way to start with general probabilistic state transitions
 and work his way backwards toward the normal Hilbert formulation of QM.
 This shed some light on Markovian assumptions about causality made by other physicists,
-but the end result is logically equivalent to the normal Hilber formation.
+but the end result is logically equivalent to the normal Hilbert formulation.
 The assumption of Unistochasticity implies the Born rule and vice versa.
 
 While Barandes' approach is useful and gives some new insights, it does not produce any new scientific predictions.
 
-Neither does Berandes' approach "explain" QM any more than the Copenhagen interpretation, despite Barandes claiming otherwise.
+Neither does Barandes' approach "explain" QM any more than the Copenhagen interpretation, despite Barandes claiming otherwise.
 Barandes is making a logical fallacy, where he thinks the language bias he chooses to focus on, "forces" the theory overall to make sense.
 However, from the perspective of Path Semantics, there is still no "source code" you can use to make sense of any wave function in general.
 
@@ -210,7 +210,7 @@ Just because somebody proposes a theory which they make wrong claims about,
 does not necessarily mean that all their ideas are bad.
 
 We need at least some theory can has some form of observer bias built into it,
-so the theory can be used as a pratical language tool in science.
+so the theory can be used as a practical language tool in science.
 
 One way to encode observer bias into hypergraph rewriting,
 is to use [Avatar Extensions](../avatar-extensions/summary.html), e.g. [Avatar Hypergraph Rewriting](https://github.com/advancedresearch/avatar_hypergraph_rewriting).
@@ -233,7 +233,7 @@ By applying this intuition to hypergraph rewriting and using the theory of Avata
 we can construct a language which has an observer bias toward complexity: Avatar Hypergraph Rewriting (AHR).
 
 The way AHR functions currently, is by applying universal rules, just like Wolfram models.
-This means you have to find observers encoded implicity within the model to make predictions about measurements.
+This means you have to find observers encoded implicitly within the model to make predictions about measurements.
 
 AHR has an observer bias, but only for all possible observers in the universe given some model (which has not been found yet).
 
