@@ -45,7 +45,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 
 107478087043 was found 13.06.2025 19:13 UTC.
 
-The minimum primbix with value 16 is above 134 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
+The minimum primbix with value 16 is above 138 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -188,12 +188,17 @@ To make collaboration easier, the search is split into billions, with the highes
 [131 000 000 000, 132 000 000 000): 14, 131 080 792 187 (done)
 [132 000 000 000, 133 000 000 000): 13, 132 454 408 259 (done)
 [133 000 000 000, 134 000 000 000): 13, 133 043 218 019 (done)
-[134 000 000 000, 135 000 000 000): <--- 8 CPUs
+[134 000 000 000, 135 000 000 000): 13, 134 237 440 619 (done)
+[135 000 000 000, 136 000 000 000): 13, 135 248 281 667 (done)
+[136 000 000 000, 137 000 000 000): 13, 136 039 074 803 (done)
+[137 000 000 000, 138 000 000 000): 14, 137 719 853 267 (done)
+[138 000 000 000, 139 000 000 000): <--- 8 CPUs
 
 [174 000 000 000, 175 000 000 000): 13, 174 007 028 003 (done)
 [175 000 000 000, 176 000 000 000): 14, 175 898 379 947 (done)
 [176 000 000 000, 177 000 000 000): 15, 176 115 709 139 (done)
 
+[458 000 000 000, 459 000 000 000): 14, 458 353 629 827 (done)
 [459 000 000 000, 460 000 000 000): 14, 459 492 057 587 (done)
 [460 000 000 000, 461 000 000 000): 16, 460 785 710 279 (done)
 ```
