@@ -45,11 +45,11 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 
 107478087043 was found 13.06.2025 19:13 UTC.
 
-The minimum primbix with value 16 is above 142 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
+The minimum primbix with value 16 is above 145 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
-There are currently 8 dedicated CPU cores that work on this search 24/7.
+There are currently 16 dedicated CPU cores that work on this search 24/7.
 
 To make collaboration easier, the search is split into billions, with the highest minimum primbix found so far in this range:
 
@@ -196,11 +196,17 @@ To make collaboration easier, the search is split into billions, with the highes
 [139 000 000 000, 140 000 000 000): 13, 139 266 250 859 (done)
 [140 000 000 000, 141 000 000 000): 13, 140 104 159 067 (done)
 [141 000 000 000, 142 000 000 000): 14, 141 945 809 003 (done)
-[142 000 000 000, 143 000 000 000): <--- 8 CPUs
+[142 000 000 000, 143 000 000 000): 14, 142 752 559 163 (done)
+[143 000 000 000, 144 000 000 000): 13, 143 768 837 579 (done)
+[144 000 000 000, 145 000 000 000): 13, 144 131 193 587 (done)
+[145 000 000 000, 146 000 000 000): <--- 8 CPUs
 
 [174 000 000 000, 175 000 000 000): 13, 174 007 028 003 (done)
 [175 000 000 000, 176 000 000 000): 14, 175 898 379 947 (done)
 [176 000 000 000, 177 000 000 000): 15, 176 115 709 139 (done)
+
+[300 000 000 000, 301 000 000 000): 13, 300 128 528 243 (done)
+[301 000 000 000, 302 000 000 000): <--- 8 CPUs
 
 [457 000 000 000, 458 000 000 000): 13, 457 109 239 283 (done)
 [458 000 000 000, 459 000 000 000): 14, 458 353 629 827 (done)
