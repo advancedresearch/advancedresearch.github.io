@@ -16,7 +16,7 @@ Based on notation used in the paper [Dialectical Masks: Hegel's Philosophy throu
 | ------------------------ | ----------------------------------------------------------------- | ------------------- | -------- |
 | 0                        | Platonism/Rationalism/Pure concept                                | Pl, De, Sp, Le, Ka  | [1](#example-1) |
 | 1                        | Seshatism/Empiricism/Lived experience                             | Ar, Lo, Be, Hume    | [2](#example-2) |
-| ?0                       | Empirical appearances structures by reason/Intellectual intuition | Ka, Sc2             | [3](#example-3) |
+| ?0                       | Empirical appearances structured by reason/Intellectual intuition | Ka, Sc2             | [3](#example-3) |
 | ?1                       | A-priori intuitions/Transcedental poetry/Rational mask            | Ka, Sc1             | [4](#example-4) |
 | 0 1                      | Synthesized cognition/Fragmentary thinking/Determinate Being      | Ka, Fi, Sc1, He     | [5](#example-5) |
 | ?1 + 0 -> 0 1 -> ?0      | Criticial philosophy (Kant)                                       | Ka                  | [6](#example-6) |
