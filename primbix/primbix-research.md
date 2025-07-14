@@ -45,7 +45,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 
 107478087043 was found 13.06.2025 19:13 UTC.
 
-The minimum primbix with value 16 is above 200 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
+The minimum primbix with value 16 is above 204 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -254,7 +254,11 @@ To make collaboration easier, the search is split into billions, with the highes
 [197 000 000 000, 198 000 000 000): 13, 197 429 117 339 (done)
 [198 000 000 000, 199 000 000 000): 13, 198 382 907 123 (done)
 [199 000 000 000, 200 000 000 000): 13, 199 267 081 943 (done)
-[200 000 000 000, 201 000 000 000): <--- 8 CPUs
+[200 000 000 000, 201 000 000 000): 15, 200 103 126 263 (done)
+[201 000 000 000, 202 000 000 000): 13, 201 056 496 899 (done)
+[202 000 000 000, 203 000 000 000): 12, 202 212 144 899 (done)
+[203 000 000 000, 204 000 000 000): 14, 203 295 383 339 (done)
+[204 000 000 000, 205 000 000 000): <--- 8 CPUs
 
 [300 000 000 000, 301 000 000 000): 13, 300 128 528 243 (done)
 [301 000 000 000, 302 000 000 000): 13, 301 073 167 403 (done)
@@ -287,8 +291,12 @@ To make collaboration easier, the search is split into billions, with the highes
 [328 000 000 000, 329 000 000 000): 13, 328 358 622 947 (done)
 [329 000 000 000, 330 000 000 000): 13, 329 967 697 883 (done)
 [330 000 000 000, 331 000 000 000): 15, 330 808 203 107 (done)
-[331 000 000 000, 332 000 000 000): <--- 8 CPUs
+[331 000 000 000, 332 000 000 000): 14, 331 639 961 243 (done)
+[332 000 000 000, 333 000 000 000): 13, 332 960 948 819 (done)
+[333 000 000 000, 334 000 000 000): 13, 333 111 328 547 (done)
+[334 000 000 000, 335 000 000 000): <--- 8 CPUs
 
+[448 000 000 000, 449 000 000 000): 13, 448 009 553 963 (done)
 [449 000 000 000, 450 000 000 000): 12, 449 041 875 323 (done)
 [450 000 000 000, 451 000 000 000): 13, 450 456 465 527 (done)
 [451 000 000 000, 452 000 000 000): 14, 451 573 003 907 (done)
