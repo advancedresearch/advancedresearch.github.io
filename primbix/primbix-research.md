@@ -45,7 +45,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 
 107478087043 was found 13.06.2025 19:13 UTC.
 
-The minimum primbix with value 16 is above 229 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
+The minimum primbix with value 16 is above 234 000 000 000 and less or equal to 460 785 710 279 (which has primbix value 16).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -283,7 +283,12 @@ To make collaboration easier, the search is split into billions, with the highes
 [226 000 000 000, 227 000 000 000): 13, 226 013 030 603 (done)
 [227 000 000 000, 228 000 000 000): 13, 227 115 293 683 (done)
 [228 000 000 000, 229 000 000 000): 14, 228 039 819 983 (done)
-[229 000 000 000, 230 000 000 000): <--- 8 CPUs
+[229 000 000 000, 230 000 000 000): 14, 229 417 971 779 (done)
+[230 000 000 000, 231 000 000 000): 14, 230 740 861 459 (done)
+[231 000 000 000, 232 000 000 000): 13, 231 384 369 647 (done)
+[232 000 000 000, 233 000 000 000): 14, 232 887 766 499 (done)
+[233 000 000 000, 234 000 000 000): 14, 233 141 713 643 (done)
+[234 000 000 000, 235 000 000 000): <--- 8 CPUs
 
 [300 000 000 000, 301 000 000 000): 13, 300 128 528 243 (done)
 [301 000 000 000, 302 000 000 000): 13, 301 073 167 403 (done)
@@ -335,8 +340,13 @@ To make collaboration easier, the search is split into billions, with the highes
 [347 000 000 000, 348 000 000 000): 14, 347 221 603 363 (done)
 [348 000 000 000, 349 000 000 000): 13, 348 167 976 419 (done)
 [349 000 000 000, 350 000 000 000): 13, 349 328 121 203 (done)
-[350 000 000 000, 351 000 000 000): <--- 8 CPUs
+[350 000 000 000, 351 000 000 000): 15, 350 358 356 627 (done)
+[351 000 000 000, 352 000 000 000): 13, 351 479 312 243 (done)
+[352 000 000 000, 353 000 000 000): 14, 352 497 953 443 (done)
+[353 000 000 000, 354 000 000 000): 15, 353 183 366 843 (done)
+[354 000 000 000, 355 000 000 000): <--- 8 CPUs
 
+[442 000 000 000, 443 000 000 000): 13, 442 283 370 443 (done)
 [443 000 000 000, 444 000 000 000): 13, 443 136 350 879 (done)
 [444 000 000 000, 445 000 000 000): 13, 444 083 272 397 (done)
 [445 000 000 000, 446 000 000 000): 14, 445 430 618 603 (done)
