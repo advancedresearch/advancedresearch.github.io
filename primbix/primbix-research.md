@@ -44,7 +44,8 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 460785710279: 16
 ```
 
-107478087043 was found 13.06.2025 19:13 UTC.
+107478087043 was found 13.06.2025 19:13 UTC.  
+460785710279 was found 15.08.2025 18:48 UTC.  
 
 The minimum primbix with value 17 is above 529 000 000 000.
 
