@@ -47,7 +47,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 107478087043 was found 13.06.2025 19:13 UTC.  
 460785710279 was found 15.08.2025 18:48 UTC.  
 
-The minimum primbix with value 17 is above 529 000 000 000 and below or equal to 9 301 168 121 387 (which has value 17).
+The minimum primbix with value 17 is above 529 000 000 000 and below or equal to 9 265 990 640 339 (which has value 17).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
