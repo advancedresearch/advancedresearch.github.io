@@ -55,7 +55,7 @@ If you are interested in helping to reduce this bound, then you can take a look 
 
 There are currently 16 dedicated CPU cores that work on this search 24/7.
 
-- [Minimum Primbixes per Billion up to Level 17](./level-14.md)
+- [Minimum Primbixes per Billion up to Level 17](./level-17.md)
 
 To make collaboration easier, the search is split into 100 billions, with the highest minimum primbix found so far in this range:
 
