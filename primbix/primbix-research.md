@@ -49,7 +49,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 460785710279 was found 15.08.2025 18:48 UTC.  
 5075320359359 was found 22.08.2025 18:29 UTC.
 
-The minimum primbix with value 18 is above 5 075 000 000 000.
+The minimum primbix with value 18 is above 5 200 000 000 000 and below or equal to 68 086 559 244 923 (which has primbix value 18).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -61,13 +61,16 @@ To make collaboration easier, the search is split into 100 billions, with the hi
 
 ```
 [5 000 000 000 000, 5 100 000 000 000): 17, 5 075 320 359 359
-[5 100 000 000 000, 5 200 000 000 000): <--- 1 CPU
+[5 100 000 000 000, 5 200 000 000 000): 16, 5 192 828 199 059
+[5 200 000 000 000, 5 300 000 000 000): <--- 1 CPU
 
 [6 000 000 000 000, 6 100 000 000 000): 17, 6 000 531 711 407
-[6 100 000 000 000, 6 200 000 000 000): <--- 1 CPU
+[6 100 000 000 000, 6 200 000 000 000): 17, 6 169 592 401 283
+[6 200 000 000 000, 6 300 000 000 000): <--- 1 CPU
 
 [7 000 000 000 000, 7 100 000 000 000): 16, 7 000 424 176 979
-[7 100 000 000 000, 7 200 000 000 000): <--- 1 CPU
+[7 100 000 000 000, 7 200 000 000 000): 15, 7 112 747 013 899
+[7 200 000 000 000, 7 300 000 000 000): <--- 1 CPU
 
 [8 000 000 000 000, 8 100 000 000 000): 17, 8 035 923 619 523
 [8 100 000 000 000, 8 200 000 000 000): <--- 1 CPU
