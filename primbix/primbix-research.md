@@ -51,7 +51,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 5075320359359 was found 22.08.2025 18:29 UTC.  
 12279094871663 was found 03.09.2025 08:33 UTC.  
 
-The minimum primbix with value 19 is above 15 900 000 000 000 and below or equal to 83 710 206 810 107 (which has primbix value 19).
+The minimum primbix with value 19 is above 17 000 000 000 000 and below or equal to 83 710 206 810 107 (which has primbix value 19).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
@@ -171,7 +171,7 @@ To make collaboration easier, the search is split into 100 billions, with the hi
 [15 600 000 000 000, 15 700 000 000 000): 17, 15 683 675 383 763
 [15 700 000 000 000, 15 800 000 000 000): 15, 15 713 052 485 539
 [15 800 000 000 000, 15 900 000 000 000): 17, 15 877 572 210 707
-[15 900 000 000 000, 16 000 000 000 000): <--- 1 CPU
+[15 900 000 000 000, 16 000 000 000 000): 17, 15 951 684 634 283
 [16 000 000 000 000, 16 100 000 000 000): 16, 16 010 887 169 759
 [16 100 000 000 000, 16 200 000 000 000): 15, 16 100 033 102 243
 [16 200 000 000 000, 16 300 000 000 000): 17, 16 206 120 139 907
@@ -180,7 +180,8 @@ To make collaboration easier, the search is split into 100 billions, with the hi
 [16 500 000 000 000, 16 600 000 000 000): 15, 16 507 268 074 723
 [16 600 000 000 000, 16 700 000 000 000): 18, 16 681 512 569 087
 [16 700 000 000 000, 16 800 000 000 000): 15, 16 707 000 751 907
-[16 800 000 000 000, 16 900 000 000 000): <--- 1 CPU
+[16 800 000 000 000, 16 900 000 000 000): 16, 16 832 729 562 443
+[16 900 000 000 000, 17 000 000 000 000): 16, 16 949 274 410 987
 ```
 
 ### Use of Primbixes in Galactic Communication
