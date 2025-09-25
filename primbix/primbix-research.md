@@ -53,7 +53,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 12279094871663 was found 03.09.2025 08:33 UTC.  
 83710206810107 was found 25.10.2025 15:45 UTC.  
 
-The minimum primbix with value 19 is above 85 200 000 000 000 and below or equal to 294 698 527 560 839 (which has primbix value 19).
+The minimum primbix with value 20 is above 85 200 000 000 000 and below or equal to 294 698 527 560 839 (which has primbix value 20).
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
