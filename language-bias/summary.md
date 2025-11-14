@@ -14,6 +14,13 @@ Overview:
 
 - [Negation](#negation)
 - [Space and Time](#space-and-time)
+- [Static and Dynamic](#static-and-dynamic)
+- [Identity](#identity)
+- [Induction and Coinduction](#induction-and-coinduction)
+- [Types and Booleans](#types-and-booleans)
+- [Homotopy Type Theory and Path Semantics](#homotopy-type-theory-and-path-semantics)
+- [Inside and Outside theory](#inside-and-outside-theory)
+- [Platonism and Seshatism](#platonism-and-seshatism)
 
 ### Negation
 
