@@ -10,6 +10,11 @@ Language bias is an important research topic, for the following reasons:
 1. Language bias results in limited applicability of language tools
 2. Human brains learn to organize information using language biases
 
+Overview:
+
+- [Negation](#negation)
+- [Space and Time](#space-and-time)
+
 ### Negation
 
 In classical logic, one can think about individual states as `0` and `1`.
