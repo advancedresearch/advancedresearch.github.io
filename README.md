@@ -76,6 +76,14 @@ Quantum Path Semantics is a subfield of Path Semantics that studies how people u
 
 You can find a summary about Quantum Path Semantics [here](./quantum/summary.md)
 
+### Language bias
+
+Every language has language bias.
+
+A language bias is something that is a property of a particular language being used, not because of an external reality.
+
+You can find a summary about Language Bias [here](./language-bias/summary.md)
+
 ### Blog posts
 
 - [2025-01-23 How to Use Game Design to Make Mathematics Better](https://advancedresearch.github.io/blog/2025-01-23-how-to-use-game-design-to-make-mathematics-better)
