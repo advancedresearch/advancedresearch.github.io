@@ -82,7 +82,7 @@ Every language has language bias.
 
 A language bias is something that is a property of a particular language being used, not because of an external reality.
 
-You can find a summary about Language Bias [here](./language-bias/summary.md)
+You can find a summary about Language Bias [here](./language-bias/summary.md).
 
 ### Blog posts
 
