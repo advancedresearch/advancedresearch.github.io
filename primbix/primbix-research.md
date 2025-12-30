@@ -59,7 +59,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 
 The minimum primbix with value 21 is above 403 400 000 000 000 and below or equal to 1 771 883 742 990 899 (which has primbix value 21).
 
-It is not possible to construct a lower minimum primbix than 1 771 883 742 990 899 using any of the `n` lowest numbers of primbix value 1, where:
+It is not possible to construct a lower minimum primbix of value 21, than 1 771 883 742 990 899, using any of the `n` lowest numbers of primbix value 1, where:
 
 n = 13, [2, 3, 5, 7, 11, 17, 23, 37, 41, 47, 59, 61, 73]
 
