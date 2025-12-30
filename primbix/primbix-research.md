@@ -1,5 +1,7 @@
 # Primbix Research
 
+[Join us on Discord!](https://discord.gg/JkrhJJRBR2)
+
 Primbixes are primes of the form:
 
     1 + 2 * r * s
