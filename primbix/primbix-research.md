@@ -4087,3 +4087,4 @@ in addition to expert researchers working in this field to advance human knowled
 - Is the minimum primbix sequence infinite?
 - Can all primes be held in a single infinite-primbix?
 - Does the set of all primes held by the minimum primbix sequence cover all primes?
+- Does the set of primes `2, 3, 5` give rise to an infinite set of primes constructed using the primbix formula?
