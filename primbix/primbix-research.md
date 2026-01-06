@@ -61,7 +61,7 @@ The minimum primbix with value 21 is above 403 400 000 000 000 and below or equa
 
 It is not possible to construct a lower minimum primbix of value 21, than 1 771 883 742 990 899, using any of the `n` lowest numbers of primbix value 1, where:
 
-n = 21, [2, 3, 5, 7, 11, 17, 23, 37, 41, 47, 59, 61, 73, 83, 89, 97, 101, 107, 109, 113, 127]
+n = 22, [2, 3, 5, 7, 11, 17, 23, 37, 41, 47, 59, 61, 73, 83, 89, 97, 101, 107, 109, 113, 127, 137]
 
 This means, we are pretty confident that the minimum primbix with value 21 is 1 771 883 742 990 899, but exhaustive search is needed to prove it.
 No currently known theorem techniques are able to bridge the language gap.
