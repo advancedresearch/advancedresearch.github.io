@@ -84,15 +84,15 @@ n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Current research
 
-The minimum primbix with value 23 is above 11 091 321 145 241 003.
+The minimum primbix with value 23 is above 11 091 321 145 241 003 and less or equal to 70 230 164 674 667 483 (which has primbix value 23).
 
 Using the minimum primbix 21, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
 
-n = _, [2, 3, 5, ...]
+n = 6, [2, 3, 5, 7, 11, 17]
 
 At the moment, this has been verified up to:
 
-n = _, [2, 3, 5, ...]
+n = 4, [2, 3, 5, 7]
 
 ### Exhaustive search
 
