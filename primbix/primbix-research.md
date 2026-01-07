@@ -80,7 +80,7 @@ The minimum primbix with value 22 is above 1 771 883 742 990 899 and less or equ
 
 Using the minimum primbix 20, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 11 091 321 145 241 003 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
 
-n = 17, [2, 3, 5, 7, 11, 17, 23, 37, 41, 47, 59, 61, 73, 83, 89, 97, 101]
+n = 6, [2, 3, 5, 7, 11, 17]
 
 At the moment, this has been verified up to:
 
