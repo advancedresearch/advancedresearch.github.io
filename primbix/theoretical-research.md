@@ -382,4 +382,106 @@ Where `prime_base(n - 1) = 885941871495419`.
 
 The question is: Can we use this new knowledge to improve the upper bound further?
 
+### Improving the upper bound further for minimum primbix of value 21
+
+We know that the highest prime base for minimum primbix of value 21 is `prime_base(n - 1) = 885941871495419`.
+
+We would like to lower this upper bound.
+
+Now, the smallest product `r * s` possible, where `r = 885941871495419`, is where `s = 2`.
+
+When we plug this product into the primbix formula, we get:
+
+`1 + 2 * r * s = 1 + 2 * 885941871495419 * 2 = 3543767485981677`
+
+This is larger than `1771883742990899`, the number we currently believe is the minimum primbix of value 21.
+
+Therefore, we do not need to check any primbix constructed using `885941871495419` as a prime base.
+
+So, what do we do next?
+
+We look for the prime base `prime_base(n - 2)` instead of `prime_base(n - 1)`.
+This lower prime base will be our new `prime_base(n' - 1)`.
+
+We have a new imperfect `x = (885941871495419 - 2) + 1`, because we skip the even number below it.
+Now, to find the perfect `x`, we can use exhaustive search and going down until we find another prime base.
+
+This gives us the perfect `x = 885941871495403 + 1`, where `prime_base(n' - 1) = 885941871495403`.
+
+This is still about as bad as before.
+
+The question is: Can we learn something from this improvement and automate it?
+
+### Automating further improvements of the upper bound for minimum primbix of value 21
+
+The technique that we used to improve the upper bound for minimum primbix of value 21,
+was to find some prime base `r`, that determines a perfect `x = r + 1`,
+plug it back into the primbix formula with `s = 2` and check if it is higher than `1771883742990899`.
+
+If it is higher, then we substract with `2` from it and check again.
+
+Here is the Rust code:
+
+```rust
+use algexenotation::primbix;
+
+fn main() {
+    let target = 1771883742990899;
+
+    let mut x = (target - 1) / 2;
+
+    loop {
+        loop {
+            if primbix(x) == 1 {break}
+
+            x -= 2;
+        }
+        println!("{}", x);
+
+        let y = 1 + 2 * x * 2;
+        if y > target {
+            x -= 2;
+        } else {break}
+    }
+}
+```
+
+In principle, if we run this code until it terminates, then we have a new improved upper bound,
+that can not be improved further using this technique.
+
+Now, do you see a problem with this code?
+
+Yes! It is slow. Takes too long time to finish.
+
+If you actually run this program for months, it will output the final answer:
+
+`442970935747649`
+
+This means, the new perfect `x = 442970935747649 + 1`, where `prime_base(n - 1) = 442970935747649`.
+
+I did not actually run the program for months, because there is a way to cheat.
+With the cheat, I found the answer in just a few minutes.
+
+The cheat is that if you stop the program and take the last output,
+then you can replace this line:
+
+`let mut x = (target - 1) / 2;`
+
+With the following:
+
+`let mut x = <last_output> - K;`
+
+Where `K` is some large even number.
+You run the program again and see if it is still prints out lots of numbers.
+If the program just outputs one number, then you have to reduce `K`.
+
+The property of using this cheat in this program, follows from the induction principle of `f`,
+the function that encodes the mathematical knowledge we have about `x`:
+
+`!f(x) => !f(x + 1)` for all `x`
+
+So, if we have found some last output that makes the program keep improving the upper bound,
+then we do not have to check the upper bounds that we skipped.
+
+The question is: Can we learn something using this new knowledge?
 
