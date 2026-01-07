@@ -76,7 +76,17 @@ For step 2, see [theoretical research](./theoretical-research.md), where it was 
 
 ### Current research
 
-The minimum primbix with value 22 is above 1 771 883 742 990 899.
+The minimum primbix with value 22 is above 1 771 883 742 990 899 and less or equal to 11 091 321 145 241 003 (which has primbix value 22).
+
+Using the minimum primbix 20, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 11 091 321 145 241 003 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+
+n = 17, [2, 3, 5, 7, 11, 17, 23, 37, 41, 47, 59, 61, 73, 83, 89, 97, 101]
+
+At the moment, this has been verified up to:
+
+n = 5, [2, 3, 5, 7, 11]
+
+### Exhaustive search
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
