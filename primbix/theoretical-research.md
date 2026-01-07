@@ -485,3 +485,126 @@ then we do not have to check the upper bounds that we skipped.
 
 The question is: Can we learn something using this new knowledge?
 
+### Using 13, again, to improve the upper bound for minimum primbix of value 21
+
+So far, we have the following upper bound for minimum primbix of value 21:
+
+`prime_base(n - 1) = 442970935747649`
+
+We would like to lower the upper bound.
+
+The trick we used in the previous automated improvement,
+was to set `r = 442970935747649` and `s = 2`,
+because `s = 2` is the smallest number that we can use to construct a higher primbix.
+We plugged this `r * s` product back into the primbix formula and checked if it was higher than `1771883742990899`,
+the number we currently believe is the minimum primbix of value 21.
+
+The number `442970935747649` is the largest number that we can put in, using this method,
+that gives a smaller or equal target to `1771883742990899`.
+
+Just to check: `1 + 2 * 442970935747649 * 2 = 1771883742990597`, which is smaller than `1771883742990899`.
+
+Now, the since both `r` and `s` are prime bases, the primbix value constructed can not be higher than `2`.
+This is because the primbix value of `1 + 2 * r * s` can not be higher than `primbix(r) + primbix(s) = 1 + 1 = 2`.
+
+However, we are looking for candidates of primbix value 21, not 2, so there is still a huge gap!
+
+The number `13` is the lowest primbix of value 2, so if we use `s = 13`, we get:
+
+`primbix(r) + primbix(s) = 1 + 2 = 3`
+
+Since 3 is lower than 21, we are still on the safe side.
+
+Now, we replace this line:
+
+`let y = 1 + 2 * x * 2;`
+
+With the following:
+
+`let y = 1 + 2 * x * 13;`
+
+Instead of starting from scratch, we use:
+
+`let mut x = 442970935747649;`
+
+Our program looks like this:
+
+```rust
+use algexenotation::primbix;
+
+fn main() {
+    let target = 1771883742990899;
+
+    // let mut x = (target - 1) / 2;
+    // let mut x = 442970948340967 - 10_000_000;
+    let mut x = 442970935747649;
+
+    loop {
+        loop {
+            if primbix(x) == 1 {break}
+
+            x -= 2;
+        }
+        println!("{}", x);
+
+        let y = 1 + 2 * x * 13;
+        if y > target {
+            x -= 2;
+        } else {break}
+    }
+}
+```
+
+In principle, this program will output the new improved upper bound.
+However, instead of waiting for the program to finish, we can use the same cheat as before.
+
+The new perfect `x = 68149374730369 + 1`, where `prime_base(n - 1) = 68149374730369`.
+
+The question is: Can we use `53`, which is the minimum primbix of level 3, instead of `13`?
+
+### Using 53 to improve the upper bound for minimum primbix of value 21
+
+The same technique as with `13`, can be used with `53`.
+
+When we use `r = 68149374730369` and `s = 53`, we get:
+
+`primbix(r) + primbix(s) = 1 + 3 = 4`
+
+Since 4 is lower than 21, we are still on the safe side.
+
+Our program now looks like this:
+
+```rust
+use algexenotation::primbix;
+
+fn main() {
+    let target = 1771883742990899;
+
+    // let mut x = (target - 1) / 2;
+    // let mut x = 442970948340967 - 10_000_000;
+    // let mut x = 442970935747649;
+    // let mut x = 68149393668067 - 10_000_000;
+    let mut x = 68149374730369;
+
+    loop {
+        loop {
+            if primbix(x) == 1 {break}
+
+            x -= 2;
+        }
+        println!("{}", x);
+
+        let y = 1 + 2 * x * 53;
+        if y > target {
+            x -= 2;
+        } else {break}
+    }
+}
+```
+
+Instead of waiting for this program to finish, we use the same cheat as before.
+
+The new perfect `x = 16715884367813 + 1` where `prime_base(n - 1) = 16715884367813`.
+
+The question is: Can we use `317`, which is the minimum primbix of level 4, instead of `53`?
+
