@@ -48,6 +48,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 12279094871663: 18
 83710206810107: 19
 294698527560839: 20
+1771883742990899: 21
 ```
 
 107478087043 was found 13.06.2025 19:13 UTC.  
@@ -55,16 +56,27 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 5075320359359 was found 22.08.2025 18:29 UTC.  
 12279094871663 was found 03.09.2025 08:33 UTC.  
 83710206810107 was found 25.10.2025 15:45 UTC.  
-294698527560839 was found 27.11.2025 15:21 UTC.
+294698527560839 was found 27.11.2025 15:21 UTC.  
+1771883742990899 was found 07.01.2026 15:43 UTC.
 
-The minimum primbix with value 21 is above 403 400 000 000 000 and below or equal to 1 771 883 742 990 899 (which has primbix value 21).
+The minimum primbices up to value 20 were found using exhaustive search.
 
-It is not possible to construct a lower minimum primbix of value 21, than 1 771 883 742 990 899, using any of the `n` lowest numbers of primbix value 1, where:
+### Minimum primbix with value 21
+
+The minimum primbix with value 21 was found by combining two theorem techniques:
+
+1. A fast algorithm proved that it was not possible to construct a lower minimum primbix of value 21, by  use any of the `n` lowest number of primbix value 1
+2. A manual proof in combination with mutating the source code of an automated improvement of the upper bound, produced a lower `n` than 1)
+
+Step 1 produced an `n`:
 
 n = 22, [2, 3, 5, 7, 11, 17, 23, 37, 41, 47, 59, 61, 73, 83, 89, 97, 101, 107, 109, 113, 127, 137]
 
-This means, we are pretty confident that the minimum primbix with value 21 is 1 771 883 742 990 899, but exhaustive search is needed to prove it.
-No currently known theorem techniques are able to bridge the language gap.
+For step 2, see [theoretical research](./theoretical-research.md), where it was proved that the lowest primbixes of value 1 needed to complete the proof are `2, 3, 5, 7`.
+
+### Current research
+
+The minimum primbix with value 22 is above 1 771 883 742 990 899.
 
 If you are interested in helping to reduce this bound, then you can take a look at [this example code](https://github.com/advancedresearch/algexenotation/blob/main/examples/primbix.rs).
 
