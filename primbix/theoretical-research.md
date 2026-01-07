@@ -608,3 +608,165 @@ The new perfect `x = 16715884367813 + 1` where `prime_base(n - 1) = 167158843678
 
 The question is: Can we use `317`, which is the minimum primbix of level 4, instead of `53`?
 
+### Using 317 to improve the upper bound for minimum primbix of value 21
+
+The same technique as with `53`, can be used with `317`.
+
+When we use `r = 16715884367813` and `s = 317`, we get:
+
+`primbix(r) + primbix(s) = 1 + 4 = 5`
+
+Since 5 is lower than 21, we are still on the safe side.
+
+Now you should be able to modify the program and use the cheat to get the answer within a few minutes.
+
+The new perfect `x = 2794769310701 + 1`, where `prime_base(n - 1) = 2794769310701`.
+
+The question is: Can we use `3407`, which is the minimum primbix of level 5, instead of `317`?
+
+### Using 3407 to improve the upper bound for minimum primbix of value 21
+
+The same technique as with `317`, can be used with `3407`.
+
+When we use `r = 2794769310701` and `s = 3407`, we get:
+
+`primbix(r) + primbix(s) = 1 + 5 = 6`
+
+Since 6 is lower than 21, we are still on the safe side.
+
+You should be able to modify the program and use the cheat to get the answer within a few minutes.
+
+The new perfect `x = 260035770901 + 1`, where `prime_base(n - 1) = 260035770901`.
+
+Now, you might have noticed a pattern.
+We can keep using the same technique over and over,
+as long we are staying on the safe side.
+
+The question is: Can we skip some minimum primbixes to speed up the rate of improved upper bounds?
+
+### Skipping minimum primbixes to speed up the rate of improved upper bounds
+
+We want to improve the upper bound for minimum primbix of value 21.
+
+We can calculate the highest minimum primbix that is on the safe side directly:
+
+`21 - 1 - 1 = 19`
+
+We go two levels down, because we substract `1` just to be sure we get some number less than `21`.
+Next, since whatever new highest prime base we find, it will still have primbix value 1,
+we can just subtract another `1`. As a result, we get `19`.
+
+This means, we can use the minimum primbix of value `19`, which is `83710206810107`.
+
+Let us modify the code, so it looks like this:
+
+```rust
+use algexenotation::primbix;
+
+fn main() {
+    let target = 1771883742990899;
+
+    // let mut x = (target - 1) / 2;
+    // let mut x = 442970948340967 - 10_000_000;
+    // let mut x = 442970935747649;
+    // let mut x = 68149393668067 - 10_000_000;
+    // let mut x = 68149374730369;
+    // let mut x = 16715896996229 - 10_000_000;
+    // let mut x = 16715884367813;
+    // let mut x = 2794785581407 - 10_000_000;
+    // let mut x = 2794769310701;
+    // let mut x = 260050733027 - 10_000_000;
+    let mut x = 260035770901;
+
+    loop {
+        loop {
+            if primbix(x) == 1 {break}
+
+            x -= 2;
+        }
+        println!("{}", x);
+
+        let rs = x.checked_mul(83710206810107);
+        if rs.is_none() {
+            x -= 2;
+            continue;
+        }
+
+        let y = 1 + 2 * x * 83710206810107;
+        if y > target {
+            x -= 2;
+        } else {break}
+    }
+}
+```
+
+We adding a check for overflow, since if the `r * s` product does not fit in a `u64` type,
+then it is larger than `1771883742990899`, which is what we currently believe is minimum primbix of value 21.
+In that case, we should simply keep improving the upper bound.
+
+It might still overflow, but do not worry about it.
+Rust will panic if or when it happens.
+The important thing is to keep improving the upper bound.
+
+The next overflow should happen when `x = 220361`.
+
+To fix this, we need to handle some more cases:
+
+```rust
+use algexenotation::primbix;
+
+fn main() {
+    let target = 1771883742990899;
+
+    // let mut x = (target - 1) / 2;
+    // let mut x = 442970948340967 - 10_000_000;
+    // let mut x = 442970935747649;
+    // let mut x = 68149393668067 - 10_000_000;
+    // let mut x = 68149374730369;
+    // let mut x = 16715896996229 - 10_000_000;
+    // let mut x = 16715884367813;
+    // let mut x = 2794785581407 - 10_000_000;
+    // let mut x = 2794769310701;
+    // let mut x = 260050733027 - 10_000_000;
+    // let mut x = 260035770901;
+    // let mut x = 7365577 - 1_000_000;
+    let mut x = 220361;
+
+    loop {
+        loop {
+            if primbix(x) == 1 {break}
+
+            x -= 2;
+        }
+        println!("{}", x);
+
+        let check = match x.checked_mul(83710206810107) {
+            Some(rs) => match rs.checked_mul(2) {
+                Some(z) => match z.checked_add(1) {
+                    Some(w) => Some(w),
+                    None => None,
+                },
+                None => None,
+            }
+            None => None,
+        };
+        if check.is_none() {
+            x -= 2;
+            continue;
+        }
+
+        let y = 1 + 2 * x * 83710206810107;
+        if y > target {
+            x -= 2;
+        } else {break}
+    }
+}
+```
+
+Now, when it runs, it should output `7`.
+
+The new perfect `x = 7 + 1`, where `prime_base(n - 1) = 7`.
+
+So far, we have verified up to `n = 22`, which highest prime base is `137`.
+
+Since `7 < 22`, we have found the minimum primbix 21: `1771883742990899`.
