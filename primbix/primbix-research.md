@@ -96,11 +96,11 @@ n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Current research
 
-The minimum primbix with value 24 is above 57 618 683 965 522 403 and less or equal to _ (which has primbix value 24).
+The minimum primbix with value 24 is above 57 618 683 965 522 403 and less or equal to 656 132 906 468 552 867 (which has primbix value 24).
 
-Using the minimum primbix 22, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+Using the minimum primbix 22, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 656 132 906 468 552 867 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
 
-n = _
+n = 7, [2, 3, 5, 7, 11, 17, 23]
 
 At the moment, this has been verified up to:
 
