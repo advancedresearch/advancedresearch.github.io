@@ -88,6 +88,10 @@ n = 6, [2, 3, 5, 7, 11, 17]
 
 The minimum primbix with value 22 was found using same technique as 21:
 
+n = 5, [2, 3, 5, 7, 11]
+
+Verified up to:
+
 n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Current research
