@@ -104,15 +104,15 @@ n = 7, [2, 3, 5, 7, 11, 17, 23]
 
 ### Current research
 
-The minimum primbix with value 25 is above 656 132 906 468 552 867 and less or equal to _ (which has primbix value 25).
+The minimum primbix with value 25 is above 656 132 906 468 552 867 and less or equal to 5 575 777 449 953 148 947 (which has primbix value 25).
 
-Using the minimum primbix 23, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+Using the minimum primbix 23, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 5 575 777 449 953 148 947 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
 
 n = _
 
 At the moment, this has been verified up to:
 
-n = _
+n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Exhaustive search
 
