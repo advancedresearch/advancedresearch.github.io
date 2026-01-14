@@ -55,6 +55,8 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 5115750284273141999: 25
 ```
 
+The term of this sequence 0-25 covers the u64 range.
+
 107478087043 was found 13.06.2025 19:13 UTC.  
 460785710279 was found 15.08.2025 18:48 UTC.  
 5075320359359 was found 22.08.2025 18:29 UTC.  
@@ -112,7 +114,7 @@ n = 9, [2, 3, 5, 7, 11, 17, 23, 37, 41]
 
 ### Current research
 
-The minimum primbix with value 26 is above 5 115 750 284 273 141 999 and less or equal to _ (which has primbix value 26).
+The minimum primbix with value 26 is above 18 446 744 073 709 551 615 (u64 max value) and less or equal to _ (which has primbix value 26).
 
 Using the minimum primbix 24, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
 
