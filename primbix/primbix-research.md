@@ -52,6 +52,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 11091321145241003: 22
 57618683965522403: 23
 656132906468552867: 24
+5115750284273141999: 25
 ```
 
 107478087043 was found 13.06.2025 19:13 UTC.  
@@ -64,6 +65,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 11091321145241003 was found 07.01.2026 16:57 UTC.  
 57618683965522403 was found 14.01.2026 5:45 UTC.  
 656132906468552867 was found 14.01.2026 9:12 UTC.  
+5115750284273141999 was found 14.01.2026 10:00 UTC.  
 
 The minimum primbixes up to value 20 were found using exhaustive search.
 
@@ -88,7 +90,7 @@ n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Minimum primbix with value 23
 
-The minimum primbix with value 22 was found using same technique as 21:
+The minimum primbix with value 23 was found using same technique as 21:
 
 n = 5, [2, 3, 5, 7, 11]
 
@@ -98,21 +100,27 @@ n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Minimum primbix with value 24
 
-The minimum primbix with value 22 was found using same technique as 21:
+The minimum primbix with value 24 was found using same technique as 21:
 
 n = 7, [2, 3, 5, 7, 11, 17, 23]
 
-### Current research
+### Minimum primbix with value 25
 
-The minimum primbix with value 25 is above 656 132 906 468 552 867 and less or equal to 5 115 750 284 273 141 999 (which has primbix value 25).
-
-Using the minimum primbix 23, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 5 115 750 284 273 141 999 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+The minimum primbix with value 25 was found using the same technique as 21:
 
 n = 9, [2, 3, 5, 7, 11, 17, 23, 37, 41]
 
+### Current research
+
+The minimum primbix with value 26 is above 5 115 750 284 273 141 999 and less or equal to _ (which has primbix value 26).
+
+Using the minimum primbix 24, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+
+n = _
+
 At the moment, this has been verified up to:
 
-n = 8, [2, 3, 5, 7, 11, 17, 23, 37]
+n = _
 
 ### Exhaustive search
 
