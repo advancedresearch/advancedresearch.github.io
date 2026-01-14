@@ -104,7 +104,7 @@ n = 7, [2, 3, 5, 7, 11, 17, 23]
 
 At the moment, this has been verified up to:
 
-n = 5, [2, 3, 5, 7, 11]
+n = 6, [2, 3, 5, 7, 11, 17]
 
 ### Exhaustive search
 
