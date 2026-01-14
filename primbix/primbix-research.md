@@ -55,7 +55,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 5115750284273141999: 25
 ```
 
-The term of this sequence 0-25 covers the u64 range.
+The terms of this sequence 0-25 covers the u64 range.
 
 107478087043 was found 13.06.2025 19:13 UTC.  
 460785710279 was found 15.08.2025 18:48 UTC.  
