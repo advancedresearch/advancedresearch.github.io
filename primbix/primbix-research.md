@@ -50,6 +50,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 294698527560839: 20
 1771883742990899: 21
 11091321145241003: 22
+57618683965522403: 23
 ```
 
 107478087043 was found 13.06.2025 19:13 UTC.  
@@ -59,9 +60,10 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 83710206810107 was found 25.10.2025 15:45 UTC.  
 294698527560839 was found 27.11.2025 15:21 UTC.  
 1771883742990899 was found 07.01.2026 15:43 UTC.  
-11091321145241003 was found 07.01.2026 16:57 UTC.
+11091321145241003 was found 07.01.2026 16:57 UTC.  
+57618683965522403 was found 14.01.2026 5:45 UTC.  
 
-The minimum primbices up to value 20 were found using exhaustive search.
+The minimum primbixes up to value 20 were found using exhaustive search.
 
 ### Minimum primbix with value 21
 
@@ -82,17 +84,23 @@ The minimum primbix with value 22 was found using same technique as 21:
 
 n = 6, [2, 3, 5, 7, 11, 17]
 
-### Current research
+### Minimum primbix with value 23
 
-The minimum primbix with value 23 is above 11 091 321 145 241 003 and less or equal to 57 618 683 965 522 403 (which has primbix value 23).
-
-Using the minimum primbix 21, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 57 618 683 965 522 403 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+The minimum primbix with value 22 was found using same technique as 21:
 
 n = 6, [2, 3, 5, 7, 11, 17]
 
+### Current research
+
+The minimum primbix with value 24 is above 57 618 683 965 522 403 and less or equal to _ (which has primbix value 24).
+
+Using the minimum primbix 22, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+
+n = _
+
 At the moment, this has been verified up to:
 
-n = 5, [2, 3, 5, 7, 11]
+n = _
 
 ### Exhaustive search
 
