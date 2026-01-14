@@ -51,6 +51,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 1771883742990899: 21
 11091321145241003: 22
 57618683965522403: 23
+656132906468552867: 24
 ```
 
 107478087043 was found 13.06.2025 19:13 UTC.  
@@ -62,6 +63,7 @@ There is an ongoing effort to search for more terms in the minimum primbix seque
 1771883742990899 was found 07.01.2026 15:43 UTC.  
 11091321145241003 was found 07.01.2026 16:57 UTC.  
 57618683965522403 was found 14.01.2026 5:45 UTC.  
+656132906468552867 was found 14.01.2026 9:12 UTC.  
 
 The minimum primbixes up to value 20 were found using exhaustive search.
 
@@ -94,17 +96,23 @@ Verified up to:
 
 n = 6, [2, 3, 5, 7, 11, 17]
 
-### Current research
+### Minimum primbix with value 24
 
-The minimum primbix with value 24 is above 57 618 683 965 522 403 and less or equal to 656 132 906 468 552 867 (which has primbix value 24).
-
-Using the minimum primbix 22, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that 656 132 906 468 552 867 is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+The minimum primbix with value 22 was found using same technique as 21:
 
 n = 7, [2, 3, 5, 7, 11, 17, 23]
 
+### Current research
+
+The minimum primbix with value 25 is above 656 132 906 468 552 867 and less or equal to _ (which has primbix value 25).
+
+Using the minimum primbix 23, one can use the technique developed by [theoretical research](./theoretical-research.md) to prove that _ is the correct number, if one can verify that no lower minimum primbix exists using any of the `n` primbixes with value 1:
+
+n = _
+
 At the moment, this has been verified up to:
 
-n = 6, [2, 3, 5, 7, 11, 17]
+n = _
 
 ### Exhaustive search
 
