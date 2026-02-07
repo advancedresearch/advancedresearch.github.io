@@ -9,14 +9,14 @@ This page is for organizing all important ideas about Avatar Extension in one pl
 ### Introduction: The Problem of Over-Constrained Theories
 
 In mathematics, a common problem is that some language is too simple to fit some task.
-For example, in Group Theory, one if a constructed group does not fit a problem,
-it kind of falls together like a house of cards, or merely represents a "shadow" of the whole structure.
+For example, in Group Theory, if a constructed group does not fit a problem,
+it kind of falls apart like a house of cards, or merely represents a "shadow" of the whole structure.
 
 Avatar Extensions is about extending "simpler" theories abstractly using avatars.
-This is done by taking some over-constrained language and introducing avatars into it, from within, like manipulating the source code.
-The idea is to search for these "simpler" theories first and later extend them to fit a particular use case,
-instead of looking for the most generic theory that fits all use cases.
-It is sometimes more pragmatic to fix over-constrained theories than to add axioms to under-constrained theories.
+It is done by taking some over-constrained language and introducing avatars into it, from within, like manipulating the source code.
+The idea is to search for these "simpler" theories first and later extend them to fit a particular use case.
+This is more efficient than looking for the most generic theory that fits all use cases.
+Sometimes it is more pragmatic to fix over-constrained theories than to add axioms to under-constrained theories.
 
 **Technical comment:**  
 For example, First Order Logic has unconstrained predicates, which requires adding axioms to even talk about uniqueness.
@@ -27,10 +27,10 @@ This means, while logical languages can be applied to almost every problem,
 in practice they do not have sufficient semantics to be practical and efficient.
 This is why Avatar Extensions is a technique to take a "simpler" language,
 with missing desirable logical properties,
-and gradually introduce new properties into it until the design problem is solved.
+and gradually introduce new properties into it, until the design problem is solved.
 
 Avatar Extensions deals with this form of abstract generalization in general,
-by applying specific theories that might be use as guidance to solve problems,
+by applying specific theories that might be used as guidance to solve problems,
 such as using 1-avatars to "cover" a language design that includes higher n-avatars.
 
 ### Avatar Logic
