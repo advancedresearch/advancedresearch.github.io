@@ -86,6 +86,7 @@ You can find a summary about Language Bias [here](./language-bias/summary.md).
 
 ### Blog posts
 
+- [2026-04-28 Theorem Grading](https://advancedresearch.github.io/blog/2026-04-28-theorem-grading)
 - [2025-01-23 How to Use Game Design to Make Mathematics Better](https://advancedresearch.github.io/blog/2025-01-23-how-to-use-game-design-to-make-mathematics-better)
 - [2025-01-22 Meta-Reasoning about Basic Facts](https://advancedresearch.github.io/blog/2025-01-22-meta-reasoning-about-basic-facts)
 - [2024-11-08 Trump Cheated](https://advancedresearch.github.io/blog/2024-11-08-trump-cheated)
