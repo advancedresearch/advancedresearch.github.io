@@ -501,7 +501,9 @@ An Existential Logic, is stronger than Constructive Logic.
 
 In Classical Logic, it is true that for all `a`:
 
-    `true -> (a | !a)`
+```text
+true -> (a | !a)
+```
 
 One can also write this as `(a | !a)^true`.
 
@@ -513,7 +515,9 @@ Why? It is impossible to express the idea in these languages.
 
 What Logicians normally do, is appealing to a meta-language, usually Sequent Calculus, where the sequent:
 
-    `|- (a | !a)`
+```text
+|- (a | !a)
+```
 
 Is provable from the axioms of Classical Logic (this is often a trivial proof, because it's usually one of the axioms).
 
@@ -594,7 +598,9 @@ Any theorem `p` in Classical Logic holds in Constructive Logic in the form `!!p`
 
 Now, an Existential Logic, is a logic where:
 
-    `true -> (!a | !!a)`
+```text
+true -> (!a | !!a)
+```
 
 Or, written: `(!a | !!a)^true`.
 
