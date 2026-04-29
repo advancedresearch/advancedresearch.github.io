@@ -348,7 +348,7 @@ This particular knowledge is Seshatic biased.
 
 Seshatism credits knowledge by causality.
 Because two logically equivalent things can be different in practice,
-this a causal significance, for example, when we expect a computer program to terminate.
+this is a causal significance, for example, when we expect a computer program to terminate.
 
 As long as we constrain our own thinking to reason about whether computer programs terminate or not,
 we are still operating within logical equivalence.
