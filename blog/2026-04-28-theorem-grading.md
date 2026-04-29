@@ -702,7 +702,7 @@ Constructive Logic and there was no notion of privacy from your perspective,
 that Constructive Logic would appear to you as indistinguishable
 from Existential Logic, but also, this is just a perspective.
 
-For example, you are an all-knowing deity, that exists before time in the universe has started.
+For example, imagine you are an all-knowing deity, that exists before time in the universe has started.
 You are thinking about all that will happen, before it happens.
 
 This is just a perspective.
