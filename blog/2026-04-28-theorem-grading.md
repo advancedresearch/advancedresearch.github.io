@@ -126,7 +126,7 @@ A surgeon specializes on particular kinds of operations,
 but while the work itself, step by step, is pretty formal under normal conditions,
 a surgeon also needs to handle cases where the formal procedure is not sufficient.
 
-This is what Standard Path Semantics for: Standard Path Semantics is when you work on normal problems in Path Semantics,
+This is what Standard Path Semantics is for: Standard Path Semantics is when you work on normal problems in Path Semantics,
 while Non-Standard Path Semantics is when you need to expand your work beyond normal and commonly used techniques.
 
 Standard Path Semantics is not designed to do Logic in general, or Philosophy in general.
