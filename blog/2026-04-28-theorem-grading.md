@@ -130,7 +130,7 @@ This is what Standard Path Semantics is for: Standard Path Semantics is when you
 while Non-Standard Path Semantics is when you need to expand your work beyond normal and commonly used techniques.
 
 Standard Path Semantics is not designed to do Logic in general, or Philosophy in general.
-It is designed to do Path Semantics on a regulard basis.
+It is designed to do Path Semantics on a regular basis.
 Kind of like, how Set theorists or Category theorists use their respective foundations.
 
 Now, it turns out, that both Set theory and Category theory are very useful in many domains of human knowledge.
