@@ -7,7 +7,7 @@ However, we also can not let intellectual progress stagnate entirely.
 In this blog post, I talk about nuances of truth and a reversal of the direction that Logic has been moving in so far:
 Up until now, Logic has discarded Sense, since the 18th- and 19th centuries showed that reasoning was independent of Sense.
 
-In order to make further advanced in Logic, I argue, we need to bring back Sense as a language tool.
+In order to make further advancements in Logic, I argue, we need to bring back Sense as a language tool.
 
 The current research in Path Semantics builds on a very solid foundation in Logic.
 It started with the core axiom of Path Semantics, but expanded over time to a set of building blocks I call Standard Path Semantics.
