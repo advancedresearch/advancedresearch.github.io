@@ -14,7 +14,7 @@ It started with the core axiom of Path Semantics, but expanded over time to a se
 There are some parts of philosophy, for example,
 if you are interested in Path Semantical analogues of Kant's Transcendental Logic or early Schelling's work on Nature Equals Mind,
 that fall outside Standard Path Semantics.
-Does not mean that the overall Path Semantics project fail to cover these topics,
+Does not mean that the overall Path Semantics project fails to cover these topics,
 but that there is a Standard mode of Path Semantics,
 which is when Path Semanticists work in Path Semantics on a regular basis,
 with additional various Non-Standard Path Semantical theories outside that context.
