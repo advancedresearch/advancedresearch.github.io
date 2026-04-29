@@ -399,7 +399,7 @@ it is possible to vaguely relate these higher dimensions to Sense in general.
 For language bias specifically, we might need to find some higher dimensional "island" that casts a shadow down to normal Logic,
 but corresponds to some language bias,
 without necessarily a such language bias being reflected by some expression in Joker Calculus.
-Currently, we have not explored these "islands" out there to any significant degree, only a few of them has been explored.
+Currently, we have not explored these "islands" out there to any significant degree, only a few of them have been explored.
 Like, we have only studied a handful, but there are millions of such islands, even in the first level.
 Each level adds a tremendously among of new number of islands, that after a few additional levels, we have no hope to ever explore them all.
 This means, we need to distinguish Sense in general, from language bias.
