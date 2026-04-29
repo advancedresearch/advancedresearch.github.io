@@ -785,7 +785,7 @@ she doesn't appear to have any dedicated cult in archeological records,
 but she was a "Muse" for artists and scribes.
 
 The word "Muse" comes from a later time period,
-where this idea of a personal guiding goddess for artists and scribes was fully developed.
+when this idea of a personal guiding goddess for artists and scribes was fully developed.
 That idea did not exist when Seshat was at her height in the Bronze Age.
 
 Unfortunately, when people started to write down these stories on papyrus:
