@@ -849,7 +849,7 @@ A private space.
 In that filler, we are.
 
 So, not only did this philosophy fit with explaining how Seshat vanished from written records,
-to a such extent, that when Plato wrote about Thoth, he either forgot Seshat or didn't even known about her.
+to a such extent, that when Plato wrote about Thoth, he either forgot Seshat or didn't even know about her.
 
 It also explains the perspective of the way we exist: As alive.
 
