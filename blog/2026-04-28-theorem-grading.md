@@ -152,10 +152,10 @@ but in another perspective, that mathematical knowledge it generates, is applica
 
 Standard Path Semantics is a standard toolkit, that needs to cover all these domains of human knowledge.
 This high requirement, makes it very time consuming for Path Semanticists to check manually whether they can apply
-their particular version of Path Semantics, they are working on in some project, across domains.
+their particular version of Path Semantics across domains.
 
 The goal of Standard Path Semantics, is that when people can prove something using Standard Path Semantics,
-that mathematical knowledge generated is applicable across many different domains of human knowledge.
+that the mathematical knowledge generated is applicable across many different domains of human knowledge.
 With other words, this work is an enormous multiplier, something needed to start a galactic civilization.
 
 ### Hooo: Building a standard implementation for the foundation of Path Semantics
