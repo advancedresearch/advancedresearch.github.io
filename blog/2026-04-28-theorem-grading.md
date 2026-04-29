@@ -768,7 +768,7 @@ They got copied more often and became canonical over time.
 Seshat was a goddess that functions kind of like an artistic filler,
 when an artist had very good space,
 they included Seshat because they needed to put something on the wall.
-Scribes liked Seshat, so she was one of their favorites
+Scribes liked Seshat, so she was one of their favorites.
 
 For example, at the backside of the throne, an artist put Seshat.
 
