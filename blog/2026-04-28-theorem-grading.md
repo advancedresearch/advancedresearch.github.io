@@ -539,7 +539,7 @@ If you pick 2) you go with Path Semantics.
 It is a very basic problem, that as soon as you start thinking formally about something as simple as Classical Logic,
 you are forced into choosing of notions of provability, that might seem very esoteric on their own in isolation.
 
-These choices are not really esoteric. They very fundamental choices.
+These choices are not really esoteric. They are very fundamental choices.
 
 It's not like, you are going to solve this problem by spending a few days thinking about it.
 There are very strong reasons to believe, that you either accept doctrine that is handed down the mathematical tradition,
