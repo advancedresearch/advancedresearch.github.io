@@ -422,7 +422,7 @@ such that we can say something particular about `foo` that does not hold for `ba
 Sense has been excluded from Logic since the 18th- and 19th centuries.
 However, now the direction is reversed: We are bringing Sense back as a language tool.
 
-### Advancing Logic further: Why we need to bring Sense back as language tool
+### Advancing Logic further: Why we need to bring Sense back as a language tool
 
 Theorem grading solves a particular issue in Path Semantics,
 were we are reasoning about theories across many domains of human knowledge.
