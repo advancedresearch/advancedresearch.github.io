@@ -113,7 +113,7 @@ If there was just one particular domain of human knowledge,
 then we could just develop some theory designed for that particular domain and ignore the rest.
 
 In fact, this is what happens for every domain of human knowledge: It gets specialized.
-This sepcialization is part of the world economy,
+This specialization is part of the world economy,
 where production within one domain of human knowledge leads to economic activity.
 People can maintain economic activity and steady income, by contributing to specialization of some domain of human knowledge.
 
