@@ -462,7 +462,7 @@ One should not think about Path Semantics as a final answer, but as a perspectiv
 So, from the perspective of Path Semantics, Modal Logic as a whole has a specific natural interpretation.
 
 The natural interpretation one gets of Modal Logic from the perspective of Path Semantics,
-enlightens our understand of Modal Logic and in particular Provability Logic,
+enlightens our understanding of Modal Logic and in particular Provability Logic,
 that there are subjective choices in mathematics when giving semantics to notions of provability.
 
 Path Semantics is not Logic.
