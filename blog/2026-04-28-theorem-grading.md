@@ -183,7 +183,7 @@ That's a typical pattern in Path Semantics: The research pushes the limits of wh
 
 Despite that Path Semantics is centered around research on one specific language mechanism,
 it needs to overcome challenges, that are considered extra-ordinary advanced, in fields that are already very difficult to learn.
-However, despite these challanges, we have not stopped making progress in Path Semantics so far.
+However, despite these challenges, we have not stopped making progress in Path Semantics so far.
 In fact, there are many breakthroughs in Path Semantics that, if they were not so commonly made in this field,
 would be treated as among the most important breakthroughs ever made, in other fields.
 
