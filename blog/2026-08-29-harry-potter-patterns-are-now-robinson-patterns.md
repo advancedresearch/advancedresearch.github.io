@@ -1,8 +1,10 @@
 # Harry Potter Patterns are now Robinson Patterns
 by Sven Nilsen, 2026
 
+[Link to issue about Robinson Filled Avatar Graphs on the Avatar-Graph project](https://github.com/advancedresearch/avatar_graph/issues/72)
+
 The name "Harry Potter Scar Filled Avatar Graphs" or more commonly known as "Harry Potter Patterns",
-is now renamed "Robinson Scar Filled Avatar Graphs", or "Robinson Patterns", in honor of [Julia Robinson](https://en.wikipedia.org/wiki/Julia_Robinson).
+is now renamed "Robinson Filled Avatar Graphs", or "Robinson Patterns", in honor of [Julia Robinson](https://en.wikipedia.org/wiki/Julia_Robinson).
 
 ### Why the name change
 
