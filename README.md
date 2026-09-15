@@ -86,6 +86,7 @@ You can find a summary about Language Bias [here](./language-bias/summary.md).
 
 ### Blog posts
 
+- [2026-0915 My Plan for Pro-Humanity](https://advancedresearch.github.io/blog/2026-09-15-my-plan-for-pro-humanity)
 - [2026-09-05 When AI Companies Lie](https://advancedresearch.github.io/blog/2026-09-05-when-ai-companies-lie)
 - [2026-08-29 Harry Potter Patterns are now Robinson Patterns](https://advancedresearch.github.io/blog/2026-08-29-harry-potter-patterns-are-now-robinson-patterns)
 - [2026-04-28 Theorem Grading](https://advancedresearch.github.io/blog/2026-04-28-theorem-grading)
