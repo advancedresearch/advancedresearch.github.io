@@ -227,7 +227,7 @@ but of course, it is impossible to start a new industrial sector with negative c
 Norway is continuously supporting people who are trying to start up such projects, but it is from a perspective of a national interest.
 It is easier to get financial support for the research needed this way.
 If I make this research public, then Norway might see this direction of research as less potentially a sound investment strategy.
-Coupled with the unique requirements Noway has to pull off a such project,
+Coupled with the unique requirements Norway has to pull off a such project,
 makes it important to separate between the public and the private research branches of the AdvancedResearch community.
 
 This will be my strategy going forward, at least until next year.
