@@ -1,6 +1,8 @@
 # Theorem Grading
 by Sven Nilsen, 2026
 
+*Correction: Existential Logic is known as De Morgan logic, or as law of Weaker Excluded Middle (WEM).
+
 We live in troubled times.
 However, we also can not let intellectual progress stagnate entirely.
 
