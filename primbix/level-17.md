@@ -2,7 +2,13 @@
 
 [Back to Primbix Research](./primbix-research.md)
 
-*Warning: This dataset has not been double-checked yet.*
+Version: 2.0
+
+*Notice: This dataset has been checked using a safer and more efficient compute infrastructure than the first version.
+Some mistakes were found due to human error.
+Check the commit history ([link](https://github.com/advancedresearch/advancedresearch.github.io/commits/master/primbix/level-17.md)) to see the changes from the previous dataset.
+The compute infrastructure can be improved and has still some room for human error.
+We will continue to improve the compute infrastructure, making it more efficient, smarter and reduce potential sources of human error.*
 
 - [Human readable format](#human-readable-format)
 
