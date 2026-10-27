@@ -75,7 +75,7 @@ The minimum primbixes up to value 20 were found using exhaustive search.
 
 The minimum primbix with value 21 was found by combining two theorem techniques:
 
-1. A fast algorithm proved that it was not possible to construct a lower minimum primbix of value 21, by  use any of the `n` lowest number of primbix value 1
+1. A fast algorithm proved that it was not possible to construct a lower minimum primbix of value 21, by using any of the `n` lowest number of primbix value 1
 2. A manual proof in combination with mutating the source code of an automated improvement of the upper bound, produced a lower `n` than 1)
 
 Step 1 produced an `n`:
