@@ -8,7 +8,7 @@ Primbixes are primes of the form:
 
 Where `r, s` are primes.
 
-Since `r, s` are primes, they might also be primbixes, which in turn contains new primes.
+Since `r, s` are primes, they might also be primbixes, which in turn contain new primes.
 The data structure one gets from a primbix this way, is a binary tree.
 
 A primbix value counts the number of leaves in the associated binary tree.
