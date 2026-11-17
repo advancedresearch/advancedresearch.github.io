@@ -86,6 +86,7 @@ You can find a summary about Language Bias [here](./language-bias/summary.md).
 
 ### Blog posts
 
+- [2026-11-17 Religious Misattribution](https://advancedresearch.github.io/blog/2026-11-17-religious-misattribution)
 - [2026-10-05 Progress Report on Starting a Galactic Civilization 2026](https://advancedresearch.github.io/blog/progress-report-on-starting-galactic-civilization-2026)
 - [2026-09-15 My Plan for Pro-Humanity](https://advancedresearch.github.io/blog/2026-09-15-my-plan-for-pro-humanity)
 - [2026-09-05 When AI Companies Lie](https://advancedresearch.github.io/blog/2026-09-05-when-ai-companies-lie)
