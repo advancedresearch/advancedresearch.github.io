@@ -98,7 +98,7 @@ because you already know what you believe.
 It is kind of like looking in a book, searching for a mirror of yourself.
 
 A problem is that the religions that exist today, also came from their own sets of religions.
-Figuring out how your religion came from a set of religion, is related to the more general problem of figuring
+Figuring out how your religion came from a set of religions, is related to the more general problem of figuring
 out how any religion came from a set of religions in its past.
 
 Another problem is that even when you turn back the clock, the religions in the past also came from their own sets of religions further back in time.
@@ -182,7 +182,7 @@ During this transition, people misattributed ideas to their own savior figure,
 while they expanded their definitions of sets of processes into a more accurate explanatory picture of the world.
 
 This is the reason why Jesus Christ is seen as God in fundamentalist Christianity.
-It is not simply due to low literacy, or ignorance, but the very transition into a high literacy, is causing this feeling,
+It is not simply due to low literacy, or ignorance, but the very transition into a high literacy environment, is causing this feeling,
 that there ought to be a "pure" religion in some sense.
 
 The notion of a "pure" religion, is based on a feeling, but this feeling is like a protective shield in a society that undergoes change.
